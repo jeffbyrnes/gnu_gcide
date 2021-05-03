@@ -44861,7 +44861,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>bully pulpit</ent><br/
-<hw>bul"ly pul"pit</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>An exceptionally advantageous position from which to extol one's ideas; -- applied especially to the presidency of the United States, which was described thus by President Theodore Rossevelt.</def><br/
+<hw>bul"ly pul"pit</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>An exceptionally advantageous position from which to extol one's ideas; -- applied especially to the presidency of the United States, which was described thus by President Theodore Roosevelt.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>bullyrag</ent><br/
