@@ -10103,7 +10103,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 <table><pre>
 <headrow><item>State</item><item>Legislature, or parliament</item><mitem>Upper House<colret/<item>Name</item><item>Number of members -- how chosen or composed -- term of office</item></mitem><mitem>Lower House<colret/<item>Name</item><item>Number of members -- suffrage -- term of office</item></mitem></headrow>
 -----------------------------------------------------------------
-<row><item>Argentina</item><item>National Congress</item><item>Senate</item><item>30 -- 2 from each provincew and 2 from capital -- 9 years</item><item>House of Deputies</item><item>120  (1 to 33,000) -- Manhood -- 4 years</item></row>
+<row><item>Argentina</item><item>National Congress</item><item>Senate</item><item>30 -- 2 from each province and 2 from capital -- 9 years</item><item>House of Deputies</item><item>120  (1 to 33,000) -- Manhood -- 4 years</item></row>
 <row><item>Austria</item><item>Reichsrath</item><item></item><item></item><item></item><item></item></row>
 <row><item>Belgium</item><item>The Chambers</item><item></item><item></item><item></item><item></item></row>
 <row><item>Brazil</item><item>National Congress</item><item></item><item></item><item></item><item></item></row>
