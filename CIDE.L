@@ -12942,7 +12942,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 <p><ent>Lese majesty</ent><br/
 <ent>Leze majesty</ent><br/
 <mhw><hw>Lese` maj"es*ty</hw>, <hw>Leze` maj"es*ty</hw></mhw> <pr>(l<emac/z` m<acr/j"<ecr/s*t<ycr/)</pr> <pos>n.</pos> <ety>[F. <ets>lese-majest<eacute/</ets>, fr. L. <ets>laesus</ets>, fem. <ets>laesa</ets>, injured (see <er>Lesion</er>) + <ets>majestas</ets> majesty; that is, <ets>crimen laesae majestatis</ets>.]</ety> <altsp>[Written also <asp>l<egrave/se majesty</asp>.]</altsp> <sn>1.</sn> <fld>(Law)</fld> <def>Any crime committed against the sovereign power, or against a ruler.</def><br/
-[<source>1913 Webster</source>]
+[<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any affront to the dignity of an eminent or respected person.</def><br/
 [<source>PJC</source>]</p>
