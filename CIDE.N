@@ -1062,7 +1062,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>narcissist</ent><br/
-<hw>narcissist</hw> <pos>n.</pos> <def>Someone in love with hisself or herself.</def><br/
+<hw>narcissist</hw> <pos>n.</pos> <def>Someone in love with himself or herself.</def><br/
 <syn><b>Syn. --</b> narcist.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
