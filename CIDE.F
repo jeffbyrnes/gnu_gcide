@@ -26831,7 +26831,7 @@ In judging eyes, as libertines from wits.</q> <rj><qau>Young.</qau></rj><br/
 <hw>For"mu*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Formulas</plw> <pr>(#)</pr>, L. <plw>Formul<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>forma</ets> form, model. See<er>Form</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A prescribed or set form; an established rule; a fixed or conventional method in which anything is to be done, arranged, or said.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Eccl.)</fld> <def>A written confession of faith; a formal statement of foctrines.</def><br/
+<p><sn>2.</sn> <fld>(Eccl.)</fld> <def>A written confession of faith; a formal statement of doctrines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>A rule or principle expressed in algebraic language; <as>as, the binominal <ex>formula</ex></as>.</def><br/
