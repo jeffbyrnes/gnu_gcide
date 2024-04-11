@@ -8079,7 +8079,7 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>emaciated</ent><br/
-<hw>emaciated</hw> <pos>adj.</pos>  <def>having become so thin that the bones noticeably protude under the skin; <as>as, <ex>emaciated</ex> bony hands</as>.</def><br/
+<hw>emaciated</hw> <pos>adj.</pos>  <def>having become so thin that the bones noticeably protrude under the skin; <as>as, <ex>emaciated</ex> bony hands</as>.</def><br/
 <syn><b>Syn. --</b> bony, cadaverous, gaunt, haggard, pinched, skeletal, wasted.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
