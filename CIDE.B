@@ -251,7 +251,7 @@
 
 <p><ent>Babool</ent><br/
 <ent>Babul</ent><br/
-<mhw>{ <hw>Ba*bul"</hw>, <hw>Ba*bool"</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[See <er>Bablah</er>.]</ety> <fld>(Bot.)</fld> <def>Any one of several species of <gen>Acacia</gen>, esp. <spn>Acacia Arabica</spn>, which yelds a gum used as a substitute for true gum arabic.</def><br/
+<mhw>{ <hw>Ba*bul"</hw>, <hw>Ba*bool"</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[See <er>Bablah</er>.]</ety> <fld>(Bot.)</fld> <def>Any one of several species of <gen>Acacia</gen>, esp. <spn>Acacia Arabica</spn>, which yields a gum used as a substitute for true gum arabic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>In place of Putney's golden gorse<br/
@@ -2960,7 +2960,7 @@ mix it with pigeon's dung and quicklime.</q> <rj><qau>Smollett.</qau></rj><br/
 
 <p><ent>bald-headed</ent><br/
 <ent>baldheaded</ent><br/
-<mhw><hw>bald"head`ed</hw>, <hw>bald"-head`ed</hw></mhw>, <pos>a.</pos> <def>Having a bald head; lacking hair on all or most of the scalp; -- alsp called <altname>bald</altname> and <altname>bald-pated</altname>; <as>as, a <ex>bald-headed</ex> gentleman</as>.</def><br/
+<mhw><hw>bald"head`ed</hw>, <hw>bald"-head`ed</hw></mhw>, <pos>a.</pos> <def>Having a bald head; lacking hair on all or most of the scalp; -- also called <altname>bald</altname> and <altname>bald-pated</altname>; <as>as, a <ex>bald-headed</ex> gentleman</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Baldly</ent><br/
@@ -3610,7 +3610,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>ballpoint</ent><br/
-<hw>ballpoint</hw> <pos>n.</pos> <def>a pen which has a small metal ball as point of transfer of ink to paper, at the tip of a cylandrical and non-refillable reservoir of ink; -- short for <altname>ballpoint pen</altname>.</def><br/
+<hw>ballpoint</hw> <pos>n.</pos> <def>a pen which has a small metal ball as point of transfer of ink to paper, at the tip of a cylindrical and non-refillable reservoir of ink; -- short for <altname>ballpoint pen</altname>.</def><br/
 <syn><b>Syn. --</b> ballpoint pen, ballpen, Biro.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -3979,7 +3979,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Banana solution</ent><br/
-<hw>Ba*na"na so*lu"tion</hw>. <def>A solution used as a vehicle in applying bronze pigments. In addition to acetote, benzine, and a little pyroxylin, it contains amyl acetate, which gives it the odor of bananas.</def><br/
+<hw>Ba*na"na so*lu"tion</hw>. <def>A solution used as a vehicle in applying bronze pigments. In addition to acetone, benzine, and a little pyroxylin, it contains amyl acetate, which gives it the odor of bananas.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Banat</ent><br/
@@ -4405,7 +4405,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bangladesh</ent><br/
-<hw>Bangladesh</hw> <pos>prop. n.</pos> <def>An independent Asian country on teh Bay of Bengal that was once part of India and then part of Pakistan (called East Pakistan).</def><br/
+<hw>Bangladesh</hw> <pos>prop. n.</pos> <def>An independent Asian country on the Bay of Bengal that was once part of India and then part of Pakistan (called East Pakistan).</def><br/
 <syn><b>Syn. --</b> Bangla Desh, East Pakistan.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -4529,7 +4529,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 <p><sn>7.</sn> <def>A group or series of objects arranged near together; <as>as, a <ex>bank</ex> of electric lamps, etc.</as></def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>8.</sn> <def>The tilt of a roadway or railroad, at a curve in the road, designed to counteract centrifugal forces acting on vehicles moving rapiudly around the curve, thus reducing the danger of overturning during a turn.</def><br/
+<p><sn>8.</sn> <def>The tilt of a roadway or railroad, at a curve in the road, designed to counteract centrifugal forces acting on vehicles moving rapidly around the curve, thus reducing the danger of overturning during a turn.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Bank beaver</b></col> <fld>(Zool.)</fld>, <cd>the otter.</cd> <mark>[Local, U.S.]</mark> -- <col><b>Bank swallow</b></col>, <cd>a small American and European swallow (<spn>Clivicola riparia</spn>) that nests in a hole which it excavates in a bank.</cd></cs><br/
@@ -4545,7 +4545,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 <p><sn>3.</sn> <def>To pass by the banks of.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Engineering)</fld> <def>To build (a roadway or railroad) with an inclination at a curve in the road, so as to counteract centrifugal forces acting on vehicles moving rapiudly around the curve, thus reducing the danger of vehicles overturning at a curve; <as>as, the raceway was steeply <ex>banked</ex> at the curves</as>.</def><br/
+<p><sn>4.</sn> <fld>(Engineering)</fld> <def>To build (a roadway or railroad) with an inclination at a curve in the road, so as to counteract centrifugal forces acting on vehicles moving rapidly around the curve, thus reducing the danger of vehicles overturning at a curve; <as>as, the raceway was steeply <ex>banked</ex> at the curves</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><mcol><col><b>To bank a fire</b></col>, <col><b>To bank up a fire</b></col></mcol>, <cd>to cover the coals or embers with ashes or cinders, thus keeping the fire low but alive.</cd></cs><br/
@@ -4584,7 +4584,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 <p><sn>4.</sn> <fld>(Gaming)</fld> <def>The sum of money or the checks which the dealer or banker has as a fund, from which to draw his stakes and pay his losses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>In certain games, as dominos, a fund of pieces from which the players are allowed to draw; in Monopoly, the fund of money used to pay bonuses due to the players, or to which they pay fines.</def><br/
+<p><sn>5.</sn> <def>In certain games, as dominoes, a fund of pieces from which the players are allowed to draw; in Monopoly, the fund of money used to pay bonuses due to the players, or to which they pay fines.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>6.</sn> <def>a place where something is stored and held available for future use;</def> <specif>specifically</specif>, <def>an organization that stores biological products for medical needs; <as>as, a blood <ex>bank</ex>, an organ <ex>bank</ex>, a sperm <ex>bank</ex></as>.</def><br/
@@ -6109,7 +6109,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barley</ent><br/
-<hw>Bar"ley</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>barli</ets>, <ets>barlich</ets>, AS. <ets>b<ae/rlic</ets>; <ets>bere</ets> barley + <ets>l<imac/c</ets> (which is prob. the same as E. <ets>like</ets>, adj., or perh. a form of AS. <ets>le<amac/c</ets> leek). AS. <ets>bere</ets> is akin to Icel, <ets>barr</ets> barley, Goth. <ets>barizeins</ets> made of barley, L. <ets>far</ets> spelt; cf. W. <ets>barlys</ets> barley, <ets>bara</ets> bread. <?/92. Cf. <er>Farina</er>, 6th <er>Bear</er>.]</ety> <fld>(Bot.)</fld> <def>A valuable grain, of the family of grasses, genus <gen>Hordeum</gen>, used for food, and for making malt, from which are prepared beer, ale, and whisky.</def><br/
+<hw>Bar"ley</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>barli</ets>, <ets>barlich</ets>, AS. <ets>b<ae/rlic</ets>; <ets>bere</ets> barley + <ets>l<imac/c</ets> (which is prob. the same as E. <ets>like</ets>, adj., or perh. a form of AS. <ets>le<amac/c</ets> leek). AS. <ets>bere</ets> is akin to Icel, <ets>barr</ets> barley, Goth. <ets>barizeins</ets> made of barley, L. <ets>far</ets> spelt; cf. W. <ets>barlys</ets> barley, <ets>bara</ets> bread. <?/92. Cf. <er>Farina</er>, 6th <er>Bear</er>.]</ety> <fld>(Bot.)</fld> <def>A valuable grain, of the family of grasses, genus <gen>Hordeum</gen>, used for food, and for making malt, from which are prepared beer, ale, and whiskey.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 120 pr=SA --></p>
@@ -8401,7 +8401,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bathyergidae</ent><br/
-<hw>Bath`y*erg"id*ae</hw> <pos>n.</pos> <def>a natural family inclusing the mole rats and sand rats.</def><br/
+<hw>Bath`y*erg"id*ae</hw> <pos>n.</pos> <def>a natural family including the mole rats and sand rats.</def><br/
 <syn><b>Syn. --</b> family <fam>Bathyergidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -8684,7 +8684,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 <syn><b>Syn. --</b> beat-up, beaten-up, bedraggled, broken-down, dilapidated, ramshackle, tumble-down, unsound.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>Hit or pounded repeatedly and violently with heavy blows; <as>as, a <ex>battered</ex> old car</as>; antomyn of  <ant>unbattered</ant>.</def> [Narrower terms: <stype>buffeted</stype>; <stype>storm-tossed, tempest-tossed, tempest-tost, tempest-swept</stype>]<br/
+<p><sn>2.</sn> <def>Hit or pounded repeatedly and violently with heavy blows; <as>as, a <ex>battered</ex> old car</as>; antonym of  <ant>unbattered</ant>.</def> [Narrower terms: <stype>buffeted</stype>; <stype>storm-tossed, tempest-tossed, tempest-tost, tempest-swept</stype>]<br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>Damaged especially by hard usage.</def> <illu>his <ex>battered</ex> old hat</illu><br/
@@ -9452,7 +9452,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>beachhead</ent><br/
-<hw>beach"head`</hw> <pos>n.</pos> <def>an area in hostile territory that has been occupied and is held to allow aditional troops and supplies to enter.</def><br/
+<hw>beach"head`</hw> <pos>n.</pos> <def>an area in hostile territory that has been occupied and is held to allow additional troops and supplies to enter.</def><br/
 <syn><b>Syn. --</b> bridgehead, foothold.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -9886,7 +9886,7 @@ The <qex>beacon</qex> of the wise.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>beano</ent><br/
-<hw>beano</hw> <pos>n.</pos> <sn>1.</sn> <def>a game in which numbered balls are drawn and random and players cover the correponding numbers on their cards.</def><br/
+<hw>beano</hw> <pos>n.</pos> <sn>1.</sn> <def>a game in which numbered balls are drawn and random and players cover the corresponding numbers on their cards.</def><br/
 <syn><b>Syn. --</b> lotto, bingo, keno.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -12300,7 +12300,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>To take for granted; to assume without proof.</def><-- see <cref>beg the question</cref>, below --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Old Law)</fld> <def>To ask to be appointed guardiln for, or to aso to havo a guardian appointed for.</def><br/
+<p><sn>5.</sn> <fld>(Old Law)</fld> <def>To ask to be appointed guardian for, or to also to have a guardian appointed for.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Else some will <qex>beg</qex> thee, in the court of wards.</q> <rj><qau>Harrington.</qau></rj><br/
@@ -15385,7 +15385,7 @@ The lamp of life deny ?</q> <rj><qau>Heber.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Benzosol</ent><br/
-<hw>Ben"zo*sol</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Pharm.)</fld> <def>Guaiacol benzoate, used as an intestinal antiseptic and as a substitute for creosote in phthisis. It is a colorless crystalline pewder.</def><br/
+<hw>Ben"zo*sol</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Pharm.)</fld> <def>Guaiacol benzoate, used as an intestinal antiseptic and as a substitute for creosote in phthisis. It is a colorless crystalline powder.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Benzoyl</ent><br/
@@ -17443,7 +17443,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bevatron</ent><br/
-<hw>bev"a*tron</hw> <pos>n.</pos> <def>a particle accelerator which is capable of accelerating protons up to 6 gigaeletron volts.</def><br/
+<hw>bev"a*tron</hw> <pos>n.</pos> <def>a particle accelerator which is capable of accelerating protons up to 6 gigaelectron volts.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bevel</ent><br/
@@ -18719,7 +18719,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biela's comet</ent><br/
-<hw>Bie"la's com"et</hw> <pr>(?)</pr>. <fld>(Astron.)</fld> <def>A periodic coment, discovered by Biela in 1826, which revolves around the sun in 6.6 years. The November meteors (Andromedes or Bielids) move in its orbit, and may be fragments of the comet.</def><br/
+<hw>Bie"la's com"et</hw> <pr>(?)</pr>. <fld>(Astron.)</fld> <def>A periodic comet, discovered by Biela in 1826, which revolves around the sun in 6.6 years. The November meteors (Andromedes or Bielids) move in its orbit, and may be fragments of the comet.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bield</ent><br/
@@ -19184,7 +19184,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bijoutry</ent><br/
-<hw>Bi*jou"try</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bijouterie</ets>. See <er>Bijou</er>.]</ety> <def>Small articles of virtu, as jewelry, trinkets, etc.</def><br/
+<hw>Bi*jou"try</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bijouterie</ets>. See <er>Bijou</er>.]</ety> <def>Small articles of virtue, as jewelry, trinkets, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bijugate</ent><br/
@@ -20113,7 +20113,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bingo</ent><br/
-<hw>bingo</hw> <pos>n.</pos> <def>a game commonly used for low-stakes gambling, in which numbered balls or slips are drawn at random and players cover the correponding numbers on their cards, called Bingo cards, which have square arrangement of such numbers.  Each card has a different arrangement of the numbers, and the first player to cover all numbers in one row (horizontal, vertical, or diagonal) is the winner, usually announcing that fact by a cry of <ldquo/Bingo!<rdquo/</def> <note>Variants of the game may require that all peripheral numbers are covered, to form a box, or other figure.  The numbers usually have one letter from the group <ldquo/B<rdquo/, <ldquo/I<rdquo/, <ldquo/N<rdquo/, <ldquo/G<rdquo/, and <ldquo/O<rdquo/, plus two digits.  The <ldquo/cards<rdquo/ may be disposable sheets of paper on which the numbers are printed.</note><br/
+<hw>bingo</hw> <pos>n.</pos> <def>a game commonly used for low-stakes gambling, in which numbered balls or slips are drawn at random and players cover the corresponding numbers on their cards, called Bingo cards, which have square arrangement of such numbers.  Each card has a different arrangement of the numbers, and the first player to cover all numbers in one row (horizontal, vertical, or diagonal) is the winner, usually announcing that fact by a cry of <ldquo/Bingo!<rdquo/</def> <note>Variants of the game may require that all peripheral numbers are covered, to form a box, or other figure.  The numbers usually have one letter from the group <ldquo/B<rdquo/, <ldquo/I<rdquo/, <ldquo/N<rdquo/, <ldquo/G<rdquo/, and <ldquo/O<rdquo/, plus two digits.  The <ldquo/cards<rdquo/ may be disposable sheets of paper on which the numbers are printed.</note><br/
 <syn><b>Syn. --</b> lotto, beano, keno.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -20283,7 +20283,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 <syn><b>Syn. --</b> ergonomics.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>the application of engineeering principles to solve problems in medicine, such as the design of artificial limbs or organs; -- called also <altname>biomedical engineering</altname>.</def><br/
+<p><sn>2.</sn> <def>the application of engineering principles to solve problems in medicine, such as the design of artificial limbs or organs; -- called also <altname>biomedical engineering</altname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>the branch of engineering dealing with the application of biological processes to the solution of practical problems, such as the manufacture of products by fermentation, the production and use of enzymes for various purposes, the use of microorganisms in environmental cleanup, etc.; -- called also <altname>biotechnology</altname>.</def><br/
@@ -20432,7 +20432,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>biomedical engineering</ent><br/
-<hw>bi"o*med`i*cal en`gin*eer"ing</hw> <pos>n.</pos> <def>The application of engineeering principles to solve problems in medicine, such as the design of artificial limbs or organs; -- called also <altname>bioengineering</altname>.</def><br/
+<hw>bi"o*med`i*cal en`gin*eer"ing</hw> <pos>n.</pos> <def>The application of engineering principles to solve problems in medicine, such as the design of artificial limbs or organs; -- called also <altname>bioengineering</altname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>biomedicine</ent><br/
@@ -20586,7 +20586,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>biovular</ent><br/
-<hw>biovular</hw> <pos>adj.</pos>  <def>derived from two separate ferilized ova; -- of twins; <as>as, fraternal twins are <ex>biovular</ex></as>.  Antonym of <ant>identical</ant>.</def><br/
+<hw>biovular</hw> <pos>adj.</pos>  <def>derived from two separate fertilized ova; -- of twins; <as>as, fraternal twins are <ex>biovular</ex></as>.  Antonym of <ant>identical</ant>.</def><br/
 <syn><b>Syn. --</b> fraternal.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -21249,7 +21249,7 @@ On thy <qex>birthnight</qex>, that sung thee Savior born.</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>birthrate</ent><br/
-<mhw>birth rate, <hw>birthrate</hw></mhw> <pos>n.</pos> <def>the ratio of live births in an area to the population of that area; usually expressed as birthes per 1000 population per year.</def><br/
+<mhw>birth rate, <hw>birthrate</hw></mhw> <pos>n.</pos> <def>the ratio of live births in an area to the population of that area; usually expressed as births per 1000 population per year.</def><br/
 <syn><b>Syn. --</b> fertility, fertility rate.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -22496,14 +22496,14 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Blackbirding</ent><br/
-<hw>Black"bird*ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The kidnaping of negroes or Polynesians to be sold as slaves.</def><br/
+<hw>Black"bird*ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The kidnapping of negroes or Polynesians to be sold as slaves.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>The act or practice of collecting natives of the islands near Queensland for service on the Queensland sugar plantations.</def> <mark>[Australia]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Blackboard</ent><br/
-<hw>Black"board`</hw> <pr>(bl<acr/k"b<omac/rd`)</pr>, <pos>n.</pos> <def>A broad board painted black, or any black surface on which writing, drawing, or the working of mathematical problems can be done with chalk or crayons. It is much used in schools.  In late 20th century similar boards of a green slate as well as some colored white became common; wrioting on the slate bioards may be done with chalk, but writing on the white boards is done with colored pens, such as grease pens, which leaves a trace that can be easily erased.  The newer boards, usualy called <altname>chalkboards</altname> are nevertheless still sometimes referred to as <ex>blackboards</ex>.</def><br/
+<hw>Black"board`</hw> <pr>(bl<acr/k"b<omac/rd`)</pr>, <pos>n.</pos> <def>A broad board painted black, or any black surface on which writing, drawing, or the working of mathematical problems can be done with chalk or crayons. It is much used in schools.  In late 20th century similar boards of a green slate as well as some colored white became common; writing on the slate boards may be done with chalk, but writing on the white boards is done with colored pens, such as grease pens, which leaves a trace that can be easily erased.  The newer boards, usually called <altname>chalkboards</altname> are nevertheless still sometimes referred to as <ex>blackboards</ex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Black book</ent><br/
@@ -25284,7 +25284,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>blindside</ent><br/
-<hw>blindside</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <def>to attack a person from his <cref>blind side</cref>; metaphorically, to give a person an unpleasant suprise.</def> <illu>He had completed his plan to develop a new office building, but was <ex>blindsided</ex> by the sudden drop in real estate values.</illu><br/
+<hw>blindside</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <def>to attack a person from his <cref>blind side</cref>; metaphorically, to give a person an unpleasant surprise.</def> <illu>He had completed his plan to develop a new office building, but was <ex>blindsided</ex> by the sudden drop in real estate values.</illu><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Blindstory</ent><br/
@@ -25304,7 +25304,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>blinks</ent><br/
-<hw>blinks</hw> <pr>(bl<icr/<nsm/ks)</pr>, <pos>n.</pos> <def>a typ of small Indian lettuce (<spn>Montia lamprosperma</spn>) of northern regions.</def><br/
+<hw>blinks</hw> <pr>(bl<icr/<nsm/ks)</pr>, <pos>n.</pos> <def>a type of small Indian lettuce (<spn>Montia lamprosperma</spn>) of northern regions.</def><br/
 <syn><b>Syn. --</b> blinking chickweed, water chickweed.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -25713,7 +25713,7 @@ Left in the quarry.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>14.</sn>  <fld>(Cricket)</fld> <sd>(a)</sd> <def>The position of a player or bat when guarding the wicket.</def> <sd>(b)</sd> <def>A block hole.</def> <sd>(c)</sd> <def>The popping crease.</def> <mark>[R.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>15.</sn>  <def>a number of individual items sold as a unit; <as>as, a <ex>block</ex> of airline ticketes; a <ex>block</ex> of hotel rooms; a <ex>block</ex> of stock</as>.</def><br/
+<p><sn>15.</sn>  <def>a number of individual items sold as a unit; <as>as, a <ex>block</ex> of airline tickets; a <ex>block</ex> of hotel rooms; a <ex>block</ex> of stock</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>16.</sn>  <def>the length of one side of a city block{5}, traversed along any side; <as>as, to walk three <ex>blocks</ex> ahead and turn left at the corner</as>.</def><br/
@@ -27320,7 +27320,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>blues</ent><br/
-<hw>blues</hw> <pos>n.</pos> <def>a type of folk song that originated among Black Americans at the beginning of the 20th century; has a melancholoy sound from repeated used of blue notes.</def><br/
+<hw>blues</hw> <pos>n.</pos> <def>a type of folk song that originated among Black Americans at the beginning of the 20th century; has a melancholy sound from repeated used of blue notes.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>a state of depression; <as>as, he had a bad case of the <ex>blues</ex></as>.</def><br/
@@ -27455,7 +27455,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Bluff"y</hw> <pr>(<?/)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having bluffs, or bold, steep banks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Inclined to bo bluff; brusque.</def><br/
+<p><sn>2.</sn> <def>Inclined to be bluff; brusque.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bluing</ent><br/
@@ -30143,7 +30143,7 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bomb calorimeter</ent><br/
-<hw>bomb" cal`o*rim"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a type of calorimeter made of a steel body which closes tightly and resists high pressure, designed for measuring the amount of heat developed durng chemical combustion of a quantity of combustible material in an oxygen atmosphere.</def><br/
+<hw>bomb" cal`o*rim"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a type of calorimeter made of a steel body which closes tightly and resists high pressure, designed for measuring the amount of heat developed during chemical combustion of a quantity of combustible material in an oxygen atmosphere.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>bomber</ent><br/
@@ -30154,7 +30154,7 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> grinder, hero, hero sandwich, hoagie, hoagy, Cuban sandwich, Italian sandwich, poor boy, sub, submarine, submarine sandwich, torpedo, wedge, zep.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>3.</sn> <def>a person who drops bombs or plants and explodes bombs, especially surreptitously.</def><br/
+<p><sn>3.</sn> <def>a person who drops bombs or plants and explodes bombs, especially surreptitiously.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>a <er>bomber jacket</er>.</def><br/
@@ -31353,7 +31353,7 @@ Athwart the thicket lone.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>boom box</ent><br/
-<hw>boom box</hw> <pos>n.</pos> <def>a large portable casette or compact disk player, usually having an integrated radio receiver.  It typically has two (stereophonic) speakers, and can be adjusted to play at a high sound intensity, from which the name comes.</def><br/
+<hw>boom box</hw> <pos>n.</pos> <def>a large portable cassette or compact disk player, usually having an integrated radio receiver.  It typically has two (stereophonic) speakers, and can be adjusted to play at a high sound intensity, from which the name comes.</def><br/
 <syn><b>Syn. --</b> ghetto blaster.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -32506,7 +32506,7 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bosnia-Herzegovina</ent><br/
-<hw>Bosnia-Herzegovina</hw> <pos>n.</pos> <def>A country in the Balkan penninsula of southeastern Europe, formerly a part of Yugoslavia.</def><br/
+<hw>Bosnia-Herzegovina</hw> <pos>n.</pos> <def>A country in the Balkan peninsula of southeastern Europe, formerly a part of Yugoslavia.</def><br/
 <syn><b>Syn. --</b> Bosnia and Herzegovina.</syn>
 [<source>WordNet 1.5</source>]</p>
 
@@ -33816,7 +33816,7 @@ Beyond the <qex>boundaries</qex> of the skies.</q> <rj><qau>N. Cotton.</qau></rj
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>bounds</ent><br/
-<hw>bounds</hw> <pos>n.</pos> <sn>1.</sn> <def>the line or plane indicating the limit or extent of something; <as>as, the fotball was caught out of <ex>bounds</ex></as>.</def><br/
+<hw>bounds</hw> <pos>n.</pos> <sn>1.</sn> <def>the line or plane indicating the limit or extent of something; <as>as, the football was caught out of <ex>bounds</ex></as>.</def><br/
 <syn><b>Syn. --</b> boundary, bound.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -37671,7 +37671,7 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 <p><sn>3.</sn>  <def>an object designed to break off or shatter under impact, as a safety measure.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>4.</sn>  <fld>(Sport)</fld> <def>the sudden emergence of one or more players or contestants from a clustered group, rushing toward a goal, as bicyclists in a race, or baketball players after a rebound has been caught.</def><br/
+<p><sn>4.</sn>  <fld>(Sport)</fld> <def>the sudden emergence of one or more players or contestants from a clustered group, rushing toward a goal, as bicyclists in a race, or basketball players after a rebound has been caught.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>breakaxe</ent><br/
@@ -37749,7 +37749,7 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>break-in</ent><br/
-<hw>break-in</hw> <pos>n.</pos> <def>an act of trespassing into a closed structure such as a house or place of busineess for an unlawful purpose, usually as part of a burglary.</def><br/
+<hw>break-in</hw> <pos>n.</pos> <def>an act of trespassing into a closed structure such as a house or place of business for an unlawful purpose, usually as part of a burglary.</def><br/
 <syn><b>Syn. --</b> housebreaking, breaking and entering.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
@@ -43661,7 +43661,7 @@ That made him reel.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bufferhead</ent><br/
-<hw>Buff"er*head`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The head of a buffer, which recieves the concussion, in railroad carriages.</def><br/
+<hw>Buff"er*head`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The head of a buffer, which receives the concussion, in railroad carriages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bufferin</ent><br/
@@ -44195,7 +44195,7 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bulbil</ent><br/
-<hw>Bulb"il</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dim. fr. <ets>bulb</ets>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A small or secondary bulb; hence, now almost exclusively: An a<eum/rial bulb or deciduous bud, produced in the leaf axils, as in the tiger lily, or relpacing the flowers, as in some onions, and capable, when separated, of propagating the plant; -- called also <altname>bulblet</altname> and <altname>brood bud</altname>.</def><br/
+<hw>Bulb"il</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dim. fr. <ets>bulb</ets>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A small or secondary bulb; hence, now almost exclusively: An a<eum/rial bulb or deciduous bud, produced in the leaf axils, as in the tiger lily, or replacing the flowers, as in some onions, and capable, when separated, of propagating the plant; -- called also <altname>bulblet</altname> and <altname>brood bud</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Anat.)</fld> <def>A small hollow bulb, such as an enlargement in a small vessel or tube.</def><br/
@@ -45881,7 +45881,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bur fish</ent><br/
-<hw>Bur" fish`</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <def>A spinose, plectognath fish of the Allantic coast of the United States (esp. <spn>Chilo mycterus geometricus</spn>) having the power of distending its body with water or air, so as to resemble a chestnut bur; -- called also <altname>ball fish</altname>, <altname>balloon fish</altname>, and <altname>swellfish</altname>.</def><br/
+<hw>Bur" fish`</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <def>A spinose, plectognath fish of the Atlantic coast of the United States (esp. <spn>Chilo mycterus geometricus</spn>) having the power of distending its body with water or air, so as to resemble a chestnut bur; -- called also <altname>ball fish</altname>, <altname>balloon fish</altname>, and <altname>swellfish</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burg</ent><br/
@@ -47315,7 +47315,7 @@ The faithless column, and the crumbling <qex>bust</qex>.</q> <rj><qau>Pope.</qau
 <p><sn>2.</sn> <def>Arrested for committing a crime; -- of a person; <as>as, the rock star was <ex>busted</ex> for coke possession.</as>.</def>  <mark>[informal]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><sn>3.</sn> <mark>[predicate]</mark> <def>same as <er>demoted</er>; -- said especially of military rank, and often folowed by <ptcl>to</ptcl>; <as>as, he was <ex>busted</ex> to corporal for being AWOL</as>.</def><br/
+<p><sn>3.</sn> <mark>[predicate]</mark> <def>same as <er>demoted</er>; -- said especially of military rank, and often followed by <ptcl>to</ptcl>; <as>as, he was <ex>busted</ex> to corporal for being AWOL</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>4.</sn> <mark>[predicate]</mark> <def>same as <er>exhausted</er>; -- of people.</def><br/
