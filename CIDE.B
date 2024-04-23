@@ -2147,7 +2147,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Baguette</ent><br/
 <ent>Baguet</ent><br/
-<mhw>{ <hw>Ba*guet"</hw>, <hw>Ba*guette"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>baguette</ets>, prop. a rod<?/ It. <ets>bacchetta</ets>, fr. L. <ets>baculum</ets>, <ets>baculu<?/</ets> stick, staff.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A small molding, like the astragal, but smaller; a bead.</def><br/
+<mhw>{ <hw>Ba*guet"</hw>, <hw>Ba*guette"</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>baguette</ets>, prop. a rod<?/ It. <ets>bacchetta</ets>, fr. L. <ets>baculum</ets> stick, staff.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A small molding, like the astragal, but smaller; a bead.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the minute bodies seen in the divided nucleoli of some Infusoria after conjugation.</def><br/
@@ -6065,7 +6065,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Bark"er</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>An animal that barks; hence, any one who clamors unreasonably.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>One who stands at the doors of shops to urg<?/ passers by to make purchases.</def> <mark>[Cant, Eng.]</mark><br/
+<p><sn>2.</sn> <def>One who stands at the doors of shops to urge passers by to make purchases.</def> <mark>[Cant, Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A pistol.</def> <mark>[Slang]</mark>  <rj><au>Dickens.</au></rj><br/
@@ -7835,7 +7835,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bastard</ent><br/
-<hw>Bas"tard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>bastard</ets>, <ets>bastart</ets>, F. <ets>b<?/tard</ets>, prob. fr. OF. <ets>bast</ets>, F. <ets>b<?/t</ets>, a packsaddle used as a bed by the muleteers (fr. LL. <ets>bastum</ets>) + <ets>-ard</ets>. OF. fils de <ets>bast</ets> son of the packsaddle; as the muleteers were accustomed to use their saddles for beds in the inns. See Cervantes, <ldquo/Don Quixote,<rdquo/ chap. 16; and cf. G. <ets>bankert</ets>, fr. <ets>bank</ets> bench.]</ety> <sn>1.</sn> <def>A <ldquo/natural<rdquo/ child; a child begotten and born out of wedlock; an illegitimate child; one born of an illicit union.</def><br/
+<hw>Bas"tard</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>bastard</ets>, <ets>bastart</ets>, F. <ets>b<acir/tard</ets>, prob. fr. OF. <ets>bast</ets>, F. <ets>b<acir/t</ets>, a packsaddle used as a bed by the muleteers (fr. LL. <ets>bastum</ets>) + <ets>-ard</ets>. OF. fils de <ets>bast</ets> son of the packsaddle; as the muleteers were accustomed to use their saddles for beds in the inns. See Cervantes, <ldquo/Don Quixote,<rdquo/ chap. 16; and cf. G. <ets>bankert</ets>, fr. <ets>bank</ets> bench.]</ety> <sn>1.</sn> <def>A <ldquo/natural<rdquo/ child; a child begotten and born out of wedlock; an illegitimate child; one born of an illicit union.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ By the civil and canon laws, and by the laws of many of the United States, a <xex>bastard</xex> becomes a legitimate child by the intermarriage of the parents at any subsequent time. But by those of England, and of some states of the United States, a child, to be legitimate, must at least be <xex>born</xex> after the lawful marriage.</note>  <rj><au>Kent. Blackstone.</au></rj><br/
@@ -7937,7 +7937,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Baste</ent><br/
-<hw>Baste</hw>, <pos>v. t.</pos> <ety>[OE. <ets>basten</ets>, OF. <ets>bastir</ets>, F. <ets>b<?/tir</ets>, prob. fr. OHG. <ets>bestan</ets> to sew, MHG. <ets>besten</ets> to bind, fr. OHG. <ets>bast</ets> bast. See <er>Bast</er>.]</ety> <def>To sew loosely, or with long stitches; -- usually, that the work may be held in position until sewed more firmly.</def>  <rj><au>Shak.</au></rj><br/
+<hw>Baste</hw>, <pos>v. t.</pos> <ety>[OE. <ets>basten</ets>, OF. <ets>bastir</ets>, F. <ets>b<acir/tir</ets>, prob. fr. OHG. <ets>bestan</ets> to sew, MHG. <ets>besten</ets> to bind, fr. OHG. <ets>bast</ets> bast. See <er>Bast</er>.]</ety> <def>To sew loosely, or with long stitches; -- usually, that the work may be held in position until sewed more firmly.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bastille</ent><br/
@@ -11171,7 +11171,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bed</ent><br/
-<hw>Bed</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>bed</ets>, <ets>bedd</ets>; akin to OS. <ets>bed</ets>, D. <ets>bed</ets>, <ets>bedde</ets>, Icel. <ets>be<?/r</ets>, Dan. <ets>bed</ets>, Sw. <ets>b<aum/dd</ets>, Goth. <ets>badi</ets>, OHG. <ets>betti</ets>, G. <ets>bett</ets>, <ets>bette</ets>, bed, <ets>beet</ets> a plat of ground; all of uncertain origin.]</ety> <sn>1.</sn> <def>An article of furniture to sleep or take rest in or on; a couch. Specifically: A sack or mattress, filled with some soft material, in distinction from the bedstead on which it is placed (as, a feather <xex>bed</xex>), or this with the bedclothes added. In a general sense, any thing or place used for sleeping or reclining on or in, as a quantity of hay, straw, leaves, or twigs.</def><br/
+<hw>Bed</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>bed</ets>, <ets>bedd</ets>; akin to OS. <ets>bed</ets>, D. <ets>bed</ets>, <ets>bedde</ets>, Icel. <ets>be<edh/r</ets>, Dan. <ets>bed</ets>, Sw. <ets>b<aum/dd</ets>, Goth. <ets>badi</ets>, OHG. <ets>betti</ets>, G. <ets>bett</ets>, <ets>bette</ets>, bed, <ets>beet</ets> a plat of ground; all of uncertain origin.]</ety> <sn>1.</sn> <def>An article of furniture to sleep or take rest in or on; a couch. Specifically: A sack or mattress, filled with some soft material, in distinction from the bedstead on which it is placed (as, a feather <xex>bed</xex>), or this with the bedclothes added. In a general sense, any thing or place used for sleeping or reclining on or in, as a quantity of hay, straw, leaves, or twigs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And made for him [a horse] a leafy <qex>bed</qex>.</q> <rj><qau>Byron.</qau></rj><br/
@@ -11731,7 +11731,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beech</ent><br/
-<hw>Beech</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beeches</plw> <pr>(<?/)</pr>.</plu> <ety>[OE. <ets>beche</ets>, AS. <ets>b<?/ce</ets>; akin to D. <ets>beuk</ets>, OHG. <ets>buocha</ets>, G. <ets>buche</ets>, Icel. <ets>beyki</ets>, Dan. <ets>b<oum/g</ets>, Sw. <ets>bok</ets>, Russ. <ets>buk</ets>, L. <ets>fagus</ets>, Gr. <ets><?/</ets> oak, <ets><?/</ets> to eat, Skr. <ets>bhaksh</ets>; the tree being named originally from the esculent fruit. See <er>Book</er>, and cf. 7th <er>Buck</er>, <er>Buckwheat</er>.]</ety> <fld>(Bot.)</fld> <def>A tree of the genus <gen>Fagus</gen>.</def><br/
+<hw>Beech</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Beeches</plw> <pr>(<?/)</pr>.</plu> <ety>[OE. <ets>beche</ets>, AS. <ets>b<emac/ce</ets>; akin to D. <ets>beuk</ets>, OHG. <ets>buocha</ets>, G. <ets>buche</ets>, Icel. <ets>beyki</ets>, Dan. <ets>b<oum/g</ets>, Sw. <ets>bok</ets>, Russ. <ets>buk</ets>, L. <ets>fagus</ets>, Gr. <ets><?/</ets> oak, <ets><?/</ets> to eat, Skr. <ets>bhaksh</ets>; the tree being named originally from the esculent fruit. See <er>Book</er>, and cf. 7th <er>Buck</er>, <er>Buckwheat</er>.]</ety> <fld>(Bot.)</fld> <def>A tree of the genus <gen>Fagus</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It grows to a large size, having a smooth bark and thick foliage, and bears an edible triangular nut, of which swine are fond. The <spn>Fagus sylvatica</spn> is the European species, and the <spn>Fagus ferruginea</spn> that of America.</note><br/
@@ -11741,7 +11741,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beechen</ent><br/
-<hw>Beech"en</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[AS. <ets>b<?/cen</ets>.]</ety> <def>Consisting, or made, of the wood or bark of the beech; belonging to the beech.</def> <ldquo/Plain <xex>beechen</xex> vessels.<rdquo/  <rj><au>Dryden.</au></rj><br/
+<hw>Beech"en</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[AS. <ets>b<emac/cen</ets>.]</ety> <def>Consisting, or made, of the wood or bark of the beech; belonging to the beech.</def> <ldquo/Plain <xex>beechen</xex> vessels.<rdquo/  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beechnut</ent><br/
@@ -11866,7 +11866,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beer</ent><br/
-<hw>Beer</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>beor</ets>, <ets>ber</ets>, AS. <ets>be<oacute/r</ets>; akin to Fries. <ets>biar</ets>, Icel. <ets>bj<?/rr</ets>, OHG. <ets>bior</ets>, D. & G. <ets>bier</ets>, and possibly E. <ets>brew</ets>. <root/93, See <er>Brew</er>.]</ety> <sn>1.</sn> <def>A fermented liquor made from any malted grain, but commonly from barley malt, with hops or some other substance to impart a bitter flavor.</def><br/
+<hw>Beer</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>beor</ets>, <ets>ber</ets>, AS. <ets>be<oacute/r</ets>; akin to Fries. <ets>biar</ets>, Icel. <ets>bj<oacute/rr</ets>, OHG. <ets>bior</ets>, D. & G. <ets>bier</ets>, and possibly E. <ets>brew</ets>. <root/93, See <er>Brew</er>.]</ety> <sn>1.</sn> <def>A fermented liquor made from any malted grain, but commonly from barley malt, with hops or some other substance to impart a bitter flavor.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Beer has different names, as <stype>small beer</stype>, <stype>ale</stype>, <stype>porter</stype>, <stype>brown stout</stype>, <stype>lager beer</stype>, according to its strength, or other qualities. See <er>Ale</er>.</note><br/
@@ -11959,7 +11959,7 @@ calories is consumed by both.</q> <rj><qau>The Scientist -- December 11, 1995.</
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Beetle</ent><br/
-<hw>Bee"tle</hw> <pr>(b<emac/"t'l)</pr>, <pos>n.</pos> <ety>[OE. <ets>betel</ets>, AS. <ets>b<imac/tl</ets>, <ets>b<?/tl</ets>, mallet, hammer, fr. <ets>be<aacute/tan</ets> to beat. See <er>Beat</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <def>A heavy mallet, used to drive wedges, beat pavements, etc.</def><br/
+<hw>Bee"tle</hw> <pr>(b<emac/"t'l)</pr>, <pos>n.</pos> <ety>[OE. <ets>betel</ets>, AS. <ets>b<imac/tl</ets>, mallet, hammer, fr. <ets>be<aacute/tan</ets> to beat. See <er>Beat</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <def>A heavy mallet, used to drive wedges, beat pavements, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A machine in which fabrics are subjected to a hammering process while passing over rollers, as in cotton mills; -- called also <altname>beetling machine</altname>.</def>  <rj><au>Knight.</au></rj><br/
@@ -12225,7 +12225,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Befoul</ent><br/
-<hw>Be*foul"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Befouled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Befouling</conjf>.]</vmorph> <ety>[Cf. AS. <ets>bef<?/lan</ets>; pref. <ets>be-</ets> + <ets>f<?/lan</ets> to foul. See <er>Foul</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>To make foul; to soil.</def><br/
+<hw>Be*foul"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Befouled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Befouling</conjf>.]</vmorph> <ety>[Cf. AS. <ets>bef<umac/lan</ets>; pref. <ets>be-</ets> + <ets>f<umac/lan</ets> to foul. See <er>Foul</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>To make foul; to soil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To entangle or run against so as to impede motion.</def><br/
@@ -12975,7 +12975,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Behoof</ent><br/
-<hw>Be*hoof"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>to bihove</ets> for the use of, AS. <ets>beh<?/f</ets> advantage, a word implied in <ets>beh<?/fl<imac/c</ets> necessary; akin to Sw. <ets>behof</ets>, Dan. <ets>behov</ets>, G. <ets>behuf</ets>, and E. <ets>heave</ets>, the root meaning <ets>to seize</ets>, hence the meanings <ldquo/to hold, make use of.<rdquo/ See <er>Heave</er>, <pos>v. t.</pos>]</ety> <def>Advantage; profit; benefit; interest; use.</def><br/
+<hw>Be*hoof"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>to bihove</ets> for the use of, AS. <ets>beh<omac/f</ets> advantage, a word implied in <ets>beh<omac/fl<imac/c</ets> necessary; akin to Sw. <ets>behof</ets>, Dan. <ets>behov</ets>, G. <ets>behuf</ets>, and E. <ets>heave</ets>, the root meaning <ets>to seize</ets>, hence the meanings <ldquo/to hold, make use of.<rdquo/ See <er>Heave</er>, <pos>v. t.</pos>]</ety> <def>Advantage; profit; benefit; interest; use.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>No mean recompense it brings<br/
@@ -12987,7 +12987,7 @@ To your <qex>behoof</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Behoove</ent><br/
-<hw>Be*hoove"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Behooved</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Behooving</conjf>.]</vmorph> <ety>[OE. <ets>bihoven</ets>, <ets>behoven</ets>, AS. <ets>beh<?/fian</ets> to have need of, fr. <ets>beh<?/f</ets>. See <er>Behoof</er>.]</ety> <def>To be necessary for; to be fit for; to be meet for, with respect to necessity, duty, or convenience; -- mostly used impersonally.</def><br/
+<hw>Be*hoove"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Behooved</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Behooving</conjf>.]</vmorph> <ety>[OE. <ets>bihoven</ets>, <ets>behoven</ets>, AS. <ets>beh<omac/fian</ets> to have need of, fr. <ets>beh<omac/f</ets>. See <er>Behoof</er>.]</ety> <def>To be necessary for; to be fit for; to be meet for, with respect to necessity, duty, or convenience; -- mostly used impersonally.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And thus it <qex>behooved</qex> Christ to suffer.</q> <rj><qau>Luke xxiv. 46.</qau></rj><br/
@@ -13451,7 +13451,7 @@ Stood open wide, <qex>belching</qex> outrageous flame.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Believe</ent><br/
-<hw>Be*lieve"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Believed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Believing</conjf>.]</vmorph> <ety>[OE. <ets>bileven</ets> (with pref. <ets>be-</ets> for AS. <ets>ge-</ets>), fr. AS. <ets>gel<?/fan</ets>, <ets>gel<?/fan</ets>; akin to D. <ets>gelooven</ets>, OHG. <ets>gilouban</ets>, G. <ets>glauben</ets>, OS. <ets>gil<?/bian</ets>, Goth. <ets>galaubjan</ets>, and Goth. <ets>liubs</ets> dear. See <er>Lief</er>, <pos>a.</pos>, <er>Leave</er>, <pos>n.</pos>]</ety> <def>To exercise belief in; to credit upon the authority or testimony of another; to be persuaded of the truth of, upon evidence furnished by reasons, arguments, and deductions of the mind, or by circumstances other than personal knowledge; to regard or accept as true; to place confidence in; to think; to consider; <as>as, to <ex>believe</ex> a person, a statement, or a doctrine</as>.</def><br/
+<hw>Be*lieve"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Believed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Believing</conjf>.]</vmorph> <ety>[OE. <ets>bileven</ets> (with pref. <ets>be-</ets> for AS. <ets>ge-</ets>), fr. AS. <ets>gel<imac/fan</ets>, <ets>gel<imac/fan</ets>; akin to D. <ets>gelooven</ets>, OHG. <ets>gilouban</ets>, G. <ets>glauben</ets>, OS. <ets>gil<imac/bian</ets>, Goth. <ets>galaubjan</ets>, and Goth. <ets>liubs</ets> dear. See <er>Lief</er>, <pos>a.</pos>, <er>Leave</er>, <pos>n.</pos>]</ety> <def>To exercise belief in; to credit upon the authority or testimony of another; to be persuaded of the truth of, upon evidence furnished by reasons, arguments, and deductions of the mind, or by circumstances other than personal knowledge; to regard or accept as true; to place confidence in; to think; to consider; <as>as, to <ex>believe</ex> a person, a statement, or a doctrine</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Our conqueror (whom I now<br/
@@ -14329,7 +14329,7 @@ Within the <qex>belt</qex> of rule.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bemoan</ent><br/
-<hw>Be*moan"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bemoaned</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bemoaning</conjf>.]</vmorph> <ety>[OE. <ets>bimenen</ets>, AS. <ets>bem<?/nan</ets>; pref. <ets>be-</ets> + <ets>m<?/nan</ets> to moan. See <er>Moan</er>.]</ety> <def>To express deep grief for by moaning; to express sorrow for; to lament; to bewail; to pity or sympathize with.</def><br/
+<hw>Be*moan"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bemoaned</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bemoaning</conjf>.]</vmorph> <ety>[OE. <ets>bimenen</ets>, AS. <ets>bem<?/nan</ets>; pref. <ets>be-</ets> + <ets>m<aemac/nan</ets> to moan. See <er>Moan</er>.]</ety> <def>To express deep grief for by moaning; to express sorrow for; to lament; to bewail; to pity or sympathize with.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Implores their pity, and his pain <qex>bemoans</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -14687,7 +14687,7 @@ Looks fearfully in the confined deep.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ben`e*dic"tine</hw>, <pos>n.</pos> <fld>(Eccl. Hist.)</fld> <def>One of a famous order of monks, established by St. Benedict of Nursia in the sixth century. This order was introduced into the United States in 1846.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The Benedictines wear black clothing, and are sometimes called <xex>Black Monks</xex>. The name Black <xex>Fr<?/<?/<?/<?/rs</xex> which belongs to the Dominicans, is also sometimes applied to the Benedictines.</note><br/
+<p><note><hand/ The Benedictines wear black clothing, and are sometimes called <xex>Black Monks</xex>. The name Black <xex>Friars</xex> which belongs to the Dominicans, is also sometimes applied to the Benedictines.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benediction</ent><br/
@@ -14926,7 +14926,7 @@ Followed with <qex>benediction</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Beneme</ent><br/
-<hw>Be*neme"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <ety>[AS. <ets>ben<?/man</ets>. Cf. <er>Benim</er>.]</ety> <def>To deprive (<xex>of</xex>), or take away (<xex>from</xex>).</def> <mark>[Obs.]</mark><br/
+<hw>Be*neme"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <ety>[AS. <ets>ben<emac/man</ets>. Cf. <er>Benim</er>.]</ety> <def>To deprive (<xex>of</xex>), or take away (<xex>from</xex>).</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Benempt</ent><br/
@@ -18753,7 +18753,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bier</ent><br/
-<hw>Bier</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>b<ae/e</ets>, <ets>beere</ets>, AS. <ets>b<?/r</ets>, <ets>b<?/re</ets>; akin to D. <ets>baar</ets>, OHG. <ets>b<amac/ra</ets>, G. <ets>bahre</ets>, Icel <ets>barar</ets>, D<?/ <ets>baare</ets>, L. <ets>feretrum</ets>, Gr. <ets><?/</ets>, from the same <?/<?/ <ets>bear</ets> to produce. See 1st <er>Bear</er>, and cf. <er>Barrow</er>.]</ety> <sn>1.</sn> <def>A handbarrow or portable frame on which a corpse is placed or borne to the grave.</def><br/
+<hw>Bier</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>b<ae/e</ets>, <ets>beere</ets>, AS. <ets>b<aemac/r</ets>, <ets>b<aemac/re</ets>; akin to D. <ets>baar</ets>, OHG. <ets>b<amac/ra</ets>, G. <ets>bahre</ets>, Icel <ets>barar</ets>, Dutch <ets>baare</ets>, L. <ets>feretrum</ets>, Gr. <ets><?/</ets>, from the same <?/<?/ <ets>bear</ets> to produce. See 1st <er>Bear</er>, and cf. <er>Barrow</er>.]</ety> <sn>1.</sn> <def>A handbarrow or portable frame on which a corpse is placed or borne to the grave.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Weaving)</fld> <def>A count of forty threads in the warp or chain of woolen cloth.</def>  <rj><au>Knight.</au></rj><br/
@@ -19300,7 +19300,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bile</ent><br/
-<hw>Bile</hw>, <pos>n.</pos> <ety>[OE. <ets>byle</ets>, <ets>bule</ets>, <ets>bele</ets>, AS. <ets>b<?/le</ets>, <ets>b<?/l</ets>; skin to D. <ets>buil</ets>, G. <ets>beule</ets>, and Goth. <ets>ufbauljan</ets> to puff up. Cf. <er>Boil</er> a tumor, <er>Bulge</er>.]</ety> <def>A boil.</def> <mark>[Obs. or Archaic]</mark><br/
+<hw>Bile</hw>, <pos>n.</pos> <ety>[OE. <ets>byle</ets>, <ets>bule</ets>, <ets>bele</ets>, AS. <ets>b<imac/le</ets>, <ets>b<imac/l</ets>; skin to D. <ets>buil</ets>, G. <ets>beule</ets>, and Goth. <ets>ufbauljan</ets> to puff up. Cf. <er>Boil</er> a tumor, <er>Bulge</er>.]</ety> <def>A boil.</def> <mark>[Obs. or Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bilection</ent><br/
@@ -21614,7 +21614,7 @@ A genuine lady, or a church, is known.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bisson</ent><br/
-<hw>Bis"son</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[OE. <ets>bisen</ets>, <ets>bisne</ets>, AS. <ets>bisen</ets>, prob. for <ets>b<imac/s<?/ne</ets>; <ets>bi</ets> by + <ets>s<?/ne</ets> clear, akin to <ets>se<oacute/n</ets> to see; clear when near, hence short-sighted. See <er>See</er>.]</ety> <def>Purblind; blinding.</def> <mark>[Obs.]</mark>  <ldquo/<xex>Bisson</xex> rheum.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Bis"son</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[OE. <ets>bisen</ets>, <ets>bisne</ets>, AS. <ets>bisen</ets>, prob. for <ets>b<imac/s<imac/ne</ets>; <ets>bi</ets> by + <ets>s<imac/ne</ets> clear, akin to <ets>se<oacute/n</ets> to see; clear when near, hence short-sighted. See <er>See</er>.]</ety> <def>Purblind; blinding.</def> <mark>[Obs.]</mark>  <ldquo/<xex>Bisson</xex> rheum.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bistre</ent><br/
@@ -23241,7 +23241,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blaeberry</ent><br/
-<hw>Bl<ae/"ber*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Bl<ae/</ets> + <ets>berry</ets>; akin to Icel <ets>bl<amac/ber</ets>, Sw. <ets>bl<?/b<aum/r</ets>, D. <ets>blaab<ae/r</ets>. Cf. <er>Blueberry</er>.]</ety> <def>The bilberry.</def> <mark>[North of Eng. & Scot.]</mark><br/
+<hw>Bl<ae/"ber*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Bl<ae/</ets> + <ets>berry</ets>; akin to Icel <ets>bl<amac/ber</ets>, Sw. <ets>bl<aring/b<aum/r</ets>, D. <ets>blaab<ae/r</ets>. Cf. <er>Blueberry</er>.]</ety> <def>The bilberry.</def> <mark>[North of Eng. & Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blague</ent><br/
@@ -23634,7 +23634,7 @@ For my free speech.</q> <rj><qau>Shak.</qau></rj><br/
 To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blanket sheet</b></col>, <cd>a newspaper of folio size.</cd> -- <col><b>A wet blanket</b></col>, <cd>anything which damps, chills, dispirits, or discour<?/ges.</cd></cs><br/
+<p><cs><col><b>Blanket sheet</b></col>, <cd>a newspaper of folio size.</cd> -- <col><b>A wet blanket</b></col>, <cd>anything which damps, chills, dispirits, or discourages.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blanket</ent><br/
@@ -24165,7 +24165,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blay</ent><br/
-<hw>Blay</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>bl<?/ge</ets>, fr. <ets>bl<?/c</ets>, bleak, white; akin to Icel. <ets>bleikja</ets>, OHG. <ets>bleicha</ets>, G. <ets>bleihe</ets>. See <er>Bleak</er>, <pos>n.</pos> & <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>A fish. See <er>Bleak</er>, <pos>n.</pos></def><br/
+<hw>Blay</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>bl<aemac/ge</ets>, fr. <ets>bl<aemac/c</ets>, bleak, white; akin to Icel. <ets>bleikja</ets>, OHG. <ets>bleicha</ets>, G. <ets>bleihe</ets>. See <er>Bleak</er>, <pos>n.</pos> & <pos>a.</pos>]</ety> <fld>(Zool.)</fld> <def>A fish. See <er>Bleak</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blaze</ent><br/
@@ -24357,7 +24357,7 @@ Do give thee fivefold <qex>blazon</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bleach</ent><br/
-<hw>Bleach</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bleached</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bleaching</conjf>.]</vmorph> <ety>[OE. <ets>blakien</ets>, <ets>blechen</ets>, v. t. & v. i., AS. bl<amac/<ets>cian</ets>, <ets>bl<?/can</ets>, to grow pale; akin to Icel. <ets>bleikja</ets>, Sw. <ets>bleka</ets>, Dan. <ets>blege</ets>, D. <ets>bleeken</ets>, G. <ets>bleichen</ets>, AS. <ets>bl<amac/c</ets> pale. See <er>Bleak</er>, <pos>a.</pos>]</ety> <def>To make white, or whiter; to remove the color, or stains, from; to blanch; to whiten.</def><br/
+<hw>Bleach</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bleached</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bleaching</conjf>.]</vmorph> <ety>[OE. <ets>blakien</ets>, <ets>blechen</ets>, v. t. & v. i., AS. bl<amac/<ets>cian</ets>, <ets>bl<aemac/can</ets>, to grow pale; akin to Icel. <ets>bleikja</ets>, Sw. <ets>bleka</ets>, Dan. <ets>blege</ets>, D. <ets>bleeken</ets>, G. <ets>bleichen</ets>, AS. <ets>bl<amac/c</ets> pale. See <er>Bleak</er>, <pos>a.</pos>]</ety> <def>To make white, or whiter; to remove the color, or stains, from; to blanch; to whiten.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The destruction of the coloring matters attached to the bodies to be <qex>bleached</qex> is effected either by the action of the air and light, of chlorine, or of sulphurous acid.</q> <rj><qau>Ure.</qau></rj><br/
@@ -24492,7 +24492,7 @@ The issue of the exploit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bleat</ent><br/
-<hw>Bleat</hw> <pr>(<?/)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bleated</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Bleating</conjf>.]</vmorph> <ety>[OE. <ets>bleten</ets>, AS. <ets>bl<?/tan</ets>; akin to D. <ets>blaten</ets>, <ets>bleeten</ets>, OHG. <ets>bl<amac/zan</ets>, <ets>pl<amac/zan</ets>; prob. of imitative origin.]</ety> <def>To make the noise of, or one like that of, a sheep; to cry like a sheep or calf.</def><br/
+<hw>Bleat</hw> <pr>(<?/)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bleated</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Bleating</conjf>.]</vmorph> <ety>[OE. <ets>bleten</ets>, AS. <ets>bl<aemac/tan</ets>; akin to D. <ets>blaten</ets>, <ets>bleeten</ets>, OHG. <ets>bl<amac/zan</ets>, <ets>pl<amac/zan</ets>; prob. of imitative origin.]</ety> <def>To make the noise of, or one like that of, a sheep; to cry like a sheep or calf.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Then suddenly was heard along the main,<br/
@@ -24565,7 +24565,7 @@ Of gouty ails.</q> <rj><qau>Dyer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bleed</ent><br/
-<hw>Bleed</hw> <pr>(<?/)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bleeding</conjf>.]</vmorph> <ety>[OE. <ets>bleden</ets>, AS. <ets>bl<?/dan</ets>, fr. <ets>bl<?/d</ets> blood; akin to Sw. <ets>bl<oum/da</ets>, Dan. <ets>bl<oum/de</ets>, D. <ets>bloeden</ets>, G. <ets>bluten</ets>. See <er>Blood</er>.]</ety> <sn>1.</sn> <def>To emit blood; to lose blood; to run with blood, by whatever means; <as>as, the arm <ex>bleeds</ex>; the wound <ex>bled</ex> freely; to <ex>bleed</ex> at the nose</as>.</def><br/
+<hw>Bleed</hw> <pr>(<?/)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bleeding</conjf>.]</vmorph> <ety>[OE. <ets>bleden</ets>, AS. <ets>bl<emac/dan</ets>, fr. <ets>bl<emac/d</ets> blood; akin to Sw. <ets>bl<oum/da</ets>, Dan. <ets>bl<oum/de</ets>, D. <ets>bloeden</ets>, G. <ets>bluten</ets>. See <er>Blood</er>.]</ety> <sn>1.</sn> <def>To emit blood; to lose blood; to run with blood, by whatever means; <as>as, the arm <ex>bleeds</ex>; the wound <ex>bled</ex> freely; to <ex>bleed</ex> at the nose</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To withdraw blood from the body; to let blood; <as>as, Dr. A. <ex>bleeds</ex> in fevers</as>.</def><br/
@@ -24833,7 +24833,7 @@ container are <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bless</ent><br/
-<hw>Bless</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blessed</conjf> <pr>(<?/)</pr> or <conjf>Blest</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Blessing</conjf>.]</vmorph> <ety>[OE. <ets>blessien</ets>, <ets>bletsen</ets>, AS. <ets>bletsian</ets>, <ets>bledsian</ets>, <ets>bloedsian</ets>, fr. <ets>bl<?/d</ets> blood; prob. originally to consecrate by sprinkling with blood. See <er>Blood</er>.]</ety> <sn>1.</sn> <def>To make or pronounce holy; to consecrate</def><br/
+<hw>Bless</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blessed</conjf> <pr>(<?/)</pr> or <conjf>Blest</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Blessing</conjf>.]</vmorph> <ety>[OE. <ets>blessien</ets>, <ets>bletsen</ets>, AS. <ets>bletsian</ets>, <ets>bledsian</ets>, <ets>bloedsian</ets>, fr. <ets>bl<omac/d</ets> blood; prob. originally to consecrate by sprinkling with blood. See <er>Blood</er>.]</ety> <sn>1.</sn> <def>To make or pronounce holy; to consecrate</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And God <qex>blessed</qex> the seventh day, and sanctified it.</q> <rj><qau>Gen. ii. 3.</qau></rj><br/
@@ -25192,7 +25192,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Something to mislead the eye or the understanding, or to conceal some covert deed or design; a subterfuge.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <ety>[Cf. F. <ets>blindes</ets>, p<?/., fr. G. <ets>blende</ets>, fr. <ets>blenden</ets> to blind, fr. <ets>blind</ets> blind.]</ety> <fld>(Mil.)</fld> <def>A blindage. See <er>Blindage</er>.</def><br/
+<p><sn>3.</sn> <ety>[Cf. F. <ets>blindes</ets>, prob. fr. G. <ets>blende</ets>, fr. <ets>blenden</ets> to blind, fr. <ets>blind</ets> blind.]</ety> <fld>(Mil.)</fld> <def>A blindage. See <er>Blindage</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A halting place.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj><br/
@@ -26296,7 +26296,7 @@ And <qex>blood</qex> their points.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bloom</ent><br/
-<hw>Bloom</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>blome</ets>, fr. Icel. <ets>bl<?/m</ets>, <ets>bl<?/mi</ets>; akin to Sw. <ets>blom</ets>, Goth. <ets>bl<?/ma</ets>, OS. <ets>bl<?/mo</ets>, D. <ets>bloem</ets>, OHG. <ets>bluomo</ets>, <ets>bluoma</ets>, G. <ets>blume</ets>; fr. the same root as AS. <ets>bl<?/wan</ets> to blow, blossom. See <er>Blow</er> to bloom, and cf. <er>Blossom</er>.]</ety> <sn>1.</sn> <def>A blossom; the flower of a plant; an expanded bud; flowers, collectively.</def><br/
+<hw>Bloom</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>blome</ets>, fr. Icel. <ets>bl<oacute/m</ets>, <ets>bl<oacute/mi</ets>; akin to Sw. <ets>blom</ets>, Goth. <ets>bl<?/ma</ets>, OS. <ets>bl<?/mo</ets>, D. <ets>bloem</ets>, OHG. <ets>bluomo</ets>, <ets>bluoma</ets>, G. <ets>blume</ets>; fr. the same root as AS. <ets>bl<?/wan</ets> to blow, blossom. See <er>Blow</er> to bloom, and cf. <er>Blossom</er>.]</ety> <sn>1.</sn> <def>A blossom; the flower of a plant; an expanded bud; flowers, collectively.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The rich <qex>blooms</qex> of the tropics.</q> <rj><qau>Prescott.</qau></rj><br/
@@ -26448,7 +26448,7 @@ Began to <qex>bloom</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blossom</ent><br/
-<hw>Blos"som</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blossomed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blossoming</conjf>.]</vmorph> <ety>[AS. <ets>bl<?/stmian</ets>. See <er>Blossom</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To put forth blossoms or flowers; to bloom; to blow; to flower.</def><br/
+<hw>Blos"som</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blossomed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blossoming</conjf>.]</vmorph> <ety>[AS. <ets>bl<omac/stmian</ets>. See <er>Blossom</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To put forth blossoms or flowers; to bloom; to blow; to flower.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The moving whisper of huge trees that branched<br/
@@ -27534,7 +27534,7 @@ And <qex>blunders</qex> on, and staggers every pace.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blunger</ent><br/
-<hw>Blun"ger</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Corrupted from <ets>plunger</ets>.]</ety> <def>A wooden blade with a cross handle, used for mi<?/ing the clay in potteries; a plunger.</def>  <rj><au>Tomlinson.</au></rj><br/
+<hw>Blun"ger</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Corrupted from <ets>plunger</ets>.]</ety> <def>A wooden blade with a cross handle, used for mixing the clay in potteries; a plunger.</def>  <rj><au>Tomlinson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blunging</ent><br/
@@ -28560,7 +28560,7 @@ For anything but eels.</q> <rj><qau>Saxe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bode</ent><br/
-<hw>Bode</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Boded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Boding</conjf>.]</vmorph> <ety>[OE. <ets>bodien</ets>, AS. <ets>bodian</ets> to announce, tell from <ets>bod</ets> command; akin to Icel. <ets>bo<?/a</ets> to announce, Sw. <ets>b<aring/da</ets> to announce, portend. <root/89. See <er>Bid</er>.]</ety> <def>To indicate by signs, as future events; to be the omen of; to portend to presage; to foreshow.</def><br/
+<hw>Bode</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Boded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Boding</conjf>.]</vmorph> <ety>[OE. <ets>bodien</ets>, AS. <ets>bodian</ets> to announce, tell from <ets>bod</ets> command; akin to Icel. <ets>bo<edh/a</ets> to announce, Sw. <ets>b<aring/da</ets> to announce, portend. <root/89. See <er>Bid</er>.]</ety> <def>To indicate by signs, as future events; to be the omen of; to portend to presage; to foreshow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A raven that <qex>bodes</qex> nothing but mischief.</q> <rj><qau>Goldsmith.</qau></rj><br/
@@ -31176,7 +31176,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <hw>Book"keep`ing</hw>, <pos>n.</pos> <def>The art of recording pecuniary or business transactions in a regular and systematic manner, so as to show their relation to each other, and the state of the business in which they occur; the art of keeping accounts. The books commonly used are a <xex>daybook</xex>, <xex>cashbook</xex>, <xex>journal</xex>, and <xex>ledger</xex>. See <er>Daybook</er>, <er>Cashbook</er>, <er>Journal</er>, and <er>Ledger</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bookkeeping by single entry</b></col>, <cd>the method of keeping books by carrying the record of each transaction to the debit or credit of a single account.</cd> -- <col><b>Bookkeeping by double entry</b></col>, <cd>a mode of bookkeeping in which two entries of every transaction are carried to the ledger, one to the Dr., or left hand, side of one account, and the other to the Cr., or right hand, side of a corresponding account, in order tha<?/ the one entry may check the other; -- sometimes called, from the place of its origin, the <xex>Italian method</xex>.</cd></cs><br/
+<p><cs><col><b>Bookkeeping by single entry</b></col>, <cd>the method of keeping books by carrying the record of each transaction to the debit or credit of a single account.</cd> -- <col><b>Bookkeeping by double entry</b></col>, <cd>a mode of bookkeeping in which two entries of every transaction are carried to the ledger, one to the Dr., or left hand, side of one account, and the other to the Cr., or right hand, side of a corresponding account, in order that the one entry may check the other; -- sometimes called, from the place of its origin, the <xex>Italian method</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bockland</ent><br/
@@ -31875,7 +31875,7 @@ And go the fools among.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Borax</ent><br/
-<hw>Bo"rax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>boras</ets>, fr. F. <ets>borax</ets>, earlier spelt <ets>borras</ets>; cf. LL. <ets>borax</ets>, Sp. <ets>borraj</ets>; all fr. Ar. <ets>b<?/rag</ets>, fr. Pers. <ets>b<?/rah</ets>.]</ety> <def>A white or gray crystalline salt, with a slight alkaline taste, used as a flux, in soldering metals, making enamels, fixing colors on porcelain, and as a soap. It occurs native in certain mineral springs, and is made from the boric acid of hot springs in Tuscany. It was originally obtained from a lake in Thibet, and was sent to Europe under the name of <xex>tincal</xex>. Borax is a pyroborate or tetraborate of sodium, Na2B4O7.10H2O.</def><br/
+<hw>Bo"rax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>boras</ets>, fr. F. <ets>borax</ets>, earlier spelt <ets>borras</ets>; cf. LL. <ets>borax</ets>, Sp. <ets>borraj</ets>; all fr. Ar. <ets>bawraq</ets>, fr. Pers. <ets>b<omac/rah</ets>.]</ety> <def>A white or gray crystalline salt, with a slight alkaline taste, used as a flux, in soldering metals, making enamels, fixing colors on porcelain, and as a soap. It occurs native in certain mineral springs, and is made from the boric acid of hot springs in Tuscany. It was originally obtained from a lake in Thibet, and was sent to Europe under the name of <xex>tincal</xex>. Borax is a pyroborate or tetraborate of sodium, Na2B4O7.10H2O.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Borax bead</b></col>. <fld>(Chem.)</fld> <cd>See <er>Bead</er>, <pos>n.</pos>, 3.</cd></cs><br/
@@ -32029,7 +32029,7 @@ Can not be <qex>bordered</qex> certain in itself.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bore</ent><br/
-<hw>Bore</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bored</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Boring</conjf>.]</vmorph> <ety>[OE. <ets>borien</ets>, AS. <ets>borian</ets>; akin to Icel. <ets>bora</ets>, Dan. <ets>bore</ets>, D. <ets>boren</ets>, OHG. <ets>por<?/n</ets>, G. <ets>bohren</ets>, L. <ets>forare</ets>, Gr. <ets><?/</ets> to plow, Zend <ets>bar</ets>. <root/91.]</ety> <sn>1.</sn> <def>To perforate or penetrate, as a solid body, by turning an auger, gimlet, drill, or other instrument; to make a round hole in or through; to pierce; <as>as, to <ex>bore</ex> a plank</as>.</def><br/
+<hw>Bore</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bored</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Boring</conjf>.]</vmorph> <ety>[OE. <ets>borien</ets>, AS. <ets>borian</ets>; akin to Icel. <ets>bora</ets>, Dan. <ets>bore</ets>, D. <ets>boren</ets>, OHG. <ets>por<omac/n</ets>, G. <ets>bohren</ets>, L. <ets>forare</ets>, Gr. <ets><?/</ets> to plow, Zend <ets>bar</ets>. <root/91.]</ety> <sn>1.</sn> <def>To perforate or penetrate, as a solid body, by turning an auger, gimlet, drill, or other instrument; to make a round hole in or through; to pierce; <as>as, to <ex>bore</ex> a plank</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I'll believe as soon this whole earth may be <qex>bored</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -34585,7 +34585,7 @@ And <qex>bowl</qex> the round nave down the hill of heaven.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><q>Alas, I had rather be set quick i' the earth,<br/
-And <qex>bowled</qex> to death with turnips<?/</q> <rj><qau>Shak.</qau></rj><br/
+And <qex>bowled</qex> to death with turnips!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To bowl</b></col> (a player) <col><b>out</b></col></mcol>, <cd>in cricket, to put out a striker by knocking down a bail or a stump in bowling.</cd></cs><br/
@@ -37040,7 +37040,7 @@ And stab, like <qex>bravoes</qex>, all who come this way.</q> <rj><qau>Churchill
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brawn</ent><br/
-<hw>Brawn</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>braon</ets> fleshy part, muscle, fr. HG. <ets>br<?/to</ets> flesh, G. <ets>braten</ets> roast meat; akin to Icel. <ets>br<?/<?/</ets> flesh, food of beasts, AS. <ets>br</ets><?/de roast meat, <ets>br<?/dan</ets> to roast, G. <ets>braten</ets>, and possibly to E. <ets>breed</ets>.]</ety> <sn>1.</sn> <def>A muscle; flesh.</def> <mark>[Obs.]</mark><br/
+<hw>Brawn</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>braon</ets> fleshy part, muscle, fr. HG. <ets>br<amac/to</ets> flesh, G. <ets>braten</ets> roast meat; akin to Icel. <ets>br<?/<?/</ets> flesh, food of beasts, AS. <ets>br</ets><?/de roast meat, <ets>br<?/dan</ets> to roast, G. <ets>braten</ets>, and possibly to E. <ets>breed</ets>.]</ety> <sn>1.</sn> <def>A muscle; flesh.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Formed well of <qex>brawns</qex> and of bones.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -38744,7 +38744,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bretwalda</ent><br/
-<hw>Bret"wal*da</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>Bretwalda</ets>, <ets>br<?/ten walda</ets>, a powerful ruler.]</ety> <fld>(Eng. Hist.)</fld> <def>The official title applied to that one of the Anglo-Saxon chieftains who was chosen by the other chiefs to lead them in their warfare against the British tribes.</def>  <rj><au>Brande & C.</au></rj><br/
+<hw>Bret"wal*da</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>Bretwalda</ets>, <ets>bryten walda</ets>, a powerful ruler.]</ety> <fld>(Eng. Hist.)</fld> <def>The official title applied to that one of the Anglo-Saxon chieftains who was chosen by the other chiefs to lead them in their warfare against the British tribes.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bretzel</ent><br/
@@ -39006,7 +39006,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>That which seduces; seduction; allurement.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Not the <qex>bribes</qex> of sordid wealth can seduce to leave these ever<?/blooming sweets.</q> <rj><qau>Akenside.</qau></rj><br/
+<p><q>Not the <qex>bribes</qex> of sordid wealth can seduce to leave these ever blooming sweets.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bribe</ent><br/
@@ -40179,7 +40179,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q><qex>Brisk</qex> toil alternating with ready ease.</q> <rj><qau>Wordworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Full of spirit of life; effervesc<?/ng, as liquors; sparkling; <as>as, <ex>brick</ex> cider</as>.</def><br/
+<p><sn>2.</sn> <def>Full of spirit of life; effervescing, as liquors; sparkling; <as>as, <ex>brick</ex> cider</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Active; lively; agile; alert; nimble; quick; sprightly; vivacious; gay; spirited; animated.</syn><br/
@@ -41432,7 +41432,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bronze</ent><br/
-<hw>Bronze</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bronze</ets>, fr. It. <ets>bronzo</ets> brown, fr. OHG. <ets>br<?/n</ets>, G. <ets>braun</ets>. See <er>Brown</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>An alloy of copper and tin, to which small proportions of other metals, especially zinc, are sometimes added. It is hard and sonorous, and is used for statues, bells, cannon, etc., the proportions of the ingredients being varied to suit the particular purposes. The varieties containing the higher proportions of tin are brittle, as in bell metal and speculum metal.</def><br/
+<hw>Bronze</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bronze</ets>, fr. It. <ets>bronzo</ets> brown, fr. OHG. <ets>br<uum/n</ets>, G. <ets>braun</ets>. See <er>Brown</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>An alloy of copper and tin, to which small proportions of other metals, especially zinc, are sometimes added. It is hard and sonorous, and is used for statues, bells, cannon, etc., the proportions of the ingredients being varied to suit the particular purposes. The varieties containing the higher proportions of tin are brittle, as in bell metal and speculum metal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A statue, bust, etc., cast in bronze.</def><br/
@@ -41625,7 +41625,7 @@ Into the main of waters.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brook</ent><br/
-<hw>Brook</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Brooked</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Brooking</conjf>.]</vmorph> <ety>[OE. <ets>broken</ets>, <ets>bruken</ets>, to use, enjoy, digest, AS. <ets>br<?/can</ets>; akin to D. <ets>gebruiken</ets> to use, OHG. <ets>pr<?/hhan</ets>, G. <ets>brauchen</ets>, <ets>gebrauchen</ets>, Icel. <ets>br<?/ka</ets>, Goth. <ets>br<?/kjan</ets>, and L. <ets>frui</ets>, to enjoy. Cf. <er>Fruit</er>, <er>Broker</er>.]</ety> <sn>1.</sn> <def>To use; to enjoy.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Brook</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Brooked</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Brooking</conjf>.]</vmorph> <ety>[OE. <ets>broken</ets>, <ets>bruken</ets>, to use, enjoy, digest, AS. <ets>br<umac/can</ets>; akin to D. <ets>gebruiken</ets> to use, OHG. <ets>pr<umac/hhan</ets>, G. <ets>brauchen</ets>, <ets>gebrauchen</ets>, Icel. <ets>br<?/ka</ets>, Goth. <ets>br<?/kjan</ets>, and L. <ets>frui</ets>, to enjoy. Cf. <er>Fruit</er>, <er>Broker</er>.]</ety> <sn>1.</sn> <def>To use; to enjoy.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To bear; to endure; to put up with; to tolerate; <as>as, young men can not <ex>brook</ex> restraint</as>.</def>  <rj><au>Spenser.</au></rj><br/
@@ -41663,7 +41663,7 @@ Crouch to the wicked ten?</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Broom</ent><br/
-<hw>Broom</hw> <pr>(br<oomac/m)</pr>, <pos>n.</pos> <ety>[OE. <ets>brom</ets>, <ets>brome</ets>, AS. <ets>br<omac/m</ets>; akin to LG. <ets>bram</ets>, D. <ets>brem</ets>, OHG. <ets>br<amac/mo</ets> broom, thorn<?/bush, G. <ets>brombeere</ets> blackberry. Cf. <er>Bramble</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A plant having twigs suitable for making brooms to sweep with when bound together; esp., the <spn>Cytisus scoparius</spn> of Western Europe, which is a low shrub with long, straight, green, angular branches, minute leaves, and large yellow flowers.</def><br/
+<hw>Broom</hw> <pr>(br<oomac/m)</pr>, <pos>n.</pos> <ety>[OE. <ets>brom</ets>, <ets>brome</ets>, AS. <ets>br<omac/m</ets>; akin to LG. <ets>bram</ets>, D. <ets>brem</ets>, OHG. <ets>br<amac/mo</ets> broom, thornbush, G. <ets>brombeere</ets> blackberry. Cf. <er>Bramble</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A plant having twigs suitable for making brooms to sweep with when bound together; esp., the <spn>Cytisus scoparius</spn> of Western Europe, which is a low shrub with long, straight, green, angular branches, minute leaves, and large yellow flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>No gypsy cowered o'er fires of furze and <qex>broom</qex>.</q> <rj><qau>Wordsworth.</qau></rj><br/
@@ -41931,7 +41931,7 @@ That <qex>brow</qex> this bottom glade.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brown</ent><br/
-<hw>Brown</hw> <pr>(broun)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Browner</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Brownest</adjf>.]</amorph> <ety>[OE. <ets>brun</ets>, <ets>broun</ets>, AS. <ets>br<?/n</ets>; akin to D. <ets>bruin</ets>, OHG. <ets>br<?/n</ets>, Icel. <ets>br<?/nn</ets>, Sw. <ets>brun</ets>, Dan. <ets>bruun</ets>, G. <ets>braun</ets>, Lith. <ets>brunas</ets>, Skr. <ets>babhru</ets>. <root/93, 253.  Cf. <er>Bruin</er>, <er>Beaver</er>, <er>Burnish</er>, <er>Brunette</er>.]</ety> <def>Of a dark color, of various shades between black and red or yellow.</def><br/
+<hw>Brown</hw> <pr>(broun)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Browner</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Brownest</adjf>.]</amorph> <ety>[OE. <ets>brun</ets>, <ets>broun</ets>, AS. <ets>br<uum/n</ets>; akin to D. <ets>bruin</ets>, OHG. <ets>br<uum/n</ets>, Icel. <ets>br<uacute/nn</ets>, Sw. <ets>brun</ets>, Dan. <ets>bruun</ets>, G. <ets>braun</ets>, Lith. <ets>brunas</ets>, Skr. <ets>babhru</ets>. <root/93, 253.  Cf. <er>Bruin</er>, <er>Beaver</er>, <er>Burnish</er>, <er>Brunette</er>.]</ety> <def>Of a dark color, of various shades between black and red or yellow.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Cheeks <qex>brown</qex> as the oak leaves.</q> <rj><qau>Longfellow.</qau></rj><br/
