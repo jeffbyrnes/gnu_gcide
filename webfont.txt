@@ -497,6 +497,10 @@ decimal  hex    char  definition
   250    fa      ·   middle dot (light)
   251    fb      √   <root/ "root" sign used in etymologies, as in original
 
+* Additional entities
+
+  <segno/        Represents sheet music sign "Segno" (U+1D109).
+
 * Greek transliteration
 
 Stand-alone Greek letters are represented by entities <alpha/, <beta/,
