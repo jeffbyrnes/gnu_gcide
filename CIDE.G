@@ -4213,6 +4213,8 @@ Pereant osores.			Let haters perish!<br/
 Pereat diabolus,			Let the devil perish!<br/
 Quivis antiburschius		Let whoever is against our school<br/
 Atque irrisores.			Who laughs at it, perish!<br/
+</text>
+</song>
 <br/
 (Latin verses by  C. W. Kindeleben 1781)<br/
 [<source>PJC</source>]</p>
@@ -21197,7 +21199,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj><br/
 <p><q>Moving his face into such a hideous grimace, that every feature of it appeared under a different distortion.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <ldquo/Half the French words used affectedly by Melantha in Dryden's <lsquo/<xex>Marriage a-la-Mode</xex>,<rsquo/ as innovations in our language, are now in common use: <xex>chagrin</xex>, <xex>double-entendre</xex>, <xex><eacute/claircissement</xex>, <xex>embarras</xex>, <xex><eacute/quivoque</xex>, <xex>foible</xex>, <xex>grimace</xex>, <xex>na<ium/vete</xex>, <xex>ridicule</xex>.  All these words, which she learns by heart to use occasionally, are now in common use.<rdquo/  <rj><au>I. Disraeli.</au></rj></note><br/
+<p><note><hand/ <ldquo/Half the French words used affectedly by Melantha in Dryden's <lsquo/<xex>Marriage a-la-Mode</xex>,<rdquo/ as innovations in our language, are now in common use: <xex>chagrin</xex>, <xex>double-entendre</xex>, <xex><eacute/claircissement</xex>, <xex>embarras</xex>, <xex><eacute/quivoque</xex>, <xex>foible</xex>, <xex>grimace</xex>, <xex>na<ium/vete</xex>, <xex>ridicule</xex>.  All these words, which she learns by heart to use occasionally, are now in common use.<rdquo/  <rj><au>I. Disraeli.</au></rj></note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grimace</ent><br/

@@ -21681,7 +21681,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diacodium</ent><br/
-\'d8<hw>Di`a*co"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/ <?/ from poppy heads; <grk>dia`</grk> through, from + <?/ head, a poppy head.]</ety> <def>A sirup made of poppies.</def><br/
+\'d8<hw>Di`a*co"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <grk>diakw`deion</grk> from poppy heads; <grk>dia`</grk> through, from + <grk>kw`deia</grk> head, a poppy head.]</ety> <def>A sirup made of poppies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diaconal</ent><br/
@@ -21697,7 +21697,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diacope</ent><br/
-\'d8<hw>Di*ac"o*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a cutting in two; <grk>dia`</grk> through + <?/.]</ety> <fld>(Gram.)</fld> <def>Tmesis.</def><br/
+\'d8<hw>Di*ac"o*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>diakoph`</grk> a cutting in two; <grk>dia`</grk> through + <grk>koph`</grk>.]</ety> <fld>(Gram.)</fld> <def>Tmesis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diacoustic</ent><br/
@@ -21709,7 +21709,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Diacritical</ent><br/
 <ent>Diacritic</ent><br/
-<mhw>{ <hw>Di`a*crit"ic</hw> <pr>(?)</pr>, <hw>Di`a*crit"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/, fr. <?/ to separate, distinguish; <grk>dia`</grk> through + <?/ to separate. See <er>Critic</er>.]</ety> <def>That separates or distinguishes; -- applied to points or marks used to distinguish letters of similar form, or different sounds of the same letter, as, <amac/, <acr/, <aum/, <omac/, <ocr/, etc.</def> <ldquo/<xex>Diacritical</xex> points.<rdquo/  <rj><au>Sir W. Jones.</au></rj><br/
+<mhw>{ <hw>Di`a*crit"ic</hw> <pr>(?)</pr>, <hw>Di`a*crit"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <grk>diakritiko`s</grk>, fr. <grk>diakri`nein</grk> to separate, distinguish; <grk>dia`</grk> through + <grk>kri`nw</grk> to separate. See <er>Critic</er>.]</ety> <def>That separates or distinguishes; -- applied to points or marks used to distinguish letters of similar form, or different sounds of the same letter, as, <amac/, <acr/, <aum/, <omac/, <ocr/, etc.</def> <ldquo/<xex>Diacritical</xex> points.<rdquo/  <rj><au>Sir W. Jones.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A glance at this typography will reveal great difficulties, which <qex>diacritical</qex> marks necessarily throw in the way of both printer and writer.</q> <rj><qau>A. J. Ellis.</qau></rj><br/
@@ -21720,7 +21720,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diadelphia</ent><br/
-\'d8<hw>Di`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ brother.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants whose stamens are united into two bodies or bundles by their filaments.</def></p>
+\'d8<hw>Di`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>'adelfo`s</grk> brother.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants whose stamens are united into two bodies or bundles by their filaments.</def></p>
 
 <p><ent>Diadelphous</ent><br/
 <ent>Diadelphian</ent><br/
@@ -21728,7 +21728,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diadem</ent><br/
-<hw>Di"a*dem</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>diad<egrave/me</ets>, L. <ets>diadema</ets>, fr. Gr. <?/, fr. <?/ to bind round; <grk>dia`</grk> through, across + <?/ to bind; cf. Skr. <ets>d<amac/</ets> to bind.]</ety> <sn>1.</sn> <def>Originally, an ornamental head band or fillet, worn by Eastern monarchs as a badge of royalty; hence (later), also, a crown, in general.</def> <ldquo/The regal <xex>diadem</xex>.<rdquo/  <rj><au>Milton.</au></rj><br/
+<hw>Di"a*dem</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>diad<egrave/me</ets>, L. <ets>diadema</ets>, fr. Gr. <grk>dia`dhma</grk>, fr. <grk>diade`w</grk> to bind round; <grk>dia`</grk> through, across + <grk>de`w</grk> to bind; cf. Skr. <ets>d<amac/</ets> to bind.]</ety> <sn>1.</sn> <def>Originally, an ornamental head band or fillet, worn by Eastern monarchs as a badge of royalty; hence (later), also, a crown, in general.</def> <ldquo/The regal <xex>diadem</xex>.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Regal power; sovereignty; empire; -- considered as symbolized by the crown.</def><br/
@@ -21752,22 +21752,22 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diadrom</ent><br/
-<hw>Di"a*drom</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a running through; <grk>dia`</grk> through + <?/, used as inf. aor. of <?/ to run.]</ety> <def>A complete course or vibration; time of vibration, as of a pendulum.</def> <mark>[Obs.]</mark>  <rj><au>Locke.</au></rj></p>
+<hw>Di"a*drom</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dia`dromos</grk> a running through; <grk>dia`</grk> through + <grk>dro`mos</grk>, used as inf. aor. of <grk>tre`chw</grk> to run.]</ety> <def>A complete course or vibration; time of vibration, as of a pendulum.</def> <mark>[Obs.]</mark>  <rj><au>Locke.</au></rj></p>
 
 <p><ent>Dieresis</ent><br/
 <ent>Diaeresis</ent><br/
-<mhw>{ <hw>Di*<ae/r"e*sis</hw>, <hw>Di*er"e*sis</hw>  }</mhw> <pr>(?; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Di<ae/reses</plw> <it>or</it> <plw>Diereses</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>diaeresis</ets>, Gr. <?/, fr. <?/ to divide; <grk>dia`</grk> through, asunder + <?/ to take. See <er>Heresy</er>.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>The separation or resolution of one syllable into two; -- the opposite of <inv>syn<ae/resis</inv>.</def><br/
+<mhw>{ <hw>Di*<ae/r"e*sis</hw>, <hw>Di*er"e*sis</hw>  }</mhw> <pr>(?; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Di<ae/reses</plw> <it>or</it> <plw>Diereses</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>diaeresis</ets>, Gr. <grk>diai`resis</grk>, fr. <grk>diaire`w</grk> to divide; <grk>dia`</grk> through, asunder + <grk>a'ire`w</grk> to take. See <er>Heresy</er>.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>The separation or resolution of one syllable into two; -- the opposite of <inv>syn<ae/resis</inv>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A mark consisting of two dots [<umlaut/], placed over the second of two adjacent vowels, to denote that they are to be pronounced as distinct letters; <as>as, <ex>co<oum/perate</ex>, <ex>a<eum/rial</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diaeretic</ent><br/
-<hw>Di`<ae/*ret"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ dividing.]</ety> <fld>(Med.)</fld> <def>Caustic.</def> <mark>[Obs.]</mark><br/
+<hw>Di`<ae/*ret"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>diairetiko`s</grk> dividing.]</ety> <fld>(Med.)</fld> <def>Caustic.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diageotropic</ent><br/
-<hw>Di`a*ge`o*trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dia`</grk> through, at variance + <?/ earth + <?/ turning.]</ety> <fld>(Bot.)</fld> <def>Relating to, or exhibiting, diageotropism.</def><br/
+<hw>Di`a*ge`o*trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dia`</grk> through, at variance + <grk>gew</grk> (fr. <grk>gh^</grk>) earth + <grk>tropiko`s</grk> turning.]</ety> <fld>(Bot.)</fld> <def>Relating to, or exhibiting, diageotropism.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diageotropism</ent><br/
@@ -21775,7 +21775,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diaglyph</ent><br/
-<hw>Di"a*glyph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ to engrave; <grk>dia`</grk> through + <?/ to carve.]</ety> <def>An intaglio.</def>  <rj><au>Mollett.</au></rj></p>
+<hw>Di"a*glyph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>diagly`fw</grk> to engrave; <grk>dia`</grk> through + <grk>gly`fw</grk> to carve.]</ety> <def>An intaglio.</def>  <rj><au>Mollett.</au></rj></p>
 
 <p><ent>Diaglyphtic</ent><br/
 <ent>Diaglyphic</ent><br/
@@ -21792,7 +21792,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Diagnosis</ent><br/
-<hw>Di`ag*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diagnoses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/, fr. <?/ to distinguish; <grk>dia`</grk> through, asunder + <?/ to know. See <er>Know</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The art or act of recognizing the presence of disease from its signs or symptoms, and deciding as to its character; also, the decision arrived at.</def><br/
+<hw>Di`ag*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Diagnoses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>dia`gnwsis</grk>, fr. <grk>diagignw`skw</grk> to distinguish; <grk>dia`</grk> through, asunder + <grk>gignw`skw</grk> to know. See <er>Know</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The art or act of recognizing the presence of disease from its signs or symptoms, and deciding as to its character; also, the decision arrived at.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def><specif>Hence,</specif> the act or process of identifying the nature or cause of some phenomenon, especially the abnormal behavior of an animal or artifactual device; <as>as, <ex>diagnosis</ex> of a vibration in an automobile; <ex>diagnosis</ex> of the failure of a sales campaign; <ex>diagnosis</ex> of a computer malfunction</as>.</def><br/
@@ -21837,7 +21837,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diagonal</ent><br/
-<hw>Di*ag"o*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>diagonalis</ets>, fr. Gr. <?/ from to angle; <grk>dia`</grk> through + <?/ an angle; perh. akin to E. <ets>knee</ets>: cf. F. <ets>diagonal</ets>.]</ety> <fld>(Geom.)</fld> <def>Joining two not adjacent angles of a quadrilateral or multilateral figure; running across from corner to corner; crossing at an angle with one of the sides.</def><br/
+<hw>Di*ag"o*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>diagonalis</ets>, fr. Gr. <grk>diagw`nios</grk> from to angle; <grk>dia`</grk> through + <grk>gwni`a</grk> an angle; perh. akin to E. <ets>knee</ets>: cf. F. <ets>diagonal</ets>.]</ety> <fld>(Geom.)</fld> <def>Joining two not adjacent angles of a quadrilateral or multilateral figure; running across from corner to corner; crossing at an angle with one of the sides.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Diagonal bond</b></col> <fld>(Masonry)</fld>, <cd>herringbone work. See <er>Herringbone</er>, <pos>a.</pos></cd> -- <col><b>Diagonal built</b></col> <fld>(Shipbuilding)</fld>, <cd>built by forming the outer skin of two layers of planking, making angles of about 45<deg/ with the keel, in opposite directions.</cd> -- <col><b>Diagonal cleavage</b></col>. <cd>See under <er>Cleavage</er>.</cd> -- <col><b>Diagonal molding</b></col> <fld>(Arch.)</fld>, <cd>a chevron or zigzag molding.</cd> -- <col><b>Diagonal rib</b></col>. <fld>(Arch.)</fld> <cd>See <er>Cross-springer</er>.</cd> -- <col><b>Diagonal scale</b></col>, <cd>a scale which consists of a set of parallel lines, with other lines crossing them obliquely, so that their intersections furnish smaller subdivisions of the unit of measure than could be conveniently marked on a plain scale.</cd> -- <col><b>Diagonal stratification</b></col>. <fld>(Geol.)</fld> <cd>Same as <cref>Cross bedding</cref>, under <er>Cross</er>, <pos>a.</pos></cd></cs><br/
@@ -21873,7 +21873,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diagram</ent><br/
-<hw>Di"a*gram</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, fr. <?/ to mark out by lines; <grk>dia`</grk> through + <?/ to draw, write: cf. F. <ets>diagramme</ets>. See <er>Graphic</er>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>A figure or drawing made to illustrate a statement, or facilitate a demonstration; a plan.</def><br/
+<hw>Di"a*gram</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>diagra`mma</grk>, fr. <grk>diagra`fein</grk> to mark out by lines; <grk>dia`</grk> through + <grk>gra`fein</grk> to draw, write: cf. F. <ets>diagramme</ets>. See <er>Graphic</er>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>A figure or drawing made to illustrate a statement, or facilitate a demonstration; a plan.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any simple drawing made for mathematical or scientific purposes, or to assist a verbal explanation which refers to it; a mechanical drawing, as distinguished from an artistical one.</def><br/
@@ -21891,7 +21891,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diagraph</ent><br/
-<hw>Di"a*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ to draw: cf. F. <ets>diagraphe</ets>. See <er>Diagram</er>.]</ety> <def>A drawing instrument, combining a protractor and scale.</def></p>
+<hw>Di"a*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>gra`fein</grk> to draw: cf. F. <ets>diagraphe</ets>. See <er>Diagram</er>.]</ety> <def>A drawing instrument, combining a protractor and scale.</def></p>
 
 <p><ent>Diagraphical</ent><br/
 <ent>Diagraphic</ent><br/
@@ -21903,7 +21903,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diaheliotropic</ent><br/
-<hw>Di`a*he`li*o*trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/  through, at variance + <?/ sun + <?/ turning.]</ety> <fld>(Bot.)</fld> <def>Relating or, or manifesting, diaheliotropism.</def><br/
+<hw>Di`a*he`li*o*trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>dia`</grk>  through, at variance + <grk>"h`lios</grk> sun + <grk>tropiko`s</grk> turning.]</ety> <fld>(Bot.)</fld> <def>Relating or, or manifesting, diaheliotropism.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Diaheliotropism</ent><br/
@@ -21934,7 +21934,7 @@ To <qex>diadem</qex> the right.</q> <rj><qau>R. H. Neale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dialect</ent><br/
-<hw>Di"a*lect</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>dialecte</ets>, L. <ets>dialectus</ets>, fr. Gr. <?/, fr. <?/ to converse, discourse. See <er>Dialogue</er>.]</ety> <sn>1.</sn> <def>Means or mode of expressing thoughts; language; tongue; form of speech.</def><br/
+<hw>Di"a*lect</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>dialecte</ets>, L. <ets>dialectus</ets>, fr. Gr. <grk>dia`lektos</grk>, fr. <grk>diale`gomai</grk> to converse, discourse. See <er>Dialogue</er>.]</ety> <sn>1.</sn> <def>Means or mode of expressing thoughts; language; tongue; form of speech.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This book is writ in such a <qex>dialect</qex><br/

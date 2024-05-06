@@ -1531,7 +1531,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Roger Bacon was Born at or near Ilchester, Somersetshire, about 1214: died probably at Oxford in 1294.  He was educated at Oxford and Paris (whence he appears to have returned to England about 1250), and joined the Franciscan order. In 1257 he was sent by his superiors to Paris where he was kept in close confinement for several years. About 1265 he was invited by Pope Clement IV. to write a general treatise on the sciences, in answer to which he composed his chief work, the "Opus Majus." He was in England in 1268. In 1278 his writings were condemned as heretical by a council of his order, in consequence of which he was again placed in confinement. He was at liberty in 1292. Besides the "Opus Majus," his most notable works are "Opus Minus," "Opus Tertium," and "Compendium Philosophiae."  See Siebert, "Roger Bacon," 1861; Held, "Roger Bacon's Praktische Philosophie," 1881; and L. Schneider, "Roger Bacon," 1873.</q> <qau>Century Dict. 1906.</qau><br/
 [<source>PJC</source>]</p>
 
-<p><q>  Dr. Whewell says that Roger Bacon's Opus Majus is "the encyclopedia and Novam Organon of the Thirteenth Century, a work equally wonderful with regard to its general scheme and to the special treatises with which the outlines of the plans are filled up.<sb/  The professed object of the work is to urge the necessity of a reform in the mode of philosophizing, to set forth the reasons why knowledge had not made a greater progress, to draw back attention to the sources of knowledge which had been unwisely neglected, to discover other sources which were yet almost untouched, and to animate men in the undertaking by a prospect of the vast advantages which it offered.<sb/  In the development of this plan all the leading portions of science are expanded in the most complete shape which they had at that time assumed; and improvements of a very wide and striking kind are proposed in some of the principal branches of study.<sb/  Even if the work had no leading purposes it would have been highly valuable as a treasure of the most solid knowledge and soundest speculations of the time; even if it bad contained no such details it would have been a work most remarkable for its general views and scope."</q> <qau>James J. Walsh (Thirteenth Greatest of Centuries, 1913.)</qau><br/
+<p><q>  Dr. Whewell says that Roger Bacon's Opus Majus is "the encyclopedia and Novam Organon of the Thirteenth Century, a work equally wonderful with regard to its general scheme and to the special treatises with which the outlines of the plans are filled up.  The professed object of the work is to urge the necessity of a reform in the mode of philosophizing, to set forth the reasons why knowledge had not made a greater progress, to draw back attention to the sources of knowledge which had been unwisely neglected, to discover other sources which were yet almost untouched, and to animate men in the undertaking by a prospect of the vast advantages which it offered.  In the development of this plan all the leading portions of science are expanded in the most complete shape which they had at that time assumed; and improvements of a very wide and striking kind are proposed in some of the principal branches of study.  Even if the work had no leading purposes it would have been highly valuable as a treasure of the most solid knowledge and soundest speculations of the time; even if it bad contained no such details it would have been a work most remarkable for its general views and scope."</q> <qau>James J. Walsh (Thirteenth Greatest of Centuries, 1913.)</qau><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Francis Bacon</ent><br/
@@ -15127,7 +15127,7 @@ The lamp of life deny ?</q> <rj><qau>Heber.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bennet</ent><br/
-<hw>Ben"net</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>beno<icirc/te</ets>, fr. L. <ets>benedicta</ets>, fem. of <ets>benedictus</ets>, p. p., blessed. See <er>Benedict</er>, <pos>a.</pos>]</ety> <fld>(Bot.)</fld> <def>The common yellow-flowered avens of Europe (<spn>Geum urbanum</spn>); herb bennet. The name is sometimes given to other plants, as the hemlock, valerian, etc.</def><br/
+<hw>Ben"net</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>beno<icirte</ets>, fr. L. <ets>benedicta</ets>, fem. of <ets>benedictus</ets>, p. p., blessed. See <er>Benedict</er>, <pos>a.</pos>]</ety> <fld>(Bot.)</fld> <def>The common yellow-flowered avens of Europe (<spn>Geum urbanum</spn>); herb bennet. The name is sometimes given to other plants, as the hemlock, valerian, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bennettitales</ent><br/
@@ -23259,11 +23259,11 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blamable</ent><br/
-<hw>Blam"a*ble</hw> <pr>(bl<amac/m"<adot/*b'l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>bl<acirc/mable</ets>.]</ety> <def>Deserving of censure; faulty; culpable; reprehensible; censurable; blameworthy.</def> -- <wordforms><wf>Blam"a*ble*ness</wf>, <pos>n.</pos> -- <wf>Blam"a*bly</wf> <pr>(<?/)</pr>, <pos>adv.</pos></wordforms><br/
+<hw>Blam"a*ble</hw> <pr>(bl<amac/m"<adot/*b'l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>bl<acirmable</ets>.]</ety> <def>Deserving of censure; faulty; culpable; reprehensible; censurable; blameworthy.</def> -- <wordforms><wf>Blam"a*ble*ness</wf>, <pos>n.</pos> -- <wf>Blam"a*bly</wf> <pr>(<?/)</pr>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blame</ent><br/
-<hw>Blame</hw> <pr>(bl<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blamed</conjf> <pr>(bl<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blaming</conjf>.]</vmorph> <ety>[OE. <ets>blamen</ets>, F. <ets>bl<acirc/mer</ets>, OF. <ets>blasmer</ets>, fr. L. <ets>blasphemare</ets> to blaspheme, LL. also to blame, fr. Gr. <grk>blasfhmei^n</grk> to speak ill, to slander, to blaspheme, fr. <grk>bla`sfhmos</grk> evil speaking, perh, for <grk>blapsi`fhmos</grk>; <grk>bla`psis</grk> injury (fr. <grk>bla`ptein</grk> to injure) + <grk>fh`mh</grk> a saying, fr. <grk>fa`nai</grk> to say. Cf. <er>Blaspheme</er>, and see <er>Fame</er>.]</ety><br/
+<hw>Blame</hw> <pr>(bl<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blamed</conjf> <pr>(bl<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blaming</conjf>.]</vmorph> <ety>[OE. <ets>blamen</ets>, F. <ets>bl<acirmer</ets>, OF. <ets>blasmer</ets>, fr. L. <ets>blasphemare</ets> to blaspheme, LL. also to blame, fr. Gr. <grk>blasfhmei^n</grk> to speak ill, to slander, to blaspheme, fr. <grk>bla`sfhmos</grk> evil speaking, perh, for <grk>blapsi`fhmos</grk>; <grk>bla`psis</grk> injury (fr. <grk>bla`ptein</grk> to injure) + <grk>fh`mh</grk> a saying, fr. <grk>fa`nai</grk> to say. Cf. <er>Blaspheme</er>, and see <er>Fame</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To censure; to express disapprobation of; to find fault with; to reproach.</def><br/
@@ -23285,7 +23285,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blame</ent><br/
-<hw>Blame</hw>, <pos>n.</pos> <ety>[OE. <ets>blame</ets>, fr. F. <ets>bl<acirc/me</ets>, OF. <ets>blasme</ets>, fr. <ets>bl<acirc/mer</ets>, OF. <ets>blasmer</ets>, to blame. See <er>Blame</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>An expression of disapprobation fir something deemed to be wrong; imputation of fault; censure.</def><br/
+<hw>Blame</hw>, <pos>n.</pos> <ety>[OE. <ets>blame</ets>, fr. F. <ets>bl<acirme</ets>, OF. <ets>blasme</ets>, fr. <ets>bl<acirmer</ets>, OF. <ets>blasmer</ets>, to blame. See <er>Blame</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>An expression of disapprobation fir something deemed to be wrong; imputation of fault; censure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Let me bear the <qex>blame</qex> forever.</q> <rj><qau>Gen. xiiii. 9.</qau></rj><br/
@@ -23828,7 +23828,7 @@ Refrained his tongue <qex>blasphemous</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blast</ent><br/
-<hw>Blast</hw> <pr>(bl<adot/st)</pr>, <pos>n.</pos> <ety>[AS. <ets>bl<aemac/st</ets> a puff of wind, a blowing; akin to Icel. <ets>bl<amac/str</ets>, OHG. <ets>bl<amac/st</ets>, and fr. a verb akin to Icel. <ets>bl<amac/sa</ets> to blow, OHG. <ets>bl<acirc/san</ets>, Goth. <ets>bl<emac/san</ets> (in comp.); all prob. from the same root as E. <ets>blow</ets>. See <er>Blow</er> to eject air.]</ety> <sn>1.</sn> <def>A violent gust of wind.</def><br/
+<hw>Blast</hw> <pr>(bl<adot/st)</pr>, <pos>n.</pos> <ety>[AS. <ets>bl<aemac/st</ets> a puff of wind, a blowing; akin to Icel. <ets>bl<amac/str</ets>, OHG. <ets>bl<amac/st</ets>, and fr. a verb akin to Icel. <ets>bl<amac/sa</ets> to blow, OHG. <ets>bl<acirsan</ets>, Goth. <ets>bl<emac/san</ets> (in comp.); all prob. from the same root as E. <ets>blow</ets>. See <er>Blow</er> to eject air.]</ety> <sn>1.</sn> <def>A violent gust of wind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And see where surly Winter passes off,<br/
@@ -29317,7 +29317,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boist</ent><br/
-<hw>Boist</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>boiste</ets>, F. <ets>bo<icirc/te</ets>, from the same root as E. <ets>box</ets>.]</ety> <def>A box.</def> <mark>[Obs.]</mark><br/
+<hw>Boist</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>boiste</ets>, F. <ets>bo<icirte</ets>, from the same root as E. <ets>box</ets>.]</ety> <def>A box.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boisterous</ent><br/
@@ -30671,7 +30671,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Bongrace</ent><br/
-<hw>Bon"grace`</hw> <pr>(b<ocr/n"gr<amac/s`)</pr>, <pos>n.</pos> <ety>[F. <ets>bon</ets> good + <ets>gr<acirc/ce</ets> grace, charm.]</ety> <def>A projecting bonnet or shade to protect the complexion; also, a wide-brimmed hat.</def> <mark>[Obs.]</mark><br/
+<hw>Bon"grace`</hw> <pr>(b<ocr/n"gr<amac/s`)</pr>, <pos>n.</pos> <ety>[F. <ets>bon</ets> good + <ets>gr<acirce</ets> grace, charm.]</ety> <def>A projecting bonnet or shade to protect the complexion; also, a wide-brimmed hat.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bonhommie</ent><br/
@@ -43385,7 +43385,7 @@ An' did the <qex>buckskins</qex> claw, man.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>Century Dict. 1906.</source>]</p>
 
 <p><ent>Buddhism</ent><br/
-<hw>Bud"dhism</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The religion based upon the doctrine originally taught by the Hindu sage Gautama Siddartha, surnamed Buddha, <ldquo/the awakened or enlightened,<rdquo/ in the sixth century <sc>b. c.</sc>, and adopted as a religion by the greater part of the inhabitants of Central and Eastern Asia and the Indian Islands. Buddha's teaching is believed to have been atheistic; yet it was characterized by elevated humanity and morality. It presents release from existence (a beatific enfranchisement, <xex>Nirv<acirc/na</xex>) as the greatest good. Buddhists believe in transmigration of souls through all phases and forms of life. Their number was estimated in 1881 at 470,000,000.</def><br/
+<hw>Bud"dhism</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The religion based upon the doctrine originally taught by the Hindu sage Gautama Siddartha, surnamed Buddha, <ldquo/the awakened or enlightened,<rdquo/ in the sixth century <sc>b. c.</sc>, and adopted as a religion by the greater part of the inhabitants of Central and Eastern Asia and the Indian Islands. Buddha's teaching is believed to have been atheistic; yet it was characterized by elevated humanity and morality. It presents release from existence (a beatific enfranchisement, <xex>Nirv<acirna</xex>) as the greatest good. Buddhists believe in transmigration of souls through all phases and forms of life. Their number was estimated in 1881 at 470,000,000.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buddhist</ent><br/

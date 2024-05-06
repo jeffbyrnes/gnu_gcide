@@ -4905,7 +4905,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tat</ent><br/
-<hw>Tat</hw> <pr>(t<acr/t)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdo/<amac/<tsdo/</ets>.]</ety> <def>Gunny cloth made from the fiber of the <spn>Corchorus olitorius</spn>, or jute.</def> <mark>[India]</mark><br/
+<hw>Tat</hw> <pr>(t<acr/t)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdot/<amac/<tsdot/</ets>.]</ety> <def>Gunny cloth made from the fiber of the <spn>Corchorus olitorius</spn>, or jute.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tat</ent><br/
@@ -19381,7 +19381,7 @@ I'll urge thee round the dusty plain.</q> <rj><qau>Fawkes.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tilde</ent><br/
-\'d8<hw>Til"de</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>, <it><ltil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def><br/
+\'d8<hw>Til"de</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tile</ent><br/
@@ -21680,7 +21680,7 @@ Not merely <qex>titular</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>TLC</ent><br/
-<hw>TLC</hw> <pr>(t<emac/`<ecrl/l*s<emac/")</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Chem.)</fld> <def>Thin Layer Chromatography.  An initialism.</def> <mark>[initialism]</mark><br/
+<hw>TLC</hw> <pr>(t<emac/`<ecr/l*s<emac/")</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Chem.)</fld> <def>Thin Layer Chromatography.  An initialism.</def> <mark>[initialism]</mark><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Tender Loving Care; careful nurturing and sympathetic attention.  Usually used as applied to people, but also used metaphorically in reference to the need of machines or activities for sustained attention in order to function or proceed as desired.</def> <mark>[initialism]</mark><br/
