@@ -11472,12 +11472,6 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 <p><sn>2.</sn> <def>An African tribe inhabiting parts of Kenya and Tanzania.</def><br/
 [<source>PJC</source>]</p>
 
-<p><note>Picture of <b>Masai women and children</b> standing by the roadside.<br/
- (Photographed in Kenya 1983 by PJC)<br/
-<img src="images\masaiwom.jpg"></img><br/<br/
-</note><br/
-[<source>PJC</source>]</p>
-
 <p><ent>Mascagnite</ent><br/
 <ent>Mascagnin</ent><br/
 <mhw>{ <hw>Mas*ca"gnin</hw> <pr>(?)</pr>, <hw>Mas*ca"gnite</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>mascagnin</ets>.]</ety> <fld>(Min.)</fld> <def>Native sulphate of ammonia, found in volcanic districts; -- so named from <etsep>Mascagni</etsep>, who discovered it.</def><br/
@@ -30475,7 +30469,7 @@ My dear Columbo, dead and gone.</q> <rj><qau>Prior.</qau></rj><br/
 <mhw><hw>Mo"bi*us strip`</hw>, <hw>M<oum/"bi*us strip`</hw>, <hw>Moe"bi*us strip`</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <person>August F. <etsep>M<oum/bius</etsep></person>, a German mathematician.]</ety> <def>A mathematical object, or a physical representation of it, which is a two-dimensional sheet with only one surface.  It is constructed or visualized as a rectangle, one end of which is held fixed while the opposite end is twisted through a 180 degree angle and joined to the fixed end.  It is a two-dimensional object that can only exist in a three-dimensional space.</def><br/
 [<source>PJC</source>]</p>
 
-<p><note>The moebius strip was the subject of a famous woodcut by <person>M. Escher</person>, published in 1963.  See <a href="images/mobius.jpg">Moebius Strip II</a>.</note><br/
+<p><note>The moebius strip was the subject of a famous woodcut by <person>M. Escher</person>, published in 1963.</note><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Moble</ent><br/

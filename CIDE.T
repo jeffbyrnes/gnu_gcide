@@ -1699,7 +1699,7 @@ Common Names: Collared Peccary, Musk Hog, Tayaussa<br/
 Genus: Tayassu<br/
 Species: tajacu<br/
 <br/
-The <a href="images/javelina.gif">javelina</a> is the only wild pig in North America. It looks exactly like a real pig except a little bigger.  It is a grizzled blackish-gray color with a yellowish band which runs under the neck.  The name <altname>collared peccary</altname> comes from the ruff of hair around its neck.  It has small, round ears and beady eyes. Its body is barrel-shaped with short legs.  Its head is pointed, ending in a disc-like nose. Javelinas have 3 toes on each hind foot. The upper tusks (1.5 inches long) are pointed down, instead of up like some other wild pigs. The javelina grows from 46 to 60 inches long, and can weigh up to 60 pounds.<br/
+The javelina is the only wild pig in North America. It looks exactly like a real pig except a little bigger.  It is a grizzled blackish-gray color with a yellowish band which runs under the neck.  The name <altname>collared peccary</altname> comes from the ruff of hair around its neck.  It has small, round ears and beady eyes. Its body is barrel-shaped with short legs.  Its head is pointed, ending in a disc-like nose. Javelinas have 3 toes on each hind foot. The upper tusks (1.5 inches long) are pointed down, instead of up like some other wild pigs. The javelina grows from 46 to 60 inches long, and can weigh up to 60 pounds.<br/
 <br/
 Javelinas live in the canyon area of the desert. They live there because it is bushy and there are water holes everywhere. They need the bushes for the shade and they need lots of water to live.<br/
 <br/
