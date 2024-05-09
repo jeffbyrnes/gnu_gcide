@@ -6815,3 +6815,8 @@ As he had <qex>kyked</qex> on the newe moon.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 821 --></p>
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

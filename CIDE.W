@@ -23541,3 +23541,8 @@ If the dear host's neck were <qex>wried</qex>.</q> <rj><qau>R. Browning.</qau></
 <hw>Wy"vern</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Her.)</fld> <def>Same as <er>Wiver</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

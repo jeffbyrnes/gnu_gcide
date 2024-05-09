@@ -36474,3 +36474,8 @@ had produced a corresponding <qex>fusion</qex> of creeds.</q> <rj><qau>C. Kingsl
 <p><ent>fytte</ent><br/
 <hw>Fytte</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Fit</er> a song.</def> <mark>[Archaic]</mark></p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

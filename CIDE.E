@@ -34041,3 +34041,8 @@ On cliffs and cedar tops their <qex>eyries</qex> build.</q> <rj><qau>Milton.</qa
 <hw>Ey"sell</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Eisel</er>.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 
 <p><-- end of page 534.  Next page is 535, beginning of "F". --></p>
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

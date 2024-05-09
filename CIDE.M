@@ -44275,3 +44275,8 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><-- p. 961 --></p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

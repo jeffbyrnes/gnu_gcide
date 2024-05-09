@@ -37380,3 +37380,8 @@ The clasping <qex>ivy</qex> where to climb.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Izzard</ent><br/
 <hw>Iz"zard</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Formerly <ets>ezed</ets>, prob. fr. F.  <ets>et z<eacute/de</ets> and z.]</ety> <def>The letter <it>z</it>; -- formerly so called.</def></p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

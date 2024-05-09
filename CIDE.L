@@ -28884,3 +28884,8 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 \'d8<hw>Lyt"ta</hw> <pr>(l<icr/t"t<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lytt<ae/</plw> <pr>(-t<emac/)</pr>.</plu> <ety>[L., a worm said to grow under the tongue of dogs, and to cause canine madness, fr. Gr. <grk>ly`tta</grk>, <grk>ly`ssa</grk>, lit., madness.]</ety> <fld>(Anat.)</fld> <def>A fibrous and muscular band lying within the longitudinal axis of the tongue in many mammals, as the dog.</def><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

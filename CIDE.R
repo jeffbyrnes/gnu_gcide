@@ -33319,9 +33319,9 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 <p><note><hand/ Many of the species are brilliantly colored. The common European species (<spn>Coracias garrula</spn>) has the head, neck, and under parts light blue varied with green, the scapulars chestnut brown, and the tail blue, green, and black. The broad-billed rollers of India and Africa belong to the genus <gen>Eurystomus</gen>, as the oriental roller (<spn>Eurystomus orientalis</spn>), and the Australian roller, or dollar bird (<spn>Eurystomus Pacificus</spn>).  The latter is dark brown on the head and neck, sea green on the back, and bright blue on the throat, base of the tail, and parts of the wings.  It has a silvery-white spot on the middle of each wing.  The <stype>lilac-breasted roller</stype> of Africa is <spn>Corcia caudata</spn> <varn>caudata</varn>, a brightly colored bird of the family <fam>Corciidae</fam> having malachite green, blue, purple-lilac, brown and sea-green feathers from head to tail;  it is a popular sight with tourists in Africa.</note> <br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note><h2>Zimbabwe Menu</h2><br/
+<p><note>Zimbabwe Menu<br/
     The Lilac-breasted Roller (also lilacbreasted roller, <spn>Coracias caudata</spn>) is a common resident in large parts of the Southern African region including <country>Zimbabwe</country>, <country>Zambia</country>, <country>Botswana</country>, <country>Namibia</country>, <country>Mozambique</country> and parts of <country>South Africa</country>.<br/
-    They are found in a variety of woodland types and will usually be seen hawking for insects from a favoured position in a tall tree, telephone pole or similar vantage point.  They tend to be quite noisy when carrying out their characteristic aerobatic display.  The Lilacbreasted Roller differs from its Racket-tailed cousin in that it has pointed tail feathers not spatulate tips. The latter bird is less well distributed than the Lilacbreasted and favours moist broad-leafed woodland and hill country.<br/
+    They are found in a variety of woodland types and will usually be seen hawking for insects from a favoured position in a tall tree, telephone pole or similar vantage point.  They tend to be quite noisy when carrying out their characteristic aerobatic display.  The Lilacbreasted Roller differs from its Racket-tailed cousin in that it has pointed tail feathers not spatulate tips. The latter bird is less well distributed than the Lilacbreasted and favours moist broad-leafed woodland and hill country.</note></p>
 
 <p><sn>10.</sn> <fld>(Zool.)</fld> <def>Any species of small ground snakes of the family <fam>Tortricidae</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -40150,3 +40150,8 @@ Never defied men braver.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 <p><-- Bottom of page 1263.  "S" begins at the top of page 1264 --><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

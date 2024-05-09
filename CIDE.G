@@ -26012,3 +26012,8 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><q>I will <qex>gyve</qex> thee in thine own courtship.</q> <rj><qau>Shak.</qau></rj></p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

@@ -2650,3 +2650,8 @@ In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.<
 Shall be of another form than this.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

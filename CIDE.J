@@ -7409,3 +7409,8 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj><b
 <hw>Jym"old</hw> <pr>(j<icr/m"<ocr/ld)</pr>, <pos>a.</pos> <mark>[Obs.]</mark> <def>See <er>Gimmal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

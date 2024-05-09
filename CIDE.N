@@ -15826,3 +15826,8 @@ Be all my sins remembered.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ny*u"la</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Zool.)</fld> <def>A species of ichneumon (<spn>Herpestes nyula</spn>).  Its fur is beautifully variegated by closely set zigzag markings.</def><br/
 [<source>1913 Webster</source>]</p>
 
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->

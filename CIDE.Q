@@ -4436,3 +4436,8 @@ With mended morals, <qex>quotha</qex>, -- fine new lives !</q> <rj><qau>Mrs. Bro
 [<source>1913 Webster</source>]</p>
 
 <-- Q ends and R begins in the middle of page 1181 -->
+
+<-- Local variables: -->
+<-- mode: sgml -->
+<-- eval: (auto-fill-mode -1) -->
+<-- End: -->
