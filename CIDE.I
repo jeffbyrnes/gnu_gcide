@@ -33743,11 +33743,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <p><q>Greek mythology, too, knew her [Astarte] as I<ocir/ and Europa, and she was fitly symbolised by the cow whose horns resemble the supine lunar crescent as seen in the south.</q> <rj><qau>Seyce (Anc. Empires, p. 195).</qau></rj><br/
 [<source>Century Dict. 1906</source>]</p>
 
-<p><sn>2.</sn> <def>One of the large moons of the planet Jupiter, remarkable for its intense volcanic activity, as observed in fly-bys of space probes.  It was named after the mythological Io.</def> <note>The remarkable images of Io and Jupiter obtained by the Galileo 2 space probe to Jupiter and Hubble photographs are available at the web site of <a href="http://www.nasa.gov">NASA</a>.  Reproduced here are:<br/
-<a href="more\io2.gif">Surface of Io.</a><br/
-<a href="more\iodisk.jpg">Full disk of Io passing, over the clouds of Jupiter.</a><br/
-<a href="more\Juptr&Io.gif">Jupiter with Io in transit.</a><br/
-More images are available at the NASA site.</note>
+<p><sn>2.</sn> <def>One of the large moons of the planet Jupiter, remarkable for its intense volcanic activity, as observed in fly-bys of space probes.  It was named after the mythological Io.</def> <note>The remarkable images of Io and Jupiter obtained by the Galileo 2 space probe to Jupiter and Hubble photographs are available at the web site of <a href="http://www.nasa.gov">NASA</a>.</note>
 [<source>PJC</source>]</p>
 
 <p><ent>Iod-</ent><br/

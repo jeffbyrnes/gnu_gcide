@@ -17713,7 +17713,7 @@ And often reaches, and his <qex>thrusts</qex> renews.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thulium</ent><br/
-<hw>Thu"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thule</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of the lanthanide group having atomic number 69, and atomic weight 168.93.  It is found in the mineral gadolinite and other minerals, together with other rare earths.  For more information see the data from <a href="more\thulium.htm">ChemGlobe</a>. </def><br/
+<hw>Thu"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thule</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of the lanthanide group having atomic number 69, and atomic weight 168.93.  It is found in the mineral gadolinite and other minerals, together with other rare earths.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Thumb</ent><br/

@@ -25041,7 +25041,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Hubble Space Telescope</ent><br/
 <ent>Hubble Telescope</ent><br/
-<mhw><hw>Hub"ble Tel"e*scope</hw>, <hw>Hub"ble Space Tel"e*scope</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <def>A large astromical optical telescope placed into orbit around the earth, from which, in the absence of absorption and distortion by the earth's atmosphere, clear high-resolution images of astronomical objects can be obtained in the visible, infrared, and ultraviolet wavelengths.  The telescope was launched into orbit on April 24, 1990.  Since then the telescope has taken thousands of images, many of them unique, recording never before seen astronomical phenomena.  Service missions were performed in 1993 and 1997, during which astronauts upgraded or replaced equipment on the telescope.  <a href="http://oposite.stsci.edu/pubinfo/">Link to Hubble Telescope Information</a>.</def><br/
+<mhw><hw>Hub"ble Tel"e*scope</hw>, <hw>Hub"ble Space Tel"e*scope</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <def>A large astromical optical telescope placed into orbit around the earth, from which, in the absence of absorption and distortion by the earth's atmosphere, clear high-resolution images of astronomical objects can be obtained in the visible, infrared, and ultraviolet wavelengths.  The telescope was launched into orbit on April 24, 1990.  Since then the telescope has taken thousands of images, many of them unique, recording never before seen astronomical phenomena.  Service missions were performed in 1993 and 1997, during which astronauts upgraded or replaced equipment on the telescope.</def><br/
 [<source>PJC</source>]</p>
 
 <p><-- p. 711 --></p>

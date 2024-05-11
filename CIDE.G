@@ -5792,7 +5792,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>General semantics</ent><br/
-<hw>Gen"er*al sem*an"tics</hw>, <pos>n.</pos> <fu>(1933)</fu> <def>a doctrine and philosophical approach to language and its relationship to thought and behavior, developed by Alfred Korzybski (1879-1950), which holds that the capacity to express ideas and thereby improve one's interaction with others and one's environment is enhanced by training in the more critical use of words and other symbols; -- sometimes also called <altname>semantics</altname>.</def> <note>More information can be found on the web site of the <a HREF="http://www.general-semantics.org/">Institute of General Semantics</a>.</note><br/
+<hw>Gen"er*al sem*an"tics</hw>, <pos>n.</pos> <fu>(1933)</fu> <def>a doctrine and philosophical approach to language and its relationship to thought and behavior, developed by Alfred Korzybski (1879-1950), which holds that the capacity to express ideas and thereby improve one's interaction with others and one's environment is enhanced by training in the more critical use of words and other symbols; -- sometimes also called <altname>semantics</altname>.</def> <note>More information can be found on the web site of the <a href="http://www.general-semantics.org/">Institute of General Semantics</a>.</note><br/
 [<source>PJC</source>]</p>
 
 <p><q><qex>General Semantics</qex> is the study of the relations between language, <ldquo/thought<rdquo/, and behavior: between how we talk, therefore how we think, therefore how we act.</q> <rj><qau>George Doris</qau></rj></p>
