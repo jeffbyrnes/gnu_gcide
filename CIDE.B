@@ -2679,7 +2679,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>balalaika</ent><br/
-<hw>balalaika</hw> <pos>n.</pos> <ety>[Russian.]</ety><def>a stringed instrument of Russian origin that has a triangular body and three strings.</def><br/
+<hw>balalaika</hw> <pos>n.</pos> <ety>[Russian.]</ety> <def>a stringed instrument of Russian origin that has a triangular body and three strings.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Balance</ent><br/
@@ -38047,7 +38047,7 @@ when not a <qex>breath</qex> of wind flies o'er its surface.</q> <rj><qau>Addiso
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>breathalyzer</ent><br/
-<hw>breathalyzer</hw> <pos>n.</pos> <ety>[a Trademark.]</ety><def>a device that measures alcohol content of a person's breath.</def><br/
+<hw>breathalyzer</hw> <pos>n.</pos> <ety>[a Trademark.]</ety> <def>a device that measures alcohol content of a person's breath.</def><br/
 <syn><b>Syn. --</b> breathalyser, breath analyzer.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -43000,7 +43000,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>buckaroo</ent><br/
-<hw>buckaroo</hw> <pos>n.</pos> <sn>1.</sn> <ety>[fr. Sp. <ets>vaquero</ets>.]</ety><def>a cowboy, especially used of one who breaks broncos; --  used especially in California.</def><br/
+<hw>buckaroo</hw> <pos>n.</pos> <sn>1.</sn> <ety>[fr. Sp. <ets>vaquero</ets>.]</ety> <def>a cowboy, especially used of one who breaks broncos; --  used especially in California.</def><br/
 <syn><b>Syn. --</b> vaquero.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
