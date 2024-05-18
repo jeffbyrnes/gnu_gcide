@@ -30979,10 +30979,10 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <p><q>I have become a sort of <qex>bogey</qex> -- a killjoy.</q> <rj><qau>Wm. Black.</qau></rj><br/
 [<source>1913 Webster Supplement</source>]</p>
 
-<sn>2.</sn> <fld>(Golf)</fld>  <def>A score on a given hole which is one stroke over par.  Originally, <ex>bogey</ex> had the same meaning as <altname>par</altname> does now, i.e. a given score or number of strokes, for each hole, against which players compete; -- said to be so-called because assumed to be the score of an imaginary first-rate player called Colonel Bogey.  A <altname>double bogey</altname> is a score of two strokes over par.</def><br/
+<p><sn>2.</sn> <fld>(Golf)</fld>  <def>A score on a given hole which is one stroke over par.  Originally, <ex>bogey</ex> had the same meaning as <altname>par</altname> does now, i.e. a given score or number of strokes, for each hole, against which players compete; -- said to be so-called because assumed to be the score of an imaginary first-rate player called Colonel Bogey.  A <altname>double bogey</altname> is a score of two strokes over par.</def><br/
 [<source>PJC</source>]</p>
 
-<sn>3.</sn> <fld>(Golf)</fld>  <def>Par.  See sense 2, above.</def>  <mark>[Archaic]</mark><br/
+<p><sn>3.</sn> <fld>(Golf)</fld>  <def>Par.  See sense 2, above.</def>  <mark>[Archaic]</mark><br/
 [<source>1913 Webster Supplement</source>]</p>
 
 <p><sn>4.</sn> <fld>(Military)</fld>  <def>An unidentified aircraft, especially one detected on a radar screen and believed to be an enemy airplane.</def>  <altsp>[Also spelled <asp>bogie</asp>.]</altsp><br/

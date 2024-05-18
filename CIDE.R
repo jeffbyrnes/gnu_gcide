@@ -832,7 +832,7 @@ The soil from which they come, taste, smell, and see.</q> <rj><qau>Cowley.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>radar</ent><br/
-<hw>ra"dar</hw> <pr>(r<amac/"d<aum/r)</pr>, <pos>n.</pos> <ety>[acronym from <ets>RA</ets>dio <ets>D</ets>etection <ets>A</ets>nd <ets>R</ets>anging.]</ety> <sn>1.</sn> <def>An electronic device designed to detect objects at a distance, and determine their distance from the device, by transmitting a pulse of radio waves and measuring the time required for the echo of the pulse to return to the emitting device; <as>as, the <ex>radar</ex> showed a plane approaching rapidly</as>.</a>.</def> <mark>[acronym]</mark> <br/
+<hw>ra"dar</hw> <pr>(r<amac/"d<aum/r)</pr>, <pos>n.</pos> <ety>[acronym from <ets>RA</ets>dio <ets>D</ets>etection <ets>A</ets>nd <ets>R</ets>anging.]</ety> <sn>1.</sn> <def>An electronic device designed to detect objects at a distance, and determine their distance from the device, by transmitting a pulse of radio waves and measuring the time required for the echo of the pulse to return to the emitting device; <as>as, the <ex>radar</ex> showed a plane approaching rapidly</as>.</def> <mark>[acronym]</mark> <br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The method of detecting objects, finding their distance, or determining their speed, by use of a radar{1} device; <as>as, modern <ex>radar</ex> can detect objects as small as raindrops</as>.</def><br/

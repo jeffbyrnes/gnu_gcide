@@ -3085,7 +3085,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jew"ish cal"en*dar</hw>. <def>A lunisolar calendar in use among Hebraic peoples, reckoning from the year 3761 <sc>b. c.</sc>, the date traditionally given for the Creation.</def> <note>It received its present fixed form from Hillel II. about 360 <sc>a. d.</sc> The present names of the months, which are Babylonian-Assyrian in origin, replaced older ones, <xex>Abib</xex>, <xex>Bul</xex>, etc., at the time of the Babylonian Exile. Nineteen years constitute a lunar cycle, of which the 3d, 6th, 8th, 11th, 14th, 17th, and 19th years are leap years. The year 5663 [1902-3 <sc>a. d.</sc>] was the first year of the 299th lunar cycle. The common year is said to be <xex>defective</xex>, <xex>regular</xex>, or <xex>perfect</xex> (or <xex>abundant</xex>) according as it has 353, 354, or 355 days. The leap year has an intercalary month, and a total of 383 (defective), 384 (regular), or 385 (perfect, or abundant) days. The calendar is complicated by various rules providing for the harmonious arrangement of festivals, etc., so that no simple perpetual calendar can be constructed. The following table gives the months in order, with the number of days assigned to each. Only three months vary in length. They are: Heshvan, which has 30 days in perfect years; Kislev, which has 30 days in regular and perfect years; and Adar, which has 30 days in leap years. The ecclesiastical year commences with Nisan and the civil year with Tishri. The date of the first of Tishri, or the Jewish New Year, is also given for the Jewish years 5661-5696 (1900-1935 <sc>a. d.</sc>). From these tables it is possible to transform any Jewish date into Christian, or vice versa, for the years 1900-1935 <sc>a. d.</sc></p>
 
 <p><sc>Months of the Jewish Year</sc>.
-<pre><tt>
+<pre>
  1 <colf>Tishri</colf> . . . . . . 30
  2 <colf>Heshvan</colf> . . . . .  29 (<it>r. & d</it>.)
                                 or 30 (<it>p</it>.)
@@ -3102,14 +3102,14 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
  9 <colf>Sivan</colf> . . . . . . .30
 10 <colf>Tammux</colf> . . . . . . 29
 11 <colf>Ab</colf> . . . . . . . . 30
-12 <colf>Elul</colf> . . . . . . ..29</p>
+12 <colf>Elul</colf> . . . . . . ..29</pre></p>
 
 <p><-- note the use of double quotes here as "ditto" marks, which will
  throw off automatic quote matching!! --></p>
 
 <p><sc>Jewish Year</sc>       <sc>a. d.</sc><br/
 -----------------------------------------------------------</p>
-<p>
+<pre>
 5661 <it>p.</it>      begins    Sept.  24, 1900
 5662 <it>d.l.</it>    <ldquo/      <ldquo/   14, 1901
 5663 <it>p.</it>      <ldquo/      Oct.    2, 1902
@@ -3146,7 +3146,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 5694 <it>r.</it>      <ldquo/      Sept.  23, 1933
 5695 <it>d.l.</it>    <ldquo/      <ldquo/   10, 1934
 5696 <it>p.</it>      <ldquo/      <ldquo/   28, 1935
-</tt></pre></p>
+</pre>
 
 <p><it>d</it>. = defective year; <it>d.l</it>. = defective leap year; 
 <it>p.</it> = perfect year; <it>p.l.</it> = perfect leap year; <it>r.</it> = regular year; <it>r.l.</it> = regular leap year.</note><br/
