@@ -1155,7 +1155,7 @@ These troublesome disguises which we wear.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><-- p. 467 --></p>
 
-<p><sn>4.</sn> <def>Smoothly; quietly; gently; gracefully; without <?/umult or discord.</def><br/
+<p><sn>4.</sn> <def>Smoothly; quietly; gently; gracefully; without tumult or discord.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>Without shaking or jolting; commodiously; <as>as, a carriage moves <ex>easily</ex></as>.</def><br/
@@ -1579,7 +1579,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>EBCDIC</ent><br/
-<hw>EBCDIC</hw> <pr>(<ecr/b"s<ecr/*d<icr/k`)</pr>, <pos>n.</pos> <ety>[acronym from <ets>E</ets>xtended <ets>B</ets>inary <ets>C</ets>oded <ets>D</ets>ecimal <ets>I</ets>nterchange <ets>C</ets>ode.]</ety> <fld>(Computers)</fld> <def>a 8-bit code for representing alphanumerical information in a digital information storage medium.  It was used expecially on IBM mainframes, and differed substantially from the ASCII code.</def> <mark>[acronym]</mark> <br/
+<hw>EBCDIC</hw> <pr>(<ecr/b"s<ecr/*d<icr/k`)</pr>, <pos>n.</pos> <ety>[acronym from <ets>E</ets>xtended <ets>B</ets>inary <ets>C</ets>oded <ets>D</ets>ecimal <ets>I</ets>nterchange <ets>C</ets>ode.]</ety> <fld>(Computers)</fld> <def>a 8-bit code for representing alphanumerical information in a digital information storage medium.  It was used especially on IBM mainframes, and differed substantially from the ASCII code.</def> <mark>[acronym]</mark> <br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ebionite</ent><br/
@@ -1599,7 +1599,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ebola virus</ent><br/
-<hw>E*bo"la vir`us</hw> <fld>(Med.)</fld> <pr>(<esl/*b<omac/"l<adot/ v<imac/'r<ucr/s)</pr>, <pos>n.</pos> <def>an exceptionally virulent hemorrhaic virus with a high mortality rate, first recognized in an outbreak on the <etsep>Ebola</etsep> river in africa.</def><br/
+<hw>E*bo"la vir`us</hw> <fld>(Med.)</fld> <pr>(<esl/*b<omac/"l<adot/ v<imac/'r<ucr/s)</pr>, <pos>n.</pos> <def>an exceptionally virulent hemorrhagic virus with a high mortality rate, first recognized in an outbreak on the <etsep>Ebola</etsep> river in Africa.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ebon</ent><br/
@@ -1655,7 +1655,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ebriety</ent><br/
-<hw>E*bri"e*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ebrieties</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ebrietas</ets>, from. <ets>ebrius</ets> intoxicated: cf. F. <ets><eacute/bri<eacute/te</ets>.  Cf. <er>So<?/er</er>.]</ety> <def>Drunkenness; intoxication by spirituous liquors; inebriety.</def> <ldquo/Ruinous <xex>ebriety</xex>.<rdquo/  <rj><au>Cowper.</au></rj><br/
+<hw>E*bri"e*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ebrieties</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ebrietas</ets>, from. <ets>ebrius</ets> intoxicated: cf. F. <ets><eacute/bri<eacute/te</ets>.  Cf. <er>Sober</er>.]</ety> <def>Drunkenness; intoxication by spirituous liquors; inebriety.</def> <ldquo/Ruinous <xex>ebriety</xex>.<rdquo/  <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 468 --></p>
@@ -3036,7 +3036,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>edged</hw> <pos>adj.</pos> <sn>1.</sn> <def>having a specified kind of border or edge; <as>as, a black-<ex>edged</ex> card; dried sweat left salt-<ex>edged</ex> patches</as>.</def> <mark>[Postpositional]</mark><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>having a cutting edge or especially an edge or edges as specified; often used in combination; <as>as, a dull-<ex>edged</ex> blade</as>.  Opposit of <ant>edgeless</ant>.</def>  <mark>[Postpositional]</mark> <br/
+<p><sn>2.</sn> <def>having a cutting edge or especially an edge or edges as specified; often used in combination; <as>as, a dull-<ex>edged</ex> blade</as>.  Opposite of <ant>edgeless</ant>.</def>  <mark>[Postpositional]</mark> <br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn>  <def>having a biting effect, implying criticism; -- used of words or language; <as>as, <ex>edged</ex> satire</as>.</def><br/
@@ -3309,7 +3309,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>educationalist</ent><br/
-<hw>educationalist</hw> <pos>n.</pos> <def>a specialist in the theory of eduction.</def><br/
+<hw>educationalist</hw> <pos>n.</pos> <def>a specialist in the theory of education.</def><br/
 <syn><b>Syn. --</b> educationist.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -3390,7 +3390,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 <p><-- p. 472 --></p>
 
 <p><ent>Edulcorative</ent><br/
-<hw>E*dul"co*ra*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to <?/weeten or purify by affusions of water.</def><br/
+<hw>E*dul"co*ra*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to sweeten or purify by affusions of water.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edulcorator</ent><br/
@@ -5482,7 +5482,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elation</ent><br/
-<hw>E*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>elatio</ets>. See <er>Elate</er>.]</ety> <def>A lifting up by success; exaltation; inriation with pride of prosperity.</def> <ldquo/Felt the <xex>elation</xex> of triumph.<rdquo/  <rj><au>Sir W. Scott.</au></rj><br/
+<hw>E*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>elatio</ets>. See <er>Elate</er>.]</ety> <def>A lifting up by success; exaltation; inflation with pride of prosperity.</def> <ldquo/Felt the <xex>elation</xex> of triumph.<rdquo/  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elative</ent><br/
@@ -5969,7 +5969,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 <hw>E`lec*tric"i*ty</hw> <pr>(<emac/`l<ecr/k*tr<icr/s"<icr/*t<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Electricities</plw> <pr>(<emac/`l<ecr/k*tr<icr/s"<icr/*t<icr/z)</pr>.</plu> <ety>[Cf. F. <ets><eacute/lectricit<eacute/</ets>. See <er>Electric</er>.]</ety> <sn>1.</sn> <fld>(Physics)</fld> <def>a property of certain of the fundamental particles of which matter is composed, called also <altname>electric charge</altname>, and being of two types, designated positive and negative; the property of <ex>electric charge</ex> on a particle or physical body creates a force field which affects other particles or bodies possessing electric charge; positive charges create a repulsive force between them, and negative charges also create a repulsive force.  A positively charged body and a negatively charged body will create an attractive force between them.  The unit of electrical charge is the <er>coulomb</er>, and the intensity of the force field at any point is measured in <er>volts</er>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>2.</sn> <def>any of several phenomena associated with the accumulation or movement of electrically charged particles within material bodies, classified as <stype>static electricity</stype> and <stype>electric current</stype>.  Static electricity is often observed in everyday life, when it causes certain materials to cling together; when sufficient static charge is accumulated, an <ex>electric current</ex> may pass through the air between two charged bodies, and is observed as a visible spark; when the spark passes from a human body to another object it may be felt as a mild to strong painful sensation.  Electricity in the form of electric current is put to many practical uses in electrical and electronic devices.  Lightning is also known to be a form of electric current passing between clouds and the ground, or between two clouds.   Electric currents may produce heat, light, concussion, and often chemical changes when passed between objects or through any imperfectly conducting substance or space. Accumulation of electrical charge or generation of a voltage differnce between two parts of a complex object may be caused by any of a variety of disturbances of molecular equilibrium, whether from a chemical, physical, or mechanical, cause.  Electric current in metals and most other solid coductors is carried by the movement of electrons from one part of the metal to another.  In ionic solutions and in semiconductors, other types of movement of charged particles may be responsible for the observed electrical current.</def><br/
+<p><sn>2.</sn> <def>any of several phenomena associated with the accumulation or movement of electrically charged particles within material bodies, classified as <stype>static electricity</stype> and <stype>electric current</stype>.  Static electricity is often observed in everyday life, when it causes certain materials to cling together; when sufficient static charge is accumulated, an <ex>electric current</ex> may pass through the air between two charged bodies, and is observed as a visible spark; when the spark passes from a human body to another object it may be felt as a mild to strong painful sensation.  Electricity in the form of electric current is put to many practical uses in electrical and electronic devices.  Lightning is also known to be a form of electric current passing between clouds and the ground, or between two clouds.   Electric currents may produce heat, light, concussion, and often chemical changes when passed between objects or through any imperfectly conducting substance or space. Accumulation of electrical charge or generation of a voltage difference between two parts of a complex object may be caused by any of a variety of disturbances of molecular equilibrium, whether from a chemical, physical, or mechanical, cause.  Electric current in metals and most other solid conductors is carried by the movement of electrons from one part of the metal to another.  In ionic solutions and in semiconductors, other types of movement of charged particles may be responsible for the observed electrical current.</def><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ Electricity is manifested under following different forms: (<it>a</it>) <col><b>Statical electricity</b></col>, called also <mcol><col><b>Frictional electricity</b></col> <it>or</it> <col><b>Common electricity</b></col></mcol>, electricity in the condition of a stationary charge, in which the disturbance is produced by friction, as of glass, amber, etc., or by induction. (<it>b</it>) <col><b>Dynamical electricity</b></col>, called also <col><b>Voltaic electricity</b></col>, electricity in motion, or as a current produced by chemical decomposition, as by means of a voltaic battery, or by mechanical action, as by dynamo-electric machines. (<it>c</it>) <col><b>Thermoelectricity</b></col>, in which the disturbing cause is heat (attended possibly with some chemical action).  It is developed by uniting two pieces of unlike metals in a bar, and then heating the bar unequally. (<it>d</it>) <col><b>Atmospheric electricity</b></col>, any condition of electrical disturbance in the atmosphere or clouds, due to some or all of the above mentioned causes. (<it>e</it>) <col><b>Magnetic electricity</b></col>, electricity developed by the action of magnets. (<it>f</it>)  <col><b>Positive electricity</b></col>, the electricity that appears at the positive pole or anode of a battery, or that is produced by friction of glass; -- called also <altname>vitreous electricity</altname>.  (<it>g</it>) <col><b>Negative electricity</b></col>, the electricity that appears at the negative pole or cathode, or is produced by the friction of resinous substance; -- called also <xex>resinous electricity</xex>. (<it>h</it>) <col><b>Organic electricity</b></col>, that which is developed in organic structures, either animal or vegetable, the phrase <xex>animal electricity</xex> being much more common.</note><br/
@@ -6569,7 +6569,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Electuary</ent><br/
-<hw>E*lec"tu*a*ry</hw> <pr>(?; 135)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Electuaries</plw> <pr>(#)</pr>.</plu> <ety>[OE. <ets>letuaire</ets>, OF. <ets>lettuaire</ets>, <ets>electuaire</ets>, F. <ets><eacute/lectuaire</ets>, L. <ets>electuarium</ets>, <ets>electarium</ets>. prob. fr. Gr. <?/, <?/ a medicine that is licked away, fr. Gr. <?/ to lick up; <grk>'ek</grk> out + <?/ to lick. See <er>Lick</er>, and cf. <er>Eclegm</er>.]</ety> <fld>(Med.)</fld> <def>A medicine composed of powders, or other ingredients, incorporated with some convserve, honey, or sirup; a confection. See the note under <er>Confection</er>.</def><br/
+<hw>E*lec"tu*a*ry</hw> <pr>(?; 135)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Electuaries</plw> <pr>(#)</pr>.</plu> <ety>[OE. <ets>letuaire</ets>, OF. <ets>lettuaire</ets>, <ets>electuaire</ets>, F. <ets><eacute/lectuaire</ets>, L. <ets>electuarium</ets>, <ets>electarium</ets>. prob. fr. Gr. <?/, <?/ a medicine that is licked away, fr. Gr. <?/ to lick up; <grk>'ek</grk> out + <?/ to lick. See <er>Lick</er>, and cf. <er>Eclegm</er>.]</ety> <fld>(Med.)</fld> <def>A medicine composed of powders, or other ingredients, incorporated with some conserver, honey, or sirup; a confection. See the note under <er>Confection</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eleemosynarily</ent><br/
@@ -6983,7 +6983,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elephantidae</ent><br/
-<hw>Elephantidae</hw> <pos>n.</pos> <def>a natural family of mammals comrising the elephants.</def><br/
+<hw>Elephantidae</hw> <pos>n.</pos> <def>a natural family of mammals comprising the elephants.</def><br/
 <syn><b>Syn. --</b> family <fam>Elephantidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -8302,7 +8302,7 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 <hw>Em*balm"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Embalmed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Embalming</conjf>.]</vmorph> <ety>[F. <ets>embaumer</ets>; pref. <ets>em-</ets> (L. <ets>in</ets>) + <ets>baume</ets> balm. See <er>Balm</er>.]</ety> <sn>1.</sn> <def>To anoint all over with balm; especially, to preserve from decay by means of balm or other aromatic oils, or spices; to fill or impregnate (a dead body), with aromatics and drugs that it may resist putrefaction.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Joseph commanded his servants, the physicians, to <qex>embalm</qex> <?/is father; and the physicians <qex>embalmed</qex> Israel.</q> <rj><qau>Gem. l. 2.</qau></rj><br/
+<p><q>Joseph commanded his servants, the physicians, to <qex>embalm</qex> his father; and the physicians <qex>embalmed</qex> Israel.</q> <rj><qau>Gem. l. 2.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To fill or imbue with sweet odor; to perfume.</def><br/
@@ -9285,7 +9285,7 @@ Sat the lovers.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>2.</sn> <def>To implicate in confusion; to complicate; to jumble.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>The Christian antiquities at Rome . . . are so <qex>embroiled</qex> with <?/able and legend.</q> <rj><qau>Addison.</qau></rj></p>
+<p><q>The Christian antiquities at Rome . . . are so <qex>embroiled</qex> with fable and legend.</q> <rj><qau>Addison.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- To perplex; entangle; distract; disturb; disorder; trouble; implicate; commingle.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -9507,7 +9507,7 @@ All full of fresshe flowers, white and red.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>Em"er*ald</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>emeraude</ets>, OF. <ets>esmeraude</ets>, <ets>esmeralde</ets>, F. <ets><eacute/meraude</ets>, L. <ets>smaragdus</ets>, fr. Gr. <?/; cf. <?/kr. <ets>marakata</ets>.]</ety> <sn>1.</sn> <fld>(Min.)</fld> <def>A precious stone of a rich green color, a variety of beryl. See <er>Beryl</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Print.)</fld> <def>A kind of type, in size between minion and nonpare<?/l. It is used by English printers.</def><br/
+<p><sn>2.</sn> <fld>(Print.)</fld> <def>A kind of type, in size between minion and nonpareil. It is used by English printers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note> <hand/ This line is printed in the type called <xex>emerald</xex>.</note><br/
@@ -12123,7 +12123,7 @@ Either of you to be the other's <qex>end</qex>.</q> <rj><qau>Shak.</qau></rj><br
 <p><q>I shall see an <qex>end</qex> of him.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>The object aimed at in any effort considered as the close and effect of exertion; ppurpose; intention; aim; <as>as, to labor for private or public <ex>ends</ex></as>.</def><br/
+<p><sn>4.</sn> <def>The object aimed at in any effort considered as the close and effect of exertion; purpose; intention; aim; <as>as, to labor for private or public <ex>ends</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Losing her, the <qex>end</qex> of living lose.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -12844,7 +12844,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endotheca</ent><br/
-\'d8<hw>En`do*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`ndon</grk> within + <grk>qh`kh</grk> a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which partially fills the interior of the interseptal chambers of most madreporarian corals. It usually consists of a series of oblique tranverse septa, one above another.</def> -- <wordforms><wf>En`do*the"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+\'d8<hw>En`do*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`ndon</grk> within + <grk>qh`kh</grk> a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which partially fills the interior of the interseptal chambers of most madreporarian corals. It usually consists of a series of oblique transverse septa, one above another.</def> -- <wordforms><wf>En`do*the"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endothecium</ent><br/
@@ -17362,7 +17362,7 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>enzyme</ent><br/
-<hw>en"zyme</hw> <pr>(<ecr/n"z<imac/m)</pr>, <pos>n.</pos> <ety>[Pref. <ets>en-</ets> (Gr. <grk>'en</grk> in) + Gr. <grk>zy`mh</grk>  leaven.]</ety> <fld>(Physiol. Chem.)</fld> <def>A protein produced by a living organism, capable of catalyzing a chemical reaction.  Almost all processes in living organisms require some form of enzyme to cause the reactions to occur at a rate sufficient to support life.  There are a very wide variety of enzymes, each specifically catalyzing a different chemical reaction, the sum of which cause the bulk of the physiological changes observed as life processes.  Enzymes, like most proteins, are synthesized by the protein-synthetic mechanism of the living cell, at special sites on ribosomes, using the genetic information in messenger RNA transcribed from the genetic instructions stored as nuleotide sequences in the DNA (or in some viruses, the RNA) of the genome.  Some examples of enzymes are: pepsin, diastase, rennet, DNA polymerase, invertase, glucose oxidase, protease, and ribonuclease.  There are many other types of enzyme.</def><br/
+<hw>en"zyme</hw> <pr>(<ecr/n"z<imac/m)</pr>, <pos>n.</pos> <ety>[Pref. <ets>en-</ets> (Gr. <grk>'en</grk> in) + Gr. <grk>zy`mh</grk>  leaven.]</ety> <fld>(Physiol. Chem.)</fld> <def>A protein produced by a living organism, capable of catalyzing a chemical reaction.  Almost all processes in living organisms require some form of enzyme to cause the reactions to occur at a rate sufficient to support life.  There are a very wide variety of enzymes, each specifically catalyzing a different chemical reaction, the sum of which cause the bulk of the physiological changes observed as life processes.  Enzymes, like most proteins, are synthesized by the protein-synthetic mechanism of the living cell, at special sites on ribosomes, using the genetic information in messenger RNA transcribed from the genetic instructions stored as nucleotide sequences in the DNA (or in some viruses, the RNA) of the genome.  Some examples of enzymes are: pepsin, diastase, rennet, DNA polymerase, invertase, glucose oxidase, protease, and ribonuclease.  There are many other types of enzyme.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note>The 1913 Webster defined an enzyme as: <br/
@@ -19250,7 +19250,7 @@ Conveyed thy meaning mild.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equal</ent><br/
-<hw>E"qual</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Equaled</conjf> <pr>(?)</pr> or <conjf>Equalled</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Equaling</conjf> or <conjf>Equalling</conjf>.]</vmorph> <sn>1.</sn> <def>To be or become equal to; to have the same quantity, the same value, the same degree or rank, or the like, with; to be commen<?/urate with.</def><br/
+<hw>E"qual</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Equaled</conjf> <pr>(?)</pr> or <conjf>Equalled</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Equaling</conjf> or <conjf>Equalling</conjf>.]</vmorph> <sn>1.</sn> <def>To be or become equal to; to have the same quantity, the same value, the same degree or rank, or the like, with; to be commensurate with.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>On me whose all not <qex>equals</qex> Edward's moiety.</q> <rj><qau>Shak.</qau></rj><br/
@@ -19360,7 +19360,7 @@ Of what her eyes have kindled in my heart.</q> <rj><qau>Waller.</qau></rj><br/
 <p><sn>5.</sn>  <fld>(A<eum/ronautics)</fld> <def>A sliding panel to preserve the lateral stability of an a<eum/roplane.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>6.</sn>  <fld>(Electronics)</fld> <def>a device or circuit within a sound-reproducing system that reproduces the original frequency distribution of the sound before recording by compensating for inequialities in the frequency response of the system.</def><br/
+<p><sn>6.</sn>  <fld>(Electronics)</fld> <def>a device or circuit within a sound-reproducing system that reproduces the original frequency distribution of the sound before recording by compensating for inequalities in the frequency response of the system.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>7.</sn>  <def>a gun.</def> <mark>[slang]</mark><br/
@@ -19387,7 +19387,7 @@ Of what her eyes have kindled in my heart.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equant</ent><br/
-<hw>E"quant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>aequans</ets>, <ets>-antis</ets>, p. pr. of <ets>aequare</ets>: cf. F. <ets><eacute/quant</ets>. See <er>Equate</er>.]</ety> <fld>(Ptolemaic Astron.)</fld> <def>A circle around whose circumference a planet or the center of ann epicycle was conceived to move uniformly; -- called also <altname>eccentric equator</altname>.</def><br/
+<hw>E"quant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>aequans</ets>, <ets>-antis</ets>, p. pr. of <ets>aequare</ets>: cf. F. <ets><eacute/quant</ets>. See <er>Equate</er>.]</ety> <fld>(Ptolemaic Astron.)</fld> <def>A circle around whose circumference a planet or the center of an epicycle was conceived to move uniformly; -- called also <altname>eccentric equator</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equate</ent><br/
@@ -20059,7 +20059,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><q>There being no room for <qex>equivocations</qex>, there is no need of distinctions.</q> <rj><qau>Locke.</qau></rj></p>
 
-<p><syn><b>Syn.</b> -- Prevarication; ambiguity; shuffling; evasion; guibbling. See <er>Equivocal</er>, <pos>a.</pos>, and <er>Prevaricate</er>, <pos>v. i.</pos></syn><br/
+<p><syn><b>Syn.</b> -- Prevarication; ambiguity; shuffling; evasion; quibbling. See <er>Equivocal</er>, <pos>a.</pos>, and <er>Prevaricate</er>, <pos>v. i.</pos></syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equivocator</ent><br/
@@ -20077,7 +20077,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 <mhw>{ <hw>Eq"ui*voque</hw>, <hw>Eq"ui*voke</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/quivoque</ets>. See <er>Equivocal</er>.]</ety> <sn>1.</sn> <def>An ambiguous term; a word susceptible of different significations.</def>  <rj><au>Coleridge.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>An equivocation; a guibble.</def>  <rj><au>B. Jonson.</au></rj><br/
+<p><sn>2.</sn> <def>An equivocation; a quibble.</def>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equivorous</ent><br/
@@ -20205,7 +20205,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erastianism</ent><br/
-<hw>E*ras"tian*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Eccl. Hist.)</fld> <def>The principles of the Erastains.</def><br/
+<hw>E*ras"tian*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Eccl. Hist.)</fld> <def>The principles of the Erastians.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erasure</ent><br/
@@ -20428,7 +20428,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erelong</ent><br/
-<hw>Ere`long"</hw> <pr>(?; 115)</pr>, <pos>adv.</pos> <def>Before the <?/apse of a long time; soon; -- usually separated, <xex>ere long</xex>.</def><br/
+<hw>Ere`long"</hw> <pr>(?; 115)</pr>, <pos>adv.</pos> <def>Before the lapse of a long time; soon; -- usually separated, <xex>ere long</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A man, . . . following the stag, <qex>erelong</qex> slew him.</q> <rj><qau>Spenser.</qau></rj><br/
@@ -21293,7 +21293,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>erysipelas</ent><br/
-<hw>er`y*sip"e*las</hw> <pr>(<ecr/r`<icr/*s<icr/p"<esl/*l<ait/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'erysi`pelas</grk>; <grk>'eryqro`s</grk> red + <grk>pe`lla</grk> hide, skin. See <er>Red</er>, and <er>Pell</er>, <pos>n.</pos>]</ety> <fld>(Med.)</fld> <def>St. Anthony's fire; a febrile disease accompanied with a diffused red edematous inflammation of the skin, which, starting usually from a single point, spreads gradually over its surface. It is often accompanied by severe constitutional symptoms.  It is caused by a group A hemolytic streptococcus (<spn>Streptococcus pyogenes</spn>), is contagious, and formerly often occured epidemically.</def><br/
+<hw>er`y*sip"e*las</hw> <pr>(<ecr/r`<icr/*s<icr/p"<esl/*l<ait/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'erysi`pelas</grk>; <grk>'eryqro`s</grk> red + <grk>pe`lla</grk> hide, skin. See <er>Red</er>, and <er>Pell</er>, <pos>n.</pos>]</ety> <fld>(Med.)</fld> <def>St. Anthony's fire; a febrile disease accompanied with a diffused red edematous inflammation of the skin, which, starting usually from a single point, spreads gradually over its surface. It is often accompanied by severe constitutional symptoms.  It is caused by a group A hemolytic streptococcus (<spn>Streptococcus pyogenes</spn>), is contagious, and formerly often occurred epidemically.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Erysipelatoid</ent><br/
@@ -21305,7 +21305,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>erysipeloid</ent><br/
-<hw>er`y*sip"e*loid</hw> <pr>(<ecr/r`<icr/*s<icr/p"<esl/*loid)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'erysi`pelas</grk>; <grk>'eryqro`s</grk> red + <grk>pe`lla</grk> hide, skin. See <er>Red</er>, and <er>Pell</er>, <pos>n.</pos>]</ety> <fld>(Med.)</fld> <def>a usually self-limiting cellulitis of the hand somewhat resembling erysipelas, caused by the bacterium <spn>Erysipelothrix rhusiopathiae</spn>.  It may start at the site of a wound obtained while handling meat or fish, and may occasionally become generalizd with protracted illness and severe toxemia.</def> <au>Stedman</au><br/
+<hw>er`y*sip"e*loid</hw> <pr>(<ecr/r`<icr/*s<icr/p"<esl/*loid)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'erysi`pelas</grk>; <grk>'eryqro`s</grk> red + <grk>pe`lla</grk> hide, skin. See <er>Red</er>, and <er>Pell</er>, <pos>n.</pos>]</ety> <fld>(Med.)</fld> <def>a usually self-limiting cellulitis of the hand somewhat resembling erysipelas, caused by the bacterium <spn>Erysipelothrix rhusiopathiae</spn>.  It may start at the site of a wound obtained while handling meat or fish, and may occasionally become generalized with protracted illness and severe toxemia.</def> <au>Stedman</au><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Erysipelothrix</ent><br/
@@ -23414,7 +23414,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>Ethical</ent><br/
 <ent>Ethic</ent><br/
-<mhw>{ <hw>Eth"ic</hw> <pr>(?)</pr>, <hw>Eth"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>ethicus</ets>, Gr. <?/, fr. <?/ custom, usage, character, dwelling; akin to <?/ custom, Goth. <ets>sidus</ets>, G. <ets>sitte</ets>, Skr. <ets>svadh<?/</ets>, prob. orig., one's own doing; <ets>sva</ets> self + <ets>dh<?/</ets> to set: cf. F. <ets><eacute/thique</ets>. See <er>So</er>, <er>Do</er>.]</ety> <def>Of, or belonging to, morals; treating of the moral feelings or duties; containing percepts of morality; moral; <as>as, <ex>ethic</ex> discourses or epistles; an <ex>ethical</ex> system; <ex>ethical</ex> philosophy.</as></def><br/
+<mhw>{ <hw>Eth"ic</hw> <pr>(?)</pr>, <hw>Eth"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>ethicus</ets>, Gr. <?/, fr. <?/ custom, usage, character, dwelling; akin to <?/ custom, Goth. <ets>sidus</ets>, G. <ets>sitte</ets>, Skr. <ets>svadh<?/</ets>, prob. orig., one's own doing; <ets>sva</ets> self + <ets>dh<?/</ets> to set: cf. F. <ets><eacute/thique</ets>. See <er>So</er>, <er>Do</er>.]</ety> <def>Of, or belonging to, morals; treating of the moral feelings or duties; containing precepts of morality; moral; <as>as, <ex>ethic</ex> discourses or epistles; an <ex>ethical</ex> system; <ex>ethical</ex> philosophy.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>ethical</qex> meaning of the miracles.</q> <rj><qau>Trench.</qau></rj><br/
@@ -23496,8 +23496,8 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 <hw>Eth"moid</hw> <pr>(?)</pr> <pos>n.</pos> <fld>(Anat.)</fld> <def>The ethmoid bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Ethmotrubinal</ent><br/
-<hw>Eth`mo*tru"bi*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Ethm</ets>oid + <ets>turbinal</ets>.]</ety> <def>See <er>Turbinal</er>.</def> -- <def2><pos>n.</pos> <def>An ethmoturbinal bone.</def></def2><br/
+<p><ent>Ethmoturbinal</ent><br/
+<hw>Eth`mo*tur"bi*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Ethm</ets>oid + <ets>turbinal</ets>.]</ety> <def>See <er>Turbinal</er>.</def> -- <def2><pos>n.</pos> <def>An ethmoturbinal bone.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ethmovomerine</ent><br/
@@ -24586,7 +24586,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>eutectic</ent><br/
-<hw>eutectic</hw> <pr>(<umac/*t<ecr/k"t<icr/k)</pr>, <pos>n.</pos> <def>a mixture of substances having a composition providing the minimum melting point ofr mixtures of those substances.  Called also a <ecol><b>eutectic mixture</b></ecol>.</def><br/
+<hw>eutectic</hw> <pr>(<umac/*t<ecr/k"t<icr/k)</pr>, <pos>n.</pos> <def>a mixture of substances having a composition providing the minimum melting point for mixtures of those substances.  Called also a <ecol><b>eutectic mixture</b></ecol>.</def><br/
 <syn><b>Syn. --</b> eutectic mixture.</syn>
 [<source>WordNet 1.5</source>]</p>
 
@@ -24626,7 +24626,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euthyneura</ent><br/
-<hw>Eu`thy*neu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ straight + <?/ a nerve.]</ety> <fld>(Zo<oum/l.)</fld> <def>A large division of gastropod molluske, including the Pulmonifera and Opisthobranchiata.</def><br/
+<hw>Eu`thy*neu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ straight + <?/ a nerve.]</ety> <fld>(Zo<oum/l.)</fld> <def>A large division of gastropod mollusks, including the Pulmonifera and Opisthobranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eutrophy</ent><br/
@@ -24852,7 +24852,7 @@ By quick contraction or remove.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>Having or characterized by a zealous, crusading enthusiasm for a cause.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>5.</sn> <def>Adhering to a form of Christianity characterized by a conservative interpretation of the bible, but disavowing the label 'bdfundamentalist`'b8.</def><br/
+<p><sn>5.</sn> <def>Adhering to a form of Christianity characterized by a conservative interpretation of the bible, but disavowing the label <ldquo/fundamentalist<rdquo/.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Evangelical Alliance</b></col>, <cd>an alliance for mutual strengthening and common work, comprising Christians of different denominations and countries, organized in Liverpool, England, in 1845.</cd> -- <col><b>Evangelical Church</b></col>. <sd>(a)</sd> <cd>The Protestant Church in Germany.</cd> <sd>(b)</sd> <cd>A church founded by a fusion of Lutherans and Calvinists in Germany in 1817.</cd> -- <col><b>Evangelical Union</b></col>, <cd>a religious sect founded in Scotland in 1843 by the <person>Rev. James Morison</person>; -- called also <altname>Morisonians</altname>.</cd></cs><br/
@@ -25446,10 +25446,10 @@ Is only this, if God has placed him wrong.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Everlasting</ent><br/
-<hw>Ever*last"ing</hw> <pr>(?)</pr> <pos>a.</pos> <sn>1.</sn> <def>Lasting or enduring forever; exsisting or continuing without end; immortal; eternal.</def> <ldquo/The <xex>Everlasting</xex> God.<rdquo/  <rj><au>Gen. xx1. 33.</au></rj><br/
+<hw>Ever*last"ing</hw> <pr>(?)</pr> <pos>a.</pos> <sn>1.</sn> <def>Lasting or enduring forever; existing or continuing without end; immortal; eternal.</def> <ldquo/The <xex>Everlasting</xex> God.<rdquo/  <rj><au>Gen. xx1. 33.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Continuing indefinitely, or during a long period; perpetual; sometimes used, colloquially, as a strong intensive; <as>as, this <ex>everlasting</ex> nonsence</as>.</def><br/
+<p><sn>2.</sn> <def>Continuing indefinitely, or during a long period; perpetual; sometimes used, colloquially, as a strong intensive; <as>as, this <ex>everlasting</ex> nonsense</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I will give to thee, and to thy seed after thee . . . the land of Canaan, for an <qex>everlasting</qex> possession.</q> <rj><qau>Gen xvii. 8.</qau></rj><br/
@@ -25771,7 +25771,7 @@ When death's approach is seen so terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>evil</qex> that men do lives after them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Moral badness, or the deviation of a moral being from the principles of virtue imposed by conscience, or by the will of the Supreme Being, or by the principles of a lawful human authority; disposition to do wrong; moral offence; wickedness; depravity.</def><br/
+<p><sn>2.</sn> <def>Moral badness, or the deviation of a moral being from the principles of virtue imposed by conscience, or by the will of the Supreme Being, or by the principles of a lawful human authority; disposition to do wrong; moral offense; wickedness; depravity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The heart of the sons of men is full of <qex>evil</qex>.</q> <rj><qau>Eccl. ix. 3.</qau></rj><br/
@@ -25975,7 +25975,7 @@ When death's approach is seen so terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>7.</sn> <fld>(Biol.)</fld>  <def>That theory of generation which supposes the germ to pre<eum/xist in the parent, and its parts to be developed, but not actually formed, by the procreative act; -- opposed to <contr>epigenesis</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>8.</sn> <fld>(Metaph.)</fld> <def>That series of changes under natural law which involves continuous progress from the homogeneous to the heterogeneous in structure, and from the single and simple to the diverse and manifold in quality or function.  The process is by some limited to organic beings; by others it is applied to the inorganic and the psychical.  It is also applied to explain the existence and growth of institutions, manners, language, civilization, and every product of human activity.  The agencies and laws of the process are variously explained by different philosophrs.</def><br/
+<p><sn>8.</sn> <fld>(Metaph.)</fld> <def>That series of changes under natural law which involves continuous progress from the homogeneous to the heterogeneous in structure, and from the single and simple to the diverse and manifold in quality or function.  The process is by some limited to organic beings; by others it is applied to the inorganic and the psychical.  It is also applied to explain the existence and growth of institutions, manners, language, civilization, and every product of human activity.  The agencies and laws of the process are variously explained by different philosophers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Evolution</qex> is to me series with development.</q> <rj><qau>Gladstone.</qau></rj><br/
@@ -26304,7 +26304,7 @@ From grateful souls <qex>exact</qex> reward at last</q> <rj><qau>Dryden.</qau></
 <p><q>He that humbleth himself shall be <qex>exalted</qex>.</q> <rj><qau>Luke xiv. 11.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To elevate by prise or estimation; to magnify; to extol; to glorify.</def> <ldquo/<xex>Exalt</xex> ye the Lord.<rdquo/  <rj><au>Ps. xcix. 5.</au></rj><br/
+<p><sn>3.</sn> <def>To elevate by praise or estimation; to magnify; to extol; to glorify.</def> <ldquo/<xex>Exalt</xex> ye the Lord.<rdquo/  <rj><au>Ps. xcix. 5.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>In his own grace he doth <qex>exalt</qex> himself.</q> <rj><qau>Shak.</qau></rj><br/
@@ -26660,11 +26660,11 @@ Sets spinning.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exauthoration</ent><br/
-<hw>Ex*au`thor*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Deprivation of authority or dignity; degration.</def> <mark>[Obs.]</mark>  <rj><au>Jer. Taylor.</au></rj><br/
+<hw>Ex*au`thor*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Deprivation of authority or dignity; degradation.</def> <mark>[Obs.]</mark>  <rj><au>Jer. Taylor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exauthorize</ent><br/
-<hw>Ex*au"thor*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>ex-</ets> + <ets>authorize</ets>.]</ety> <def>To deprive of uthority.</def> <mark>[Obs.]</mark>  <rj><au>Selden.</au></rj><br/
+<hw>Ex*au"thor*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>ex-</ets> + <ets>authorize</ets>.]</ety> <def>To deprive of authority.</def> <mark>[Obs.]</mark>  <rj><au>Selden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exauthorize</ent><br/
@@ -30477,7 +30477,7 @@ How little weight my words with thee can find.</q> <rj><qau>Milton.</qau></rj><b
 <hw>experimentalism</hw> <pos>n.</pos> <sn>1.</sn> <def>an empirical doctrine that advocates experimental principles.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>an orientation that favors experimentation and innovation; <as>as, the children of psycholoigsts are often raised in an atmosphere of <ex>experimentalism</ex></as>.</def><br/
+<p><sn>2.</sn> <def>an orientation that favors experimentation and innovation; <as>as, the children of psychologists are often raised in an atmosphere of <ex>experimentalism</ex></as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Experimentalist</ent><br/
@@ -31381,7 +31381,7 @@ The <qex>express</qex> resemblance of the gods.</q> <rj><qau>Milton.</qau></rj><
 <p><q> A messenger sent <qex>express</qex> from the other world.</q> <rj><qau>Atterbury.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>of or pertaining to an <cref>express train</cref> or other conveyance designated an express{5}; makiung few or no intermediate stops; <as>as, an <ex>express</ex> stop; an <ex>express</ex> fare; an <ex>express</ex> elevator</as>.</def><br/
+<p><sn>2.</sn> <def>of or pertaining to an <cref>express train</cref> or other conveyance designated an express{5}; making few or no intermediate stops; <as>as, an <ex>express</ex> stop; an <ex>express</ex> fare; an <ex>express</ex> elevator</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Express color</b></col>. <fld>(Law)</fld> <cd>See the Note under <er>Color</er>, <pos>n.</pos>, 8.</cd></cs></p>
@@ -32256,7 +32256,7 @@ Could you slacken and condense?</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Extenuation</ent><br/
-<hw>Ex*ten`u*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>extenuatio</ets>: cf. F. <ets>ext<eacute/nuation</ets>.]</ety> <def>The act of axtenuating or the state of being extenuated; the act of making thin, slender, or lean, or of palliating; diminishing, or lessening; palliation, as of a crime; mitigation, as of punishment.</def><br/
+<hw>Ex*ten`u*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>extenuatio</ets>: cf. F. <ets>ext<eacute/nuation</ets>.]</ety> <def>The act of extenuating or the state of being extenuated; the act of making thin, slender, or lean, or of palliating; diminishing, or lessening; palliation, as of a crime; mitigation, as of punishment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To listen . . . to every <qex>extenuation</qex> of what is evil.</q> <rj><qau>I. Taylor.</qau></rj><br/
@@ -32642,7 +32642,7 @@ She [Fancy] forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Extogenous</ent><br/
-<hw>Ex*tog"e*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>exter</ets> outward + <ets><?/genous</ets>.]</ety> <fld>(Biol.)</fld> <def>Exogenous.</def><br/
+<hw>Ex*tog"e*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>exter</ets> outward + <ets>genous</ets>.]</ety> <fld>(Biol.)</fld> <def>Exogenous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Extol</ent><br/
@@ -33059,7 +33059,7 @@ To something <qex>extraordinary</qex> my thoughts.</q> <rj><qau>Milton.</qau></r
 <hw>Ex*trav"a*gance</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>extravagance</ets>. See <er>Extravagant</er>, and cf. <er>Extravaganza</er>.]</ety> <sn>1.</sn> <def>A wandering beyond proper limits; an excursion or sally from the usual way, course, or limit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The state of being extravagant, wild, or prodigal beyond bounds of propriety or duty; want of moderation; excess; especially, undue expenditure of money; vaid and superfluous expense; prodigality; <as>as, <ex>extravagance</ex> of anger, love, expression, imagination, demands</as>.</def><br/
+<p><sn>2.</sn> <def>The state of being extravagant, wild, or prodigal beyond bounds of propriety or duty; want of moderation; excess; especially, undue expenditure of money; void and superfluous expense; prodigality; <as>as, <ex>extravagance</ex> of anger, love, expression, imagination, demands</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Some verses of my own, Maximin and Almanzor, cry vengeance on me for their <qex>extravagance</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -33512,7 +33512,7 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuperable</ent><br/
-<hw>Ex*u"per*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>exuperabilis</ets>, <ets>exsuperabilis</ets>. See <er>Exuperate</er>.]</ety> <def>Surmountable; superable.</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj><br/
+<hw>Ex*u"per*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>exuperabilis</ets>, <ets>exsuperabilis</ets>. See <er>Exuperate</er>.]</ety> <def>Surmountable; super able.</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuperance</ent><br/
@@ -33544,7 +33544,7 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exutory</ent><br/
-<hw>Ex*u"to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>exutoire</ets>. See <er>Exuv<?/e</er>.]</ety> <fld>(Med.)</fld> <def>An issue.</def><br/
+<hw>Ex*u"to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>exutoire</ets>. See <er>Exuvi<ae/</er>.]</ety> <fld>(Med.)</fld> <def>An issue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuvia</ent><br/
@@ -33791,7 +33791,7 @@ To my proportioned strength.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Eyehole</ent><br/
-<hw>Eye"hole`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A circular opening to recive a hook, cord, ring, or rope; an eyelet.</def><br/
+<hw>Eye"hole`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A circular opening to receive a hook, cord, ring, or rope; an eyelet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eyelash</ent><br/
