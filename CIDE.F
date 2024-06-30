@@ -11413,13 +11413,14 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Mus.)</fld> <def>Florid; figurative; involving passing discords by the freer melodic movement of one or more parts or voices in the harmony; <as>as, <ex>figurate</ex> counterpoint or descant</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Figurate counterpoint</b></col>  <it>or</it> <col><b>Figurate descant</b></col></mcol> <fld>(Mus.)</fld>, <cd>that which is not simple, or in which the parts do not move together tone for tone, but in which freer movement of one or more parts mingles passing discords                                                                                                                                                                                                                                                                                                                                                                                                  with the harmony; -- called also <altname>figural</altname>, <altname>figurative</altname>, and <altname>figured counterpoint</altname> or <altname>descant</altname> (although the term <xex>figured</xex> is more commonly applied to a bass with numerals written above or below to indicate the other notes of the harmony).</cd> -- <col><b>Figurate numbers</b></col> <fld>(Math.)</fld>, <cd>numbers, or series of numbers, formed from any arithmetical progression in which the first term is a unit, and the difference a whole number, by taking the first term, and the sums of the first two, first three, first four, etc., as the successive terms of a new series, from which another may be formed in the same manner, and so on, the numbers in the resulting series being such that points representing them are capable of symmetrical arrangement in different geometrical figures, as triangles, squares, pentagons, etc.</cd> <note>In the following example, the two lower lines are composed of <xex>figurate numbers</xex>, those in the second line being <xex>triangular</xex>, and represented thus: --</p>
+<p><cs><mcol><col><b>Figurate counterpoint</b></col>  <it>or</it> <col><b>Figurate descant</b></col></mcol> <fld>(Mus.)</fld>, <cd>that which is not simple, or in which the parts do not move together tone for tone, but in which freer movement of one or more parts mingles passing discords with the harmony; -- called also <altname>figural</altname>, <altname>figurative</altname>, and <altname>figured counterpoint</altname> or <altname>descant</altname> (although the term <xex>figured</xex> is more commonly applied to a bass with numerals written above or below to indicate the other notes of the harmony).</cd> -- <col><b>Figurate numbers</b></col> <fld>(Math.)</fld>, <cd>numbers, or series of numbers, formed from any arithmetical progression in which the first term is a unit, and the difference a whole number, by taking the first term, and the sums of the first two, first three, first four, etc., as the successive terms of a new series, from which another may be formed in the same manner, and so on, the numbers in the resulting series being such that points representing them are capable of symmetrical arrangement in different geometrical figures, as triangles, squares, pentagons, etc.</cd> <note>In the following example, the two lower lines are composed of <xex>figurate numbers</xex>, those in the second line being <xex>triangular</xex>, and represented thus: --</p>
 
-<p><tt><br/
+<pre><tt>
                         .              1, 2,  3,  4, etc.
               .        . .             1, 3,  6, 10, etc.
       .      . .     . . . .   etc.    1, 4, 10, 20, etc
- .   . .   . . . .  . . . . .</tt><br/
+ .   . .   . . . .  . . . . .
+</tt></pre><br/
 </note></cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -13534,7 +13535,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>[The sun] <qex>fires</qex> the proud tops of the eastern pines.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <def>To cause to explode; <as>as, to <ex>fire</ex> a torpedo</as>; to disharge; <as>as, to <ex>fire</ex> a rifle, pistol, or cannon; to <ex>fire</ex> cannon balls, rockets, etc.</as></def><br/
+<p><sn>7.</sn> <def>To cause to explode; <as>as, to <ex>fire</ex> a torpedo</as>; to discharge; <as>as, to <ex>fire</ex> a rifle, pistol, or cannon; to <ex>fire</ex> cannon balls, rockets, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <def>To drive by fire.</def> <mark>[Obs.]</mark><br/
@@ -13629,7 +13630,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>firebug</ent><br/
-<hw>firebug</hw> <pos>n.</pos> <def>a criminal who illegaly sets fire to property; an arsonist.</def><br/
+<hw>firebug</hw> <pos>n.</pos> <def>a criminal who illegally sets fire to property; an arsonist.</def><br/
 <syn><b>Syn. --</b> arsonist, incendiary.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -14571,7 +14572,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fistic</ent><br/
-<hw>Fist"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Fist</er>.]</ety> <def>Pertaining to boxing, or to encounters with the fists; puglistic; <as>as, <ex>fistic</ex> exploits; <ex>fistic</ex> heroes.</as></def> <mark>[Colloq.]</mark><br/
+<hw>Fist"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Fist</er>.]</ety> <def>Pertaining to boxing, or to encounters with the fists; pugilistic; <as>as, <ex>fistic</ex> exploits; <ex>fistic</ex> heroes.</as></def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fisticuff</ent><br/
@@ -14590,7 +14591,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 \'d8<hw>Fis"tu*la</hw> <pr>(?; 135)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Fistul<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <def>A reed; a pipe.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A pipe for convejing water.</def> <mark>[Obs.]</mark>  <rj><au>Knight.</au></rj><br/
+<p><sn>2.</sn> <def>A pipe for conveying water.</def> <mark>[Obs.]</mark>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>A permanent abnormal opening into the soft parts with a constant discharge; a deep, narrow, chronic abscess; an abnormal opening between an internal cavity and another cavity or the surface; <as>as, a salivary <ex>fistula</ex>; an anal <ex>fistula</ex>; a recto-vaginal <ex>fistula</ex>.</as></def><br/
@@ -14665,7 +14666,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 her foes who first her quarry's strength should feel.</q> <rj><qau>Fairfax.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Conformed to a standart of duty, properiety, or taste; convenient; meet; becoming; proper.</def><br/
+<p><sn>3.</sn> <def>Conformed to a standard of duty, propriety, or taste; convenient; meet; becoming; proper.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Is it <qex>fit</qex> to say a king, Thou art wicked?</q> <rj><qau>Job xxxiv. 18.</qau></rj></p>
@@ -15033,7 +15034,7 @@ Resolved to <qex>fix</qex> forever here.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fix</ent><br/
-<hw>Fix</hw>, <pos>n.</pos> <sn>1.</sn> <def>A position of difficulty or embarassment; predicament; dilemma.</def> <mark>[Colloq.]</mark><br/
+<hw>Fix</hw>, <pos>n.</pos> <sn>1.</sn> <def>A position of difficulty or embarrassment; predicament; dilemma.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Is he not living, then? No. is he dead, then? No, nor dead either. Poor Aroar can not live, and can not die, -- so that he is in an almighty <qex>fix</qex>.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -15076,7 +15077,7 @@ Resolved to <qex>fix</qex> forever here.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fixed</ent><br/
-<hw>Fixed</hw> <pr>(f<icr/kst)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Securely placed or fastened; settled; established; firm; imovable; unalterable.</def><br/
+<hw>Fixed</hw> <pr>(f<icr/kst)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Securely placed or fastened; settled; established; firm; immovable; unalterable.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>Stable; non-volatile.</def><br/
@@ -15398,7 +15399,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 \'d8<hw>Fla*gel"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Flagellums</plw> <pr>(#)</pr>, L. <plw>Flagella</plw> <pr>(#)</pr>.</plu> <ety>[L., a whip. See <er>Flagellate</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A young, flexible shoot of a plant; esp., the long trailing branch of a vine, or a slender branch in certain mosses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A long, whiplike cilium. See <er>Flagellata</er>.</def> <sd>(b)</sd> <def>An appendage of the reproductive apparatus of the snail.</def> <sd>(c)</sd> <def>A lashlike appendage of a crustacean, esp. the terminal ortion of the antenn<ae/ and the epipodite of the maxilipeds. See <er>Maxilliped</er>.</def><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A long, whiplike cilium. See <er>Flagellata</er>.</def> <sd>(b)</sd> <def>An appendage of the reproductive apparatus of the snail.</def> <sd>(c)</sd> <def>A lashlike appendage of a crustacean, esp. the terminal portion of the antenn<ae/ and the epipodite of the maxilipeds. See <er>Maxilliped</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 566 --></p>
@@ -15495,7 +15496,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><q>Lust causeth a <qex>flagrancy</qex> in the eyes.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The condition or quality of being flagrant; atrocity; heiniousness; enormity; excess.</def>  <rj><au>Steele.</au></rj><br/
+<p><sn>2.</sn> <def>The condition or quality of being flagrant; atrocity; heinousness; enormity; excess.</def>  <rj><au>Steele.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flagrant</ent><br/
@@ -15588,7 +15589,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>2.</sn>  <def>Sense of smell; scent; fig., discriminating sense.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>3.</sn> <def>A talent or ability, expecially an intuitive one that makes performance of a task appear easy; an intuitive appreciation; a knack; <as>as, she has a <ex>flair</ex> for acting</as>.</def><br/
+<p><sn>3.</sn> <def>A talent or ability, especially an intuitive one that makes performance of a task appear easy; an intuitive appreciation; a knack; <as>as, she has a <ex>flair</ex> for acting</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>An attractive way of performing a task; style.</def><br/
@@ -15808,7 +15809,7 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 <p><sn>2.</sn> <def>Of the color of flame; high-colored; brilliant; dazzling.</def> <ldquo/In <xex>flaming</xex> yellow bright.<rdquo/  <rj><au>Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Ardent; passionate; burning with zeal; irrepressibly earnest; <as>as, a <ex>flaming</ex> proclomation or harangue</as>.</def><br/
+<p><sn>3.</sn> <def>Ardent; passionate; burning with zeal; irrepressibly earnest; <as>as, a <ex>flaming</ex> proclamation or harangue</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flamingly</ent><br/
@@ -15946,7 +15947,7 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flanker</ent><br/
-<hw>Flank"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, flanks, as a skirmisher or a body of troops sent out upon the flanks of an army toguard a line of march, or a fort projecting so as to command the side of an assailing body.</def><br/
+<hw>Flank"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, flanks, as a skirmisher or a body of troops sent out upon the flanks of an army to guard a line of march, or a fort projecting so as to command the side of an assailing body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They threw out <qex>flankers</qex>, and endeavored to dislodge their assailants.</q> <rj><qau>W. Irwing.</qau></rj><br/
@@ -15963,7 +15964,7 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 <hw>Flan"nel</hw> <pr>(fl<acr/n"n<ecr/l)</pr>, <pos>n.</pos> <ety>[F. <ets>flanelle</ets>, cf. OF. <ets>flaine</ets> a pillowcase, a mattress (?); fr. W. <ets>gwlanen</ets> flannel, fr. <ets>gwlan</ets> wool; prob. akin to E. <ets>wool</ets>.  Cf. <er>Wool</er>.]</ety> <sn>1.</sn> <def>A soft, nappy, woolen cloth, of loose texture.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>a cotton fabric with a thick nap on one side, resembling flannel{1}; it is used, <it>e. g.</it> for underwear or sheets; also called <altname>flanellette</altname>.</def><br/
+<p><sn>2.</sn> <def>a cotton fabric with a thick nap on one side, resembling flannel{1}; it is used, <it>e. g.</it> for underwear or sheets; also called <altname>flannelette</altname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <pluf>pl.</pluf> <def>garments made of flannel, especially underwear.</def><br/
@@ -16162,7 +16163,7 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 <p><q>His [the sun's] <qex>flaring</qex> beams.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Opening or speading outwards.</def><br/
+<p><sn>2.</sn> <def>Opening or spreading outwards.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flaringly</ent><br/
@@ -16594,7 +16595,7 @@ Because you are a <qex>flat</qex>.</q> <rj><qau>Holmes.</qau></rj><br/
 
 <p><ent>flatfoot</ent><br/
 <ent>flat foot</ent><br/
-<mhw><hw>flat" foot`</hw>, <hw>flat"foot`</hw></mhw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>A foot in which the arch of the instep is flattened so that the entire sole of the foot rests upon the ground; also, the deformity, usually congential, exhibited by such a foot; splayfoot.</def><br/
+<mhw><hw>flat" foot`</hw>, <hw>flat"foot`</hw></mhw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>A foot in which the arch of the instep is flattened so that the entire sole of the foot rests upon the ground; also, the deformity, usually congenital, exhibited by such a foot; splayfoot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>flatfoot</ent><br/
@@ -16671,7 +16672,7 @@ Because you are a <qex>flat</qex>.</q> <rj><qau>Holmes.</qau></rj><br/
 <hw>flat"ness</hw>, <pos>n.</pos> <sn>1.</sn> <def>The quality or state of being flat.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Eveness of surface; want of relief or prominence; the state of being plane or level.</def><br/
+<p><sn>2.</sn> <def>Evenness of surface; want of relief or prominence; the state of being plane or level.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Want of vivacity or spirit; prostration; dejection; depression.</def><br/
@@ -16920,7 +16921,7 @@ To draw men as they ought be, not as they are.</q> <rj><qau>Goldsmith.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flavaniline</ent><br/
-<hw>Fla*van"i*line</hw> <pr>(? <or/ ?; 104)</pr>, <pos>n.</pos> <ety>[L. <ets>flavus</ets> yellow + E. <ets>aniline</ets>.]</ety> <fld>(Chem.)</fld> <def>A yellow, crystalline, organic dyestuff, <chform>C16H14N2</chform>, of artifical production. It is a strong base, and is a complex derivative of aniline and quinoline.</def><br/
+<hw>Fla*van"i*line</hw> <pr>(? <or/ ?; 104)</pr>, <pos>n.</pos> <ety>[L. <ets>flavus</ets> yellow + E. <ets>aniline</ets>.]</ety> <fld>(Chem.)</fld> <def>A yellow, crystalline, organic dyestuff, <chform>C16H14N2</chform>, of artificial production. It is a strong base, and is a complex derivative of aniline and quinoline.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flavescent</ent><br/
@@ -17390,7 +17391,7 @@ Like a tame wether, all my precious <qex>fleece</qex>.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fleecer</ent><br/
-<hw>Flee"cer</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who fleeces or strips unjustly, especially by trickery or fraund.</def>  <rj><au>Prynne.</au></rj><br/
+<hw>Flee"cer</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who fleeces or strips unjustly, especially by trickery or fraud.</def>  <rj><au>Prynne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fleecy</ent><br/
@@ -17467,7 +17468,7 @@ Dissolved on earth, <qex>fleet</qex> hither.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Fleet</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To pass over rapidly; to skin the surface of; <as>as, a ship that <ex>fleets</ex> the gulf</as>.</def>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To hasten over; to cause to pass away lighty, or in mirth and joy.</def><br/
+<p><sn>2.</sn> <def>To hasten over; to cause to pass away lightly, or in mirth and joy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Many young gentlemen flock to him, and <qex>fleet</qex> the time carelessly.</q> <rj><qau>Shak.</qau></rj><br/
@@ -17605,7 +17606,7 @@ In floods and sedgy <qex>fleets</qex>.</q> <rj><qau>Matthewes.</qau></rj><br/
 Were brass impregnable.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>The human eace; mankind; humanity.</def><br/
+<p><sn>4.</sn> <def>The human race; mankind; humanity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>All <qex>flesh</qex> had corrupted his way upon the earth.</q> <rj><qau>Gen. vi. 12.</qau></rj><br/
@@ -18136,7 +18137,7 @@ E'er made that haste that they have.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 Unless the deed go with it.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Indulging in flights, or wild and unrestrained sallies, of imagination, humor, caprice, etc.; given to disordered fancies and extravagant conduct; volatile; giddy; eccentric; slighty delirious.</def><br/
+<p><sn>2.</sn> <def>Indulging in flights, or wild and unrestrained sallies, of imagination, humor, caprice, etc.; given to disordered fancies and extravagant conduct; volatile; giddy; eccentric; slightly delirious.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Proofs of my <qex>flighty</qex> and paradoxical turn of mind.</q> <rj><qau>Coleridge.</qau></rj><br/
@@ -18177,7 +18178,7 @@ Unless the deed go with it.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flinch</ent><br/
-<hw>Flinch</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Flinched</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Flinching</conjf>.]</vmorph> <ety>[Prob. fr. OE. <ets>flecchen</ets> to waver, give way, F. <ets>fl<eacute/chir</ets>, fr. L. <ets>flectere</ets> to bend; but prob. influenced by E. <ets>blench</ets>.  Cf. <er>Flex</er>.]</ety> <sn>1.</sn> <def>To withdraw from any suffering or undertaking, from pain or danger; to fail in doing or perserving; to show signs of yielding or of suffering; to shrink; to wince; <as>as, one of the parties <ex>flinched</ex> from the combat</as>.</def><br/
+<hw>Flinch</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Flinched</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Flinching</conjf>.]</vmorph> <ety>[Prob. fr. OE. <ets>flecchen</ets> to waver, give way, F. <ets>fl<eacute/chir</ets>, fr. L. <ets>flectere</ets> to bend; but prob. influenced by E. <ets>blench</ets>.  Cf. <er>Flex</er>.]</ety> <sn>1.</sn> <def>To withdraw from any suffering or undertaking, from pain or danger; to fail in doing or preserving; to show signs of yielding or of suffering; to shrink; to wince; <as>as, one of the parties <ex>flinched</ex> from the combat</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A child, by a constant course of kindness, may be accustomed to bear very rough usage without <qex>flinching</qex> or complaining.</q> <rj><qau>Locke.</qau></rj><br/
@@ -18304,7 +18305,7 @@ Both at senate house and king.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>3.</sn> <def>A kind of dance; <as>as, the Highland <ex>fling</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>A trifing matter; an object of contempt.</def> <mark>[Obs.]</mark><br/
+<p><sn>4.</sn> <def>A trifling matter; an object of contempt.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>England were but a <qex>fling</qex><br/
@@ -18881,7 +18882,7 @@ I <qex>floated</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 \'d8<hw>Floc"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Flocci</plw> <pr>(#)</pr>.</plu> <ety>[L., a flock of wool.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The tuft of hair terminating the tail of mammals.</def> <sd>(b)</sd> <def>A tuft of feathers on the head of young birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Bot.)</fld> <def>A woolly filament sometimes occuring with the sporules of certain fungi.</def><br/
+<p><sn>2.</sn> <fld>(Bot.)</fld> <def>A woolly filament sometimes occurring with the sporules of certain fungi.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flock</ent><br/
@@ -19008,7 +19009,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 <p><sn>3.</sn> <def>A great flow or stream of any fluid substance; <as>as, a <ex>flood</ex> of light; a <ex>flood</ex> of lava</as>; hence, a great quantity widely diffused; an overflowing; a superabundance; <as>as, a <ex>flood</ex> of bank notes; a <ex>flood</ex> of paper currency.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>Menstrual disharge; menses.</def>  <rj><au>Harvey.</au></rj><br/
+<p><sn>4.</sn> <def>Menstrual discharge; menses.</def>  <rj><au>Harvey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Flood anchor</b></col> <fld>(Naut.)</fld> <cd>, the anchor by which a ship is held while the tide is rising.</cd> -- <col><b>Flood fence</b></col>, <cd>a fence so secured that it will not be swept away by a flood.</cd> -- <col><b>Flood gate</b></col>, <cd>a gate for shutting out, admitting, or releasing, a body of water; a tide gate.</cd> -- <col><b>Flood mark</b></col>, <cd>the mark or line to which the tide, or a flood, rises; high-water mark.</cd> -- <col><b>Flood tide</b></col>, <cd>the rising tide; -- opposed to <contr>ebb tide</contr>.</cd> -- <col><b>The Flood</b></col>, <cd>the deluge in the days of Noah.</cd></cs><br/
@@ -19137,7 +19138,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 <p><sn>3.</sn> <def>defeated; overwhelmed.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>4.</sn> <def>suprised and confounded; nonplused; <as>as, I was <ex>floored</ex> by the brilliance of the solution</as>.</def><br/
+<p><sn>4.</sn> <def>surprised and confounded; nonplused; <as>as, I was <ex>floored</ex> by the brilliance of the solution</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Floorer</ent><br/
@@ -19145,7 +19146,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Floorheads</ent><br/
-<hw>Floor"heads`</hw>, <pos>n. pl.</pos> <fld>(Naut.)</fld> <def>The upper extermities of the floor of a vessel.</def><br/
+<hw>Floor"heads`</hw>, <pos>n. pl.</pos> <fld>(Naut.)</fld> <def>The upper extremities of the floor of a vessel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flooring</ent><br/
@@ -19228,7 +19229,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Floren</ent><br/
-<hw>Flor"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>florenus</ets>. See <er>Florin</er>.]</ety> <def>A cerain gold coin; a Florence.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Flor"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>florenus</ets>. See <er>Florin</er>.]</ety> <def>A certain gold coin; a Florence.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Florence</ent><br/
@@ -19409,11 +19410,11 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flos-ferri</ent><br/
-\'d8<hw>Flos`-fer"ri</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[L., flower of iron.]</ety> <fld>(Min.)</fld> <def>A variety of aragonite, occuring in delicate white coralloidal forms; -- common in beds of iron ore.</def><br/
+\'d8<hw>Flos`-fer"ri</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[L., flower of iron.]</ety> <fld>(Min.)</fld> <def>A variety of aragonite, occurring in delicate white coralloidal forms; -- common in beds of iron ore.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flosh</ent><br/
-<hw>Flosh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>fl<oum/sse</ets> a trough in which tin ore is washed.]</ety> <fld>(Metallurgy)</fld> <def>A hopper-shaped box or <?/nortar in which ore is placed for the action of the stamps.</def>  <rj><au>Knight.</au></rj><br/
+<hw>Flosh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>fl<oum/sse</ets> a trough in which tin ore is washed.]</ety> <fld>(Metallurgy)</fld> <def>A hopper-shaped box or mortar in which ore is placed for the action of the stamps.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Floss</ent><br/
@@ -19448,7 +19449,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flota</ent><br/
-\'d8<hw>Flo"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. See <er>Flotilla</er>.]</ety> <def>A fleet; especially, a <?/eet of Spanish ships which formerly sailed every year from Cadiz to Vera Cruz, in Mexico, to transport to Spain the production of Spanish America.</def><br/
+\'d8<hw>Flo"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. See <er>Flotilla</er>.]</ety> <def>A fleet; especially, a fleet of Spanish ships which formerly sailed every year from Cadiz to Vera Cruz, in Mexico, to transport to Spain the production of Spanish America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flotage</ent><br/
@@ -19518,7 +19519,7 @@ The rising sirge, and <qex>flounces</qex> in the waves.</q> <rj><qau>Addison.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flounce</ent><br/
-<hw>Flounce</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of floucing; a sudden, jerking motion of the body.</def><br/
+<hw>Flounce</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of flouncing; a sudden, jerking motion of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flounce</ent><br/
@@ -19575,7 +19576,7 @@ The rising sirge, and <qex>flounces</qex> in the waves.</q> <rj><qau>Addison.</q
 <p><q>A tree thrives and <qex>flourishes</qex> in a kindly . . . soil.</q> <rj><qau>Bp. Horne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To be prosperous; to increase in wealth, honor, comfort, happiness, or whatever is desirable; to thrive; to be prominent and influental; specifically, of authors, painters, etc., to be in a state of activity or production.</def><br/
+<p><sn>2.</sn> <def>To be prosperous; to increase in wealth, honor, comfort, happiness, or whatever is desirable; to thrive; to be prominent and influential; specifically, of authors, painters, etc., to be in a state of activity or production.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>When all the workers of iniquity do <qex>flourish</qex>.</q> <rj><qau>Ps. xcii 7</qau></rj><br/
@@ -19615,7 +19616,7 @@ The stream, and smoking <qex>flourished</qex> o'er his head.</q> <rj><qau>Pope.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flourish</ent><br/
-<hw>Flour"ish</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To adorn with flowers orbeautiful figures, either natural or artificial; to ornament with anything showy; to embellish.</def> <mark>[Obs.]</mark>  <rj><au>Fenton.</au></rj><br/
+<hw>Flour"ish</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To adorn with flowers or beautiful figures, either natural or artificial; to ornament with anything showy; to embellish.</def> <mark>[Obs.]</mark>  <rj><au>Fenton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To embellish with the flowers of diction; to adorn with rhetorical figures; to grace with ostentatious eloquence; to set off with a parade of words.</def> <mark>[Obs.]</mark><br/
@@ -19737,7 +19738,7 @@ Was the pride of naked truth.</q> <rj><qau>Crashaw.</qau></rj><br/
 From all her words and actions.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>To glide along smoothly, without harshness or asperties; <as>as, a <ex>flowing</ex> period; <ex>flowing</ex> numbers</as>; to sound smoothly to the ear; to be uttered easily.</def><br/
+<p><sn>4.</sn> <def>To glide along smoothly, without harshness or asperities; <as>as, a <ex>flowing</ex> period; <ex>flowing</ex> numbers</as>; to sound smoothly to the ear; to be uttered easily.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Virgil is sweet and <qex>flowing</qex>in his hexameters.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -20077,7 +20078,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 <p><sn>2.</sn> <def>A wavering; unsteadiness; <as>as, <ex>fluctuations</ex> of opinion; <ex>fluctuations</ex> of prices.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Med.)</fld> <def>The motion or undulation of a fluid collected in a natural or artifical cavity, which is felt when it is subjected to pressure or percussion.</def>  <rj><au>Dunglison.</au></rj><br/
+<p><sn>3.</sn> <fld>(Med.)</fld> <def>The motion or undulation of a fluid collected in a natural or artificial cavity, which is felt when it is subjected to pressure or percussion.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flue</ent><br/
@@ -20284,11 +20285,11 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flume</ent><br/
-<hw>Flume</hw> <pr>(f;<umac/m)</pr>, <pos>n.</pos> <ety>[Cf. OE. <ets>flum</ets> river, OF, <ets>flum</ets>, fr. L. <ets>flumen</ets>, fr. <ets>fluere</ets> to flow. <root/84. See <er>Fluent</er>.]</ety> <def>A stream; especially, a passage channel, or conduit for the water that drives a mill wheel; or an artifical channel of water for hydraulic or placer mining; also, a chute for conveying logs or lumber down a declivity.</def><br/
+<hw>Flume</hw> <pr>(f;<umac/m)</pr>, <pos>n.</pos> <ety>[Cf. OE. <ets>flum</ets> river, OF, <ets>flum</ets>, fr. L. <ets>flumen</ets>, fr. <ets>fluere</ets> to flow. <root/84. See <er>Fluent</er>.]</ety> <def>A stream; especially, a passage channel, or conduit for the water that drives a mill wheel; or an artificial channel of water for hydraulic or placer mining; also, a chute for conveying logs or lumber down a declivity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluminous</ent><br/
-<hw>Flu"mi*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>flumen</ets>, <ets>fluminis</ets>, river.]</ety> <def>Pertaining to rivers; abounding in streama.</def><br/
+<hw>Flu"mi*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>flumen</ets>, <ets>fluminis</ets>, river.]</ety> <def>Pertaining to rivers; abounding in streams.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flummery</ent><br/
@@ -20366,7 +20367,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 
 <p><ent>Fluocerite</ent><br/
 <ent>Fluocerine</ent><br/
-<mhw>{ <hw>Flu`o*ce"rine</hw> <pr>(?)</pr>, <hw>Flu`o*ce"rite</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[<ets>Fluo-</ets> + <ets>cerium</ets>.]</ety> <fld>(Min.)</fld> <def>A fluoride of cerium, occuring near Fahlun in Sweden. Tynosite, from Colorado, is probably the same mineral.</def><br/
+<mhw>{ <hw>Flu`o*ce"rine</hw> <pr>(?)</pr>, <hw>Flu`o*ce"rite</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[<ets>Fluo-</ets> + <ets>cerium</ets>.]</ety> <fld>(Min.)</fld> <def>A fluoride of cerium, occurring near Fahlun in Sweden. Tynosite, from Colorado, is probably the same mineral.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluohydric</ent><br/
@@ -20629,7 +20630,7 @@ Was Monte Rosa, hanging there!</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>With all his crimes broad blown, as <qex>flush</qex> as May.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Affluent; abounding; well furnished or suppled; hence, liberal; prodigal.</def><br/
+<p><sn>2.</sn> <def>Affluent; abounding; well furnished or supplied; hence, liberal; prodigal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Lord Strut was not very <qex>flush</qex> in ready.</q> <rj><qau>Arbuthnot.</qau></rj><br/
@@ -20796,7 +20797,7 @@ That lute and <qex>flute</qex> fantastic tenderness.</q> <rj><qau>Tennyson.</qau
     That once so <qex>fluttered</qex>, and that once so writ.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>To be in agitation; to move irregularly; to flucttuate; to be uncertainty.</def><br/
+<p><sn>4.</sn> <def>To be in agitation; to move irregularly; to fluctuate; to be uncertainty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q> Long we <qex>fluttered</qex> on the wings of doubtful success.</q> <rj><qau>Howell.</qau></rj><br/
@@ -20846,7 +20847,7 @@ That lute and <qex>flute</qex> fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluvialist</ent><br/
-<hw>Flu"vi*al*ist</hw>, <pos>n.</pos> <def>One who exlpains geological phenomena by the action of streams.</def> <mark>[R.]</mark><br/
+<hw>Flu"vi*al*ist</hw>, <pos>n.</pos> <def>One who explains geological phenomena by the action of streams.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluviatic</ent><br/
@@ -20964,7 +20965,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 <p><q>Less to be counted than the <qex>fluxions</qex> of sun dials.</q> <rj><qau>De Quincey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Math.)</fld> <sd>(a)</sd> <def>The infinitely small increase or decrease of a variable or flowing quantity in a certain infinitely small and constant period of time; the rate of variation of a fluent; an incerement; a differential.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>A method of analysis developed by Newton, and based on the conception of all magnitudes as generated by motion, and involving in their changes the notion of velocity or rate of change. Its results are the same as those of the differential and integral calculus, from which it differs little except in notation and logical method.</def><br/
+<p><sn>6.</sn> <fld>(Math.)</fld> <sd>(a)</sd> <def>The infinitely small increase or decrease of a variable or flowing quantity in a certain infinitely small and constant period of time; the rate of variation of a fluent; an increment; a differential.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>A method of analysis developed by Newton, and based on the conception of all magnitudes as generated by motion, and involving in their changes the notion of velocity or rate of change. Its results are the same as those of the differential and integral calculus, from which it differs little except in notation and logical method.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluxional</ent><br/
@@ -33154,7 +33155,7 @@ limits.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frugivora</ent><br/
-\'d8<hw>Fru*giv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Frugivorous</er>.]</ety> <fld>(Zool.)</fld> <def>The fruit bate; a group of the Cheiroptera, comprising the bats which live on fruits. See <cref>Eruit bat</cref>, under <er>Fruit</er>.</def><br/
+\'d8<hw>Fru*giv"o*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Frugivorous</er>.]</ety> <fld>(Zool.)</fld> <def>The fruit bate; a group of the Cheiroptera, comprising the bats which live on fruits. See <cref>Fruit bat</cref>, under <er>Fruit</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frugivorous</ent><br/
@@ -33363,11 +33364,11 @@ I'll <qex>frush</qex> it and unlock the rivets all.</q> <rj><qau>Shak.</qau></rj
 <hw>Frush</hw>, <pos>n.</pos> <ety>[Cf. OE. <ets>frosch</ets>, <ets>frosk</ets>, a frog (the animal), G. <ets>frosch</ets> frog (the animal), also carney or lampass of horses. See <er>Frog</er>, <pos>n.</pos>, 2.]</ety>  <sn>1.</sn> <fld>(Far.)</fld> <def>The frog of a horse's foot.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A discharge of a fetid or ichorous matter from the frog of a horse's foot; -- also caled <altname>thrush.</altname></def><br/
+<p><sn>2.</sn> <def>A discharge of a fetid or ichorous matter from the frog of a horse's foot; -- also called <altname>thrush.</altname></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frustrable</ent><br/
-<hw>Frus"tra*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>frustrabilis</ets>: cf. F. <ets>frustable</ets>.]</ety> <def>Capable of beeing frustrated or defeated.</def><br/
+<hw>Frus"tra*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>frustrabilis</ets>: cf. F. <ets>frustable</ets>.]</ety> <def>Capable of being frustrated or defeated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frustraneous</ent><br/
@@ -33375,7 +33376,7 @@ I'll <qex>frush</qex> it and unlock the rivets all.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frustrate</ent><br/
-<hw>Frus"trate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>frustratus</ets>, p. p. of <ets>frustrare</ets>, <ets>frustrari</ets>, to deceive, frustrate, fr. <ets>frustra</ets> in vain, witout effect, in erorr, prob. for <ets>frudtra</ets> and akin to <ets>fraus</ets>, E. <ets>fraud</ets>.]</ety> <def>Vain; ineffectual; useless; unprofitable; null; voil; nugatory; of no effect.</def> <ldquo/Our <xex>frustrate</xex> search.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Frus"trate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>frustratus</ets>, p. p. of <ets>frustrare</ets>, <ets>frustrari</ets>, to deceive, frustrate, fr. <ets>frustra</ets> in vain, witout effect, in erorr, prob. for <ets>frudtra</ets> and akin to <ets>fraus</ets>, E. <ets>fraud</ets>.]</ety> <def>Vain; ineffectual; useless; unprofitable; null; void; nugatory; of no effect.</def> <ldquo/Our <xex>frustrate</xex> search.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Frustrate</ent><br/
@@ -33386,7 +33387,7 @@ I'll <qex>frush</qex> it and unlock the rivets all.</q> <rj><qau>Shak.</qau></rj
 His end and <qex>frustrate</qex> thine ?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To make null; to nullifly; to render invalid or of no effect; <as>as, to <ex>frustrate</ex> a conveyance or deed</as>.</def></p>
+<p><sn>2.</sn> <def>To make null; to nullify; to render invalid or of no effect; <as>as, to <ex>frustrate</ex> a conveyance or deed</as>.</def></p>
 
 <p><syn><b>Syn.</b> -- To balk; thwart; foil; baffle; defeat.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -33811,7 +33812,7 @@ That <qex>fuels</qex> the infernal flame.</q> <rj><qau>Cowley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fugato</ent><br/
-\'d8<hw>Fu*ga"to</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Mus.)</fld> <def>in the gugue style, but not strictly like a fugue.</def> -- <def2><pos>n.</pos> <def>A composition resembling a fugue.</def></def2><br/
+\'d8<hw>Fu*ga"to</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Mus.)</fld> <def>in the fugue style, but not strictly like a fugue.</def> -- <def2><pos>n.</pos> <def>A composition resembling a fugue.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fugh</ent><br/
@@ -34326,7 +34327,7 @@ That stands upon the swell at <qex>full</qex> of tide.</q> <rj><qau>Shak.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Full-manned</ent><br/
-<hw>Full"-manned`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Completely furnished wiith men, as a ship.</def><br/
+<hw>Full"-manned`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Completely furnished with men, as a ship.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fullmart</ent><br/
@@ -34788,7 +34789,7 @@ Whose constant cups lay <qex>fuming</qex> to his brain.</q> <rj><qau>Roscommon.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fumigator</ent><br/
-<hw>Fu"mi*ga`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, fumigates; an apparattus for fumigating.</def><br/
+<hw>Fu"mi*ga`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, fumigates; an apparatus for fumigating.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fumigatory</ent><br/
@@ -34825,7 +34826,7 @@ Whose constant cups lay <qex>fuming</qex> to his brain.</q> <rj><qau>Roscommon.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fumitory</ent><br/
-<hw>Fu"mi*to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>fumetere</ets>, F. <ets>fumeterre</ets>, prop., smoke of the ground, fr. L. <ets>fumus</ets> smoke + <ets>terra</ets> earth. See <er>Fume</er>, and <er>Terrace</er>.]</ety> <fld>(Bot.)</fld> <def>The common uame of several species of the genus Fumaria, annual herbs of the Old World, with finely dissected leaves and small flowers in dense racemes or spikes. <spn>F. officinalis</spn> is a common species, and was formerly used as an antiscorbutic.</def><br/
+<hw>Fu"mi*to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>fumetere</ets>, F. <ets>fumeterre</ets>, prop., smoke of the ground, fr. L. <ets>fumus</ets> smoke + <ets>terra</ets> earth. See <er>Fume</er>, and <er>Terrace</er>.]</ety> <fld>(Bot.)</fld> <def>The common name of several species of the genus Fumaria, annual herbs of the Old World, with finely dissected leaves and small flowers in dense racemes or spikes. <spn>F. officinalis</spn> is a common species, and was formerly used as an antiscorbutic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Climbing fumitory</b></col> <fld>(Bot.)</fld>, <cd>the Alleghany vine (<spn>Adlumia cirrhosa</spn>); a biennial climbing plant with elegant feathery leaves and large clusters of pretty white or pinkish flowers looking like grains of rice.</cd></cs><br/
@@ -35052,7 +35053,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 <hw>fundamentalism</hw> <pos>n.</pos> <sn>1.</sn> <def>A system of beliefs based on the interpretation of every word in the Bible, both old and new testaments, as literal truth.  It is primarily held by a branch of American Protestants.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>The beliefs or practises based on a rigid adherence to some traditional doctrine; extreme conservatism; <as>as, Moslem <ex>fundamentalism</ex>; the political <ex>fundamentalism</ex> of the Christian right</as>.</def><br/
+<p><sn>2.</sn> <def>The beliefs or practices based on a rigid adherence to some traditional doctrine; extreme conservatism; <as>as, Moslem <ex>fundamentalism</ex>; the political <ex>fundamentalism</ex> of the Christian right</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>fundamentalistic</ent><br/
@@ -35182,7 +35183,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fungi</ent><br/
-<hw>Fun"gi</hw> <pr>(f<ucr/n"j<imac/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>fungus</singw>.</sing> <fld>(Biol.)</fld> <def>A group of thallophytic plant-like organisms of low organization, destitute of chlorophyll, in which reproduction is mainly accomplished by means of asexual spores, which are produced in a great variety of ways, though sexual reproduction is known to occur in certain <stype>Phycomycetes</stype>, or so-called algal fungi. They include the molds, mildews, rusts, smuts, mushrooms, toadstools, puff balls, and the allies of each.  In the two-kingdom classification system they were classed with the plants, but in the modern five-kingdom classification, they are not classed as plants, but are classed in their own separate kingdom <it>fungi</it>, which includes the phyla <phylum>Zygomycota</phylum> (including simple fungi such as bread molds), <phylum>Ascomycota</phylum> (including the yeasts), <phylum>Basidiomycota</phylum> (including the mushrooms, smuts, and rusts), and <phylum>Deuteromycota</phylum> (the <er>fungi imperfecti</er>).  Some of the forms, such as the yeasts, appear as single-celled microorganisms, but all of the fungi are are eukaryotic, thus distinguishing them from the prokaryotic microorganisms of the kingdon <it>Monera</it>.</def><br/
+<hw>Fun"gi</hw> <pr>(f<ucr/n"j<imac/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>fungus</singw>.</sing> <fld>(Biol.)</fld> <def>A group of thallophytic plant-like organisms of low organization, destitute of chlorophyll, in which reproduction is mainly accomplished by means of asexual spores, which are produced in a great variety of ways, though sexual reproduction is known to occur in certain <stype>Phycomycetes</stype>, or so-called algal fungi. They include the molds, mildews, rusts, smuts, mushrooms, toadstools, puff balls, and the allies of each.  In the two-kingdom classification system they were classed with the plants, but in the modern five-kingdom classification, they are not classed as plants, but are classed in their own separate kingdom <it>fungi</it>, which includes the phyla <phylum>Zygomycota</phylum> (including simple fungi such as bread molds), <phylum>Ascomycota</phylum> (including the yeasts), <phylum>Basidiomycota</phylum> (including the mushrooms, smuts, and rusts), and <phylum>Deuteromycota</phylum> (the <er>fungi imperfecti</er>).  Some of the forms, such as the yeasts, appear as single-celled microorganisms, but all of the fungi are are eukaryotic, thus distinguishing them from the prokaryotic microorganisms of the kingdom <it>Monera</it>.</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ The <ex>Fungi</ex> appear to have originated by degeneration from various alg<ae/, losing their chlorophyll on assuming a parasitic or saprophytic life. In an earlier classification they were divided into the subclasses <stype>Phycomycetes</stype>, the lower or algal fungi; the <stype>Mesomycetes</stype>, or intermediate fungi; and the <stype>Mycomycetes</stype>, or the higher fungi; by others into the <stype>Phycomycetes</stype>; the <stype>Ascomycetes</stype>, or sac-spore fungi; and the <stype>Basidiomycetes</stype>, or basidial-spore fungi.</note><br/
@@ -35622,7 +35623,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 <p><note><hand/ Furnaces are classified as <xex>wind</xex> or <xex>air</xex>. <xex>furnaces</xex> when the fire is urged only by the natural draught; as <xex>blast furnaces</xex>, when the fire is urged by the injection artificially of a forcible current of air; and as <xex>reverberatory furnaces</xex>, when the flame, in passing to the chimney, is thrown down by a low arched roof upon the materials operated upon.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A place or time of punishment, affiction, or great trial; severe experience or discipline.</def>  <rj><au>Deut. iv. 20.</au></rj><br/
+<p><sn>2.</sn> <def>A place or time of punishment, affliction, or great trial; severe experience or discipline.</def>  <rj><au>Deut. iv. 20.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bustamente furnace</b></col>, <cd>a shaft furnace for roasting quicksilver ores.</cd> -- <col><b>Furnace bridge</b></col>, <cd>Same as <cref>Bridge wall</cref>.</cd> See <er>Bridge</er>, <pos>n.</pos>, 5. -- <mcol><col><b>Furnace cadmiam</b></col> <it>or</it> <col><b>Furnace cadmia</b></col></mcol>, <cd>the oxide of zinc which accumulates in the chimneys of furnaces smelting zinciferous ores.</cd> <au>Raymond.</au> -- <col><b>Furnace hoist</b></col> <fld>(Iron Manuf.)</fld>, <cd>a lift for raising ore, coal, etc., to the mouth of a blast furnace.</cd></cs><br/
@@ -36052,7 +36053,7 @@ and the like.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fusible</ent><br/
-<hw>Fu"si*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>fusible</ets>. See <er>Fuse</er>, <pos>v. t.</pos>]</ety> <def>CapabIe of being melted or liquefied.</def><br/
+<hw>Fu"si*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>fusible</ets>. See <er>Fuse</er>, <pos>v. t.</pos>]</ety> <def>Capable of being melted or liquefied.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Fusible metal</b></col>, <cd>any alloy of different metals capable of being easily fused, especially an alloy of five parts of bismuth, three of lead, and two of tin, which melts at a temperature below that of boiling water.</cd> <au>Ure.</au> -- <col><b>Fusible plug</b></col> <fld>(Steam Boiler)</fld>, <cd>a piece of easily fusible alloy, placed in one of the sheets and intended to melt and blow off the steam in case of low water.</cd></cs><br/
