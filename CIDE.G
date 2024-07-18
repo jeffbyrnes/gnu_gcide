@@ -2,6 +2,7 @@
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
+    Copyright (C) 2012-2024 Sergey Poznyakoff
 
     GCIDE is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
