@@ -1206,7 +1206,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallature</ent><br/
-<hw>Gal"la*ture</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[From L. <ets>gallus</ets> a cock.]</ety> <fld>(Zool.)</fld> <def>The tread, treadle, or chalasa of an egg.</def><br/
+<hw>Gal"la*ture</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[From L. <ets>gallus</ets> a cock.]</ety> <fld>(Zool.)</fld> <def>The tread, treadle, or chalaza of an egg.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galleass</ent><br/
@@ -1377,7 +1377,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galligaskins</ent><br/
-<hw>Gal`li*gas"kins</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Prob. corrupted fr. It. <ets>Grechesco</ets> Grecian, a name which seems to have been given in Venice, and to have been afterwards confused with <ets>Gascony</ets>, as if they came from Gascony.]</ety> <def>Loose hose or breeches; leather leg quards. The word is used loosely and often in a jocose sense.</def><br/
+<hw>Gal`li*gas"kins</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Prob. corrupted fr. It. <ets>Grechesco</ets> Grecian, a name which seems to have been given in Venice, and to have been afterwards confused with <ets>Gascony</ets>, as if they came from Gascony.]</ety> <def>Loose hose or breeches; leather leg guards. The word is used loosely and often in a jocose sense.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallimatia</ent><br/
@@ -1450,7 +1450,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallium</ent><br/
-<hw>Gal"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; perh. fr. L. <ets>Gallia</ets> France.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element, found combined in certain zinc ores. It is white, hard, and malleable, resembling aluminium, and remarkable for its low melting point (86<deg/ F., 30<deg/ C.). Symbol, <it>Ga</it>; at. wt., 69.9. Gallium is chiefly trivalent, resembling aluminium and indium. It was predicted with most of its properties, under the name <xex>eka-aluminium</xex>, by the Russian chemist Mendelyeev on the basis of the periodic law.  This prediction was verified in its discovery (in 1875) by the French chemist Lecoq de Boisbaudran by its characteristic spectrum (two violet lines), in an examination of a zinc blende from the Pyrenees.</def><br/
+<hw>Gal"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.; perh. fr. L. <ets>Gallia</ets> France.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element, found combined in certain zinc ores. It is white, hard, and malleable, resembling aluminium, and remarkable for its low melting point (86<deg/ F., 30<deg/ C.). Symbol, <it>Ga</it>; at. wt., 69.9. Gallium is chiefly trivalent, resembling aluminium and indium. It was predicted with most of its properties, under the name <xex>eka-aluminium</xex>, by the Russian chemist Mendeleev on the basis of the periodic law.  This prediction was verified in its discovery (in 1875) by the French chemist Lecoq de Boisbaudran by its characteristic spectrum (two violet lines), in an examination of a zinc blende from the Pyrenees.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gallivant</ent><br/
@@ -1692,7 +1692,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galvanism</ent><br/
-<hw>Gal"va*nism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Galvani</ets>: cf. F. <ets>galvanisme</ets>. See <er>Galvanic</er>.]</ety> <fld>(Physics)</fld> <sd>(a)</sd> <def>Electricity excited by the mutual action of certain liquids and metals; dynamical electricity.</def> <sd>(b)</sd> <def>The branch of physical science which treats of dynamical elecricity, or the properties and effects of electrical currents.</def><br/
+<hw>Gal"va*nism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Galvani</ets>: cf. F. <ets>galvanisme</ets>. See <er>Galvanic</er>.]</ety> <fld>(Physics)</fld> <sd>(a)</sd> <def>Electricity excited by the mutual action of certain liquids and metals; dynamical electricity.</def> <sd>(b)</sd> <def>The branch of physical science which treats of dynamical electricity, or the properties and effects of electrical currents.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The words <xex>galvanism</xex> and <xex>galvanic</xex>, formerly in very general use, are now rarely employed. For the latter, <xex>voltaic</xex>, from the name of <xex>Volta</xex>, is commonly used.</note><br/
@@ -1777,7 +1777,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galvanoplastic</ent><br/
-<hw>Gal*van`o*plas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Galvanic</ets> + <ets>-plastic</ets>.]</ety> <def>Of or pertaining to the art or process of electrotyping; employing, or produced by, the process of electolytic deposition; <as>as, a <ex>galvano-plastic</ex> copy of a medal or the like</as>.</def><br/
+<hw>Gal*van`o*plas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Galvanic</ets> + <ets>-plastic</ets>.]</ety> <def>Of or pertaining to the art or process of electrotyping; employing, or produced by, the process of electrolytic deposition; <as>as, a <ex>galvano-plastic</ex> copy of a medal or the like</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galvanoplasty</ent><br/
@@ -1862,7 +1862,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gambet</ent><br/
-<hw>Gam"bet</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. <ets>gambette</ets>, or It. <ets>gambetta</ets>.]</ety> <fld>(Zool.)</fld> <def>Any bird of the genuis <xex>Totanus</xex>. See <er>Tattler</er>.</def><br/
+<hw>Gam"bet</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. <ets>gambette</ets>, or It. <ets>gambetta</ets>.]</ety> <fld>(Zool.)</fld> <def>Any bird of the genus <xex>Totanus</xex>. See <er>Tattler</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gambier</ent><br/
@@ -1874,7 +1874,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gambist</ent><br/
-<hw>Gam"bist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. <ets>gamba</ets> leg.]</ety> <fld>(Mus.)</fld> <def>A performer upon the <xex>viola di gamba</xex>. See under <er>Viola</er>.</def><br/
+<hw>Gam"bist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. <ets>gamba</ets> leg.]</ety> <fld>(Mus.)</fld> <def>A performer upon the <xex>viola da gamba</xex>. See under <er>Viola</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gambit</ent><br/
@@ -1904,7 +1904,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gamboge</ent><br/
-<hw>Gam*boge"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A concrete juice, or gum resin, produced by several species of trees in Siam, Ceylon, and Malabar. It is brought in masses, or cylindrical rolls, from <xex>Cambodia</xex>, or <etsep>Cambogia</etsep>, -- whence its name. The best kind is of a dense, compact texture, and of a beatiful reddish yellow. Taken internally, it is a strong and harsh cathartic and emetic.</def> <altsp>[Written also <asp>camboge</asp>.]</altsp><br/
+<hw>Gam*boge"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A concrete juice, or gum resin, produced by several species of trees in Siam, Ceylon, and Malabar. It is brought in masses, or cylindrical rolls, from <xex>Cambodia</xex>, or <etsep>Cambogia</etsep>, -- whence its name. The best kind is of a dense, compact texture, and of a beautiful reddish yellow. Taken internally, it is a strong and harsh cathartic and emetic.</def> <altsp>[Written also <asp>camboge</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ There are several kinds of gamboge, but all are derived from species of <gen>Garcinia</gen>, a genus of trees of the order <ord>Guttifer<ae/</ord>. The best Siam gamboge is thought to come from <prodby><spn>Garcinia Hanburii</spn></prodby>. Ceylon gamboge is from <prodby><spn>G. Morella</spn></prodby>.  <prodby><spn>G. pictoria</spn></prodby>, of Western India, yields <ex>gamboge</ex>, and also a kind of oil called <xex>gamboge butter</xex>.</note></p>
@@ -2454,7 +2454,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 <hw>Gang"way`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Gang</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>A passage or way into or out of any inclosed place; esp., a temporary way of access formed of planks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>In the English House of Commons, a narrow aisle across the house, below which sit those who do not vote steadly either with the government or with the opposition.</def><br/
+<p><sn>2.</sn> <def>In the English House of Commons, a narrow aisle across the house, below which sit those who do not vote steadily either with the government or with the opposition.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Naut.)</fld> <def>The opening through the bulwarks of a vessel by which persons enter or leave it.</def><br/
@@ -2783,7 +2783,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garble</ent><br/
-<hw>Gar"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Garbled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Garbling</conjf>.]</vmorph> <ety>[Formerly, to pick out, sort, OF. <ets>grabeler</ets>, for <ets>garbeler</ets> to examine precisely, garble spices, fr. LL. <ets>garbellare</ets> to sift; cf. Sp. <ets>garbillar</ets> to sift, <ets>garbillo</ets> a coarse sieve, L. <ets>cribellum</ets>, dim. of <ets>cribrum</ets> sieve, akin to <ets>cernere</ets> to separate, sift (cf. E. <er>Discern</er>); or perh. rather from Ar. <ets>gharb<amac/l</ets>, <ets>gharbil</ets>, sieve.]</ety> <sn>1.</sn> <def>To sift or bolt, to separate the fine or valuable parts of from the coarse and useless parts, or from dros or dirt; <as>as, to <ex>garble</ex> spices</as>.</def> <mark>[Obs.]</mark><br/
+<hw>Gar"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Garbled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Garbling</conjf>.]</vmorph> <ety>[Formerly, to pick out, sort, OF. <ets>grabeler</ets>, for <ets>garbeler</ets> to examine precisely, garble spices, fr. LL. <ets>garbellare</ets> to sift; cf. Sp. <ets>garbillar</ets> to sift, <ets>garbillo</ets> a coarse sieve, L. <ets>cribellum</ets>, dim. of <ets>cribrum</ets> sieve, akin to <ets>cernere</ets> to separate, sift (cf. E. <er>Discern</er>); or perh. rather from Ar. <ets>gharb<amac/l</ets>, <ets>gharbil</ets>, sieve.]</ety> <sn>1.</sn> <def>To sift or bolt, to separate the fine or valuable parts of from the coarse and useless parts, or from dross or dirt; <as>as, to <ex>garble</ex> spices</as>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To pick out such parts of as may serve a purpose; to mutilate; to pervert; <as>as, to <ex>garble</ex> a quotation; to <ex>garble</ex> an account.</as></def><br/
@@ -2892,7 +2892,7 @@ The pleasant <qex>garden</qex> of great Italy.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gardyloo</ent><br/
-<hw>Gar`dy*loo"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gare l'eau</ets> beware of the water.]</ety> <def>An old cry in throwing water, slops, etc., from the windows in Edingburgh.</def>  <rj><au>Sir. W. Scott.</au></rj><br/
+<hw>Gar`dy*loo"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gare l'eau</ets> beware of the water.]</ety> <def>An old cry in throwing water, slops, etc., from the windows in Edinburgh.</def>  <rj><au>Sir. W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gare</ent><br/
@@ -3286,7 +3286,7 @@ For <qex>garnish</qex> this, and that for use.</q> <rj><qau>Prior.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garrulus</ent><br/
-<hw>Garrulus</hw> <pos>prop. n.</pos> <def>The type genus of the Garrulinae, conmprising the Old World jays.</def><br/
+<hw>Garrulus</hw> <pos>prop. n.</pos> <def>The type genus of the Garrulinae, comprising the Old World jays.</def><br/
 <syn><b>Syn. --</b> genus <gen>Garrulus</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -3683,7 +3683,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastritis</ent><br/
-\'d8<hw>Gas*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from. Gr. <?/, <?/, stomach + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the stomach, esp. of its mucuos membrane.</def><br/
+\'d8<hw>Gas*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from. Gr. <?/, <?/, stomach + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the stomach, esp. of its mucous membrane.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastro-</ent><br/
@@ -3699,7 +3699,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastrodisc</ent><br/
-<hw>Gas`tro*disc</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Gastro-</ets> + <ets>disc</ets>.]</ety> <fld>(Biol.)</fld> <def>That part of blastoderm where the hypoblast appears like a small disk on the inner face of the epibladst.</def><br/
+<hw>Gas`tro*disc</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Gastro-</ets> + <ets>disc</ets>.]</ety> <fld>(Biol.)</fld> <def>That part of blastoderm where the hypoblast appears like a small disk on the inner face of the epiblast.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastroduodenal</ent><br/
@@ -3747,7 +3747,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromalacia</ent><br/
-\'d8<hw>Gas`tro*ma*la"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ softness, fr. <?/ soft.]</ety> <fld>(Med.)</fld> <def>A softening of the coats of the stomach; -- usually a post-morten change.</def><br/
+\'d8<hw>Gas`tro*ma*la"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, stomach + <?/ softness, fr. <?/ soft.]</ety> <fld>(Med.)</fld> <def>A softening of the coats of the stomach; -- usually a post-mortem change.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastromancy</ent><br/
@@ -3767,11 +3767,11 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Gastronomical</ent><br/
 <ent>Gastronomic</ent><br/
-<mhw><hw>Gas`tro*nom"ic</hw> <pr>(?)</pr>, <hw>Gas`tro*nom"ic*al</hw> <pr>(<?/)</pr></mhw>, <pos>a.</pos> <ety>[Cf. F. <ets>gastronomique</ets>.]</ety> <def>Pertaining to gastromony.</def><br/
+<mhw><hw>Gas`tro*nom"ic</hw> <pr>(?)</pr>, <hw>Gas`tro*nom"ic*al</hw> <pr>(<?/)</pr></mhw>, <pos>a.</pos> <ety>[Cf. F. <ets>gastronomique</ets>.]</ety> <def>Pertaining to gastronomy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastronomist</ent><br/
-<hw>Gas*tron"o*mist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A gastromomer.</def><br/
+<hw>Gas*tron"o*mist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A gastronomer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastronomy</ent><br/
@@ -3783,7 +3783,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastropneumatic</ent><br/
-<hw>Gas`tro*pneu*mat"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Gastro-</ets> + <ets>pneumatic</ets>.]</ety> <fld>(Anat.)</fld> <def>Pertaining to the alimentary canal and air passages, and to the cavities connected with them; <as>as, the <ex>gastropneumatic</ex> mucuos membranes</as>.</def><br/
+<hw>Gas`tro*pneu*mat"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Gastro-</ets> + <ets>pneumatic</ets>.]</ety> <fld>(Anat.)</fld> <def>Pertaining to the alimentary canal and air passages, and to the cavities connected with them; <as>as, the <ex>gastropneumatic</ex> mucous membranes</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gastropod</ent><br/
@@ -4168,7 +4168,7 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 
 <p><ent>Gaudeamus</ent><br/
 <ent>Gaudeamus Igitur</ent><br/
-\'d8<mhw><hw>Gaudeamus</hw>, <hw>Gaudeamus igitur</hw></mhw> <pr>(gou`d<amac/*<adot/"m<oocr/s`)</pr>, <pos>pr. n.</pos> <ety>[L.]</ety>  <def>The name of a Latin song originating in the thirteenth century, celebrating the joy of youth as students in a university, and suggesting that they take advantage of youth before they succomb to inevitable old age and death.  It is still sung by students, often with verses altered to include themes pertinent to particular schools.</def><br/
+\'d8<mhw><hw>Gaudeamus</hw>, <hw>Gaudeamus igitur</hw></mhw> <pr>(gou`d<amac/*<adot/"m<oocr/s`)</pr>, <pos>pr. n.</pos> <ety>[L.]</ety>  <def>The name of a Latin song originating in the thirteenth century, celebrating the joy of youth as students in a university, and suggesting that they take advantage of youth before they succumb to inevitable old age and death.  It is still sung by students, often with verses altered to include themes pertinent to particular schools.</def><br/
 <br/
 <song><title>Gaudeamus Igitur</title><br/
 <br/<text>
@@ -5856,7 +5856,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Origination by some process, mathematical, chemical, or vital; production; formation; <as>as, the <ex>generation</ex> of sounds, of gases, of curves, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>That which is generated or brought forth; progeny; offspiring.</def><br/
+<p><sn>3.</sn> <def>That which is generated or brought forth; progeny; offspring.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A single step or stage in the succession of natural descent; a rank or remove in genealogy. Hence: The body of those who are of the same genealogical rank or remove from an ancestor; the mass of beings living at one period; also, the average lifetime of man, or the ordinary period of time at which one rank follows another, or father is succeeded by child, usually assumed to be one third of a century; an age.</def><br/
@@ -5880,7 +5880,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Geom.)</fld> <def>The formation or production of any geometrical magnitude, as a line, a surface, a solid, by the motion, in accordance with a mathematical law, of a point or a magnitude; <as>as, the <ex>generation</ex> of a line or curve by the motion of a point, of a surface by a line, a sphere by a semicircle, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Biol.)</fld> <def>The aggregate of the functions and phenomene which attend reproduction.</def><br/
+<p><sn>7.</sn> <fld>(Biol.)</fld> <def>The aggregate of the functions and phenomena which attend reproduction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ There are four modes of generation in the animal kingdom: <xex>scissiparity</xex> or by fissiparous generation, <xex>gemmiparity</xex> or by budding, <xex>germiparity</xex> or by germs, and <xex>oviparity</xex> or by ova.</note><br/
@@ -5977,7 +5977,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>generous</qex> and gravest citizens.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Exhibiting those qualities which are popularly reregarded as belonging to high birth; noble; honorable; magnanimous; spirited; courageous.</def> <ldquo/The <xex>generous</xex> critic.<rdquo/ <au>Pope.</au> <ldquo/His <xex>generous</xex> spouse.<rdquo/ <au>Pope.</au> <ldquo/A <xex>generous</xex> pack [of hounds].<rdquo/ <au>Addison.</au><br/
+<p><sn>2.</sn> <def>Exhibiting those qualities which are popularly regarded as belonging to high birth; noble; honorable; magnanimous; spirited; courageous.</def> <ldquo/The <xex>generous</xex> critic.<rdquo/ <au>Pope.</au> <ldquo/His <xex>generous</xex> spouse.<rdquo/ <au>Pope.</au> <ldquo/A <xex>generous</xex> pack [of hounds].<rdquo/ <au>Addison.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Open-handed; free to give; not close or niggardly; munificent; <as>as, a <ex>generous</ex> friend or father</as>.</def><br/
@@ -6561,7 +6561,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gentilly</ent><br/
-<hw>Gen"til*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[From <er>Gentil</er>, <pos>a.</pos>]</ety> <def>In a gentle or hoble manner; frankly.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Gen"til*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[From <er>Gentil</er>, <pos>a.</pos>]</ety> <def>In a gentle or noble manner; frankly.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gentiopikrin</ent><br/
@@ -6854,7 +6854,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geodesy</ent><br/
-<hw>Ge*od"e*sy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>ge`a</grk>, <grk>gh^</grk>, the earth + <?/ to divide: cf. F. <ets>g<eacute/od<eacute/sie</ets>.]</ety> <fld>(Math.)</fld> <def>That branch of applied mathematics which determines, by means of observations and measurements, the figures and areas of large portions of the earth's surface, or the general figure and dimenshions of the earth; or that branch of surveying in which the curvature of the earth is taken into account, as in the surveys of States, or of long lines of coast.</def></p>
+<hw>Ge*od"e*sy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>ge`a</grk>, <grk>gh^</grk>, the earth + <?/ to divide: cf. F. <ets>g<eacute/od<eacute/sie</ets>.]</ety> <fld>(Math.)</fld> <def>That branch of applied mathematics which determines, by means of observations and measurements, the figures and areas of large portions of the earth's surface, or the general figure and dimensions of the earth; or that branch of surveying in which the curvature of the earth is taken into account, as in the surveys of States, or of long lines of coast.</def></p>
 
 <p><ent>Geodetical</ent><br/
 <ent>Geodetic</ent><br/
@@ -7150,10 +7150,10 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Georgian</ent><br/
-<hw>Geor"gi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to Georgia, a former Soviet republic, now an independent country in the Causcuses in Asia, or to Georgia, one of the United States.</def><br/
+<hw>Geor"gi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to Georgia, a former Soviet republic, now an independent country in the Caucasus in Asia, or to Georgia, one of the United States.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Of or relating to the reigns of the four Georges, kings of Great Britan; <as>as, the <ex>Georgian</ex> era</as>.</def>
+<p><sn>2.</sn> <def>Of or relating to the reigns of the four Georges, kings of Great Britain; <as>as, the <ex>Georgian</ex> era</as>.</def>
 <-- five? --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -7197,7 +7197,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geothermometer</ent><br/
-<hw>Ge`o*ther*mom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ge`a</grk>, <grk>gh^</grk>, the earth + E. <ets>thermometer</ets>.]</ety> <fld>(Physics)</fld> <def>A thermometer specially constructed for measuring temperetures at a depth below the surface of the ground.</def><br/
+<hw>Ge`o*ther*mom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ge`a</grk>, <grk>gh^</grk>, the earth + E. <ets>thermometer</ets>.]</ety> <fld>(Physics)</fld> <def>A thermometer specially constructed for measuring temperatures at a depth below the surface of the ground.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geotic</ent><br/
@@ -7385,7 +7385,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><sn>2.</sn> <def>The German language.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <sd>(a)</sd> <def>A round dance, often with a waltz movement, abounding in capriciosly involved figures.</def> <sd>(b)</sd> <def>A social party at which the german is danced.</def><br/
+<p><sn>3.</sn> <sd>(a)</sd> <def>A round dance, often with a waltz movement, abounding in capriciously involved figures.</def> <sd>(b)</sd> <def>A social party at which the german is danced.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>High German</b></col>, <cd>the Teutonic dialect of Upper or Southern Germany, -- comprising <xex>Old High German</xex>, used from the 8th to the 11th century; <xex>Middle H. G</xex>., from the 12th to the 15th century; and Modern or <xex>New H. G</xex>., the language of Luther's Bible version and of modern German literature. The dialects of Central Germany, the basis of the modern literary language, are often called <xex>Middle German</xex>, and the Southern German dialects <xex>Upper German</xex>; but <xex>High German</xex> is also used to cover both groups.</cd> -- <col><b>Low German</b></col>, <cd>the language of Northern Germany and the Netherlands, -- including <stype>Friesic</stype>; <stype>Anglo-Saxon</stype> or <stype>Saxon</stype>; <stype>Old Saxon</stype>; <stype>Dutch</stype> or <stype>Low Dutch</stype>, with its dialect, <stype>Flemish</stype>; and <stype>Plattdeutsch</stype> (called also <altname>Low German</altname>), spoken in many dialects.</cd></cs><br/
@@ -7670,7 +7670,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><sn>1.</sn> <def>A stage in traveling; a stop for rest or lodging in a journey or progress; a rest.</def> <mark>[Obs.]</mark>  <rj><au>Kersey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A roll recting the several stages arranged for a royal progress. Many of them are extant in the herald's office.</def> <mark>[Obs.]</mark>  <rj><au>Hanmer.</au></rj><br/
+<p><sn>2.</sn> <def>A roll reciting the several stages arranged for a royal progress. Many of them are extant in the herald's office.</def> <mark>[Obs.]</mark>  <rj><au>Hanmer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gestant</ent><br/
@@ -7903,7 +7903,7 @@ In every <qex>gesture</qex> dignity and love.</q> <rj><qau>Milton.</qau></rj><br
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>getatable</ent><br/
-<hw>get*at"a*ble</hw> <pos>adj.</pos>  <def>Aapable of being reached or attained; <as>as, a very <ex>getatable</ex> man; both oil and coal are there but not in <ex>getatable</ex> locations</as>.</def><br/
+<hw>get*at"a*ble</hw> <pos>adj.</pos>  <def>Capable of being reached or attained; <as>as, a very <ex>getatable</ex> man; both oil and coal are there but not in <ex>getatable</ex> locations</as>.</def><br/
 <syn><b>Syn. --</b> come-at-able, get-at-able.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -7954,12 +7954,12 @@ In every <qex>gesture</qex> dignity and love.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gettysburg</ent><br/
-<hw>Gettysburg</hw> <pos>prop. n.</pos> <def>The name of a battle of the American Civil War fought in and around the town of <city>Gettysburg</city>, Pennsylavania, in 1863.  At this battle, the defeat of <person>General Robert E. Lee's</person> invading Confederate army was a major victory for the Union, and is considered by many a turning point in the war, after which victory by the Confederacy was no longer thought possible; <as>as, many thousands died at <ex>Gettysburg</ex></as>.  See also <er>Gettysburg Address</er>.</def><br/
+<hw>Gettysburg</hw> <pos>prop. n.</pos> <def>The name of a battle of the American Civil War fought in and around the town of <city>Gettysburg</city>, Pennsylvania, in 1863.  At this battle, the defeat of <person>General Robert E. Lee's</person> invading Confederate army was a major victory for the Union, and is considered by many a turning point in the war, after which victory by the Confederacy was no longer thought possible; <as>as, many thousands died at <ex>Gettysburg</ex></as>.  See also <er>Gettysburg Address</er>.</def><br/
 <syn><b>Syn. --</b> battle of Gettysburg.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Gettysburg Address</ent><br/
-<hw>Gettysburg Address</hw> <pos>prop. n.</pos> <def>The popular name of a speech given by <person>Abraham Lincoln</person> on <datey>November 19, 1863</datey>, on the battlefield near Gettysburg, Pennsylvania, USA, as part of a ceremony to dedicate a portion of that battlefield as a cemetary for soldiers who died fighting there.  See note below.</def><br/
+<hw>Gettysburg Address</hw> <pos>prop. n.</pos> <def>The popular name of a speech given by <person>Abraham Lincoln</person> on <datey>November 19, 1863</datey>, on the battlefield near Gettysburg, Pennsylvania, USA, as part of a ceremony to dedicate a portion of that battlefield as a cemetery for soldiers who died fighting there.  See note below.</def><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ <b>Lincoln's Gettysburg Address</b>,<br/
@@ -8166,7 +8166,7 @@ Full suddenly he fled.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>ghetto blaster</ent><br/
-<hw>ghetto blaster</hw> <pos>n.</pos> <ety>[from their popularity with negro inner-city (<ets>ghetto</ets>) youth]</ety> <def>A portable casette or compact disk player, usually having an integrated radio receiver.  It typically has two (stereophonic) speakers, and can be adjusted to play at a high sound intensity, from which the name comes.</def><br/
+<hw>ghetto blaster</hw> <pos>n.</pos> <ety>[from their popularity with negro inner-city (<ets>ghetto</ets>) youth]</ety> <def>A portable cassette or compact disk player, usually having an integrated radio receiver.  It typically has two (stereophonic) speakers, and can be adjusted to play at a high sound intensity, from which the name comes.</def><br/
 <syn><b>Syn. --</b> boom box.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -8229,7 +8229,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ghost dance</ent><br/
-<hw>Ghost dance</hw>. <def>A religious dance of the North American Indians, participated in by both sexes, and looked upon as a rite of invocation the purpose of which is, through trance and vision, to bring the dancer into communion with the unseen world and the spirits of departed friends. The dance is the chief rite of the <col><b>Ghost-dance</b></col>, <xex>or</xex> <col><b>Messiah</b></col>, <col><b>religion</b></col>, which originated about 1890 in the doctrines of the Piute Wovoka, the Indian Messiah, who taught that the time was drawing near when the whole Indian race, the dead with the living, should be reunited to live a life of millennial happiness upon a regenerated earth. The religion inculcates peace, righteousness, and work, and holds that in good time, without warlike intervention, the oppressive white rule will be removed by the higher powers. The religion spread through a majority of the western tribes of the United States, only in the case of the Sioux, owing to local causes, leading to an outbreak.</def><br/
+<hw>Ghost dance</hw>. <def>A religious dance of the North American Indians, participated in by both sexes, and looked upon as a rite of invocation the purpose of which is, through trance and vision, to bring the dancer into communion with the unseen world and the spirits of departed friends. The dance is the chief rite of the <col><b>Ghost-dance</b></col>, <xex>or</xex> <col><b>Messiah</b></col>, <col><b>religion</b></col>, which originated about 1890 in the doctrines of the Paiute Wovoka, the Indian Messiah, who taught that the time was drawing near when the whole Indian race, the dead with the living, should be reunited to live a life of millennial happiness upon a regenerated earth. The religion inculcates peace, righteousness, and work, and holds that in good time, without warlike intervention, the oppressive white rule will be removed by the higher powers. The religion spread through a majority of the western tribes of the United States, only in the case of the Sioux, owing to local causes, leading to an outbreak.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ghostfish</ent><br/
@@ -8307,7 +8307,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 <hw>Gi"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>giant</ets>, <ets>geant</ets>, <ets>geaunt</ets>, OF. <ets>jaiant</ets>, <ets>geant</ets>, F. <ets>g<eacute/ant</ets>, L. <ets>gigas</ets>, fr. Gr. <?/, <?/, from the root of E. <ets>gender</ets>, <ets>genesis</ets>. See <er>Gender</er>, and cf. <er>Gigantic</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>A man of extraordinari bulk and stature.</def><br/
+<p><sn>1.</sn> <def>A man of extraordinary bulk and stature.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Giants</qex> of mighty bone and bold emprise.</q>  <rj><au>Milton.</au></rj><br/
@@ -8551,14 +8551,14 @@ All kinds of <qex>gibberish</qex> he had learnt to know.</q> <rj><qau>Drayton.</
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Gibstaff</ent><br/
-<hw>Gib"staff`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>gib</ets> a hooked stick + E. <ets>staff</ets>.]</ety> <sn>1.</sn> <def>A staff to guage water, or to push a boat.</def><br/
+<hw>Gib"staff`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>gib</ets> a hooked stick + E. <ets>staff</ets>.]</ety> <sn>1.</sn> <def>A staff to gauge water, or to push a boat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A staff formerly used in fighting beasts on the stage.</def> <mark>[Obs.]</mark>  <rj><au>Bailey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gid</ent><br/
-<hw>Gid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Giddy</er>, <pos>a.</pos>]</ety> <def>A disease of sheep, characterized by vertigo; the staggers. It is caused by the presence of the C<?/nurus, a larval tapeworm, in the brain. See <er>C<?/nurus</er>.</def><br/
+<hw>Gid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Giddy</er>, <pos>a.</pos>]</ety> <def>A disease of sheep, characterized by vertigo; the staggers. It is caused by the presence of the C<oe/nurus, a larval tapeworm, in the brain. See <er>C<oe/nurus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giddily</ent><br/
@@ -8606,7 +8606,7 @@ All kinds of <qex>gibberish</qex> he had learnt to know.</q> <rj><qau>Drayton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giddy-head</ent><br/
-<hw>Gid"dy-head`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A person without thought fulness, prudence, or judgment.</def> <mark>[Colloq.]</mark>  <rj><au>Burton.</au></rj><br/
+<hw>Gid"dy-head`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A person without thoughtfulness, prudence, or judgment.</def> <mark>[Colloq.]</mark>  <rj><au>Burton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giddy-headed</ent><br/
@@ -8771,7 +8771,7 @@ With which we bantered little Lilia first.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Gi*gan"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>gigas</ets>, <ets>-antis</ets>, giant. See <er>Giant</er>.]</ety> <sn>1.</sn> <def>Of extraordinary size; like a giant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Such as a giant might use, make, or cause; immense; tremendous; extraordinarly; <as>as, <ex>gigantic</ex> deeds; <ex>gigantic</ex> wickedness.</as></def>  <rj><au>Milton.</au></rj><br/
+<p><sn>2.</sn> <def>Such as a giant might use, make, or cause; immense; tremendous; extraordinary; <as>as, <ex>gigantic</ex> deeds; <ex>gigantic</ex> wickedness.</as></def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>When descends on the Atlantic<br/
@@ -8839,7 +8839,7 @@ At the piteous hap of the fairy wight.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Giggyng</ent><br/
-<hw>Gig"gyng</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Gige</er>.]</ety> <def>The act of fastending the gige or leather strap to the shield.</def> <mark>[Obs.]</mark> <ldquo/<xex>Gigging</xex> of shields.<rdquo/  <rj><au>Chaucer.</au></rj></p>
+<hw>Gig"gyng</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Gige</er>.]</ety> <def>The act of fastening the gige or leather strap to the shield.</def> <mark>[Obs.]</mark> <ldquo/<xex>Gigging</xex> of shields.<rdquo/  <rj><au>Chaucer.</au></rj></p>
 
 <p><ent>Giglet</ent><br/
 <ent>Giglot</ent><br/
@@ -15798,7 +15798,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 <hw>Gore</hw>, <pos>n.</pos> <ety>[OE. <ets>gore</ets>, <ets>gare</ets>, AS. <ets>g<?/ra</ets> angular point of land, fr. <ets>g<?/r</ets> spear; akin to D. <ets>geer</ets> gore, G. <ets>gehre</ets> gore, <ets>ger</ets> spear, Icel. <ets>geiri</ets> gore, <ets>geir</ets> spear, and prob. to E. <ets>goad</ets>.  Cf. <er>Gar</er>, <pos>n.</pos>, <er>Garlic</er>, and <er>Gore</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>A wedgeshaped or triangular piece of cloth, canvas, etc., sewed into a garment, sail, etc., to give greater width at a particular part.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A small traingular piece of land.</def>  <rj><au>Cowell.</au></rj><br/
+<p><sn>2.</sn> <def>A small triangular piece of land.</def>  <rj><au>Cowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Her.)</fld> <def>One of the abatements. It is made of two curved lines, meeting in an acute angle in the fesse point.</def><br/
@@ -15816,7 +15816,7 @@ His daintly feet.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gore</ent><br/
-<hw>Gore</hw>, <pos>v. t.</pos> <def>To cut in a traingular form; to piece with a gore; to provide with a gore; <as>as, to <ex>gore</ex> an apron</as>.</def><br/
+<hw>Gore</hw>, <pos>v. t.</pos> <def>To cut in a triangular form; to piece with a gore; to provide with a gore; <as>as, to <ex>gore</ex> an apron</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorebill</ent><br/
@@ -15928,7 +15928,7 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 <p><sn>4.</sn> <def>A ruff worn by women.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Surg.)</fld> <sd>(a)</sd> <def>A cutting instrument used in lithotomy.</def> <sd>(b)</sd> <def>A grooved instrunent used in performing various operations; -- called also <altname>blunt gorget</altname>.</def>  <rj><au>Dunglison.</au></rj><br/
+<p><sn>5.</sn> <fld>(Surg.)</fld> <sd>(a)</sd> <def>A cutting instrument used in lithotomy.</def> <sd>(b)</sd> <def>A grooved instrument used in performing various operations; -- called also <altname>blunt gorget</altname>.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 640 --></p>
@@ -16175,7 +16175,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Mark the <qex>gospeler</qex> was the ghostly son of Peter in baptism.</q> <rj><qau>Wyclif.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A follower of Wyclif, the first English religious reformer; hence, a Puritan.</def> <mark>[Obs.]</mark>  <rj><au>Latimer.</au></rj><br/
+<p><sn>2.</sn> <def>A follower of Wycliffe, the first English religious reformer; hence, a Puritan.</def> <mark>[Obs.]</mark>  <rj><au>Latimer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The persecution was carried on against the <qex>gospelers</qex> with much fierceness by those of the Roman persuasion.</q> <rj><qau>Strype.</qau></rj><br/
@@ -16586,7 +16586,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>On thy blade and dudgeon <qex>gouts</qex> of blood.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Med.)</fld> <def>A constitutional disease, occurring by paroxysms. It consists in an inflammation of the fibrous and ligamentous parts of the joints, and almost always attacks first the great toe, next the smaller joints, after which it may attack the greater articulations. It is attended with various sympathetic phenomena, particularly in the digestive organs. It may also attack internal organs, as the stomach, the intestines, etc.  It is an inherited disease of purine metaboism, which causes an increased level of uric acid in the blood, and leads to deposition of crystals of sodium urate in cartilage within joints and in connective tissue.  It can be alleviated by a diet low in purines, and is treated by drugs which block formation of uric acid.</def>  <rj><au>Dunglison.</au></rj><br/
+<p><sn>2.</sn> <fld>(Med.)</fld> <def>A constitutional disease, occurring by paroxysms. It consists in an inflammation of the fibrous and ligamentous parts of the joints, and almost always attacks first the great toe, next the smaller joints, after which it may attack the greater articulations. It is attended with various sympathetic phenomena, particularly in the digestive organs. It may also attack internal organs, as the stomach, the intestines, etc.  It is an inherited disease of purine metabolism, which causes an increased level of uric acid in the blood, and leads to deposition of crystals of sodium urate in cartilage within joints and in connective tissue.  It can be alleviated by a diet low in purines, and is treated by drugs which block formation of uric acid.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A disease of cornstalks. See <cref>Corn fly</cref>, under <er>Corn</er>.</def><br/
@@ -16778,7 +16778,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gowdie</ent><br/
-<hw>Gow"die</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Dragont</er>.</def> <mark>[Scot.]</mark><br/
+<hw>Gow"die</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Dragon</er>.</def> <mark>[Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gowdnook</ent><br/
@@ -16902,7 +16902,7 @@ With suppliant knee.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>By whom also we have access by faith into this <qex>grace</qex> wherein we stand.</q> <rj><qau>Rom. v.2</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The prerogative of mercy execised by the executive, as pardon.</def> <sd>(b)</sd> <def>The same prerogative when exercised in the form of equitable relief through chancery.</def><br/
+<p><sn>3.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The prerogative of mercy exercised by the executive, as pardon.</def> <sd>(b)</sd> <def>The same prerogative when exercised in the form of equitable relief through chancery.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Fortune; luck; -- used commonly with <xex>hard</xex> or <xex>sorry</xex> when it means misfortune.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -17226,7 +17226,7 @@ teachers of every <qex>grade</qex>.</q> <rj><qau>Buckle.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradine</ent><br/
-<hw>Gra*dine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gradine</ets>.]</ety> <def>A toothed chised by sculptors.</def><br/
+<hw>Gra*dine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gradine</ets>.]</ety> <def>A toothed chisel used by sculptors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grading</ent><br/
@@ -17336,7 +17336,7 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Tapered; -- said of a bird's tail when the outer feathers are shortest, and the others successively longer.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Having visible marks and numbers at vertical intervals, permitting one to estimate the quantitity of material contained; -- of vessels, most commonly those used in laboratories for containing liquids.  See <cref>graduated cylinder</cref>, etc., below.</def><br/
+<p><sn>3.</sn> <def>Having visible marks and numbers at vertical intervals, permitting one to estimate the quantity of material contained; -- of vessels, most commonly those used in laboratories for containing liquids.  See <cref>graduated cylinder</cref>, etc., below.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><mcol><col><b>Graduated cylinder</b></col>, <col><b>Graduated flask</b></col>, <col><b>Graduated tube</b></col>, <col><b>Graduated bottle</b></col>, <col><b>Graduated cap</b></col>,  <col><b>Graduated glass</b></col></mcol> <cd>a vessel, usually of glass, having horizontal marks upon its sides, with figures, to indicate the amount of the contents at the several levels.</cd> -- <col><b>Graduated spring</b></col> <fld>(Railroads)</fld>, <cd>a combination of metallic and rubber springs.</cd></cs><br/
@@ -17510,7 +17510,7 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Graille</ent><br/
-<hw>Graille</hw> <pr>(gr<amac/l)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>gr<ecir/le</ets> a sort of file.]</ety> <def>A halfround single-cut file or fioat, having one curved face and one straight face, -- used by comb makers.</def>  <rj><au>Knight.</au></rj><br/
+<hw>Graille</hw> <pr>(gr<amac/l)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>gr<ecir/le</ets> a sort of file.]</ety> <def>A halfround single-cut file or float, having one curved face and one straight face, -- used by comb makers.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grain</ent><br/
@@ -17977,7 +17977,7 @@ families or householders, they shall set up a <qex>grammar</qex> school, the mas
 Their <qex>grand</qex> commission.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Great in size, and fine or imposing in appearance or impression; illustrious, dignifled, or noble (said of persons); majestic, splendid, magnificent, or sublime (said of things); <as>as, a <ex>grand</ex> monarch; a <ex>grand</ex> lord; a <ex>grand</ex> general; a <ex>grand</ex> view; a <ex>grand</ex> conception.</as></def><br/
+<p><sn>2.</sn> <def>Great in size, and fine or imposing in appearance or impression; illustrious, dignified, or noble (said of persons); majestic, splendid, magnificent, or sublime (said of things); <as>as, a <ex>grand</ex> monarch; a <ex>grand</ex> lord; a <ex>grand</ex> general; a <ex>grand</ex> view; a <ex>grand</ex> conception.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They are the highest models of expression, the unapproached<br/
@@ -17987,7 +17987,7 @@ masters of the <qex>grand</qex> style.</q> <rj><qau>M. Arnold. </qau></rj><br/
 <p><sn>3.</sn> <def>Having higher rank or more dignity, size, or importance than other persons or things of the same name; <as>as, a <ex>grand</ex> lodge; a <ex>grand</ex> vizier; a <ex>grand</ex> piano, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>Standing in the second or some more remote degree of parentage or descent; -- generalIy used in composition; <as>as, grandfather, grandson, grandchild, etc.</as></def><br/
+<p><sn>4.</sn> <def>Standing in the second or some more remote degree of parentage or descent; -- generally used in composition; <as>as, grandfather, grandson, grandchild, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>What cause<br/
@@ -18157,7 +18157,7 @@ Of luxury . . . allure mine eye.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><ent>grand unification theory</ent><br/
 <ent>grand unified theory</ent><br/
-<mhw><hw>grand unified theory</hw>, <hw>grand unification theory</hw></mhw> <pos>n.</pos>  <fld>(Theoretical physics)</fld> <def>Any of a class of physics theories that attempts to explain the electroweak forces, stong force, and gravitation within a single mathematical conceptual scheme.  In the 1990's <stype>string theory</stype> and <stype>superstring theory</stype> were prominent examples.  Abbreviated <abbr>GUT</abbr>, plural <abbr>GUTs</abbr>.</def><br/
+<mhw><hw>grand unified theory</hw>, <hw>grand unification theory</hw></mhw> <pos>n.</pos>  <fld>(Theoretical physics)</fld> <def>Any of a class of physics theories that attempts to explain the electroweak forces, strong force, and gravitation within a single mathematical conceptual scheme.  In the 1990's <stype>string theory</stype> and <stype>superstring theory</stype> were prominent examples.  Abbreviated <abbr>GUT</abbr>, plural <abbr>GUTs</abbr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Grane</ent><br/
@@ -20070,7 +20070,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <hw>Gre"cian</hw>, <pos>n.</pos> <sn>1.</sn> <def>A native or naturalized inhabitant of Greece; a Greek.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A jew who spoke Greek; a Hellenist.</def>  <rj><au>Acts vi. 1.</au></rj><br/
+<p><sn>2.</sn> <def>A Jew who spoke Greek; a Hellenist.</def>  <rj><au>Acts vi. 1.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The Greek word rendered <xex>Grecian</xex> in the Authorized Version of the New Testament is translated <xex>Grecian Jew</xex> in the Revised Version.</note><br/
@@ -20266,7 +20266,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <p><sn>7.</sn> <def>Not seasoned; not dry; containing its natural juices; <as>as, <ex>green</ex> wood, timber, etc.</as></def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>8.</sn> <fld>(Politics)</fld> <def>Concerned especially with protection of the enviroment; -- of political parties and political philosophies; <as>as, the European <ex>green</ex> parties</as>.</def><br/
+<p><sn>8.</sn> <fld>(Politics)</fld> <def>Concerned especially with protection of the environment; -- of political parties and political philosophies; <as>as, the European <ex>green</ex> parties</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Green brier</b></col> <fld>(Bot.)</fld>, <cd>a thorny climbing shrub (<spn>Emilaz rotundifolia</spn>) having a yellowish green stem and thick leaves, with small clusters of flowers, common in the United States; -- called also <altname>cat brier</altname>.</cd> -- <col><b>Green con</b></col> <fld>(Zool.)</fld>, <cd>the pollock.</cd> -- <col><b>Green crab</b></col> <fld>(Zool.)</fld>, <cd>an edible, shore crab (<spn>Carcinus menas</spn>) of Europe and America; -- in New England locally named <altname>joe-rocker</altname>.</cd> -- <col><b>Green crop</b></col>, <cd>a crop used for food while in a growing or unripe state, as distingushed from a grain crop, root crop, etc.</cd> -- <col><b>Green diallage</b></col>. <fld>(Min.)</fld> <sd>(a)</sd> <cd>Diallage, a variety of pyroxene.</cd> <sd>(b)</sd> <cd>Smaragdite.</cd> -- <col><b>Green dragon</b></col> <fld>(Bot.)</fld>, <cd>a North American herbaceous plant (<spn>Aris<ae/ma Dracontium</spn>), resembling the Indian turnip; -- called also <altname>dragon root</altname>.</cd> -- <col><b>Green earth</b></col> <fld>(Min.)</fld>, <cd>a variety of glauconite, found in cavities in amygdaloid and other eruptive rock, and used as a pigment by artists; -- called also <altname>mountain green</altname>.</cd> -- <col><b>Green ebony</b></col>. <sd>(a)</sd> <cd>A south American tree (<spn>Jacaranda ovalifolia</spn>), having a greenish wood, used for rulers, turned and inlaid work, and in dyeing.</cd> <sd>(b)</sd> <cd>The West Indian green ebony.</cd> See <er>Ebony</er>. -- <col><b>Green fire</b></col> (<fld>Pyrotech.</fld>), <cd>a composition which burns with a green flame. It consists of sulphur and potassium chlorate, with some salt of barium (usually the nitrate), to which the color of the flame is due.</cd> --  <col><b>Green fly</b></col> <fld>(Zool.)</fld>, <cd>any green species of plant lice or aphids, esp. those that infest greenhouse plants.</cd> -- <col><b>Green gage</b></col>, <fld>(Bot.)</fld> <cd>See <er>Greengage</er>, in the Vocabulary.</cd> -- <col><b>Green gland</b></col> <fld>(Zool.)</fld>, <cd>one of a pair of large green glands in Crustacea, supposed to serve as kidneys. They have their outlets at the bases of the larger antenn<ae/.</cd> -- <col><b>Green hand</b></col>, <cd>a novice.</cd> <mark>[Colloq.]</mark> -- <col><b>Green heart</b></col> <fld>(Bot.)</fld>, <cd>the wood of a lauraceous tree found in the West Indies and in South America, used for shipbuilding or turnery. The green heart of Jamaica and Guiana is the <spn>Nectandra Rodi<oe/i</spn>, that of Martinique is the <spn>Colubrina ferruginosa</spn>.</cd> -- <col><b>Green iron ore</b></col>  (<fld>Min.</fld>) <cd>dufrenite.</cd> -- <col><b>Green laver</b></col> <fld>(Bot.)</fld>, <cd>an edible seaweed  (<spn>Ulva latissima</spn>); -- called also <altname>green sloke</altname>.</cd> -- <col><b>Green lead ore</b></col> (<fld>Min.</fld>), <cd>pyromorphite.</cd> -- <col><b>Green linnet</b></col> <fld>(Zool.)</fld>, <cd>the greenfinch.</cd> -- <col><b>Green looper</b></col> <fld>(Zool.)</fld>, <cd>the cankerworm.</cd> -- <col><b>Green marble</b></col> (<fld>Min.</fld>), <cd>serpentine.</cd> -- <col><b>Green mineral</b></col>, <cd>a carbonate of copper, used as a pigment. See <er>Greengill</er>.</cd> -- <col><b>Green monkey</b></col> <fld>(Zool.)</fld> <cd>a West African long-tailed monkey (<spn>Cercopithecus callitrichus</spn>), very commonly tamed, and trained to perform tricks. It was introduced into the West Indies early in the last century, and has become very abundant there.</cd> -- <col><b>Green salt of Magnus</b></col> (<fld>Old Chem.</fld>), <cd>a dark green crystalline salt, consisting of ammonia united with certain chlorides of platinum.</cd> -- <col><b>Green sand</b></col> (<fld>Founding</fld>)  <cd>molding sand used for a mold while slightly damp, and not dried before the cast is made.</cd> -- <col><b>Green sea</b></col> (<fld>Naut.</fld>), <cd>a wave that breaks in a solid mass on a vessel's deck.</cd> --  <col><b>Green sickness</b></col> <fld>(Med.)</fld>, <cd>chlorosis.</cd> -- <col><b>Green snake</b></col> <fld>(Zool.)</fld>, <cd>one of two harmless American snakes (<spn>Cyclophis vernalis</spn>, and <spn>C. <ae/stivus</spn>). They are bright green in color.</cd> -- <col><b>Green turtle</b></col> <fld>(Zool.)</fld>, <cd>an edible marine turtle. See <er>Turtle</er>.</cd> --  <col><b>Green vitriol</b></col>. <sd>(a)</sd> <fld>(Chem.)</fld> <cd>Sulphate of iron; a light green crystalline substance, very extensively used in the preparation of inks, dyes, mordants, etc.</cd> <sd>(b)</sd> <fld>(Min.)</fld> <cd>Same as <altname>copperas</altname>, <altname>melanterite</altname> and <altname>sulphate of iron</altname>.</cd> -- <col><b>Green ware</b></col>, <cd>articles of pottery molded and shaped, but not yet baked.</cd>  -- <col><b>Green woodpecker</b></col> <fld>(Zool.)</fld>, <cd>a common European woodpecker (<spn>Picus viridis</spn>); -- called also <altname>yaffle</altname>.</cd></cs><br/
@@ -22120,7 +22120,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Groschen</ent><br/
-\'d8<hw>Grosch"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A small silver coin and money of account of Germany, worth about two cents. It was discontinued in the new monetary system of the empire and not subsequeently used.</def><br/
+\'d8<hw>Grosch"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A small silver coin and money of account of Germany, worth about two cents. It was discontinued in the new monetary system of the empire and not subsequently used.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Grosgrain</ent><br/
@@ -22379,7 +22379,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><sn>6.</sn> <def>To forbid (a pilot) to fly an airplane; -- usually as a disciplinary measure, or for reasons of ill health sufficient to interfere with performance.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>7.</sn> <def>To forbid (aircraft) to fly; -- usually due to the unsafe condition of the aircraft or lack of conformity to safety regulations; <as>as, the discovery of a crack in the wing of a Trijet caused the whole fleeet to be <ex>grounded</ex> for inspection</as>.</def><br/
+<p><sn>7.</sn> <def>To forbid (aircraft) to fly; -- usually due to the unsafe condition of the aircraft or lack of conformity to safety regulations; <as>as, the discovery of a crack in the wing of a Trijet caused the whole fleet to be <ex>grounded</ex> for inspection</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>8.</sn> <def>To temporarily restrict the activities of (a child), especially social activity outside the house; -- usually for bad or unsatisfactory conduct; <as>as, Johnny was <ex>grounded</ex> for fighting at school and can't go to the movies for two weeks</as>.</def><br/
@@ -23054,7 +23054,7 @@ Still <qex>grumbles</qex> that he has no more.</q> <rj><qau>Prior.</qau></rj><br
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>grungy</ent><br/
-<hw>grungy</hw> <pos>adj.</pos> <def>thickily covered with ingrained dirt or soot; <as>as, a <ex>grungy</ex> kitchen</as>.</def><br/
+<hw>grungy</hw> <pos>adj.</pos> <def>thickly covered with ingrained dirt or soot; <as>as, a <ex>grungy</ex> kitchen</as>.</def><br/
 <syn><b>Syn. --</b> begrimed, dingy, grimy, grubby.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
