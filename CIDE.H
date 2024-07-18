@@ -2,6 +2,7 @@
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
+    Copyright (C) 2012-2024 Sergey Poznyakoff
 
     GCIDE is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -20322,7 +20323,7 @@ His Chloe in the <qex>homeliest</qex> strains.</q> <rj><qau>Pope.</qau></rj><br/
 <p><ent>Homer</ent><br/
 <hw>Homer</hw> <pr>(h<omac/"m<etil/r)</pr>. <ety>[L. Homerus, Gr. <grk>"O`mhros</grk>, one who puts together; a hostage; a pledge agreed upon between two parties.]</ety> <def>The poet to whom is assigned by very ancient tradition the authorship of the Iliad and the Odyssey, and of certain hymns to the gods ("Homeric Hymns").  Other poems also, as the "Batrachomyomachia" ("Battle of the Frogs and Mice"), were with less certainty attributed to him.  Of his personality nothing is known. Seven cities -- Smyrna, Rhodes, Colophon, Salamis (in Cyprus), Chios, Argos, and Athens -- contended for the honor of being his birthplace: of these, the best evidence connects him with Smyrna. He was said to have died on the island of Ios. <bio>The tradition that he lived on the island of Chios, and in his old age was blind, is supported by the Hymn to the Delian Apollo. Modern destructive criticism has led to the doubt whether such a person as Homer existed at all, the great epics which bear that name being supposed to be, in their existing form, of a composite character, the product of various persons and ages. It is altogether probable, however, that the nucleus of the Iliad, at least, was the work of a single poet of commanding genius. (See Iliad, Odyssey, and the quotation below.)  Various dates have been assigned to Homer. According to Herodotus he lived about 850 b. c.; others give a later date, and some a date as early as 1200 b. c.  His poems were sung by professional reciters (rhapsodists, who went from city to city; <note>Homeridae</note>).  They were given substantially their present form by Pisistratus or his sons Hipparchus and Hippias, who ordered the rhapsodists to recite them at the Panathenaic festival in their order and completeness. The present text of the poems, with their division into books, is based upon the work of the Alexandrine critics.</bio><br/
 <br/
-<note>    We may assume it as certain that there existed in Ionia schools or fraternities of epic rhapsodists who composed and recited heroic lays at feasts, and often had friendly contests in these recitations. The origin of these recitations may be sought in northern Greece, from which the fashion migrated in early days to Asia Minor. We may assume that these singers became popular in many parts of Greece, aud that they wandered from court to court, glorifying the heroic ancestors of the various chiefs.  One among them, called Homer, was endowed with a genius superior to the rest, and struck out a plot capable of nobler and larger treatment.  It is likely that this superiority was not recognized at the time, and that he remained all his life a singer like the rest, a wandering minstrel, possibly poor and blind. The listening public gradually stamped his poem with their approval, they demanded its frequent recitation, and so this Homer began to attain a great posthumous fame. But when this fame led people to inquire into his life and history, it had already passed out of recollection, and men supplied by fables what they had forgotten or neglected.  The rhapsodists, however, then turned their attention to expanding and perfecting his poem, which was greatly enlarged and called the Iliad. In doing this they had recourse to the art of writing, which seems to have been in use when Homer framed his poem, but which was certainly employed when the plan was enlarged with episodes. The home of the original Homer seems to have been about Smyrna, and in contact with both Aeolic and Ionic legends. His date is quite uncertain: it need not be placed before 800 B. C., and is perhaps later, but not after 700 a. c.</note> <au>Mahaffy, Hist. of Classical Greek Lit., I. 81.</au></def><br/
+<note>    We may assume it as certain that there existed in Ionia schools or fraternities of epic rhapsodists who composed and recited heroic lays at feasts, and often had friendly contests in these recitations. The origin of these recitations may be sought in northern Greece, from which the fashion migrated in early days to Asia Minor. We may assume that these singers became popular in many parts of Greece, and that they wandered from court to court, glorifying the heroic ancestors of the various chiefs.  One among them, called Homer, was endowed with a genius superior to the rest, and struck out a plot capable of nobler and larger treatment.  It is likely that this superiority was not recognized at the time, and that he remained all his life a singer like the rest, a wandering minstrel, possibly poor and blind. The listening public gradually stamped his poem with their approval, they demanded its frequent recitation, and so this Homer began to attain a great posthumous fame. But when this fame led people to inquire into his life and history, it had already passed out of recollection, and men supplied by fables what they had forgotten or neglected.  The rhapsodists, however, then turned their attention to expanding and perfecting his poem, which was greatly enlarged and called the Iliad. In doing this they had recourse to the art of writing, which seems to have been in use when Homer framed his poem, but which was certainly employed when the plan was enlarged with episodes. The home of the original Homer seems to have been about Smyrna, and in contact with both Aeolic and Ionic legends. His date is quite uncertain: it need not be placed before 800 B. C., and is perhaps later, but not after 700 a. c.</note> <au>Mahaffy, Hist. of Classical Greek Lit., I. 81.</au></def><br/
 [<source>century Dict. 1906</source>]</p>
 
 <p><ent>Home run</ent><br/
@@ -21203,7 +21204,7 @@ But <qex>honey</qex> at the whisper of a lord.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honeybee</ent><br/
-<hw>Hon"ey*bee`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any bee of the genus <gen>Apis</gen>, which lives in communities and collects honey, esp. the common domesticated hive bee (<spn>Apis mellifica</spn>), the Italian bee (<spn>Apis ligustica</spn>), and the Arabiab bee (<spn>Apis fasciata</spn>).  The two latter are by many entomologists considered only varieties of the common hive bee. Each swarm of bees consists of a large number of workers (barren females), with, ordinarily, one queen or fertile female, but in the swarming season several young queens, and a number of males or drones, are produced.</def><br/
+<hw>Hon"ey*bee`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any bee of the genus <gen>Apis</gen>, which lives in communities and collects honey, esp. the common domesticated hive bee (<spn>Apis mellifica</spn>), the Italian bee (<spn>Apis ligustica</spn>), and the Arabian bee (<spn>Apis fasciata</spn>).  The two latter are by many entomologists considered only varieties of the common hive bee. Each swarm of bees consists of a large number of workers (barren females), with, ordinarily, one queen or fertile female, but in the swarming season several young queens, and a number of males or drones, are produced.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honeyberry</ent><br/
@@ -21218,7 +21219,7 @@ But <qex>honey</qex> at the whisper of a lord.</q> <rj><qau>Tennyson.</qau></rj>
 <hw>Hon"ey*comb`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>hunigcamb</ets>. See <er>Honey</er>, and 1st <er>Comb</er>.]</ety> <sn>1.</sn> <def>A mass of hexagonal waxen cells, formed by bees, and used by them to hold their honey and their eggs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Any substance, as a easting of iron, a piece of worm-eaten wood, or of triple, etc., perforated with cells like a honeycomb.</def><br/
+<p><sn>2.</sn> <def>Any substance, as a casting of iron, a piece of worm-eaten wood, or of triple, etc., perforated with cells like a honeycomb.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Honeycomb moth</b></col> <fld>(Zool.)</fld>, <cd>the wax moth.</cd> -- <col><b>Honeycomb stomach</b></col>. <fld>(Anat.)</fld> <cd>See <er>Reticulum</er>.</cd></cs><br/
@@ -23278,7 +23279,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horsenail</ent><br/
-<hw>Horse"nail`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A thin, pointed nail, with a heavy flaring head, for securing a horsehoe to the hoof; a horsehoe nail.</def><br/
+<hw>Horse"nail`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A thin, pointed nail, with a heavy flaring head, for securing a horseshoe to the hoof; a horseshoe nail.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horseplay</ent><br/
@@ -23333,10 +23334,10 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Horse"shoe`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A shoe for horses, consisting of a narrow plate of iron in form somewhat like the letter <sansserif>U</sansserif>, nailed to a horse's hoof.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Anything shaped like a horsehoe, such as a U-shaped bend in a river.</def><br/
+<p><sn>2.</sn> <def>Anything shaped like a horseshoe, such as a U-shaped bend in a river.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Zool.)</fld> <def>The Limulus or horsehoe crab.</def><br/
+<p><sn>3.</sn> <fld>(Zool.)</fld> <def>The Limulus or horseshoe crab.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <pluf>pl.</pluf> <def>A game in which horseshoes or horseshoe-shaped objects (usually made of metal) are thrown at either of two stakes fixed in the ground at a distance of 30 to 40 feet apart.  The player stands at or near one stake and throws several the horseshoes at the other stake.  Points are scored when the player throws the horseshoe so that it surrounds the stake; fewer points are scored if the horseshoe is close to but not surrounding the stake.  The players take turns and the first player to achieve the target score wins; <as>as, <ldquo/almost<rdquo/ only counts with hand grenades or in <ex>horseshoes</ex></as>.</def><br/
@@ -23697,7 +23698,7 @@ And we shall talk before we fight.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hos"tel*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Hostel</er>, and cf. <er>Hostler</er>.]</ety> <sn>1.</sn> <def>The keeper of a hostel or inn.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A student in a hostel, or small unendowed collede in Oxford or Cambridge.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj><br/
+<p><sn>2.</sn> <def>A student in a hostel, or small unendowed college in Oxford or Cambridge.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hostelry</ent><br/
@@ -23999,7 +24000,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>Hot"ness</hw>, <pos>n.</pos> <sn>1.</sn> <def>The quality or state of being hot.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Heat or excitement of mind or manner; violence; vehemence; impetuousity; ardor; fury.</def>  <rj><au>M. Arnold.</au></rj><br/
+<p><sn>2.</sn> <def>Heat or excitement of mind or manner; violence; vehemence; impetuosity; ardor; fury.</def>  <rj><au>M. Arnold.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hotpress</ent><br/
@@ -24384,7 +24385,7 @@ Do C<ae/sar what he can.</q> <rj><qau>Shak.</qau></rj><br/
 His <qex>household</qex> twice a day to prayers.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A line of ancestory; a race or house.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
+<p><sn>2.</sn> <def>A line of ancestry; a race or house.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Household</ent><br/
@@ -24798,7 +24799,7 @@ Is of a constant, loving, noble nature.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howel</ent><br/
-<hw>How"el</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A tool used by coopers for smoothing and chamfering rheir work, especially the inside of casks.</def><br/
+<hw>How"el</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A tool used by coopers for smoothing and chamfering their work, especially the inside of casks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howel</ent><br/
@@ -24806,11 +24807,11 @@ Is of a constant, loving, noble nature.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howell</ent><br/
-<hw>How"ell</hw>, <pos>n.</pos> <def>The upper stage of a porcelian furnace.</def><br/
+<hw>How"ell</hw>, <pos>n.</pos> <def>The upper stage of a porcelain furnace.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>However</ent><br/
-<hw>How*ev"er</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[Sometimes contracted into <ets>howe'er</ets>.]</ety> <sn>1.</sn> <def>In whetever manner, way, or degree.</def><br/
+<hw>How*ev"er</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[Sometimes contracted into <ets>howe'er</ets>.]</ety> <sn>1.</sn> <def>In whatever manner, way, or degree.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>However</qex> yet they me despise and spite.</q> <rj><qau>Spenser.</qau></rj><br/
@@ -25042,7 +25043,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Hubble Space Telescope</ent><br/
 <ent>Hubble Telescope</ent><br/
-<mhw><hw>Hub"ble Tel"e*scope</hw>, <hw>Hub"ble Space Tel"e*scope</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <def>A large astromical optical telescope placed into orbit around the earth, from which, in the absence of absorption and distortion by the earth's atmosphere, clear high-resolution images of astronomical objects can be obtained in the visible, infrared, and ultraviolet wavelengths.  The telescope was launched into orbit on April 24, 1990.  Since then the telescope has taken thousands of images, many of them unique, recording never before seen astronomical phenomena.  Service missions were performed in 1993 and 1997, during which astronauts upgraded or replaced equipment on the telescope.</def><br/
+<mhw><hw>Hub"ble Tel"e*scope</hw>, <hw>Hub"ble Space Tel"e*scope</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <def>A large astronomical optical telescope placed into orbit around the earth, from which, in the absence of absorption and distortion by the earth's atmosphere, clear high-resolution images of astronomical objects can be obtained in the visible, infrared, and ultraviolet wavelengths.  The telescope was launched into orbit on April 24, 1990.  Since then the telescope has taken thousands of images, many of them unique, recording never before seen astronomical phenomena.  Service missions were performed in 1993 and 1997, during which astronauts upgraded or replaced equipment on the telescope.</def><br/
 [<source>PJC</source>]</p>
 
 <p><-- p. 711 --></p>
@@ -25089,7 +25090,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huckle-backed</ent><br/
-<hw>Huc"kle-backed`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Round-shoulded.</def><br/
+<hw>Huc"kle-backed`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Round-shouldered.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huckleberry</ent><br/
@@ -25424,7 +25425,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 
 <p><ent>Hulky</ent><br/
 <ent>Hulking</ent><br/
-<mhw>{ <hw>Hulk"ing</hw>, <hw>Hulk"y</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Bulky; unwiedly; of great size and bulk; ponderous.</def> <mark>[R.]</mark> <ldquo/A huge <xex>hulking</xex> fellow.<rdquo/  <rj><au>H. Brooke.</au></rj><br/
+<mhw>{ <hw>Hulk"ing</hw>, <hw>Hulk"y</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Bulky; unwieldy; of great size and bulk; ponderous.</def> <mark>[R.]</mark> <ldquo/A huge <xex>hulking</xex> fellow.<rdquo/  <rj><au>H. Brooke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hull</ent><br/
@@ -25805,7 +25806,7 @@ The still, and music <qex>humanity</qex>.</q> <rj><qau>Wordsworth.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humble</ent><br/
-<hw>Hum"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Humbled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Humbling</conjf> <pr>(?)</pr>.]</vmorph> <sn>1.</sn> <def>To bring low; to reduce the power, independence, or exaltation of; to lower; to abase; to humilate.</def><br/
+<hw>Hum"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Humbled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Humbling</conjf> <pr>(?)</pr>.]</vmorph> <sn>1.</sn> <def>To bring low; to reduce the power, independence, or exaltation of; to lower; to abase; to humiliate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Here, take this purse, thou whom the heaven's plagues<br/
@@ -25815,7 +25816,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The genius which <qex>humbled</qex> six marshals of France.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To make humble or lowly in mind; to abase the pride or arrogance of; to reduce the self-sufficiently of; to make meek and submissive; -- often used rexlexively.</def><br/
+<p><sn>2.</sn> <def>To make humble or lowly in mind; to abase the pride or arrogance of; to reduce the self-sufficiently of; to make meek and submissive; -- often used reflexively.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Humble</qex> yourselves therefore under the mighty hand of God, that he may exalt you.</q> <rj><qau>1 Pet. v. 6.</qau></rj></p>
@@ -26773,7 +26774,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurdy-gurdy</ent><br/
-<hw>Hur"dy-gur`dy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prob. of imitative origin.]</ety> <sn>1.</sn> <def>A stringled instrument, lutelike in shape, in which the sound is produced by the friction of a wheel turned by a crank at the end, instead of by a bow, two of the strings being tuned as drones, while two or more, tuned in unison, are modulated by keys.</def><br/
+<hw>Hur"dy-gur`dy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prob. of imitative origin.]</ety> <sn>1.</sn> <def>A stringed instrument, lutelike in shape, in which the sound is produced by the friction of a wheel turned by a crank at the end, instead of by a bow, two of the strings being tuned as drones, while two or more, tuned in unison, are modulated by keys.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>In California, a water wheel with radial buckets, driven by the impact of a jet.</def><br/
@@ -27002,7 +27003,7 @@ The little number of your doubtful friends.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>hurt</qex> lion groans within his den.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To impar the value, usefulness, beauty, or pleasure of; to damage; to injure; to harm.</def><br/
+<p><sn>2.</sn> <def>To impair the value, usefulness, beauty, or pleasure of; to damage; to injure; to harm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Virtue may be assailed, but never <qex>hurt</qex>.</q> <rj><qau>Milton.</qau></rj><br/
@@ -27373,14 +27374,14 @@ In another month to his brazen lies.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hustle</ent><br/
-<hw>Hus"tle</hw>, <pos>v. i.</pos> <def>To push or crows; to force one's way; to move hustily and with confusion; a hurry.</def><br/
+<hw>Hus"tle</hw>, <pos>v. i.</pos> <def>To push or crows; to force one's way; to move hastily and with confusion; a hurry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Leaving the king, who had <qex>hustled</qex> along the floor with his dress worfully arrayed.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huswife</ent><br/
-<hw>Hus"wife</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>huswif</ets>; <ets>hus</ets> house + <ets>wif</ets> wife.  Cf. <er>Hussy</er> a housewife, <er>Housewife</er>.]</ety> <altsp>[Written also <asp>housewife</asp>.]</altsp> <sn>1.</sn> <def>A female housekeeper; a woman who manages domestic affairs; a thirfty woman.</def> <ldquo/The bounteous <xex>huswife</xex> Nature.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Hus"wife</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>huswif</ets>; <ets>hus</ets> house + <ets>wif</ets> wife.  Cf. <er>Hussy</er> a housewife, <er>Housewife</er>.]</ety> <altsp>[Written also <asp>housewife</asp>.]</altsp> <sn>1.</sn> <def>A female housekeeper; a woman who manages domestic affairs; a thrifty woman.</def> <ldquo/The bounteous <xex>huswife</xex> Nature.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>huswife</qex> is she that do labor doth fall.</q> <rj><qau>Tusser.</qau></rj><br/
@@ -27405,7 +27406,7 @@ In another month to his brazen lies.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hut</ent><br/
-<hw>Hut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>hotte</ets>; akin to D. <ets>hut</ets>, G. <ets>h<uum/tte</ets>, OHG. <ets>hutta</ets>, Dan. <ets>hytte</ets>, Sw. <ets>hydda</ets>; and F. <ets>hutte</ets>, of G. origin; all akin to E. <ets>hide</ets> to conceal. See <er>Hude</er> to conceal.]</ety> <def>A small house, hivel, or cabin; a mean lodge or dwelling; a slightly built or temporary structure.</def><br/
+<hw>Hut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>hotte</ets>; akin to D. <ets>hut</ets>, G. <ets>h<uum/tte</ets>, OHG. <ets>hutta</ets>, Dan. <ets>hytte</ets>, Sw. <ets>hydda</ets>; and F. <ets>hutte</ets>, of G. origin; all akin to E. <ets>hide</ets> to conceal. See <er>Hude</er> to conceal.]</ety> <def>A small house, hovel, or cabin; a mean lodge or dwelling; a slightly built or temporary structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Death comes on with equal footsteps<br/
@@ -28342,7 +28343,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophobia</ent><br/
-<hw>Hy`dro*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>"y`dwr</grk> water + <?/ fear: cf. F. <ets>hydrophobie</ets>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>An abnormal dread of water, said to be a symptom of canine madness; hence:</def> <sd>(b)</sd> <def>A viral disease trransmitted by a bite from, or inoculation with the saliva of, a rabid creature, of which the chief symptoms are, a sense of dryness and constriction in the throat, causing difficulty in deglutition, and a marked heightening of reflex excitability, producing convulsions whenever the patient attempts to swallow, or is disturbed in any way, as by the sight or sound of water; rabies; canine madness.</def> <altsp>[Written also <asp>hydrophoby</asp>.]</altsp><br/
+<hw>Hy`dro*pho"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>"y`dwr</grk> water + <?/ fear: cf. F. <ets>hydrophobie</ets>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>An abnormal dread of water, said to be a symptom of canine madness; hence:</def> <sd>(b)</sd> <def>A viral disease transmitted by a bite from, or inoculation with the saliva of, a rabid creature, of which the chief symptoms are, a sense of dryness and constriction in the throat, causing difficulty in deglutition, and a marked heightening of reflex excitability, producing convulsions whenever the patient attempts to swallow, or is disturbed in any way, as by the sight or sound of water; rabies; canine madness.</def> <altsp>[Written also <asp>hydrophoby</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrophobic</ent><br/
@@ -28780,7 +28781,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`gro*scop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>hygroscopique</ets>.]</ety> <sn>1.</sn> <def>Of or pertaining to, or indicated by, the hygroscope; not readily manifest to the senses, but capable of detection by the hygroscope; <as>as, glass is often covered with a film of <ex>hygroscopic</ex> moisture</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Having the property of readily inbibing moisture from the atmosphere, or of the becoming coated with a thin film of moisture, as glass, etc.</def><br/
+<p><sn>2.</sn> <def>Having the property of readily imbibing moisture from the atmosphere, or of the becoming coated with a thin film of moisture, as glass, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hygroscopicity</ent><br/
@@ -28878,7 +28879,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymen</ent><br/
-<hw>Hy"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ymh`n</grk> skin, membrane.]</ety> <fld>(Anat.)</fld> <def>A fold of muscous membrane often found at the orifice of the vagina in virgins; the vaginal membrane.  It is usually torn by sexual intercourse.</def><br/
+<hw>Hy"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ymh`n</grk> skin, membrane.]</ety> <fld>(Anat.)</fld> <def>A fold of mucous membrane often found at the orifice of the vagina in virgins; the vaginal membrane.  It is usually torn by sexual intercourse.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Hymen</ent><br/
@@ -29039,7 +29040,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyo-</ent><br/
-<hw>Hy"o-</hw> <pr>(?)</pr>. <ety>[See <er>Hyod</er>.]</ety> <def>A prexif used in anatomy, and generally denoting <sig>connection with the hyoid bone</sig> or <xex>arch</xex>; <as>as, <ex>hyo</ex>glossal, <ex>hyo</ex>mandibular, <ex>hyo</ex>mental, etc.</as></def><br/
+<hw>Hy"o-</hw> <pr>(?)</pr>. <ety>[See <er>Hyod</er>.]</ety> <def>A prefix used in anatomy, and generally denoting <sig>connection with the hyoid bone</sig> or <xex>arch</xex>; <as>as, <ex>hyo</ex>glossal, <ex>hyo</ex>mandibular, <ex>hyo</ex>mental, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoganoidei</ent><br/
@@ -29096,7 +29097,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 \'d8<hw>Hy`os*cy"a*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <?/ a sow, hog + <?/ a bean.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of poisonous plants of the Nightshade family; henbane.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Med.)</fld> <def>The leaves of the black henbane (<spn>Hyoscyamus niger</spn>), used in neuralgic and pectorial troubles.</def><br/
+<p><sn>2.</sn> <fld>(Med.)</fld> <def>The leaves of the black henbane (<spn>Hyoscyamus niger</spn>), used in neuralgic and pectoral troubles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyosternal</ent><br/
