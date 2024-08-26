@@ -771,7 +771,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><sn>4.</sn> <def>A leather bag or wallet;</def> <pluf>pl.</pluf>, <def>saddlebags.</def> <mark>[Scot.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>5.</sn>  <def>Enough liquor to make a man noticeably drunk; a small <ldquo/load;<rdquo/ a time or case of drunkeness; -- esp. in phr. <xex>To have a jag on</xex>, to be drunk.</def> <mark>[Slang, U. S. & Dial. Eng.]</mark><br/
+<p><sn>5.</sn>  <def>Enough liquor to make a man noticeably drunk; a small <ldquo/load;<rdquo/ a time or case of drunkenness; -- esp. in phr. <xex>To have a jag on</xex>, to be drunk.</def> <mark>[Slang, U. S. & Dial. Eng.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><cs><col><b>Jag bolt</b></col>, <cd>a bolt with a nicked or barbed shank which resists retraction, as when leaded into stone.</cd></cs><br/
@@ -1829,7 +1829,7 @@ Hungry and cold, betook him to his rest.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn>  <def>Java coffee, a kind of coffee brought from Java.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Computers)</fld> <mark>[all capitals]</mark>  <def>an object-oriented computer programming language, derived largely from <contr>C++</contr>, used widely for design and display of web pages on the world-wide web.  It is an interpreted language, and has been suggested as a platform-independent code to allow execution of the same progam under multiple operating systems without recompiling.  The language is still (1997) under active development, and is evolving.</def><br/
+<p><sn>3.</sn> <fld>(Computers)</fld> <mark>[all capitals]</mark>  <def>an object-oriented computer programming language, derived largely from <contr>C++</contr>, used widely for design and display of web pages on the world-wide web.  It is an interpreted language, and has been suggested as a platform-independent code to allow execution of the same program under multiple operating systems without recompiling.  The language is still (1997) under active development, and is evolving.</def><br/
 [<source>GG</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Java cat</b></col> <fld>(Zool.)</fld>, <cd>the musang.</cd> -- <col><b>Java sparrow</b></col> <fld>(Zool.)</fld>, <cd>a species of  finch (<spn>Padda oryzivora</spn>), native of Java, but very commonly kept as a cage bird; -- called also <altname>ricebird</altname>, and <altname>paddy bird</altname>. In the male the upper parts are glaucous gray, the head and tail black, the under parts delicate rose, and the cheeks white. The bill is large and red. A white variety is also kept as a cage bird.</cd></cs><br/
@@ -3045,7 +3045,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>jewels-of-opar</ent><br/
-<hw>jewels-of-opar</hw> <pos>n.</pos> <def>An erect plant (<spn>Talinum paniculatum</spn>) with tuberous roots and terminal panicles of red to yellow flowers, grwing from Southwestern North America to Central America; it has been widely introduced elsewhere.</def><br/
+<hw>jewels-of-opar</hw> <pos>n.</pos> <def>An erect plant (<spn>Talinum paniculatum</spn>) with tuberous roots and terminal panicles of red to yellow flowers, growing from Southwestern North America to Central America; it has been widely introduced elsewhere.</def><br/
 <syn><b>Syn. --</b> <spn>Talinum paniculatum</spn>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -3408,7 +3408,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <hw>Jim Crow</hw> <pos>n.</pos> <sn>1.</sn> <def>A negro; -- said to be so called from a popular negro dance song, the refrain of which is <ldquo/Wheel about and turn about and jump Jim Crow,<rdquo/ produced in 1835 by <person>Thomas D. Rice</person> (1808-1860), a famous negro minstrel; -- considered disparaging and offensive.</def> <mark>[Offensive slang, U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>2.</sn> <def>A legally sanctioned system of racial discrimination practised in the southern United States until declared unconstitutional in 1953 and further restricted by federal legislation, by means of which negroes were segregated and discriminated against in employment and in many places of public accommodation, such as parks, commercial establishments, and public transportation.</def><br/
+<p><sn>2.</sn> <def>A legally sanctioned system of racial discrimination practiced in the southern United States until declared unconstitutional in 1953 and further restricted by federal legislation, by means of which negroes were segregated and discriminated against in employment and in many places of public accommodation, such as parks, commercial establishments, and public transportation.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Jim-crow</ent><br/
@@ -3528,7 +3528,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>1.</sn> <def>A word used as a jocular oath.</def> <ldquo/By the living <xex>jingo</xex>.<rdquo/  <rj><au>Goldsmith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A statesman who pursues, or who favors, aggressive, domineering policy in foreign affairs; a bellicose superpatriot or chavinist.</def> <mark>[Cant, Eng.]</mark><br/
+<p><sn>2.</sn> <def>A statesman who pursues, or who favors, aggressive, domineering policy in foreign affairs; a bellicose superpatriot or chauvinist.</def> <mark>[Cant, Eng.]</mark><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ This sense arose from a doggerel song which was popular during the Turco-Russian war of 1877 and 1878. The first two lines were as follows: --<br/
@@ -3815,7 +3815,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <hw>Jock"ey</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To play or act the jockey; to cheat.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To maneuver oneself aggressivley or skillfully so as to achieve an advantage; <as>as, he <ex>jockeyed</ex> himself into position to be noticed</as>.</def><br/
+<p><sn>2.</sn> <def>To maneuver oneself aggressively or skillfully so as to achieve an advantage; <as>as, he <ex>jockeyed</ex> himself into position to be noticed</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Jockeying</ent><br/
@@ -4010,7 +4010,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <def>A rub; a slight stop; an obstruction; hence, an irregularity in motion of from; a hitch; a break in the direction of a line or the surface of a plane.</def>  <rj><au>Glanvill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>A liesurely running pace.  See <er>jog</er>{2}, <pos>v. i.</pos></def><br/
+<p><sn>3.</sn> <def>A leisurely running pace.  See <er>jog</er>{2}, <pos>v. i.</pos></def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Jog trot</b></col>, <cd>a slow, regular, jolting gait; hence, a routine habit or method, persistently adhered to.</cd>  <rj><au>T. Hook.</au></rj></cs><br/
@@ -4682,7 +4682,7 @@ But something ails it now: the spot is cursed.<rdquo/</q> <rj><qau>Wordsworth.</
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Jordanian</ent><br/
-<hw>Jordanian</hw> <pos>adj.</pos> <sn>1.</sn> <def>Of or pertaining to Jordan{1}; <as>as, <ex>Jordanian</ex> archeological sites</as>.</def><br/
+<hw>Jordanian</hw> <pos>adj.</pos> <sn>1.</sn> <def>Of or pertaining to Jordan{1}; <as>as, <ex>Jordanian</ex> archaeological sites</as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>Of or pertaining to the inhabitants of Jordan; <as>as, <ex>Jordanian</ex> palace guards</as>.</def><br/
@@ -4798,7 +4798,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Joule's cycle</ent><br/
-<hw>Joule's cycle</hw> <pr>(?)</pr>. <fld>(Thermodynamics)</fld> <def>The cycle for the air engine proposed by <persfn>Joule</persfn>. In it air is taken by a pump from a cold chamber and compressed adiabatically until its pressure is eqal to that of the air in a hot chamber, into which it is then delivered, thereby displacing an equal amount of hot air into the engine cylinder. Here it expands adiabatically to the temperature of the cold chamber into which it is finally exhausted. This cycle, reversed, is used in refrigerating machines.</def><br/
+<hw>Joule's cycle</hw> <pr>(?)</pr>. <fld>(Thermodynamics)</fld> <def>The cycle for the air engine proposed by <persfn>Joule</persfn>. In it air is taken by a pump from a cold chamber and compressed adiabatically until its pressure is equal to that of the air in a hot chamber, into which it is then delivered, thereby displacing an equal amount of hot air into the engine cylinder. Here it expands adiabatically to the temperature of the cold chamber into which it is finally exhausted. This cycle, reversed, is used in refrigerating machines.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Joule's law</ent><br/
@@ -5788,7 +5788,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 <hw>Jug"gle</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Juggled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Juggling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[OE. <ets>juglen</ets>; cf. OF. <ets>jogler</ets>, <ets>jugler</ets>, F. <ets>jongler</ets>. See <er>Juggler</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>To play tricks by sleight of hand; to cause amusement and sport by tricks of skill; to conjure; especially, to maintian several objects in the air at one time by tossing them up with one hand, catching them with the other hand, and passing them from the catching to the tossing hand.</def><br/
+<p><sn>1.</sn> <def>To play tricks by sleight of hand; to cause amusement and sport by tricks of skill; to conjure; especially, to maintain several objects in the air at one time by tossing them up with one hand, catching them with the other hand, and passing them from the catching to the tossing hand.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To practice artifice or imposture.</def><br/
@@ -6245,7 +6245,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Arch.)</fld> <def>An abrupt interruption of level in a piece of brickwork or masonry.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <def>A jump-start; <as>as, to get a <ex>jump</ex> from a passing mmotorist</as>.</def><br/
+<p><sn>6.</sn> <def>A jump-start; <as>as, to get a <ex>jump</ex> from a passing motorist</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>From the jump</b></col>, <cd>from the start or beginning.</cd> <mark>[Colloq.]</mark> -- <col><b>Jump joint</b></col>. <sd>(a)</sd> <cd>A butt joint</cd>. <sd>(b)</sd> <cd>A flush joint, as of plank in carvel-built vessels.</cd> -- <col><b>Jump seat</b></col>. <sd>(a)</sd> <cd>A movable carriage seat</cd>. <sd>(b)</sd> <cd>A carriage constructed with a seat which may be shifted so as to make room for second or extra seat. Also used adjectively; <as>as, a <ex>jump-seat</ex> wagon</as>.</cd></cs><br/
@@ -6770,7 +6770,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 <p><sn>1.</sn> <def>A person under oath; specifically, an officer of the nature of an alderman, in certain municipal corporations in England.</def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>The memorandum or certificate at the end of an asffidavit, or a bill or answer in chancery, showing when, before whom, and (in English practice), where, it was sworn or affirmed.</def>  <rj><au>Wharton. Bouvier.</au></rj><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>The memorandum or certificate at the end of an affidavit, or a bill or answer in chancery, showing when, before whom, and (in English practice), where, it was sworn or affirmed.</def>  <rj><au>Wharton. Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Juratory</ent><br/
