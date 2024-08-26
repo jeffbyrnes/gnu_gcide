@@ -402,7 +402,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 
 <p><ent>Ichnographical</ent><br/
 <ent>Ichnographic</ent><br/
-<mhw>{ <hw>Ich`no*graph"ic</hw> <pr>(?)</pr>, <hw>Ich`no*graph"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>ichonographique</ets>.]</ety> <def>Of or pertaining to ichonography; describing a ground plot.</def><br/
+<mhw>{ <hw>Ich`no*graph"ic</hw> <pr>(?)</pr>, <hw>Ich`no*graph"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>ichonographique</ets>.]</ety> <def>Of or pertaining to ichnography; describing a ground plot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichnography</ent><br/
@@ -700,7 +700,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>I*con`o*graph"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to iconography.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Representing by means of pictures or diagrams; <as>as, an <ex>icongraphic</ex> encyclop<ae/dia</as>.</def><br/
+<p><sn>2.</sn> <def>Representing by means of pictures or diagrams; <as>as, an <ex>iconographic</ex> encyclop<ae/dia</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iconography</ent><br/
@@ -1045,7 +1045,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>something that exists only as an idea.</def> <wns>[wns=2]</wns><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>5.</sn> <def>a protrayal of something as ideal.</def> <wns>[wns=3]</wns><br/
+<p><sn>5.</sn> <def>a portrayal of something as ideal.</def> <wns>[wns=3]</wns><br/
 <syn><b>Syn. --</b> glorification.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -1410,7 +1410,7 @@ And to just <qex>idioms</qex> fix our doubtful speech.</q> <rj><qau>Prior.</qau>
 <hw>Id`i*o*morph"ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'idio`morfos</grk> of peculiar form; <grk>'i`dios</grk> peculiar + <grk>morfh`</grk> form.]</ety> <sn>1.</sn> <def>Having a form of its own.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Crystallog.)</fld> <def>Apperaing in distinct crystals; -- said of the mineral constituents of a rock.</def><br/
+<p><sn>2.</sn> <fld>(Crystallog.)</fld> <def>Appearing in distinct crystals; -- said of the mineral constituents of a rock.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idiomuscular</ent><br/
@@ -1629,7 +1629,7 @@ Beside a wandering stream.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ido</ent><br/
-<hw>I"do</hw> <pr>(<emac/"d<omac/)</pr>, <pos>n.</pos> <def>An artificial international language, selected by the <ldquo/Delegation for the Adoption of an Auxillary International Language<rdquo/ (founded at Paris in 1901), made public in 1907, and subsequently greatly revised and extended by a permanent committee or <ldquo/Academy.<rdquo/   It is a revised and simplified form of <er>Esperanto</er>.  It combines systematically the advantages of previous schemes with a thoroughly logical word formation, and has neither accented constants nor arbitrarily coined pronominal words. For each idea that root is selected which is already most international, on the principle of the <ldquo/greatest facility for the greatest number of people.<rdquo/ The word <ldquo/Ido<rdquo/ means in the language itself <ldquo/offspring.<rdquo/ The official name is: <ldquo/Linguo Internaciona di la Delegitaro (Sistema Ido).<rdquo/</def> -- <wordforms><wf>I"dism</wf> <pr>(#)</pr>, <pos>n.</pos> -- <wf>I"dist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
+<hw>I"do</hw> <pr>(<emac/"d<omac/)</pr>, <pos>n.</pos> <def>An artificial international language, selected by the <ldquo/Delegation for the Adoption of an Auxiliary International Language<rdquo/ (founded at Paris in 1901), made public in 1907, and subsequently greatly revised and extended by a permanent committee or <ldquo/Academy.<rdquo/   It is a revised and simplified form of <er>Esperanto</er>.  It combines systematically the advantages of previous schemes with a thoroughly logical word formation, and has neither accented constants nor arbitrarily coined pronominal words. For each idea that root is selected which is already most international, on the principle of the <ldquo/greatest facility for the greatest number of people.<rdquo/ The word <ldquo/Ido<rdquo/ means in the language itself <ldquo/offspring.<rdquo/ The official name is: <ldquo/Linguo Internaciona di la Delegitaro (Sistema Ido).<rdquo/</def> -- <wordforms><wf>I"dism</wf> <pr>(#)</pr>, <pos>n.</pos> -- <wf>I"dist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Idocrase</ent><br/
@@ -1784,7 +1784,7 @@ Of alienated Judah.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idyl</ent><br/
-<hw>I"dyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>idyllium</ets>, Gr. <?/, fr. <?/ form; literally, a little form of image: cf. F. <ets>idylle</ets>. See <er>Idol</er>.]</ety> <def>A short poem; properly, a short pastoral poem; <as>as, the <ex>idyls</ex> of Theocritus</as>; also, any poem, especially a narrative or descriptive poem, written in an eleveted and highly finished style; also, by extension, any artless and easily flowing description, either in poetry or prose, of simple, rustic life, of pastoral scenes, and the like.</def> <altsp>[Written also <asp>idyll</asp>.]</altsp><br/
+<hw>I"dyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>idyllium</ets>, Gr. <?/, fr. <?/ form; literally, a little form of image: cf. F. <ets>idylle</ets>. See <er>Idol</er>.]</ety> <def>A short poem; properly, a short pastoral poem; <as>as, the <ex>idyls</ex> of Theocritus</as>; also, any poem, especially a narrative or descriptive poem, written in an elevated and highly finished style; also, by extension, any artless and easily flowing description, either in poetry or prose, of simple, rustic life, of pastoral scenes, and the like.</def> <altsp>[Written also <asp>idyll</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Wordsworth's solemn-thoughted <qex>idyl</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
@@ -1896,7 +1896,7 @@ Assist, <qex>if</qex> <OE/dipus deserve thy care.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ignis fatuus</ent><br/
-\'d8<hw>Ig"nis fat"u*us</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ignes fatui</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ignis</ets> fire + <ets>fatuus</ets> foolish. So called in allusion to its tendency to mislead travelers.]</ety> <sn>1.</sn> <def>A phosphorescent light that appears, in the night, over marshy ground, supposed to be occasioned by the decomposition of animal or vegetable substances, or by some inflammable gas; -- popularly called also <altname>Will-with-the-wisp</altname>, or <altname>Will-o'-the-wisp</altname>, and <altname>Jack-with-a-lantern</altname>, or <altname>Jack-o'-lantern</altname>.  It is thought by some to be caused by phosphine, <chform>PH3</chform>, a sponaneously combustible gas.</def><br/
+\'d8<hw>Ig"nis fat"u*us</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ignes fatui</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ignis</ets> fire + <ets>fatuus</ets> foolish. So called in allusion to its tendency to mislead travelers.]</ety> <sn>1.</sn> <def>A phosphorescent light that appears, in the night, over marshy ground, supposed to be occasioned by the decomposition of animal or vegetable substances, or by some inflammable gas; -- popularly called also <altname>Will-with-the-wisp</altname>, or <altname>Will-o'-the-wisp</altname>, and <altname>Jack-with-a-lantern</altname>, or <altname>Jack-o'-lantern</altname>.  It is thought by some to be caused by phosphine, <chform>PH3</chform>, a spontaneously combustible gas.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Will o'the Wisp -- which also rejoices in the names of <qex>Ignis Fatuus</qex> or Jack o'Lantern -- is not, as some of you may think, a cartoon character.  In mediaeval times this chemical phenomenon struck terror into travellers and, very likely, lured some of them to their deaths in a stinking and marshy grave.<br/
@@ -2386,7 +2386,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><q>There 's some <qex>ill</qex> planet reigns.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Contrary to good, in a moral sense; evil; wicked; wrong; iniquitious; naughtly; bad; improper.</def><br/
+<p><sn>2.</sn> <def>Contrary to good, in a moral sense; evil; wicked; wrong; iniquitous; naughtly; bad; improper.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of his own body he was ill, and gave<br/
@@ -2453,7 +2453,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illabile</ent><br/
-<hw>Il*lab"ile</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Incapable of falling or erring; infalliable.</def> <mark>[Obs.]</mark> -- <wordforms><wf>Il`la*bil"i*ty</wf> <pr>(#)</pr>, <pos>n.</pos> <mark>[Obs.]</mark></wordforms><br/
+<hw>Il*lab"ile</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Incapable of falling or erring; infallible.</def> <mark>[Obs.]</mark> -- <wordforms><wf>Il`la*bil"i*ty</wf> <pr>(#)</pr>, <pos>n.</pos> <mark>[Obs.]</mark></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illacerable</ent><br/
@@ -2465,7 +2465,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illampu</ent><br/
-<hw>Illampu</hw> <pos>prop. n.</pos> <def>A mountian in Bolivia, 20,873 feet high.</def> <mark>[proper name]</mark><br/
+<hw>Illampu</hw> <pos>prop. n.</pos> <def>A mountain in Bolivia, 20,873 feet high.</def> <mark>[proper name]</mark><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Illapsable</ent><br/
@@ -2480,7 +2480,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illapse</ent><br/
-<hw>Il*lapse"</hw>, <pos>n.</pos> <ety>[L. <ets>illapsus</ets>. See <er>Illapse</er>, <pos>v. i.</pos>]</ety> <def>A gliding in; an immisson or entrance of one thing into another; also, a sudden descent or attack.</def>  <rj><au>Akenside.</au></rj><br/
+<hw>Il*lapse"</hw>, <pos>n.</pos> <ety>[L. <ets>illapsus</ets>. See <er>Illapse</er>, <pos>v. i.</pos>]</ety> <def>A gliding in; an immission or entrance of one thing into another; also, a sudden descent or attack.</def>  <rj><au>Akenside.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They sit silent . . . waiting for an <qex>illapse</qex> of the spirit.</q> <rj><qau>Jeffrey.</qau></rj><br/
@@ -3415,7 +3415,7 @@ Rich carvings, portraitures, and <qex>imagery</qex>.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imaginal</ent><br/
-<hw>Im*ag"i*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>imaginalis</ets>.]</ety> <sn>1.</sn> <def>Characterized by imagination; imaginative; also, given to the use or rhetorical figures or imagins.</def><br/
+<hw>Im*ag"i*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>imaginalis</ets>.]</ety> <sn>1.</sn> <def>Characterized by imagination; imaginative; also, given to the use or rhetorical figures or imagines.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Of or pertaining to an imago.</def><br/
@@ -3672,7 +3672,7 @@ In nectared lavers strewed with asphodel.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Im"be*cile</hw>, <pos>n.</pos> <sn>1.</sn> <def>One destitute of strength; esp., one of feeble mind; -- sometimes used as a pejorative term.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Psychology)</fld>  <def>A person with a degree of mental retardation between that of an idiot and a moron; in a former classification of mentally retarded person, it applied to a person with an adult mental age of from four to eith years, and an I.Q. of from 26 to 50.</def><br/
+<p><sn>2.</sn> <fld>(Psychology)</fld>  <def>A person with a degree of mental retardation between that of an idiot and a moron; in a former classification of mentally retarded person, it applied to a person with an adult mental age of from four to eight years, and an I.Q. of from 26 to 50.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Imbecile</ent><br/
@@ -3941,7 +3941,7 @@ The divine property of her first being.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Im*bue"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imbued</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imbuing</conjf>.]</vmorph> <ety>[L. <ets>imbuere</ets>; pref. <ets>im-</ets> in + perh. a disused simple word akin to L. <ets>bibere</ets> to drink.  Cf. <er>Imbibe</er>.]</ety> <sn>1.</sn> <def>To tinge deeply; to dye; to cause to absorb; <as>as, clothes thoroughly <ex>imbued</ex> with black</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To tincture deply; to cause to become impressed or penetrated; <as>as, to <ex>imbue</ex> the minds of youth with good principles</as>.</def><br/
+<p><sn>2.</sn> <def>To tincture deeply; to cause to become impressed or penetrated; <as>as, to <ex>imbue</ex> the minds of youth with good principles</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Thy words with grace divine<br/
@@ -4024,7 +4024,7 @@ The Nature's work by art can <qex>imitate</qex>.</q> <rj><qau>Spenser.</qau></rj
 And that sustained an <qex>imitated</qex> shield.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Biol.)</fld> <def>To resemble (another species of animal, or a plant, or inanimate object) in form, color, ornamentation, or instinctive habits, so as to derive an advantage thereby; sa, when a harmless snake <xex>imitates</xex> a venomous one in color and manner, or when an odorless insect <xex>imitates</xex>, in color, one having secretion offensive to birds.</def><br/
+<p><sn>3.</sn> <fld>(Biol.)</fld> <def>To resemble (another species of animal, or a plant, or inanimate object) in form, color, ornamentation, or instinctive habits, so as to derive an advantage thereby; as, when a harmless snake <xex>imitates</xex> a venomous one in color and manner, or when an odorless insect <xex>imitates</xex>, in color, one having secretion offensive to birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imitation</ent><br/
@@ -4040,7 +4040,7 @@ And that sustained an <qex>imitated</qex> shield.</q> <rj><qau>Dryden.</qau></rj
 <p><q>Both these arts are not only true <qex>imitations</qex> of nature, but of the best nature.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Mus.)</fld> <def>One of the principal means of securing unity and consistency in polyphonic composition; the repetition of essentially the same melodic theme, phrase, or motive, on different degrees of pitch, by one or more of the other parts of voises.  Cf. <er>Canon</er>.</def><br/
+<p><sn>3.</sn> <fld>(Mus.)</fld> <def>One of the principal means of securing unity and consistency in polyphonic composition; the repetition of essentially the same melodic theme, phrase, or motive, on different degrees of pitch, by one or more of the other parts of voices.  Cf. <er>Canon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Biol.)</fld> <def>The act of condition of imitating another species of animal, or a plant, or unanimate object. See <er>Imitate</er>, <pos>v. t.</pos>, 3.</def><br/
@@ -4302,7 +4302,7 @@ Thou hast <qex>immanacled</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immediacy</ent><br/
-<hw>Im*me"di*a*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The relation of freedom from the interventionof a medium; immediateness.</def>  <rj><au>Shak.</au></rj><br/
+<hw>Im*me"di*a*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The relation of freedom from the intervention of a medium; immediateness.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immediate</ent><br/
@@ -4430,7 +4430,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immerge</ent><br/
-<hw>Im*merge"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Immerged</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Immerging</conjf> <pr>(?)</pr>.]</vmorph> <ety>[L. <ets>immergere</ets>; pref. <ets>im-</ets> in + <ets>mergere</ets> to dip, plunge: cf. F. <ets>immerger</ets>. See <er>Merge</er>, and cf. <er>Immerse</er>.]</ety> <def>To plungel into, under, or within anything especially a fuid; to dip; to immerse. See <er>Immerse</er>.</def><br/
+<hw>Im*merge"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Immerged</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Immerging</conjf> <pr>(?)</pr>.]</vmorph> <ety>[L. <ets>immergere</ets>; pref. <ets>im-</ets> in + <ets>mergere</ets> to dip, plunge: cf. F. <ets>immerger</ets>. See <er>Merge</er>, and cf. <er>Immerse</er>.]</ety> <def>To plunge into, under, or within anything especially a fluid; to dip; to immerse. See <er>Immerse</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We took . . . lukewarm water, and in it <qex>immerged</qex> a quantity of the leaves of senna.</q> <rj><qau>Boyle.</qau></rj><br/
@@ -4440,7 +4440,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immerge</ent><br/
-<hw>Im*merge"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To dissapear by entering into any medium, as a star into the light of the sun.</def> <mark>[R.]</mark><br/
+<hw>Im*merge"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To disappear by entering into any medium, as a star into the light of the sun.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immerit</ent><br/
@@ -4476,7 +4476,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>To baptize by immersion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To engage deeply; to engross the attention of; to involve; to overhelm.</def><br/
+<p><sn>3.</sn> <def>To engage deeply; to engross the attention of; to involve; to overwhelm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The queen <qex>immersed</qex> in such a trance.</q> <rj><qau>Tennyson.</qau></rj><br/
@@ -4512,13 +4512,13 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Submersion in water for the purpose of Christian baptism, <as>as, practiced by the Baptists</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>The state of being overhelmed or deeply absorbed; deep engagedness.</def><br/
+<p><sn>3.</sn> <def>The state of being overwhelmed or deeply absorbed; deep engagedness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Too deep an <qex>immersion</qex> in the affairs of life.</q> <rj><qau>Atterbury.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Astron.)</fld> <def>The dissapearance of a celestail body, by passing either behind another, as in the occultation of a star, or into its shadow, as in the eclipse of a satellite; -- opposed to <contr>emersion</contr>.</def><br/
+<p><sn>4.</sn> <fld>(Astron.)</fld> <def>The disappearance of a celestial body, by passing either behind another, as in the occultation of a star, or into its shadow, as in the eclipse of a satellite; -- opposed to <contr>emersion</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Immersion lens</b></col>, <cd>a microscopic objective of short focal distance designed to work with a drop of liquid, as oil, between the front lens and the slide, so that this lens is practically <xex>immersed</xex>.</cd></cs><br/
@@ -4817,7 +4817,7 @@ But we proscribe the least <qex>immodest</qex> thought.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immortal</ent><br/
-<hw>Im*mor"tal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>immortalis</ets>; pref. <ets>im-</ets> not + <ets>mortalis</ets> mortal: cf. F. <ets>immortel</ets>. See <er>Mortal</er>, and cf. <er>Immortelle</er>.]</ety> <sn>1.</sn> <def>Not mortal; exempt from liability to die; undying; imperishable; lasting forever; having unlimited, or eternal, existance.</def><br/
+<hw>Im*mor"tal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>immortalis</ets>; pref. <ets>im-</ets> not + <ets>mortalis</ets> mortal: cf. F. <ets>immortel</ets>. See <er>Mortal</er>, and cf. <er>Immortelle</er>.]</ety> <sn>1.</sn> <def>Not mortal; exempt from liability to die; undying; imperishable; lasting forever; having unlimited, or eternal, existence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Unto the King eternal, <qex>immortal</qex>, invisible.</q> <rj><qau>1 Tim. i. 17.</qau></rj><br/
@@ -4857,7 +4857,7 @@ That were not born to die.</q> <rj><qau>Halleck.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immortality</ent><br/
-<hw>Im`mor*tal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Immortalities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>immortalitas</ets>: cf. F. <ets>immortalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality or state of being immortal; exemption from death and annihilation; unending existance; <as>as, the <ex>immortality</ex> of the soul</as>.</def><br/
+<hw>Im`mor*tal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Immortalities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>immortalitas</ets>: cf. F. <ets>immortalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality or state of being immortal; exemption from death and annihilation; unending existence; <as>as, the <ex>immortality</ex> of the soul</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This mortal must put on <qex>immortality</qex>.</q> <rj><qau>1 Cor. xv. 53.</qau></rj><br/
@@ -5016,7 +5016,7 @@ That were not born to die.</q> <rj><qau>Halleck.</qau></rj><br/
 <hw>Im*mure"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Immured</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Immuring</conjf>.]</vmorph> <ety>[Pref. <ets>im-</ets> in + <ets>mure</ets>: cf. F. <ets>emmurer</ets>.]</ety> <sn>1.</sn> <def>To wall around; to surround with walls.</def> <mark>[Obs.]</mark>  <rj><au>Sandys.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To inclose whithin walls, or as within walls; hence, to shut up; to imprison; to incarcerate.</def><br/
+<p><sn>2.</sn> <def>To inclose within walls, or as within walls; hence, to shut up; to imprison; to incarcerate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Those tender babes<br/
@@ -5192,7 +5192,7 @@ With all the scorpions that should whip this age.</q> <rj><qau>Cleveland.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>impala</ent><br/
-<hw>im*pa"la</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An antelope (<spn>Aepyceros melampus</spn>) of Southeastern Africa, the male of which has ringed lyre-shaped horns, which curve first backward, then sideways, then upwards.  ALso called <altname>impalla</altname> and <altname>pallah</altname>.</def><br/
+<hw>im*pa"la</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An antelope (<spn>Aepyceros melampus</spn>) of Southeastern Africa, the male of which has ringed lyre-shaped horns, which curve first backward, then sideways, then upwards.  Also called <altname>impalla</altname> and <altname>pallah</altname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Impalatable</ent><br/
@@ -5826,7 +5826,7 @@ Have we marched on without <qex>impediment</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>impelled</ent><br/
-<hw>impelled</hw> <pos>adj.</pos>  <def>motivated by an irresistable compulsion.</def><br/
+<hw>impelled</hw> <pos>adj.</pos>  <def>motivated by an irresistible compulsion.</def><br/
 <syn><b>Syn. --</b> driven.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
@@ -5870,7 +5870,7 @@ Have we marched on without <qex>impediment</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impending</ent><br/
-<hw>Im*pend"ing</hw>, <pos>a.</pos> <def>Hanging over; overhanging; suspended so as to menace; imminet; threatening.</def><br/
+<hw>Im*pend"ing</hw>, <pos>a.</pos> <def>Hanging over; overhanging; suspended so as to menace; imminent; threatening.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>An <qex>impending</qex> brow.</q> <rj><qau>Hawthorne.</qau></rj><br/
@@ -6064,7 +6064,7 @@ To star or sunlight.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperfect</ent><br/
-<hw>Im*per"fect</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>imperfectus</ets>: pref. <ets>im-</ets> not + <ets>perfectus</ets> perfect: cf. F <ets>imparfait</ets>, whence OE. <ets>imparfit</ets>. See <er>Perfect</er>.]</ety> <sn>1.</sn> <def>Not perfect; not complete in all its parts; wanting a part; deective; deficient.</def><br/
+<hw>Im*per"fect</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>imperfectus</ets>: pref. <ets>im-</ets> not + <ets>perfectus</ets> perfect: cf. F <ets>imparfait</ets>, whence OE. <ets>imparfit</ets>. See <er>Perfect</er>.]</ety> <sn>1.</sn> <def>Not perfect; not complete in all its parts; wanting a part; defective; deficient.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Something he left <qex>imperfect</qex> in the state.</q> <rj><qau>Shak.</qau></rj><br/
@@ -6079,7 +6079,7 @@ To star or sunlight.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>He . . . stammered like a child, or an amazed, <qex>imperfect</qex> person.</q> <rj><qau>Jer. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Not fulfilling its design; not realizing an ideal; not conformed to a standard or rule; not satisfying the taste or conscience; esthetically or morally defective.</def><br/
+<p><sn>3.</sn> <def>Not fulfilling its design; not realizing an ideal; not conformed to a standard or rule; not satisfying the taste or conscience; aesthetically or morally defective.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Nothing <qex>imperfect</qex> or deficient left<br/
@@ -6222,7 +6222,7 @@ These are <qex>imperial</qex> arts, and worthy thee.</q> <rj><qau>Dryden.</qau><
 <p><sn>1.</sn> <def>Imperial power.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>An imperial right or privilegs. See <er>Royalty</er>.</def><br/
+<p><sn>2.</sn> <def>An imperial right or privileges. See <er>Royalty</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The late empress having, by ukases of grace, relinquished her <qex>imperialities</qex> on the private mines, viz., the tenths of the copper, iron, silver and gold.</q> <rj><qau>W. Tooke.</qau></rj><br/
@@ -6256,7 +6256,7 @@ These are <qex>imperial</qex> arts, and worthy thee.</q> <rj><qau>Dryden.</qau><
 <qex>Imperious</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Haughly; arrogant; overbearing; <as>as, an <ex>imperious</ex> tyrant; an <ex>imperious</ex> manner.</as></def><br/
+<p><sn>2.</sn> <def>Haughty; arrogant; overbearing; <as>as, an <ex>imperious</ex> tyrant; an <ex>imperious</ex> manner.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This <qex>imperious</qex> man will work us all<br/
@@ -6286,7 +6286,7 @@ From princes into pages.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperishability</ent><br/
-<hw>Im*per`ish*a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being imperishable: indstructibility.</def> <ldquo/The <xex>imperishability</xex> of the universe.<rdquo/  <rj><au>Milman.</au></rj><br/
+<hw>Im*per`ish*a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being imperishable: indestructibility.</def> <ldquo/The <xex>imperishability</xex> of the universe.<rdquo/  <rj><au>Milman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperishable</ent><br/
@@ -6425,10 +6425,10 @@ Reason in madness!</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>How <qex>impertinent</qex> that grief was which served no end!</q> <rj><qau>Jer. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Contrary to, or offending against, the rules of propriety or good breeding; guilty of, or prone to, rude, unbecoming, or uncivil words or actions; <as>as, an <ex>impertient</ex> coxcomb; an <ex>impertient</ex> remark.</as></def><br/
+<p><sn>2.</sn> <def>Contrary to, or offending against, the rules of propriety or good breeding; guilty of, or prone to, rude, unbecoming, or uncivil words or actions; <as>as, an <ex>impertinent</ex> coxcomb; an <ex>impertinent</ex> remark.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Trifing; inattentive; frivolous.</def></p>
+<p><sn>3.</sn> <def>Trifling; inattentive; frivolous.</def></p>
 
 <p><syn><b>Syn.</b> -- Rude; officious; intrusive; saucy; unmannerly; meddlesome; disrespectful; impudent; insolent.</syn> <usage> -- <er>Impertinent</er>, <er>Officious</er>, <er>Rude</er>. A person is <xex>officious</xex> who obtrudes his <xex>offices</xex> or assistance where they are not needed; he is <xex>impertinent</xex> when he intermeddles in things with which he has no concern. The former shows a lack of tact, the latter a lack of breeding, or, more commonly, a spirit of sheer impudence. A person is <xex>rude</xex> when he violates the proprieties of social life either from ignorance or wantonness. <ldquo/An <xex>impertinent</xex> man will ask questions for the mere gratification of curiosity; a <xex>rude</xex> man will burst into the room of another, or push against his person, inviolant of all decorum; one who is <xex>officious</xex> is quite as unfortunate as he is troublesome; when he strives to serve, he has the misfortune to annoy.<rdquo/ <au>Crabb.</au> See <er>Impudence</er>, and <er>Insolent</er>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -6496,7 +6496,7 @@ Reason in madness!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impest</ent><br/
-<hw>Im*pest"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To affict with pestilence; to infect, as with plague.</def> <mark>[Obs.]</mark><br/
+<hw>Im*pest"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To afflict with pestilence; to infect, as with plague.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impester</ent><br/
@@ -7006,7 +7006,7 @@ I cling <qex>implicit</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impluvium</ent><br/
-\'d8<hw>Im*plu"vi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impluere</ets> to rain into; pref. <ets>im-</ets> in + <ets>pluere</ets> to rain.]</ety> <fld>(Arch.)</fld> <def>In Roman dwellings, a cistern or tank, set in the atrium or peristyle to recieve the water from the roof, by means of the <xex>compluvium</xex>; generally made ornamental with flowers and works of art around its birm.</def><br/
+\'d8<hw>Im*plu"vi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>impluere</ets> to rain into; pref. <ets>im-</ets> in + <ets>pluere</ets> to rain.]</ety> <fld>(Arch.)</fld> <def>In Roman dwellings, a cistern or tank, set in the atrium or peristyle to receive the water from the roof, by means of the <xex>compluvium</xex>; generally made ornamental with flowers and works of art around its brim.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imply</ent><br/
@@ -7051,7 +7051,7 @@ To which I most <qex>imply</qex> it.</q> <rj><qau>J. Webster.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impolicy</ent><br/
-<hw>Im*pol"i*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being impolitic; inexpedience; unsuitableness to the end proposed; bads policy; <as>as, the <ex>impolicy</ex> of fraud</as>.</def>  <rj><au>Bp. Horsley.</au></rj><br/
+<hw>Im*pol"i*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being impolitic; inexpedience; unsuitableness to the end proposed; bad policy; <as>as, the <ex>impolicy</ex> of fraud</as>.</def>  <rj><au>Bp. Horsley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impolite</ent><br/
@@ -7443,10 +7443,10 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><q>Reputation is an idle and most false <qex>imposition</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Eccl.)</fld> <def>The act of laying on the hands as a religious ceremoy, in ordination, confirmation, etc.</def><br/
+<p><sn>5.</sn> <fld>(Eccl.)</fld> <def>The act of laying on the hands as a religious ceremony, in ordination, confirmation, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Print.)</fld> <def>The act or process of imosing pages or columns of type. See <er>Impose</er>, <pos>v. t.</pos>, 4.</def></p>
+<p><sn>6.</sn> <fld>(Print.)</fld> <def>The act or process of imposing pages or columns of type. See <er>Impose</er>, <pos>v. t.</pos>, 4.</def></p>
 
 <p><syn><b>Syn.</b> -- Deceit; fraud; imposture. See <er>Deception</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7502,7 +7502,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impost</ent><br/
-<hw>Im"post</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>impost</ets>, F. <ets>impot</ets>, LL. <ets>impostus</ets>, fr. L. <ets>impostus</ets>, p. p. of <ets>imponere</ets> to impose. See <er>Impone</er>.]</ety> <sn>1.</sn> <def>That which is imposed or levied; a tax, tribute, or duty; especially, a duty or tax laid by goverment on goods imported into a country.</def><br/
+<hw>Im"post</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>impost</ets>, F. <ets>impot</ets>, LL. <ets>impostus</ets>, fr. L. <ets>impostus</ets>, p. p. of <ets>imponere</ets> to impose. See <er>Impone</er>.]</ety> <sn>1.</sn> <def>That which is imposed or levied; a tax, tribute, or duty; especially, a duty or tax laid by government on goods imported into a country.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Even the ship money . . . Johnson could not pronounce to have been an unconstitutional <qex>impost</qex>.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -8055,7 +8055,7 @@ That I might see her married.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impressionism</ent><br/
-<hw>Im*pres"sion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>impressionnisme</ets>.]</ety> <fld>(Fine Arts)</fld> <def>The theory or method of suggesting an effect or impression without elaboration of the details; -- a disignation of a recent fashion in painting and etching.</def><br/
+<hw>Im*pres"sion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>impressionnisme</ets>.]</ety> <fld>(Fine Arts)</fld> <def>The theory or method of suggesting an effect or impression without elaboration of the details; -- a designation of a recent fashion in painting and etching.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impressionist</ent><br/
@@ -8126,7 +8126,7 @@ That I might see her married.</q> <rj><qau>Ford.</qau></rj><br/
 \'d8<hw>Im`pri*ma"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., let it be printed.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A license to print or publish a book, paper, etc.; also, in countries subjected to the censorship of the press, approval of that which is published.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(R. C. Ch.)</fld> <def>Permission granted from a designated eccliastical authority to publish a book or other document; -- required by church law for Catholics, especially ecclesiastics, who wish to publish.</def><br/
+<p><sn>2.</sn> <fld>(R. C. Ch.)</fld> <def>Permission granted from a designated ecclesiastical authority to publish a book or other document; -- required by church law for Catholics, especially ecclesiastics, who wish to publish.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <specif>Hence:</specif> <def>Official approval for some proposed activity; <as>as, a contract this large needs the <ex>imprimatur</ex> of the legal department</as>.</def><br/
@@ -8503,7 +8503,7 @@ Ascribe all Good; to their <qex>improper</qex>, Ill.</q> <rj><qau>Pope.</qau></r
 <p><q>Exercise is the chief source of <qex>improvement</qex> in all our faculties.</q> <rj><qau>Blair.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The act of making profitable use or applicaton of anything, or the state of being profitably employed; a turning to good account; practical application, as of a doctrine, principle, or theory, stated in a discourse.</def> <ldquo/A good <xex>improvement</xex> of his reason.<rdquo/  <rj><au>S. Clarke.</au></rj><br/
+<p><sn>2.</sn> <def>The act of making profitable use or application of anything, or the state of being profitably employed; a turning to good account; practical application, as of a doctrine, principle, or theory, stated in a discourse.</def> <ldquo/A good <xex>improvement</xex> of his reason.<rdquo/  <rj><au>S. Clarke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I shall make some <qex>improvement</qex> of this doctrine.</q> <rj><qau>Tillotson.</qau></rj><br/
@@ -9125,7 +9125,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <p>   In certain cases <xex>in</xex> has an adjectival sense; as, the <xex>in</xex> train (<it>i. e.</it>, the incoming train); compare <xex>up</xex> grade, <xex>down</xex> grade, <xex>under</xex>tow, <xex>after</xex>thought, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>With privilege or possession; -- used to denote a holding, possession, or seisin; <as>as, <ex>in</ex> by descent; <ex>in</ex> by purchase; <ex>in</ex> of the seisin of her husband.</as></def>  <rj><au>Burrill.</au></rj><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>With privilege or possession; -- used to denote a holding, possession, or seizin; <as>as, <ex>in</ex> by descent; <ex>in</ex> by purchase; <ex>in</ex> of the seisin of her husband.</as></def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>In and in breeding</b></col>. <cd>See under <er>Breeding</er>.</cd> -- <col><b>In and out</b></col> <fld>(Naut.)</fld>, <cd>through and through; -- said of a through bolt in a ship's side.</cd> <au>Knight.</au> -- <col><b>To be in</b></col>, <cd>to be at home; <as>as, Mrs. A. <ex>is in</ex></as>.</cd> -- <col><b>To come in</b></col>. <cd>See under <er>Come</er>.</cd></cs><br/
@@ -9554,7 +9554,7 @@ That crawls at evening in the public path.</q> <rj><qau>Cowper.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inappellable</ent><br/
-<hw>In`ap*pel"la*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Inappealable; final.</def></p>
+<hw>In`ap*pel"la*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Inappellable; final.</def></p>
 
 <p><ent>Inappetency</ent><br/
 <ent>Inappetence</ent><br/
@@ -9754,7 +9754,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 <hw>In*au`gu*ra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>inauguratio</ets> a beginning: cf. F. <ets>inauguration</ets>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>The act of inuagurating, or inducting into office with solemnity; investiture by appropriate ceremonies.</def><br/
+<p><sn>1.</sn> <def>The act of inaugurating, or inducting into office with solemnity; investiture by appropriate ceremonies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>At his regal <qex>inauguration</qex>, his old father resigned the kingdom to him.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
@@ -10342,7 +10342,7 @@ On fire with faithless embers overspread.</q> <rj><qau>Francis.</qau></rj><br/
 Thy glorious heap of funeral.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To inflame with anger; to enrage; to endkindle; to fire; to incite; to provoke; to heat; to madden.</def><br/
+<p><sn>2.</sn> <def>To inflame with anger; to enrage; to enkindle; to fire; to incite; to provoke; to heat; to madden.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The people are <qex>incensed</qex> him.</q> <rj><qau>Shak.</qau></rj></p>
@@ -10532,7 +10532,7 @@ Provide, pernicious with one touch of fire.</q>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incessant</ent><br/
-<hw>In*ces"sant</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>incessans</ets>, <ets>-antis</ets>; pref. <ets>in-</ets> not + <ets>cessare</ets> to cease: cf. F. <ets>incessant</ets>. See <er>Cease</er>.]</ety> <def>Continuing or following without interruption; unceasing; unitermitted; uninterrupted; continual; <as>as, <ex>incessant</ex> clamors; <ex>incessant</ex> pain, etc.</as></def><br/
+<hw>In*ces"sant</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>incessans</ets>, <ets>-antis</ets>; pref. <ets>in-</ets> not + <ets>cessare</ets> to cease: cf. F. <ets>incessant</ets>. See <er>Cease</er>.]</ety> <def>Continuing or following without interruption; unceasing; unintermitted; uninterrupted; continual; <as>as, <ex>incessant</ex> clamors; <ex>incessant</ex> pain, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Against the castle gate,<br/
@@ -10593,7 +10593,7 @@ You must divine and human rights remove.</q> <rj><qau>Dryden.</qau></rj></p>
 <p><note><hand/ The meter, the accepted scientific standard of length, equals 39.37 inches; the inch is equal to 2.54 centimeters. See <er>Metric system</er>, and <er>Meter</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A small distance or degree, whether of time or space; hence, a critical moment; also used metaphorically of minor concessins in bargaining; <as>as, he won't give an <ex>inch</ex>; give him an <ex>inch</ex> and he'll take a mile</as>.</def><br/
+<p><sn>2.</sn> <def>A small distance or degree, whether of time or space; hence, a critical moment; also used metaphorically of minor concessions in bargaining; <as>as, he won't give an <ex>inch</ex>; give him an <ex>inch</ex> and he'll take a mile</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Beldame, I think we watched you at an <qex>inch</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -10932,7 +10932,7 @@ That treason of false witness in my blush.</q> <rj><qau>Mrs. Browning.</qau></rj
 [<source>PJC</source>]</p>
 
 <p><ent>incisiveness</ent><br/
-<hw>incisiveness</hw> <pos>n.</pos> <def>keenness and forcefulnelss of thought or expression or intellect.</def><br/
+<hw>incisiveness</hw> <pos>n.</pos> <def>keenness and forcefulness of thought or expression or intellect.</def><br/
 <syn><b>Syn. --</b> trenchancy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -13212,7 +13212,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 <hw>In"cre*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>incrementum</ets>: cf. F. <ets>incr<eacute/ment</ets>. See <er>Increase</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>The act or process of increasing; growth in bulk, guantity, number, value, or amount; augmentation; enlargement.</def><br/
+<p><sn>1.</sn> <def>The act or process of increasing; growth in bulk, quantity, number, value, or amount; augmentation; enlargement.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The seminary that furnisheth matter for the formation and <qex>increment</qex> of animal and vegetable bodies.</q> <rj><qau>Woodward.</qau></rj><br/
@@ -14539,7 +14539,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indescribably</ent><br/
-<hw>In`de*scrib"a*bly</hw>, <pos>adv.</pos> <def>In an indescribable manner; to a degree impossible to desribe; <as>as, <ex>indescribably</ex> beautiful</as>.</def><br/
+<hw>In`de*scrib"a*bly</hw>, <pos>adv.</pos> <def>In an indescribable manner; to a degree impossible to describe; <as>as, <ex>indescribably</ex> beautiful</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Indescriptive</ent><br/
@@ -14664,14 +14664,14 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <hw>In"dex</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Indexed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Indexing</conjf>.]</vmorph> <sn>1.</sn> <def>To provide with an index or table of references; to put into an index; <as>as, to <ex>index</ex> a book, or its contents</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Economics)</fld> <def>To adjust (wages, prices, taxes, etc.) automatically so as to compensate for changes in prices, usually as measured by the <er>consumer price index</er> or other economic measure.  Its purpose is usually to copensate for inflation.</def><br/
+<p><sn>2.</sn> <fld>(Economics)</fld> <def>To adjust (wages, prices, taxes, etc.) automatically so as to compensate for changes in prices, usually as measured by the <er>consumer price index</er> or other economic measure.  Its purpose is usually to compensate for inflation.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>To insert (a word, name, file folder, etc.) into an index or into an indexed arrangement; <as>as, to <ex>index</ex> a contract under its date of signing</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>indexation</ent><br/
-<hw>indexation</hw> <pos>n.</pos> <def>a system of economic regulation in which wages and interest are tied to the cost-of-living index in order to compenaste for the effects of inflation.</def><br/
+<hw>indexation</hw> <pos>n.</pos> <def>a system of economic regulation in which wages and interest are tied to the cost-of-living index in order to compensate for the effects of inflation.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Indexer</ent><br/
@@ -15731,7 +15731,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>indistinguishability</ent><br/
-<hw>in`dis*tin`guish*a*bil"i*ty</hw> <pos>n.</pos> <def>smilarity too close to be distinguished; exact sameness.</def><br/
+<hw>in`dis*tin`guish*a*bil"i*ty</hw> <pos>n.</pos> <def>similarity too close to be distinguished; exact sameness.</def><br/
 <syn><b>Syn. --</b> identity, identicalness.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -17116,7 +17116,7 @@ That cheer but not <qex>inebriate</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inefficient</ent><br/
-<hw>In`ef*fi"cient</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Not efficient; not producing the effect intended or desired, or achieiving the effect by unnnecessary and excessive expenditure of resources; inefficacious; <as>as, <ex>inefficient</ex> means or measures; <ex>inefficient</ex> methods are too expensive</as>.</def><br/
+<hw>In`ef*fi"cient</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Not efficient; not producing the effect intended or desired, or achieving the effect by unnecessary and excessive expenditure of resources; inefficacious; <as>as, <ex>inefficient</ex> means or measures; <ex>inefficient</ex> methods are too expensive</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Incapable of, or indisposed to, effective action; habitually slack or remiss; effecting little or nothing; <as>as, <ex>inefficient</ex> workmen; an <ex>inefficient</ex> administrator.</as></def><br/
