@@ -8324,7 +8324,7 @@ Most like to <qex>mannish</qex> creature.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>These poets near our princes sleep,<br/
-And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></rj><br/
+And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Denham.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The house of the lord of a manor; a manor house; hence: Any house of considerable size or pretension.</def><br/
@@ -8383,7 +8383,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manstealing</ent><br/
-<hw>Man"steal`ing</hw>, <pos>n.</pos> <def>The act or business of stealing or kidnapping human beings, especially with a view to e<?/slave them.</def><br/
+<hw>Man"steal`ing</hw>, <pos>n.</pos> <def>The act or business of stealing or kidnapping human beings, especially with a view to enslave them.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mansuete</ent><br/

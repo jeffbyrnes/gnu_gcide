@@ -16825,7 +16825,7 @@ With <qex>thrilling</qex> point of deadly iron brand.</q> <rj><qau>Spenser.</qau
 In <qex>thrilling</qex> region of thick-ribbed ice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Vivid and picturesque turns of expression which <qex>thrill</qex> the <?/eader with sudden delight.</q> <rj><qau>M. Arnold.</qau></rj><br/
+<p><q>Vivid and picturesque turns of expression which <qex>thrill</qex> the reader with sudden delight.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The cruel word her tender heart so <qex>thrilled</qex>,<br/
@@ -19678,7 +19678,7 @@ With piercing steel at bold Mercutio's breast.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>But in this tournament can no man <qex>tilt</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>The fleet, swift <qex>tilting</qex>, o'er the <?/urges flew.</q> <rj><qau>Pope.</qau></rj><br/
+<p><q>The fleet, swift <qex>tilting</qex>, o'er the surges flew.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To lean; to fall partly over; to tip.</def><br/
@@ -29430,7 +29430,7 @@ Immense I have <qex>transfused</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Surpassing common faith, <qex>transgressing</qex> nature's law.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Hence, to overpass, as any prescribed as the <?/imit of duty; to break or violate, as a law, civil or moral.</def><br/
+<p><sn>2.</sn> <def>Hence, to overpass, as any prescribed as the limit of duty; to break or violate, as a law, civil or moral.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>For man will hearken to his glozing lies,<br/
@@ -30260,7 +30260,7 @@ That all your hopes are fled.</q> <rj><qau>Doddridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transportant</ent><br/
-<hw>Trans*port"ant</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Transporting; <?/avishing; <as>as, <ex>transportant</ex> love</as>.</def> <mark>[Obs.]</mark>  <rj><au>Dr. H. More.</au></rj><br/
+<hw>Trans*port"ant</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Transporting; lavishing; <as>as, <ex>transportant</ex> love</as>.</def> <mark>[Obs.]</mark>  <rj><au>Dr. H. More.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transportation</ent><br/

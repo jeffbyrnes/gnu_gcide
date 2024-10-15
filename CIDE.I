@@ -24478,7 +24478,7 @@ Of love's soft queen.</q> <rj><qau>Glover.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insobriety</ent><br/
-<hw>In`so*bri"e*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>in-</ets> not + <ets><?/obriety</ets>: cf. F. <ets>insobri<eacute/t<eacute/</ets>.]</ety> <def>Lack of sobriety, moderation, or calmness; intemperance; drunkenness.</def><br/
+<hw>In`so*bri"e*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>in-</ets> not + <ets>sobriety</ets>: cf. F. <ets>insobri<eacute/t<eacute/</ets>.]</ety> <def>Lack of sobriety, moderation, or calmness; intemperance; drunkenness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insociability</ent><br/

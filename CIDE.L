@@ -6008,7 +6008,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latinity</ent><br/
-<hw>La*tin"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>latinitas</ets>: cf. F. <ets>latinit<eacute/</ets>.]</ety> <def>The Latin tongue, style, or idiom, or the use thereof; specifically, purity of Latin style or idiom.</def> <ldquo/His ele<?/ant <xex>Latinity</xex>.<rdquo/  <rj><au>Motley.</au></rj><br/
+<hw>La*tin"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>latinitas</ets>: cf. F. <ets>latinit<eacute/</ets>.]</ety> <def>The Latin tongue, style, or idiom, or the use thereof; specifically, purity of Latin style or idiom.</def> <ldquo/His elegant <xex>Latinity</xex>.<rdquo/  <rj><au>Motley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latinization</ent><br/

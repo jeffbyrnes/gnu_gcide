@@ -162,7 +162,7 @@ With head, hands, wings, or feet, pursues his way,<br/
 And swims, or sinks, or <qex>wades</qex>, or creeps, or flies.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Hence, to move with difficulty or labor; to proceed <?/lowly among objects or circumstances that constantly <?/inder or embarrass; <as>as, to <ex>wade</ex> through a dull book</as>.</def><br/
+<p><sn>3.</sn> <def>Hence, to move with difficulty or labor; to proceed slowly among objects or circumstances that constantly hinder or embarrass; <as>as, to <ex>wade</ex> through a dull book</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And <qex>wades</qex> through fumes, and gropes his way.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -172,7 +172,7 @@ And swims, or sinks, or <qex>wades</qex>, or creeps, or flies.</q> <rj><qau>Milt
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wade</ent><br/
-<hw>Wade</hw>, <pos>v. t.</pos> <def>To pass or cross by wading; <as>as, he <ex>waded</ex> <?/he rivers and swamps</as>.</def><br/
+<hw>Wade</hw>, <pos>v. t.</pos> <def>To pass or cross by wading; <as>as, he <ex>waded</ex> the rivers and swamps</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wade</ent><br/
@@ -283,7 +283,7 @@ And <qex>waft</qex> a sigh from Indus to the pole.</q> <rj><qau>Pope.</qau></rj>
 <p><sn>3.</sn> <def>To cause to float; to keep from sinking; to buoy.</def>  <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ This verb is regular; but <xex>waft</xex> was formerly som<?/times used, as by Shakespeare, instead of <xex>wafted</xex>.</note><br/
+<p><note><hand/ This verb is regular; but <xex>waft</xex> was formerly sometimes used, as by Shakespeare, instead of <xex>wafted</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Waft</ent><br/
@@ -1098,7 +1098,7 @@ And everlasting anguish be thy portion.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Wake</ent><br/
-<hw>Wake</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Originally, an open space of water s<?/rrounded by ice, and then, the passage cut through ice for a vessel, probably of Scand. origin; cf. Icel. <ets>v<oum/k</ets> a hole, opening in ice, Sw. <ets>vak</ets>, Dan. <ets>vaage</ets>, perhaps akin to E. <ets>humid</ets>.]</ety> <def>The track left by a vessel in the water; by extension, any track; <as>as, the <ex>wake</ex> of an army</as>.</def><br/
+<hw>Wake</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Originally, an open space of water surrounded by ice, and then, the passage cut through ice for a vessel, probably of Scand. origin; cf. Icel. <ets>v<oum/k</ets> a hole, opening in ice, Sw. <ets>vak</ets>, Dan. <ets>vaage</ets>, perhaps akin to E. <ets>humid</ets>.]</ety> <def>The track left by a vessel in the water; by extension, any track; <as>as, the <ex>wake</ex> of an army</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This effect followed immediately in the <qex>wake</qex> of his earliest exertions.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -7907,7 +7907,7 @@ Pommel rich stone, hilt gold.</q> <rj><qau>Fairfax.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Weber</ent><br/
-<hw>We"ber</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the name of Professor <ets>Weber</ets>, a German electrician.]</ety> <fld>(Elec.)</fld> <def>The standard unit of electrical quantity, and also of current.  See <er>Coulomb</er>, and <er>Amp<?/re</er>.</def>  <mark>[Obs.]</mark><br/
+<hw>We"ber</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the name of Professor <ets>Weber</ets>, a German electrician.]</ety> <fld>(Elec.)</fld> <def>The standard unit of electrical quantity, and also of current.  See <er>Coulomb</er>, and <er>Ampere</er>.</def>  <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Webeye</ent><br/
@@ -8008,7 +8008,7 @@ Shall live with her.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Wed"ded</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Joined in wedlock; married.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Let w<?/alth, let honor, wait the <qex>wedded</qex> dame.</q> <rj><qau>Pope.</qau></rj><br/
+<p><q>Let wealth, let honor, wait the <qex>wedded</qex> dame.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Of or pertaining to wedlock, or marriage.</def>  <ldquo/<xex>Wedded</xex> love.<rdquo/  <rj><au>Milton.</au></rj><br/
@@ -9150,7 +9150,7 @@ Men read the <qex>welfare</qex> of the times to come.</q> <rj><qau>Emerson.</qau
 <hw>Welk</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Welked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Welking</conjf>.]</vmorph> <ety>[OE. <ets>welken</ets>; cf. D. & G. <ets>welken</ets> to wither, G. <ets>welk</ets> withered, OHG. <ets>welc</ets> moist.  See <er>Welkin</er>, and cf. <er>Wilt</er>.]</ety> <def>To wither; to fade; also, to decay; to decline; to wane.</def>  <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>When ruddy Ph<?/bus 'gins to <qex>welk</qex> in west.</q> <rj><qau>Spenser.</qau></rj><br/
+<p><q>When ruddy Phoebus 'gins to <qex>welk</qex> in west.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The church, that before by insensible degrees <qex>welked</qex> and impaired, now with large steps went down hill decaying.</q> <rj><qau>Milton.</qau></rj><br/
@@ -16176,7 +16176,7 @@ The murmuring main was heard, and scarcely heard, to flow.</q> <rj><qau>Thomson.
 <p><sn>3.</sn> <def>To go to the one side or the other; to move this way and that; to double on one's course; <as>as, a hare pursued turns and <ex>winds</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>The lowing herd <qex>wind</qex> <?/lowly o'er the lea.</q> <rj><qau>Gray.</qau></rj><br/
+<p><q>The lowing herd <qex>wind</qex> slowly o'er the lea.</q> <rj><qau>Gray.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To wind out, to extricate one's self; to escape.<br/
@@ -21199,7 +21199,7 @@ With heaven's high monarch?</q> <rj><qau>Sylvester.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Worm-shaped</ent><br/
-<hw>Worm"-shaped`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Shaped like a worm; <?/hick and almost cylindrical, but variously curved or bent; <as>as, a <ex>worm-shaped</ex> root</as>.</def><br/
+<hw>Worm"-shaped`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Shaped like a worm; thick and almost cylindrical, but variously curved or bent; <as>as, a <ex>worm-shaped</ex> root</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Worm-shell</ent><br/

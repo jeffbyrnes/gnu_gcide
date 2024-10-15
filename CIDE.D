@@ -26081,7 +26081,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dine</ent><br/
-<hw>Dine</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dined</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dining</conjf>.]</vmorph> <ety>[F. <ets>d<icir/ner</ets>, OF. <ets>disner</ets>, LL. <ets>disnare</ets>, contr. fr. an assumed <ets>disjunare</ets>; <ets>dis-</ets> + an assumed <ets>junare</ets> (OF. <ets>juner</ets>) to fast, for L. <ets>jejunare</ets>, fr. <ets>jejunus</ets> fasting. See <er>Jejune</er>, and cf. <er>Dinner</er>, <er>D<?/jeuner</er>.]</ety> <def>To eat the principal regular meal of the day; to take dinner.</def><br/
+<hw>Dine</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dined</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dining</conjf>.]</vmorph> <ety>[F. <ets>d<icir/ner</ets>, OF. <ets>disner</ets>, LL. <ets>disnare</ets>, contr. fr. an assumed <ets>disjunare</ets>; <ets>dis-</ets> + an assumed <ets>junare</ets> (OF. <ets>juner</ets>) to fast, for L. <ets>jejunare</ets>, fr. <ets>jejunus</ets> fasting. See <er>Jejune</er>, and cf. <er>Dinner</er>, <er>D<eacute/jeuner</er>.]</ety> <def>To eat the principal regular meal of the day; to take dinner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Now can I break my fast, <qex>dine</qex>, sup, and sleep.</q> <rj><qau>Shak.</qau></rj><br/
@@ -29906,7 +29906,7 @@ Above a twelvemonth.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>Union of musical sounds which strikes the ear harshly or disagreeably, owing to the incommensurability of the vibrations which they produce; want of musical concord or harmony; a chord demanding resolution into a concord.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>For a <qex>discord</qex> itself is but a harshness of divers sounds m<?/<?/<?/ing.</q> <rj><qau>Bacon.</qau></rj><br/
+<p><q>For a <qex>discord</qex> itself is but a harshness of divers sounds meeting.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Apple of discord</b></col>. <cd>See under <er>Apple</er>.</cd></cs></p>
@@ -32979,7 +32979,7 @@ Convey'd the <qex>dismal</qex> tidings when he frowned.</q> <rj><qau>Goldsmith.<
 
 <p><sn>3.</sn> <def>To disable; to render useless.</def>  <rj><au>Comber.</au></rj></p>
 
-<p><syn><b>Syn.</b> -- To demo<?/sh; raze. See <er>Demol<?/sh</er>.</syn><br/
+<p><syn><b>Syn.</b> -- To demolish; raze. See <er>Demolish</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dismarch</ent><br/
@@ -33094,7 +33094,7 @@ And tear his helpless breast, o'erwhelmed with wild <qex>dismay</qex>.</q> <rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dismemberment</ent><br/
-<hw>Dis*mem"ber*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>desmembrement</ets>, F. <ets>d<eacute/membrement</ets>.]</ety> <def>The act of dismembering, or the state of being dismembered; cutting in piece; m<?/tilation; division; separation.</def><br/
+<hw>Dis*mem"ber*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>desmembrement</ets>, F. <ets>d<eacute/membrement</ets>.]</ety> <def>The act of dismembering, or the state of being dismembered; cutting in piece; mutilation; division; separation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The Castilians would doubtless have resented the <qex>dismemberment</qex> of the unwieldy body of which they formed the head.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -33805,7 +33805,7 @@ I will <qex>dispatch</qex> him to the emperor's cou<?/<?/.</q> <rj><qau>Shak.</q
 <hw>Dis*peed"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>dis-</ets> + <ets>speed</ets>.]</ety> <def>To send off with speed; to dispatch.</def> <mark>[Obs.]</mark>  <rj><au>Knolles.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Then they <qex>dispeeded</qex> themselves of the Cid and of their mother-in-law, Do<?/a Ximena.</q> <rj><qau>Southey.</qau></rj><br/
+<p><q>Then they <qex>dispeeded</qex> themselves of the Cid and of their mother-in-law, Do<ntil/a Ximena.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dispel</ent><br/
@@ -34953,7 +34953,7 @@ To <qex>disproportion</qex> me in every part.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dispurveyance</ent><br/
-<hw>Dis`pur*vey"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Want of provisions; <?/ack of food.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
+<hw>Dis`pur*vey"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Want of provisions; lack of food.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Disputable</ent><br/
@@ -43739,7 +43739,7 @@ And bosomed with her.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doucine</ent><br/
-<hw>Dou"cine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>Same as <xex>Cyma<?/recta</xex>, under <er>Cyma</er>.</def><br/
+<hw>Dou"cine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>Same as <xex>Cyma recta</xex>, under <er>Cyma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doucker</ent><br/
@@ -46093,7 +46093,7 @@ Or thou <qex>draw</qex> beauty and not feel its power?</q> <rj><qau>Prior.</qau>
 <p><q>The avarice of Henry VII . . . . must be deemed a <qex>drawback</qex> from the wisdom ascribed to him.</q> <rj><qau>Hallam.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Com.)</fld> <def>Money paid back or remitted; especially, a certain amount of duties or customs, sometimes the whole, and sometimes only a part, remitted or paid back by the government, on the exportation of the commodities on which they were levied.</def>  <rj><au>M<?/Culloch.</au></rj><br/
+<p><sn>2.</sn> <fld>(Com.)</fld> <def>Money paid back or remitted; especially, a certain amount of duties or customs, sometimes the whole, and sometimes only a part, remitted or paid back by the government, on the exportation of the commodities on which they were levied.</def>  <rj><au>McCulloch.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drawbar</ent><br/
@@ -47396,7 +47396,7 @@ Caught and reflected the flame, as shields of armies the sunshine.</q> <rj><qau>
 <p><q><qex>Drink</qex> of the cup that can not cloy.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To quaff exhilarating or intoxicating liquors, in merriment or feasting; to carouse; to revel; hence, to lake alcoholic liquors to excess; to be intemperate in the <?/se of intoxicating or spirituous liquors; to tipple.</def>  <rj><au>Pope.</au></rj><br/
+<p><sn>2.</sn> <def>To quaff exhilarating or intoxicating liquors, in merriment or feasting; to carouse; to revel; hence, to lake alcoholic liquors to excess; to be intemperate in the use of intoxicating or spirituous liquors; to tipple.</def>  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And they <qex>drank</qex>, and were merry with him.</q> <rj><qau>Gem. xliii. 34.</qau></rj><br/

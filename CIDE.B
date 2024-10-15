@@ -34052,7 +34052,7 @@ No traveler returns.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Boustorphic</ent><br/
-<hw>Bou*storph"ic</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <?/ <?/ox-guiding.]</ety> <def>Boustrophedonic.</def><br/
+<hw>Bou*storph"ic</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <?/ ox-guiding.]</ety> <def>Boustrophedonic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bousy</ent><br/
@@ -46306,7 +46306,7 @@ And pleased by novelty in spite of sense.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>This dry sorrow <qex>burns</qex> up all my tears.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>When the cold north wind bloweth, . . . it devoureth the mountains, and <qex>burneth</qex> the wilderness, and consumeth the <?/<?/ass as fire.</q> <rj><qau>Ecclus. xliii. 20, 21.</qau></rj><br/
+<p><q>When the cold north wind bloweth, . . . it devoureth the mountains, and <qex>burneth</qex> the wilderness, and consumeth the grass as fire.</q> <rj><qau>Ecclus. xliii. 20, 21.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <fld>(Surg.)</fld> <def>To apply a cautery to; to cauterize.</def><br/

@@ -3821,7 +3821,7 @@ Begin to throng into my memory.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Far"ci*cal</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to farce; appropriated to farce; ludicrous; unnatural; unreal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>They deny the characters to be <qex>farcical</qex>, because they are <?/<?/tually in in nature.</q> <rj><qau>Gay.</qau></rj></p>
+<p><q>They deny the characters to be <qex>farcical</qex>, because they are actually in nature.</q> <rj><qau>Gay.</qau></rj></p>
 
 <p>-- <wordforms><wf>Far"ci*cal*ly</wf>, <pos>adv.</pos> -<wf>Far"ci*cal*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -8315,7 +8315,7 @@ And <qex>fence</qex> not Athens.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They <qex>fence</qex> and push, and, pushing, loudly roar;<br/
-Their dewlaps and their sides are bat<?/ed in gore.</q> <rj><qau>Dryden.</qau></rj><br/
+Their dewlaps and their sides are bathed in gore.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>As when a billow, blown against,<br/
@@ -22117,7 +22117,7 @@ To teeming <qex>foison</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Fo"li*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>foliation</ets>.]</ety> <sn>1.</sn> <def>The process of forming into a leaf or leaves.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The manner in which the young leaves are dispo<?/ed within the bud.</def><br/
+<p><sn>2.</sn> <def>The manner in which the young leaves are disposed within the bud.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q> The . . . <qex>foliation</qex> must be in relation to the stem.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -23507,7 +23507,7 @@ Not <qex>for</qex> protection, but to be devoured?</q> <rj><qau>Dryden.</qau></r
 <p><q>Aristotle is <qex>for</qex> poetical justice.</q> <rj><qau>Dennis.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>Indicating that toward which the action of anything is directed, or the point toward which motion is made; <?/ntending to go to.</def><br/
+<p><sn>4.</sn> <def>Indicating that toward which the action of anything is directed, or the point toward which motion is made; intending to go to.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We sailed from Peru <qex>for</qex> China and Japan.</q> <rj><qau>Bacon.</qau></rj><br/
@@ -24221,7 +24221,7 @@ And will you count such <qex>forcement</qex> treachery?</q> <rj><qau>J. Webster.
 Or of the clouds.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Permit my ghost to pass the Styg<?/an <qex>ford</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
+<p><q>Permit my ghost to pass the Stygian <qex>ford</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ford</ent><br/
@@ -25226,7 +25226,7 @@ Athwart her snowy breast.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Foreshadow</ent><br/
-<hw>Fore*shad"ow</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To shadow or typi<?/y beforehand; to prefigure.</def>  <rj><au>Dryden.</au></rj><br/
+<hw>Fore*shad"ow</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To shadow or typify beforehand; to prefigure.</def>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Foreshew</ent><br/

@@ -11731,7 +11731,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Re*du"pli*cate</hw> <pr>(r?*d?"pl?*k?t)</pr>, <pos>a.</pos> <ety>[Pref. <ets>re-</ets> + <ets>duplicate</ets>: cf. L. <ets>reduplicatus</ets>.  Cf. <er>Redouble</er>.]</ety> <sn>1.</sn> <def>Double; doubled; reduplicative; repeated.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Bot.)</fld> <def>Valvate with the margins curved outwardly; -- said of the <?/stivation of certain flowers.</def><br/
+<p><sn>2.</sn> <fld>(Bot.)</fld> <def>Valvate with the margins curved outwardly; -- said of the estivation of certain flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reduplicate</ent><br/
@@ -12699,7 +12699,7 @@ How the wit brightens! How the style <qex>refines</qex>!</q> <rj><qau>Pope.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reflect</ent><br/
-<hw>Re*flect"</hw> <pr>(r?*fl?kt")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Reflected</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Reflecting</conjf>.]</vmorph> <ety>[L. <ets>reflectere</ets>, <ets>reflexum</ets>; pref. <ets>re-</ets> re- + <ets>flectere</ets> to bend or turn. See <er>Flexible</er>, and cf. <er>Reflex</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>To bend back; to give a backwa<?/d turn to; to throw back; especially, to cause to return after striking upon any surface; <as>as, a mirror <ex>reflects</ex> rays of light; polished metals <ex>reflect</ex> heat.</as></def><br/
+<hw>Re*flect"</hw> <pr>(r?*fl?kt")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Reflected</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Reflecting</conjf>.]</vmorph> <ety>[L. <ets>reflectere</ets>, <ets>reflexum</ets>; pref. <ets>re-</ets> re- + <ets>flectere</ets> to bend or turn. See <er>Flexible</er>, and cf. <er>Reflex</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>To bend back; to give a backward turn to; to throw back; especially, to cause to return after striking upon any surface; <as>as, a mirror <ex>reflects</ex> rays of light; polished metals <ex>reflect</ex> heat.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Let me mind the reader to <qex>reflect</qex> his eye on our quotations.</q> <rj><qau>Fuller.</qau></rj><br/
@@ -13169,7 +13169,7 @@ Shall with a fierce <qex>reflux</qex> on me redound.</q> <rj><qau>Milton.</qau><
 <hw>Re*found"</hw> <pr>(r?*found")</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>re-</ets> + <ets>found</ets> to cast; cf. F. <ets>refondare</ets>.  Cf. <er>Refund</er>.]</ety> <sn>1.</sn> <def>To found or cast anew.</def> <ldquo/Ancient bells <xex>refounded</xex>.<rdquo/  <rj><au>T. Warton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To found or establish again; to re<?/stablish.</def><br/
+<p><sn>2.</sn> <def>To found or establish again; to reestablish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refound</ent><br/
@@ -13810,7 +13810,7 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj><br/
 <p><q>It is peninsula which <qex>regardeth</qex> the mainland.</q> <rj><qau>Sandys.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>That exceedingly beatiful seat, on the ass<?/ent of a hill, flanked with wood and <qex>regarding</qex> the river.</q> <rj><qau>Evelyn.</qau></rj><br/
+<p><q>That exceedingly beatiful seat, on the ascent of a hill, flanked with wood and <qex>regarding</qex> the river.</q> <rj><qau>Evelyn.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>To look closely at; to observe attentively; to pay attention to; to notice or remark particularly.</def><br/
@@ -15257,7 +15257,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reinstatement</ent><br/
-<hw>Re`in*state"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of reinstating; the state of being reinstated; re<?/stablishment.</def><br/
+<hw>Re`in*state"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of reinstating; the state of being reinstated; reestablishment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reinstation</ent><br/
@@ -15782,7 +15782,7 @@ Both light of heaven and strength of men <qex>relate</qex>.</q> <rj><qau>Spenser
 <hw>Re*la"tion</hw> <pr>(r?-l?"sh?n)</pr>, <pos>n.</pos> <ety>[F. <ets>relation</ets>, L.  <ets>relatio</ets>. See <er>Relate</er>.]</ety> <sn>1.</sn> <def>The act of relating or telling; also, that which is related; recital; account; narration; narrative; <as>as, the <ex>relation</ex> of historical events</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q><?/<?/<?/<?/<?/<?/oet's <qex>relation</qex> doth well figure them.</q> <rj><qau>Bacon.</qau></rj><br/
+<p><q>poet's <qex>relation</qex> doth well figure them.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The state of being related or of referring; what is apprehended as appertaining to a being or quality, by considering it in its bearing upon something else; relative quality or condition; the being such and such with regard or respect to some other thing; connection; <as>as, the <ex>relation</ex> of experience to knowledge; the <ex>relation</ex> of master to servant.</as></def><br/
@@ -16568,7 +16568,7 @@ The sun, that looks upon his worshiper.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>To give up; to renounce a claim to; resign; <as>as, to <ex>relinquish</ex> a debt</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- To resign; leave; quit; forsake; abandon; desert; renounce; forb<?/ar; forego. See <er>Resign</er>.</syn><br/
+<p><syn><b>Syn.</b> -- To resign; leave; quit; forsake; abandon; desert; renounce; forbear; forego. See <er>Resign</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Relinquisher</ent><br/
@@ -17240,7 +17240,7 @@ The dear <qex>remembrance</qex> of his dying Lord.</q> <rj><qau>Spenser.</qau></
 <p><q>Keep this <qex>remembrance</qex> for thy Julia's sake.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>Something to be remembered; counsel; admoni<?/<?/on; instruction.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
+<p><sn>5.</sn> <def>Something to be remembered; counsel; admonition; instruction.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>Power of remembering; reach of personal knowledge; period over which one's memory extends.</def><br/
@@ -20838,7 +20838,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Republish</ent><br/
-<hw>Re*pub"lish</hw> <pr>(r?-p?b"l?sh)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Republished</conjf> <pr>(-l?sht)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Republishing</conjf>.]</vmorph> <def>To publish anew; specifically, to publish in one country (a work first published in another); also, to revive (a will) by re<?/xecution or codicil.</def><br/
+<hw>Re*pub"lish</hw> <pr>(r?-p?b"l?sh)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Republished</conjf> <pr>(-l?sht)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Republishing</conjf>.]</vmorph> <def>To publish anew; specifically, to publish in one country (a work first published in another); also, to revive (a will) by reexecution or codicil.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Subsecquent to the purchase or contract, the devisor <qex>republished</qex> his will.</q> <rj><qau>Blackstone.</qau></rj><br/
@@ -22949,7 +22949,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 <hw>Re*sound"</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To throw back, or return, the sound of; to echo; to reverberate.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Albion's cliffs <qex>resound</qex> the rur<?/<?/ay.</q> <rj><qau>Pope.</qau></rj><br/
+<p><q>Albion's cliffs <qex>resound</qex> the rural lay.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To praise or celebrate with the voice, or the sound of instruments; to extol with sounds; to spread the fame of.</def><br/
@@ -23024,7 +23024,7 @@ Long exercised in woes, O muse, <qex>resound</qex>.</q> <rj><qau>Pope.</qau></rj
 <p><sn>3.</sn> <def>To look toward; to front upon or toward.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Palladius adviseth the front of his house should so <qex>respect</qex> the <?/<?/uth.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
+<p><q>Palladius adviseth the front of his house should so <qex>respect</qex> the truth.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>To regard; to consider; to deem.</def> <mark>[Obs.]</mark><br/
@@ -23194,7 +23194,7 @@ Private <qex>respects</qex> must yield.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Rather than again<br/
-Endure, <qex>respectless</qex>, their so moving c<?/ies.</q> <rj><qau>Chapman.</qau></rj><br/
+Endure, <qex>respectless</qex>, their so moving cries.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Re*spect"less*ness</wf>, <pos>n.</pos> <mark>[R.]</mark></wordforms>  <rj><au>Shelton.</au></rj><br/
@@ -24045,7 +24045,7 @@ Gives way to in repose!</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>For one <qex>restraint</qex>, lords of the world besides.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- Repression; hindrance; check; stop; curb;<?/oercion; confinement; limitation; restriction.</syn><br/
+<p><syn><b>Syn.</b> -- Repression; hindrance; check; stop; curb; coercion; confinement; limitation; restriction.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Restrengthen</ent><br/
@@ -25295,7 +25295,7 @@ Consents, <qex>retracts</qex>, advances, and then files.</q> <rj><qau>Granville.
 <hw>Re*treat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>retraite</ets>, fr. <ets>retraire</ets> to withdraw, L. <ets>retrahere</ets>; pref. <ets>re-</ets> re- + <ets>trahere</ets> to draw. See <er>Trace</er>, and cf. <er>Retract</er>, <er>Retrace</er>.]</ety> <sn>1.</sn> <def>The act of retiring or withdrawing one's self, especially from what is dangerous or disagreeable.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>In a <qex>retreat</qex> he o<?/truns any lackey.</q> <rj><qau>Shak.</qau></rj><br/
+<p><q>In a <qex>retreat</qex> he outruns any lackey.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The place to which anyone retires; a place or privacy or safety; a refuge; an asylum.</def><br/
@@ -28697,7 +28697,7 @@ Waked by the lark, hath roused the <qex>ribald</qex> crows.</q> <rj><qau>Shak.</
 <hw>Rib"ald*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>ribaldrie</ets>, <ets>ribaudrie</ets>, OF. <ets>ribalderie</ets>, <ets>ribauderie</ets>.]</ety> <def>The talk of a ribald; low, vulgar language; indecency; obscenity; lewdness; -- now chiefly applied to indecent language, but formerly, as by Chaucer, also to indecent acts or conduct.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>The <qex>ribaldry</qex> of his conversation moved <?/stonishment even in that age.</q> <rj><qau>Macaulay.</qau></rj><br/
+<p><q>The <qex>ribaldry</qex> of his conversation moved astonishment even in that age.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riban</ent><br/
@@ -33593,7 +33593,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Romanticism</ent><br/
-<hw>Ro*man"ti*cism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. It. <ets>romanticismo</ets>, F. <ets>romantisme</ets>, <ets>romanticisme</ets>.]</ety> <def>A fondness for romantic characteristics or peculiarities; specifically, in modern literature, an aiming at romantic effects; -- applied to the productions of a school of writers who sought to revive certain medi<?/val forms and methods in opposition to the so-called classical style.</def><br/
+<hw>Ro*man"ti*cism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. It. <ets>romanticismo</ets>, F. <ets>romantisme</ets>, <ets>romanticisme</ets>.]</ety> <def>A fondness for romantic characteristics or peculiarities; specifically, in modern literature, an aiming at romantic effects; -- applied to the productions of a school of writers who sought to revive certain medieval forms and methods in opposition to the so-called classical style.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He [Lessing] may be said to have begun the revolt from pseudo-classicism in poetry, and to have been thus unconsciously the founder of <qex>romanticism</qex>.</q> <rj><qau>Lowell.</qau></rj><br/
@@ -34933,7 +34933,7 @@ Celestial <qex>rosy</qex>-red, love's proper hue.</q> <rj><qau>Milton.</qau></rj
 Sit thy <qex>rosy</qex> cheeks confessed.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>Rosy</xex> is sometimes used in the formation of self<?/xplaining compounde; as, <xex>rosy</xex>-bosomed, <xex>rosy</xex>-colored, <xex>rosy</xex>-crowned, <xex>rosy</xex>-fingered, <xex>rosy</xex>-tinted.</note><br/
+<p><note><hand/ <xex>Rosy</xex> is sometimes used in the formation of self-explaining compounde; as, <xex>rosy</xex>-bosomed, <xex>rosy</xex>-colored, <xex>rosy</xex>-crowned, <xex>rosy</xex>-fingered, <xex>rosy</xex>-tinted.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Rosy cross</b></col>. <cd>See the Note under <er>Rosicrucian</er>, <pos>n.</pos></cd></cs><br/
@@ -38101,7 +38101,7 @@ Yet shall it <qex>ruin</qex> like the moth's frail cell.</q> <rj><qau>Sandys.</q
 <hw>Ru"in*ate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[LL. <ets>ruinatus</ets>, p. p. of <ets>ruinare</ets> to ruin. See <er>Ruin</er>.]</ety> <sn>1.</sn> <def>To demolish; to subvert; to destroy; to reduce to poverty; to ruin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>I will not <qex>ruinate</qex> my f<?/ther's house.</q> <rj><qau>Shak.</qau></rj><br/
+<p><q>I will not <qex>ruinate</qex> my father's house.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Ruinating</qex> thereby the health of their bodies.</q> <rj><qau>Burton.</qau></rj><br/
