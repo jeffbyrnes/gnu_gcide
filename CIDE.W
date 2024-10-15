@@ -2,6 +2,7 @@
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
+    Copyright (C) 2012-2024 Sergey Poznyakoff
 
     GCIDE is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -5265,7 +5266,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A concussion, or blow, made by water in striking, as against the sides of a pipe or vessel containing it.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>A metal hammer used when heated, as by dipping in hot water, to blister the skin, as for counterritation.</def><br/
+<p><sn>3.</sn> <def>A metal hammer used when heated, as by dipping in hot water, to blister the skin, as for counterirritation.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Water hare</ent><br/
@@ -6434,7 +6435,7 @@ To <qex>waver</qex>, or fall <qex>off and join with idols</qex>.</q> <rj><qau>Mi
 <p><sd>(g)</sd> <def>Thick sirup made by boiling down the sap of the sugar maple, and then cooling.</def>  <mark>[Local U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sd>(h)</sd> <def>any of numerous substances or mixtures composed predominantly of the longer-chain saturated hydrocarbons such as the paraffins, which are solid at room teperature, or their alcohol, carboxylic acid, or ester derivatives.</def><br/
+<p><sd>(h)</sd> <def>any of numerous substances or mixtures composed predominantly of the longer-chain saturated hydrocarbons such as the paraffins, which are solid at room temperature, or their alcohol, carboxylic acid, or ester derivatives.</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Japanese wax</b></col>, <cd>a waxlike substance made in Japan from the berries of certain species of <gen>Rhus</gen>, esp. <spn>Rhus succedanea</spn>.</cd> -- <col><b>Mineral wax</b></col>. <fld>(Min.)</fld> <cd>See <er>Wax</er>, 2 <sd>(f)</sd>, above.</cd> -- <col><b>Wax cloth</b></col>. <cd>See <cref>Waxed cloth</cref>, under <er>Waxed</er>.</cd> -- <col><b>Wax end</b></col>. <cd>See <cref>Waxed end</cref>, under <er>Waxed</er>.</cd> -- <col><b>Wax flower</b></col>, <cd>a flower made of, or resembling, wax.</cd> -- <col><b>Wax insect</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of scale insects belonging to the family <fam>Coccidae</fam>, which secrete from their bodies a waxlike substance, especially the Chinese wax insect (<spn>Coccus Sinensis</spn>) from which a large amount of the commercial Chinese wax is obtained. Called also <altname>pela</altname>.</cd> -- <col><b>Wax light</b></col>, <cd>a candle or taper of wax.</cd> -- <col><b>Wax moth</b></col> <fld>(Zool.)</fld>, <cd>a pyralid moth (<spn>Galleria cereana</spn>) whose larvae feed upon honeycomb, and construct silken galleries among the fragments. The moth has dusky gray wings streaked with brown near the outer edge. The larva is yellowish white with brownish dots. Called also <altname>bee moth</altname>.</cd> -- <col><b>Wax myrtle</b></col>. <fld>(Bot.)</fld> <cd>See <er>Bayberry</er>.</cd> -- <col><b>Wax painting</b></col>, <cd>a kind of painting practiced by the ancients, under the name of <xex>encaustic</xex>. The pigments were ground with wax, and diluted. After being applied, the wax was melted with hot irons and the color thus fixed.</cd> -- <col><b>Wax palm</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A species of palm (<spn>Ceroxylon Andicola</spn>) native of the Andes, the stem of which is covered with a secretion, consisting of two thirds resin and one third wax, which, when melted with a third of fat, makes excellent candles.</cd> <sd>(b)</sd> <cd>A Brazilian tree (<spn>Copernicia cerifera</spn>) the young leaves of which are covered with a useful waxy secretion.</cd> -- <col><b>Wax paper</b></col>, <cd>paper prepared with a coating of white wax and other ingredients.</cd> -- <col><b>Wax plant</b></col> <fld>(Bot.)</fld>, <cd>a name given to several plants</cd>, as: <sd>(a)</sd> <cd>The Indian pipe (see under <er>Indian</er>).</cd> <sd>(b)</sd> <cd>The <spn>Hoya carnosa</spn>, a climbing plant with polished, fleshy leaves.</cd> <sd>(c)</sd> <cd>Certain species of <gen>Begonia</gen> with similar foliage.</cd> -- <col><b>Wax tree</b></col> <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A tree or shrub (<spn>Ligustrum lucidum</spn>) of China, on which certain insects make a thick deposit of a substance resembling white wax.</cd> <sd>(b)</sd> <cd>A kind of sumac (<spn>Rhus succedanea</spn>) of Japan, the berries of which yield a sort of wax.</cd> <sd>(c)</sd> <cd>A rubiaceous tree (<spn>Elaeagia utilis</spn>) of New Grenada, called by the inhabitants <ldquo/<xex>arbol del cera</xex>.<rdquo/</cd> -- <col><b>Wax yellow</b></col>, <cd>a dull yellow, resembling the natural color of beeswax.</cd></cs><br/
@@ -7857,7 +7858,7 @@ Pommel rich stone, hilt gold.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><sd>(c)</sd> <def>The arm of a crank between the shaft and the wrist.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sd>(d)</sd> <def>The part of a blackmith's anvil between the face and the foot.</def><br/
+<p><sd>(d)</sd> <def>The part of a blacksmith's anvil between the face and the foot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <fld>(Med.)</fld> <def>Pterygium; -- called also <altname>webeye</altname>.</def>  <rj><au>Shak.</au></rj><br/
@@ -8498,7 +8499,7 @@ Through dreary wastes, and <qex>weep</qex> each other's woe.</q> <rj><qau>Pope.<
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>weeping love grass</ent><br/
-<hw>weeping love grass</hw> <pos>n.</pos> <def>a perennial South African grass (<spn>Eragrostis curvula</spn>) having densly clumped flimsy stems; introduced into U.S. esp. for erosion control.</def><br/
+<hw>weeping love grass</hw> <pos>n.</pos> <def>a perennial South African grass (<spn>Eragrostis curvula</spn>) having densely clumped flimsy stems; introduced into U.S. esp. for erosion control.</def><br/
 <syn><b>Syn. --</b> African love grass.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -9383,7 +9384,7 @@ In measure what the mind may <qex>well</qex> contain.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Well-favored</ent><br/
-<hw>Well"-fa"vored</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Handsome; wellformed; beautiful; pleasing to the eye.</def><br/
+<hw>Well"-fa"vored</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Handsome; well-formed; beautiful; pleasing to the eye.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Rachel was beautiful and <qex>well-favored</qex>.</q> <rj><qau>Gen. xxix. 17.</qau></rj><br/
@@ -9992,7 +9993,7 @@ A man to light a candle at his lantern.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <def>A country, or region of country, which, with regard to some other country or region, is situated in the direction toward the west.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> Specifically: <sd>(a)</sd> <def>The Westen hemisphere, or the New World so called, it having been discovered by sailing westward from Europe; the Occident.</def>  <sd>(b)</sd> <fld>(U. S. Hist. & Geog.)</fld> <def>Formerly, that part of the  United States west of the Alleghany mountains; now, commonly, the whole region west of the Mississippi river; esp., that part which is north of the Indian Territory, New Mexico, etc. Usually with the definite article.</def><br/
+<p><sn>3.</sn> Specifically: <sd>(a)</sd> <def>The Western hemisphere, or the New World so called, it having been discovered by sailing westward from Europe; the Occident.</def>  <sd>(b)</sd> <fld>(U. S. Hist. & Geog.)</fld> <def>Formerly, that part of the  United States west of the Alleghany mountains; now, commonly, the whole region west of the Mississippi river; esp., that part which is north of the Indian Territory, New Mexico, etc. Usually with the definite article.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>West by north</b></col>, <col><b>West by south</b></col></mcol>, <cd>according to the notation of the mariner's compass, that point which lies 11<frac14/<deg/ to the north or south, respectively, of the point due west.</cd> -- <mcol><col><b>West northwest</b></col>, <col><b>West southwest</b></col></mcol>, <cd>that point which lies 22<frac12/<deg/ to the north or south of west, or halfway between west and northwest or southwest, respectively.  See <xex>Illust.</xex> of <er>Compass</er>.</cd></cs><br/
@@ -15322,7 +15323,7 @@ The <qex>wild</qex> are constant, and the cunning known.</q> <rj><qau>Pope.</qau
 <p><sn>6.</sn> <def>Exposed to the wind and sea; unsheltered; <as>as, a <ex>wild</ex> roadstead</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <def>Indicating strong emotion, intense excitement, or <?/ewilderment; <as>as, a <ex>wild</ex> look</as>.</def><br/
+<p><sn>7.</sn> <def>Indicating strong emotion, intense excitement, or bewilderment; <as>as, a <ex>wild</ex> look</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <fld>(Naut.)</fld> <def>Hard to steer; -- said of a vessel.</def><br/
