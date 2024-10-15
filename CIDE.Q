@@ -1536,7 +1536,7 @@ He <qex>quarters</qex> to his blue-haired deities.</q> <rj><qau> Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>quarterback</ent><br/
-<hw>quarterback</hw> <pos>n.</pos> <fld>(Football)</fld>  <def>The player on a football tream who chooses the offensive play and receives the ball from the center at the start of each down.  Compare <contr>halfback</contr> and <contr>fullback</contr>.</def><br/
+<hw>quarterback</hw> <pos>n.</pos> <fld>(Football)</fld>  <def>The player on a football team who chooses the offensive play and receives the ball from the center at the start of each down.  Compare <contr>halfback</contr> and <contr>fullback</contr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>quarterback</ent><br/
@@ -1776,7 +1776,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quasimodo</ent><br/
-<hw>Quas`i*mo"do</hw> <pr>(kw<adot/z`<esl/*m<omac/"d<osl/)</pr>, <pos>prop. n.</pos>  <fld>(Fiction)</fld> <def>The main character in Victor Hugo's novel <ldquo/The Hunchback of Notre Dame<rdquo/.   The novel was first published in French under the title <ldquo/Notre Dame de Paris<rdquo/.  Quasimodo is a deformed and ugly hunchback who is bellringer at the cathedral of Notre Dame during the reign of Louis XI.  He rescues a gypsy girl Esmeralda, falsely convicted of a crime and about to be excuted, and carries her to sanctuary in the cathedral.  Near the end of the book he dies while again rescuing her from an abductor.  In a movie made in 1923 Quasimodo was portrayed by the actor Lon Chaney, whose impressive makeup and superb acting drew many plaudits.  His shout of <ldquo/Sanctuary!  Sanctuary!<rdquo/ when rescuing Esmeralda is still sometimes imitated for humorous or dramatic effect.</def><br/
+<hw>Quas`i*mo"do</hw> <pr>(kw<adot/z`<esl/*m<omac/"d<osl/)</pr>, <pos>prop. n.</pos>  <fld>(Fiction)</fld> <def>The main character in Victor Hugo's novel <ldquo/The Hunchback of Notre Dame<rdquo/.   The novel was first published in French under the title <ldquo/Notre Dame de Paris<rdquo/.  Quasimodo is a deformed and ugly hunchback who is bellringer at the cathedral of Notre Dame during the reign of Louis XI.  He rescues a gypsy girl Esmeralda, falsely convicted of a crime and about to be executed, and carries her to sanctuary in the cathedral.  Near the end of the book he dies while again rescuing her from an abductor.  In a movie made in 1923 Quasimodo was portrayed by the actor Lon Chaney, whose impressive makeup and superb acting drew many plaudits.  His shout of <ldquo/Sanctuary!  Sanctuary!<rdquo/ when rescuing Esmeralda is still sometimes imitated for humorous or dramatic effect.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Quass</ent><br/
@@ -2015,7 +2015,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quebracho</ent><br/
-\'d8<hw>Que*bra"cho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>A Chilian apocynaceous tree (<spn>Aspidosperma Quebracho</spn>); also, its bark, which is used as a febrifuge, and for dyspn<oe/a of the lung, or bronchial diseases; -- called also <altname>white quebracho</altname>, to distinguish it from the <xex>red quebracho</xex>, a Mexican anacardiaceous tree (<spn>Loxopterygium Lorentzii</spn>) whose bark is said to have similar properties.</def>  <rj><au>J. Smith (Dict. Econ. Plants).</au></rj><br/
+\'d8<hw>Que*bra"cho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>A Chilean apocynaceous tree (<spn>Aspidosperma Quebracho</spn>); also, its bark, which is used as a febrifuge, and for dyspn<oe/a of the lung, or bronchial diseases; -- called also <altname>white quebracho</altname>, to distinguish it from the <xex>red quebracho</xex>, a Mexican anacardiaceous tree (<spn>Loxopterygium Lorentzii</spn>) whose bark is said to have similar properties.</def>  <rj><au>J. Smith (Dict. Econ. Plants).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quebrith</ent><br/
