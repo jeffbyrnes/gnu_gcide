@@ -8128,7 +8128,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Receiver's certificate</ent><br/
-<hw>Re*ceiv"er's cer*tif"i*cate</hw> <pr>(?)</pr>. <def>An acknowledgement of indebtedness made by a receiver under order of court to obtain funds for the preservation of the assets held by him, as for operating a railroad. Receivers' certificates are ordinarily a first lien on the assets, prior to that of bonds or other securities.</def><br/
+<hw>Re*ceiv"er's cer*tif"i*cate</hw> <pr>(?)</pr>. <def>An acknowledgment of indebtedness made by a receiver under order of court to obtain funds for the preservation of the assets held by him, as for operating a railroad. Receivers' certificates are ordinarily a first lien on the assets, prior to that of bonds or other securities.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Receivership</ent><br/
@@ -8184,7 +8184,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Receptacle</ent><br/
-<hw>Re*cep"ta*cle</hw> <pr>(r<esl/*s<ecr/p"t<adot/*k'l)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/ceptacle</ets>, L. <ets>receptaculum</ets>, fr. <ets>receptare</ets>, v. intens. fr. <ets>recipere</ets> to receive. See <er>Receive</er>.]</ety> <sn>1.</sn> <def>That which serves, or is used, for receiving and containing something, as for examople, a <stype>basket</stype>, a <stype>vase</stype>, a <stype>bag</stype>, a <stype>reservoir</stype>; a <stype>repository</stype>.</def><br/
+<hw>Re*cep"ta*cle</hw> <pr>(r<esl/*s<ecr/p"t<adot/*k'l)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/ceptacle</ets>, L. <ets>receptaculum</ets>, fr. <ets>receptare</ets>, v. intens. fr. <ets>recipere</ets> to receive. See <er>Receive</er>.]</ety> <sn>1.</sn> <def>That which serves, or is used, for receiving and containing something, as for example, a <stype>basket</stype>, a <stype>vase</stype>, a <stype>bag</stype>, a <stype>reservoir</stype>; a <stype>repository</stype>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O sacred <qex>receptacle</qex> of my joys!</q> <rj><qau>Shak.</qau></rj><br/
@@ -9479,7 +9479,7 @@ My rash, but more unfortunate, misdeed.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>We pray you . . . be ye <qex>reconciled</qex> to God.</q> <rj><qau>2 Cor. v. 20.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To bring to acquiescence, content, or quiet submission; <as>as, to <ex>reconcile</ex> one's self to affictions</as>.</def><br/
+<p><sn>2.</sn> <def>To bring to acquiescence, content, or quiet submission; <as>as, to <ex>reconcile</ex> one's self to afflictions</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>To make consistent or congruous; to bring to agreement or suitableness; -- followed by <xex>with</xex> or <xex>to</xex>.</def><br/
@@ -9513,7 +9513,7 @@ Due distance <qex>reconciles</qex> to form and grace.</q> <rj><qau>Pope.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reconciliation</ent><br/
-<hw>Rec`on*cil`i*a"tion</hw> <pr>(-s?l`?*?"sh?n)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/conciliation</ets>, L.  <ets>reconciliatio</ets>.]</ety> <sn>1.</sn> <def>The act of reconciling, or the state of being reconciled; reconcilenment; restoration to harmony; renewal of friendship.</def><br/
+<hw>Rec`on*cil`i*a"tion</hw> <pr>(-s?l`?*?"sh?n)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/conciliation</ets>, L.  <ets>reconciliatio</ets>.]</ety> <sn>1.</sn> <def>The act of reconciling, or the state of being reconciled; reconcilement; restoration to harmony; renewal of friendship.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Reconciliation</qex> and friendship with God really form the basis of all rational and true enjoyment.</q> <rj><qau>S. Miller.</qau></rj><br/
@@ -9759,7 +9759,7 @@ Due distance <qex>reconciles</qex> to form and grace.</q> <rj><qau>Pope.</qau></
 <hw>Re*cord"er</hw> <pr>(r?*k?rd"?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who records; specifically, a person whose official duty it is to make a record of writings or transactions.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The title of the chief judical officer of some cities and boroughs; also, of the chief justice of an East Indian settlement. The Recorder of London is judge of the Lord Mayor's Court, and one of the commissioners of the Central Criminal Court.</def><br/
+<p><sn>2.</sn> <def>The title of the chief judicial officer of some cities and boroughs; also, of the chief justice of an East Indian settlement. The Recorder of London is judge of the Lord Mayor's Court, and one of the commissioners of the Central Criminal Court.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mus.)</fld> <def>A kind of wind instrument resembling the flageolet.</def> <mark>[Obs.]</mark> <ldquo/Flutes and soft <xex>recorders</xex>.<rdquo/  <rj><au>Milton.</au></rj><br/
@@ -9830,7 +9830,7 @@ Due distance <qex>reconciles</qex> to form and grace.</q> <rj><qau>Pope.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recourse</ent><br/
-<hw>Re*course"</hw> <pr>(r?*k?rs")</pr>, <pos>n.</pos> <ety>[F. <ets>recours</ets>, L. <ets>recursus</ets> a running back, return, fr. <ets>recurrere</ets>, <ets>recursum</ets>, to run back. See <er>Recur</er>.]</ety> <sn>1.</sn> <def>A coursing back, or coursing again, along the line of a previous coursing; renewed course; return; retreat; recurence.</def> <mark>[Obs.]</mark> <ldquo/Swift <xex>recourse</xex> of flushing blood.<rdquo/  <rj><au>Spenser.</au></rj><br/
+<hw>Re*course"</hw> <pr>(r?*k?rs")</pr>, <pos>n.</pos> <ety>[F. <ets>recours</ets>, L. <ets>recursus</ets> a running back, return, fr. <ets>recurrere</ets>, <ets>recursum</ets>, to run back. See <er>Recur</er>.]</ety> <sn>1.</sn> <def>A coursing back, or coursing again, along the line of a previous coursing; renewed course; return; retreat; recurrence.</def> <mark>[Obs.]</mark> <ldquo/Swift <xex>recourse</xex> of flushing blood.<rdquo/  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Unto my first I will have my <qex>recourse</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -10159,7 +10159,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 <hw>Re`cru*des"cent</hw> <pr>(-s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recrudescens</ets>, <ets>-entis</ets>, p. pr. of <ets>recrudescere</ets> to become raw again; pref. <ets>re-</ets> re- + <ets>crudescere</ets> to become hard or raw: cf. F. <ets>recrudescent</ets>.]</ety> <sn>1.</sn> <def>Growing raw, sore, or painful again.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Breaking out again after temporary abatement or supression; <as>as, a <ex>recrudescent</ex> epidemic</as>.</def><br/
+<p><sn>2.</sn> <def>Breaking out again after temporary abatement or suppression; <as>as, a <ex>recrudescent</ex> epidemic</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recruit</ent><br/
@@ -10299,7 +10299,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 
 <p><ent>Rectilinear</ent><br/
 <ent>Rectilineal</ent><br/
-<mhw>{ <hw>Rec`ti*lin"e*al</hw> <pr>(-l?n"?*<it>a</it>l)</pr>, <hw>Rec`ti*lin"e*ar</hw> <pr>(-l?n"?*?r)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>lineal</ets>, <ets>linear</ets>.]</ety> <def>Straight; consisting of a straight line or lines; bounded by straight lines; <as>as, a <ex>rectineal</ex> angle; a <ex>rectilinear</ex> figure or course.</as></def> -- <wordforms><wf>Rec`ti*lin"e*al*ly</wf>, <pos>adv.</pos> -- <wf>Rec`ti*lin"e*ar*ly</wf>, <pos>adv.</pos></wordforms><br/
+<mhw>{ <hw>Rec`ti*lin"e*al</hw> <pr>(-l?n"?*<it>a</it>l)</pr>, <hw>Rec`ti*lin"e*ar</hw> <pr>(-l?n"?*?r)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>lineal</ets>, <ets>linear</ets>.]</ety> <def>Straight; consisting of a straight line or lines; bounded by straight lines; <as>as, a <ex>rectilineal</ex> angle; a <ex>rectilinear</ex> figure or course.</as></def> -- <wordforms><wf>Rec`ti*lin"e*al*ly</wf>, <pos>adv.</pos> -- <wf>Rec`ti*lin"e*ar*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectilinearity</ent><br/
@@ -10672,7 +10672,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Red</ent><br/
-<hw>Red</hw>, <pos>v. t.</pos> <def>To put on order; to make tidy; also, to free from entanglement or embarrassement; -- generally with <ptcl>up</ptcl>; <as>as, to <ex>red</ex> up a house</as>.</def> <mark>[Prov. Eng. & Scot.]</mark><br/
+<hw>Red</hw>, <pos>v. t.</pos> <def>To put on order; to make tidy; also, to free from entanglement or embarrassment; -- generally with <ptcl>up</ptcl>; <as>as, to <ex>red</ex> up a house</as>.</def> <mark>[Prov. Eng. & Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Red</ent><br/
@@ -10734,7 +10734,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redargue</ent><br/
-<hw>Red*ar"gue</hw> <pr>(r?d*?r"g?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Redargued</conjf> <pr>(-g?d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Redarguing</conjf>.]</vmorph> <ety>[L. <ets>redarguere</ets>; pref. <ets>red-</ets>, <ets>re-</ets> re- +  <ets>arguere</ets> to accuse, charge with: cf. F. <ets>r<eacute/darguer</ets>.]</ety> <def>To disprove; to refute; toconfute; to reprove; to convict.</def> <mark>[Archaic]</mark><br/
+<hw>Red*ar"gue</hw> <pr>(r?d*?r"g?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Redargued</conjf> <pr>(-g?d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Redarguing</conjf>.]</vmorph> <ety>[L. <ets>redarguere</ets>; pref. <ets>red-</ets>, <ets>re-</ets> re- +  <ets>arguere</ets> to accuse, charge with: cf. F. <ets>r<eacute/darguer</ets>.]</ety> <def>To disprove; to refute; to confute; to reprove; to convict.</def> <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>How shall I . . . suffer that God should <qex>redargue</qex> me at doomsday, and the angels reproach my lukewarmness?</q> <rj><qau>Jer. Taylor.</qau></rj><br/
@@ -10924,11 +10924,11 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Re*deem"a*ble</hw> <pr>(-?*b;l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Capable of being redeemed; subject to repurchase; held under conditions permitting redemption; <as>as, a pledge securing the payment of money is <ex>redeemable</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Subject to an obligation of redemtion; conditioned upon a promise of redemtion; payable; due; <as>as, bonds, promissory notes, etc.</as> , <xex>redeemabble</xex> in gold, or in current money, or four months after date.</def><br/
+<p><sn>2.</sn> <def>Subject to an obligation of redemption; conditioned upon a promise of redemption; payable; due; <as>as, bonds, promissory notes, etc.</as> , <xex>redeemable</xex> in gold, or in current money, or four months after date.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redeemableness</ent><br/
-<hw>Re*deem"a*ble*ness</hw> <pr>(r?*d?m"?*b'l*n?s)</pr>, <pos>n.</pos> <def>The quality or state of being redeemable; redeemability.</def><br/
+<hw>Re*deem"a*ble*ness</hw> <pr>(r?*d?m"?*b'l*n?s)</pr>, <pos>n.</pos> <def>The quality or state of being redeemable; redeem ability.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redeemer</ent><br/
@@ -38874,7 +38874,7 @@ She must have long ago <qex>run out</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>6.</sn> <def>To cause to be drawn; to mark out; to indicate; to determine; <as>as, to <ex>run</ex> a line</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <def>To cause to pass, or evade, offical restrictions; to smuggle; -- said of contraband or dutiable goods.</def><br/
+<p><sn>7.</sn> <def>To cause to pass, or evade, official restrictions; to smuggle; -- said of contraband or dutiable goods.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Heavy impositions . . . are a strong temptation of <qex>running</qex> goods.</q> <rj><qau>Swift.</qau></rj><br/
