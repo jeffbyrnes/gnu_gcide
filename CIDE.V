@@ -2,6 +2,7 @@
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
+    Copyright (C) 2012-2024 Sergey Poznyakoff
 
     GCIDE is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -3702,7 +3703,7 @@ I. <subclass><er>Phaenogamia</er></subclass> (called also <er>Phanerogamia</er>)
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vegetarian</ent><br/
-<hw>Veg`e*ta"ri*an</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who holds that vegetables and fruits are the only proper food for man.  Strict vegetarians eat no meat, eggs, or milk, and are sometimes referred tro as <stype>vegans</stype>.</def><br/
+<hw>Veg`e*ta"ri*an</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who holds that vegetables and fruits are the only proper food for man.  Strict vegetarians eat no meat, eggs, or milk, and are sometimes referred to as <stype>vegans</stype>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vegetarian</ent><br/
@@ -3899,7 +3900,7 @@ That dwell in <qex>vegetives</qex>, in metals, stones.</q> <rj><qau>Shak.</qau><
 <hw>Veil</hw> <pr>(v<amac/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>veile</ets>, OF. <ets>veile</ets>, F. <ets>voile</ets>, L. <ets>velum</ets> a sail, covering, curtain, veil, probably fr. <ets>vehere</ets> to bear, carry, and thus originally, that which bears the ship on. See <er>Vehicle</er>, and cf. <er>Reveal</er>.]</ety> <altsp>[Written also <asp>vail</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>Something hung up, or spread out, to intercept the view, and hide an object; a cover; a curtain; esp., a screen, usually of gauze, crape, or similar diaphnous material, to hide or protect the face.</def><br/
+<p><sn>1.</sn> <def>Something hung up, or spread out, to intercept the view, and hide an object; a cover; a curtain; esp., a screen, usually of gauze, crape, or similar diaphanous material, to hide or protect the face.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>veil</qex> of the temple was rent in twain.</q> <rj><qau>Matt. xxvii. 51.</qau></rj><br/
@@ -8076,7 +8077,7 @@ My vanquisher.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Victorium</ent><br/
-<hw>Vic*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after <etsep>Victoria</etsep>, queen of Great Britain.]</ety> <fld>(Chem.)</fld> <def>A probable chemical element discovered by Sir William Crookes in 1898. Its nitrate is obtained byy practical decomposition and crystallization of yttrium nitrate. At. wt., about 117.</def><-- ??? not an element, or renamed?? --><br/
+<hw>Vic*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after <etsep>Victoria</etsep>, queen of Great Britain.]</ety> <fld>(Chem.)</fld> <def>A probable chemical element discovered by Sir William Crookes in 1898. Its nitrate is obtained by practical decomposition and crystallization of yttrium nitrate. At. wt., about 117.</def><-- ??? not an element, or renamed?? --><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Victory</ent><br/
@@ -8188,11 +8189,11 @@ Bare <qex>victual</qex> for the mowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>videocasette</ent><br/
-<hw>videocasette</hw> <pos>n.</pos> <def>a casette containing magnetic tape, which can be used in a videocasette recorder to record and play back electronic signals, such as from television programs.  The long magnetic tape in the videocasette is moved between two spindles, and a small portion of the tape at any one time is passed over a recording or playback head.</def><br/
+<hw>videocasette</hw> <pos>n.</pos> <def>a cassette containing magnetic tape, which can be used in a videocassette recorder to record and play back electronic signals, such as from television programs.  The long magnetic tape in the videocassette is moved between two spindles, and a small portion of the tape at any one time is passed over a recording or playback head.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>videocasette recorder</ent><br/
-<hw>videocasette recorder</hw> <pos>n.</pos> <def>an electronic device which can record electronic signals, as from a television program, on magnetic tape contained in a videocassette, and can also play back the recording.  It is used, for example, to record television programs broadcast at some particular time, which can then be viewed at any subsequent time by attaching the videocasette recorder to a television receiver and playing the signals throught the television receiver.  Also called <altname>VCR</altname>.</def><br/
+<hw>videocasette recorder</hw> <pos>n.</pos> <def>an electronic device which can record electronic signals, as from a television program, on magnetic tape contained in a videocassette, and can also play back the recording.  It is used, for example, to record television programs broadcast at some particular time, which can then be viewed at any subsequent time by attaching the videocassette recorder to a television receiver and playing the signals through the television receiver.  Also called <altname>VCR</altname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>videotape</ent><br/
@@ -10843,7 +10844,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>vitamin K</ent><br/
-<hw>vitamin K</hw> <pos>n.</pos> <fu>(1929)</fu> <ety>[from G. <ets>K</ets>oagulationsvitamin.]</ety> <def>either of two fat-soluble vitamins (vitamin K1 or vitamin K2) that help clot blood by participating in the fromation of prothrombin.</def>
+<hw>vitamin K</hw> <pos>n.</pos> <fu>(1929)</fu> <ety>[from G. <ets>K</ets>oagulationsvitamin.]</ety> <def>either of two fat-soluble vitamins (vitamin K1 or vitamin K2) that help clot blood by participating in the formation of prothrombin.</def>
 <syn><b>Syn. --</b> naphthoquinone.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
@@ -11989,7 +11990,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voider</ent><br/
-<hw>Void"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, voids, <?/mpties, vacates, or annuls.</def><br/
+<hw>Void"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, voids, empties, vacates, or annuls.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A tray, or basket, formerly used to receive or convey that which is voided or cleared away from a given place; especially, one for carrying off the remains of a meal, as fragments of food; sometimes, a basket for containing household articles, as clothes, etc.</def><br/
@@ -12636,7 +12637,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>6.</sn> <fld>(Law)</fld> <def>Free; without compulsion; according to the will, consent, or agreement, of a party; without consideration; gratuitous; without valuable consideration.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Eccl.)</fld> <def>Of or pertaining to voluntaryism; <as>as, a <ex>voluntary</ex> church, in distinction from an established or state church</as>.</def><br/
+<p><sn>7.</sn> <fld>(Eccl.)</fld> <def>Of or pertaining to voluntarism; <as>as, a <ex>voluntary</ex> church, in distinction from an established or state church</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Voluntary affidavit</b></col> <it>or</it> <col><b>Voluntary oath</b></col></mcol> <fld>(Law)</fld>, <cd>an affidavit or oath made in an extrajudicial matter.</cd> -- <col><b>Voluntary conveyance</b></col> <fld>(Law)</fld>, <cd>a conveyance without valuable consideration.</cd> -- <col><b>Voluntary escape</b></col> <fld>(Law)</fld>, <cd>the escape of a prisoner by the express consent of the sheriff.</cd> -- <col><b>Voluntary jurisdiction</b></col>. <fld>(Eng. Eccl. Law)</fld> <cd>See <cref>Contentious jurisdiction</cref>, under <er>Contentious</er>.</cd> -- <col><b>Voluntary waste</b></col>. <fld>(Law)</fld> <cd>See <er>Waste</er>, <pos>n.</pos>, 4.</cd></cs><br/
@@ -12652,7 +12653,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>A piece played by a musician, often extemporarily, according to his fancy; specifically, an organ solo played before, during, or after divine service.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Eccl.)</fld> <def>One who advocates voluntaryism.</def><br/
+<p><sn>3.</sn> <fld>(Eccl.)</fld> <def>One who advocates voluntarism.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voluntaryism</ent><br/
@@ -13048,7 +13049,7 @@ The <qex>vote</qex> that shakes the turrets of the land.</q> <rj><qau>Holmes.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vote</ent><br/
-<hw>Vote</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To choose by suffrage; to elec<?/; <as>as, to <ex>vote</ex> a candidate into office</as>.</def><br/
+<hw>Vote</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To choose by suffrage; to elect; <as>as, to <ex>vote</ex> a candidate into office</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To enact, establish, grant, determine, etc., by a formal vote; <as>as, the legislature <ex>voted</ex> the resolution</as>.</def><br/
@@ -13174,7 +13175,7 @@ At such bold words <qex>vouched</qex> with a deed so bold.</q> <rj><qau>Milton.<
 <p><sn>3.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The act of calling in a person to make good his warranty of title in the old form of action for the recovery of lands.</def>  <sd>(b)</sd> <def>The tenant in a writ of right; one who calls in another to establish his warranty of title. In common recoveries, there may be a single <xex>voucher</xex> or double <xex>vouchers</xex>.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>A document attesting to a credit against certain defined expenditures; a recipt for prepayment; -- often used in pre-arranged travel plans, to provide evidence of pre-payment of the cost of lodging, transportation, or meals.</def><br/
+<p><sn>4.</sn> <def>A document attesting to a credit against certain defined expenditures; a receipt for prepayment; -- often used in pre-arranged travel plans, to provide evidence of pre-payment of the cost of lodging, transportation, or meals.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Vouchment</ent><br/
