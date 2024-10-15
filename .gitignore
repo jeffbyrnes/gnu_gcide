@@ -1,3 +1,5 @@
+.aspell.conf
+.dir-locals.el
 .emacs*
 \#*#
 \.#*
@@ -7,3 +9,5 @@
 *.zip
 GCIDE.IDX
 *.ts
+*.bak
+*.sig
