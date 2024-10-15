@@ -2,6 +2,7 @@
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
+    Copyright (C) 2012-2024 Sergey Poznyakoff
 
     GCIDE is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -1665,7 +1666,7 @@ But never <qex>taint</qex> my love.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tainture</ent><br/
-<hw>Tain"ture</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>teinture</ets>. See <er>Taint</er> to stain, and cf. <er>Tincture</er>.]</ety> <def>Taint; tinge; difilement; stain; spot.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
+<hw>Tain"ture</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>teinture</ets>. See <er>Taint</er> to stain, and cf. <er>Tincture</er>.]</ety> <def>Taint; tinge; defilement; stain; spot.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taintworm</ent><br/
@@ -1912,7 +1913,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Take</ent><br/
-<hw>Take</hw>, <pos>n.</pos> <sn>1.</sn> <def>That which is taken, such as the quantity of fish captured at one haul or catch, or the amouont of money collected during one event; <as>as, the box-office <ex>take</ex></as>.</def><br/
+<hw>Take</hw>, <pos>n.</pos> <sn>1.</sn> <def>That which is taken, such as the quantity of fish captured at one haul or catch, or the amount of money collected during one event; <as>as, the box-office <ex>take</ex></as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Print.)</fld> <def>The quantity or copy given to a compositor at one time.</def><br/
@@ -2000,7 +2001,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 <p><sn>2.</sn> <def>To withstand high temperature; <as>as, the new radios can <ex>take the heat</ex> of a black car parked in the sun in Death Valley</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>3.</sn> <specif>Hence:</specif> <def>To endure stressful conditions, expecially without signs of difficulty or complaint; <as>as, if you can't <ex>take the heat</ex>, stay out of the kitchen</as>,</def><br/
+<p><sn>3.</sn> <specif>Hence:</specif> <def>To endure stressful conditions, especially without signs of difficulty or complaint; <as>as, if you can't <ex>take the heat</ex>, stay out of the kitchen</as>,</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Take-up</ent><br/
@@ -2014,7 +2015,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 <p><q>Subtile in making his temptations most <qex>taking</qex>.</q> <rj><qau>Fuller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Infectious; contageous.</def> <mark>[Obs.]</mark>  <rj><au>Beau. & Fl.</au></rj><br/
+<p><sn>2.</sn> <def>Infectious; contagious.</def> <mark>[Obs.]</mark>  <rj><au>Beau. & Fl.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Tak"ing*ly</wf>, <pos>adv.</pos> -- <wf>Tak"ing*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -2090,7 +2091,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tale</ent><br/
-<hw>Tale</hw>, <pos>n.</pos> <ety>[AS. <ets>talu</ets> number, speech, narrative; akin to D. <ets>taal</ets> speech, language, G. <ets>zahl</ets> number, OHG. <ets>zala</ets>, Icel. <ets>tal</ets>, <ets>tala</ets>, number, speech, Sw. <ets>tal</ets>, Dan. <ets>tal</ets> number, <ets>tale</ets> speech, Goth. <ets>talzjan</ets> to instruct.  Cf. <er>Tell</er>, <pos>v. t.</pos>, <er>Toll</er> a tax, also <er>Talk</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>That which is told; an oral relation or recital; any rehearsal of what has occured; narrative; discourse; statement; history; story.</def> <ldquo/The <xex>tale</xex> of Troy divine.<rdquo/ <au>Milton.</au> <ldquo/In such manner rime is Dante's <xex>tale</xex>.<rdquo/ <au>Chaucer.</au><br/
+<hw>Tale</hw>, <pos>n.</pos> <ety>[AS. <ets>talu</ets> number, speech, narrative; akin to D. <ets>taal</ets> speech, language, G. <ets>zahl</ets> number, OHG. <ets>zala</ets>, Icel. <ets>tal</ets>, <ets>tala</ets>, number, speech, Sw. <ets>tal</ets>, Dan. <ets>tal</ets> number, <ets>tale</ets> speech, Goth. <ets>talzjan</ets> to instruct.  Cf. <er>Tell</er>, <pos>v. t.</pos>, <er>Toll</er> a tax, also <er>Talk</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>That which is told; an oral relation or recital; any rehearsal of what has occurred; narrative; discourse; statement; history; story.</def> <ldquo/The <xex>tale</xex> of Troy divine.<rdquo/ <au>Milton.</au> <ldquo/In such manner rime is Dante's <xex>tale</xex>.<rdquo/ <au>Chaucer.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We spend our years as a <qex>tale</qex> that is told.</q> <rj><qau>Ps. xc. 9.</qau></rj><br/
@@ -2299,7 +2300,7 @@ Under the hawthorn in the dale.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>I hear a <qex>talk</qex> up and down of raising our money.</q> <rj><qau>Locke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Subject of discourse; <as>as, his achievment is the <ex>talk</ex> of the town</as>.</def><br/
+<p><sn>3.</sn> <def>Subject of discourse; <as>as, his achievement is the <ex>talk</ex> of the town</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Conversation; colloquy; discourse; chat; dialogue; conference; communication. See <er>Conversation</er>.</syn><br/
@@ -2756,7 +2757,7 @@ As e'er demolished a pye fortification.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tamerlane</ent><br/
-<hw>Ta*mer*lane"</hw> <pr>(t<acr/*m<etil/r*l<amac/n")</pr>, <pos>prop. n.</pos> <def>A Tatar conquerer, also called <altname>Timur</altname> or <altname>Timour</altname> (t<emac/*m<ocir/r") or <altname>Timur Bey</altname>, also <altname>Timur-Leng</altname> or <altname>Timur-i-Leng</altname> ('Timur the Lame'), which was corrupted to <ex>Tamerlane</ex>.  He was born in Central Asia, 1333, a member of the Barslas, a Turkish Mongol tribe which had converted to Islam.  He died 1405.  Though he claimed descent from Jenghiz Khan, it is believed that he was in fact descended from a follower of the Khan.  By 1370, Tamerlane, a renowned warrior, began consolidating his power among the various nomadic tribes of Central Asia by conquering the entire region. He became a ruler about 1370 of a realm whose capital was Samarkand; conquered Persia, Central Asia, and in 1398 a great part of India, including Delhi; waged war with the Turkish <person>Sultan Bajazet I.</person> (Beyazid), whom he defeated at Ankara in 1402 and took prisoner; and died while preparing to invade China.  By the end of his life in 1405, after 35 years of campaigns and wars that left hundreds of thousands dead and enslaved, he had successfully defeated Ottoman Turks, Hindus, The Golden Horde, and other peoples and controlled an empire stretching from the Aegean to the River Ganges and threatened the trembling Kingdoms of Europe and the Eastern Roman Empire.  He is the <asp>Tamerlaine</asp> of the plays.</def><br/
+<hw>Ta*mer*lane"</hw> <pr>(t<acr/*m<etil/r*l<amac/n")</pr>, <pos>prop. n.</pos> <def>A Tatar conqueror, also called <altname>Timur</altname> or <altname>Timour</altname> (t<emac/*m<ocir/r") or <altname>Timur Bey</altname>, also <altname>Timur-Leng</altname> or <altname>Timur-i-Leng</altname> ('Timur the Lame'), which was corrupted to <ex>Tamerlane</ex>.  He was born in Central Asia, 1333, a member of the Barslas, a Turkish Mongol tribe which had converted to Islam.  He died 1405.  Though he claimed descent from Jenghiz Khan, it is believed that he was in fact descended from a follower of the Khan.  By 1370, Tamerlane, a renowned warrior, began consolidating his power among the various nomadic tribes of Central Asia by conquering the entire region. He became a ruler about 1370 of a realm whose capital was Samarkand; conquered Persia, Central Asia, and in 1398 a great part of India, including Delhi; waged war with the Turkish <person>Sultan Bajazet I.</person> (Beyazid), whom he defeated at Ankara in 1402 and took prisoner; and died while preparing to invade China.  By the end of his life in 1405, after 35 years of campaigns and wars that left hundreds of thousands dead and enslaved, he had successfully defeated Ottoman Turks, Hindus, The Golden Horde, and other peoples and controlled an empire stretching from the Aegean to the River Ganges and threatened the trembling Kingdoms of Europe and the Eastern Roman Empire.  He is the <asp>Tamerlaine</asp> of the plays.</def><br/
 [<source>Century Dict. 1906</source> + <source>PJC</source>]</p>
 
 <p><q>Just at the moment when the Sultan (Bajazet) seemed to have attained the pinnacle of his ambition, when his authority was unquestioningly obeyed over the greater part of the Byzantine Empire in Europe and Asia, when the Christian states were regarding him with terror as the scourge of the world, another and greater scourge came to quell him, and at one stroke all the vast fabric of empire which Bayezid (Beyazid or B<amac/yez<imac/d) had so triumphantly erected was shattered to the ground.  This terrible conquerer was Tim<umac/r the Tatar, or as we call him, <ldquo/Tamerlane<rdquo/.  Tim<umac/r was of Turkish race, and was born near Samarkand in 1333.  He was consequently an old man of 70 when he came to encounter B<amac/yez<imac/d in 1402.  It had taken him many years to establish his authority over a portion of the numerous divisions into which the immense empire of Chingiz Khan had fallen after the death of that stupendous conqueror.  Tim<umac/r was but a petty chief among many others: but at last he won his way and became ruler of Samarkand and the whole province of Transoxiana, or 'Beyond the River' (M<amac/-war<amac/-n-nahr) as the Arabs called the country north of the Oxus.  Once fairly established in this province, Tim<umac/r began to overrun the surrounding lands, and during thirty years his ruthless armies spread over the provinces of Asia, from Delhi to Damascus, and from the Sea of Aral to the Persian Gulf.  The subdivision of the Moslem Empire into numerous petty kingdoms rendered it powerless to meet the overwhelming hordes which Tim<umac/r brought down from Central Asia.  One and all, the kings and princes of Persia and Syria succumbed, and Tim<umac/r carried his banners triumphantly as far as the frontier of Egypt, where the brave Mamluk Sultans still dared to defy him.  He had so far left B<amac/yez<imac/d unmolested; partly because he was too powerful to be rashly provoked, and partly because Tim<umac/r respected the Sultan's valorous deeds against the Christians: for Tim<umac/r, though a wholesale butcher, was very conscientious in matters of religion, and held that B<amac/yez<imac/d's fighting for the Faith rightly covered a multitude of sins.</q> <rj><qau>Poole, Story of Turkey, p. 63</qau></rj><br/
@@ -2853,7 +2854,7 @@ Coincidence, no doubt, but on the night of June 22, 1941, the Russian Scientist 
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tamoxifen</ent><br/
-<hw>Ta*mox"i*fen</hw> <pr>(t<acr/*m<ocr/k"s<icr/*f<ecr/n)</pr>, <pos>n.</pos> <def>a chemical compound (<chform>C26H29NO</chform>) which is non-steroidal but physiogically active as an estrogen antagonist.  It is used to treat postmenopausal breast cancer.  Chemically it is <chname>1-p-dimethylaminoethoxyphenyl-trans-1,2-diphenyl-but-1-ene</chname>. It can be obtained as a white crystalline powder.</def> <au>[MI11]</au><br/
+<hw>Ta*mox"i*fen</hw> <pr>(t<acr/*m<ocr/k"s<icr/*f<ecr/n)</pr>, <pos>n.</pos> <def>a chemical compound (<chform>C26H29NO</chform>) which is non-steroidal but physiologically active as an estrogen antagonist.  It is used to treat postmenopausal breast cancer.  Chemically it is <chname>1-p-dimethylaminoethoxyphenyl-trans-1,2-diphenyl-but-1-ene</chname>. It can be obtained as a white crystalline powder.</def> <au>[MI11]</au><br/
 <syn><b>Syn. --</b> Kessar; Noltam; Nolvadex; Tamofen; Tamoxasta; Terimon; Xynoplex.</syn>
 [<source>PJC</source>]</p>
 
@@ -3253,7 +3254,7 @@ For Fleetwood, Desborough, and Lambert.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tangun</ent><br/
-<hw>Tan"gun</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A piebald variety of the horse, native of Thibet.</def><br/
+<hw>Tan"gun</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A piebald variety of the horse, native of Tibet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tangwhaup</ent><br/
@@ -3544,7 +3545,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taotai</ent><br/
-\'d8<hw>Tao`tai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>tao</ets> circuit + <ets>t'ai</ets>, a title of respect.]</ety> <def>In China, an official at the head of the civil and military affairs of a circuit, which consists of two or more <xex>fu</xex>, or territorial departments; -- called also, by foreigners, <altname>intendant of circuit</altname>. Foreign consuls and commissioners associated with taotais as superintendants of trade at the treaty ports are ranked with the taotai.</def><br/
+\'d8<hw>Tao`tai"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>tao</ets> circuit + <ets>t'ai</ets>, a title of respect.]</ety> <def>In China, an official at the head of the civil and military affairs of a circuit, which consists of two or more <xex>fu</xex>, or territorial departments; -- called also, by foreigners, <altname>intendant of circuit</altname>. Foreign consuls and commissioners associated with taotais as superintendents of trade at the treaty ports are ranked with the taotai.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tap</ent><br/
@@ -3637,7 +3638,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>PJC</source>]</p>
 
 <p><ent>Tape deck</ent><br/
-<hw>Tape deck</hw> <pr>(?)</pr>, <pos>n.</pos> <def>an electroinic device for recording and playing back sounds on magnetic tape; usually it needs to be connected to an amplifier system for playback.</def><br/
+<hw>Tape deck</hw> <pr>(?)</pr>, <pos>n.</pos> <def>an electronic device for recording and playing back sounds on magnetic tape; usually it needs to be connected to an amplifier system for playback.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tapeline</ent><br/
@@ -3670,7 +3671,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tape recorder</ent><br/
-<hw>Tape recorder</hw> <pr>(?)</pr>, <pos>n.</pos> <def>an electroinic device for recording and playing back sounds on magnetic tape; it often has an integrated microphone, amplifier, and speaker, and in such cases requires no additional equipment other than the magnetic tape for recording or playback.</def><br/
+<hw>Tape recorder</hw> <pr>(?)</pr>, <pos>n.</pos> <def>an electronic device for recording and playing back sounds on magnetic tape; it often has an integrated microphone, amplifier, and speaker, and in such cases requires no additional equipment other than the magnetic tape for recording or playback.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tape recording</ent><br/
@@ -3971,7 +3972,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 <p><q><qex>Tardy</qex> to vengeance, and with mercy brave.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Not being inseason; late; dilatory; -- opposed to <xex>prompt</xex>; <as>as, to be <ex>tardy</ex> in one's payments</as>.</def>  <rj><au>Arbuthnot.</au></rj><br/
+<p><sn>2.</sn> <def>Not being in season; late; dilatory; -- opposed to <xex>prompt</xex>; <as>as, to be <ex>tardy</ex> in one's payments</as>.</def>  <rj><au>Arbuthnot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>tardy</qex> plants in our cold orchards placed.</q> <rj><qau>Waller.</qau></rj><br/
@@ -4008,7 +4009,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tare</ent><br/
-<hw>Tare</hw>, <pos>n.</pos> <ety>[F. <ets>tare</ets>; cf. Pr., Sp., Pg., & It. <ets>tara</ets>; all fr. Ar. <ets>tarah</ets> thrown away, removed, fr. <ets>taraha</ets> to reject, remove.]</ety> <fld>(Com.)</fld> <def>Deficientcy in the weight or quantity of goods by reason of the weight of the cask, bag, or whatever contains the commodity, and is weighed with it; hence, the allowance or abatement of a certain weight or quantity which the seller makes to the buyer on account of the weight of such cask, bag, etc.</def><br/
+<hw>Tare</hw>, <pos>n.</pos> <ety>[F. <ets>tare</ets>; cf. Pr., Sp., Pg., & It. <ets>tara</ets>; all fr. Ar. <ets>tarah</ets> thrown away, removed, fr. <ets>taraha</ets> to reject, remove.]</ety> <fld>(Com.)</fld> <def>Deficiency in the weight or quantity of goods by reason of the weight of the cask, bag, or whatever contains the commodity, and is weighed with it; hence, the allowance or abatement of a certain weight or quantity which the seller makes to the buyer on account of the weight of such cask, bag, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tare</ent><br/
@@ -4395,7 +4396,7 @@ Grow stale and <qex>tarnish</qex> with our daily sight.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tartan</ent><br/
-<hw>Tar"tan</hw>, <pos>n.</pos> <ety>[F. <ets>tartane</ets>, or Sp., Pg., or It. <ets>tartana</ets>; all perhaps of Arabic origin.]</ety> <fld>(Naut.)</fld> <def>A small coasting vessel, used in the Mediterranean, having one mast carrying large leteen sail, and a bowsprit with staysail or jib.</def><br/
+<hw>Tar"tan</hw>, <pos>n.</pos> <ety>[F. <ets>tartane</ets>, or Sp., Pg., or It. <ets>tartana</ets>; all perhaps of Arabic origin.]</ety> <fld>(Naut.)</fld> <def>A small coasting vessel, used in the Mediterranean, having one mast carrying large lateen sail, and a bowsprit with staysail or jib.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tartar</ent><br/
@@ -5269,7 +5270,7 @@ And heavily in clouds brings on the day.</q> <rj><qau>Addison.</qau></rj></def><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tavern</ent><br/
-<hw>Tav"ern</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>taverne</ets>, F. <ets>taverne</ets>, from L. <ets>taberna</ets> a hut, booth, tavern.  Cf. <er>Table</er>, <er>Tabernacle</er>.]</ety> <def>A public house where travelers and other transient guests are accomodated with rooms and meals; an inn; a hotel; especially, in modern times, a public house licensed to sell liquor in small quantities.</def><br/
+<hw>Tav"ern</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>taverne</ets>, F. <ets>taverne</ets>, from L. <ets>taberna</ets> a hut, booth, tavern.  Cf. <er>Table</er>, <er>Tabernacle</er>.]</ety> <def>A public house where travelers and other transient guests are accommodated with rooms and meals; an inn; a hotel; especially, in modern times, a public house licensed to sell liquor in small quantities.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taverner</ent><br/
@@ -5572,7 +5573,7 @@ Them <qex>tawdries</qex> for their necks.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tay-Sachs Disease</ent><br/
-<hw>Tay"-Sachs Disease</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A rare hereditary disease affecting lipid metabolism in humans, due to a deficiency of hexosaminidase.  It occurs in infants and children, and causes death before the onset of adulthood.  It occurs most commonly of people of Jewish origin from easter Europe.  It is characterized by accumulation of lipids in nervous tissue, causes a red spot on the retina, and eventual blindness and paralysis before death.</def><br/
+<hw>Tay"-Sachs Disease</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A rare hereditary disease affecting lipid metabolism in humans, due to a deficiency of hexosaminidase.  It occurs in infants and children, and causes death before the onset of adulthood.  It occurs most commonly of people of Jewish origin from eastern Europe.  It is characterized by accumulation of lipids in nervous tissue, causes a red spot on the retina, and eventual blindness and paralysis before death.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tazel</ent><br/
@@ -8859,7 +8860,7 @@ They kept the noiseless <qex>tenor</qex> of their away.</q> <rj><qau>Gray.</qau>
 <p><sn>4.</sn> <fld>(Law)</fld> <def>An exact copy of a writing, set forth in the words and figures of it. It differs from <xex>purport</xex>, which is only the substance or general import of the instrument.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <ety>[F. <ets>t<eacute/nor</ets>, L. <ets>tenor</ets>, properly, a holding; -- so called because the tenor was the voice which took and held the principal part, the plain song, air, or tune, to which the other voices supplied a harmony above and below: cf. It. <ets>tenore</ets>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The higher of the two kinds of voices usually belonging to adult males; hence, the part in the harmony adapted to this voice; the second of the four parts in the scale of sounds, reckoning from the base, and originally the air, to which the other parts were auxillary.</def> <sd>(b)</sd> <def>A person who sings the tenor, or the instrument that play it.</def><br/
+<p><sn>5.</sn> <ety>[F. <ets>t<eacute/nor</ets>, L. <ets>tenor</ets>, properly, a holding; -- so called because the tenor was the voice which took and held the principal part, the plain song, air, or tune, to which the other voices supplied a harmony above and below: cf. It. <ets>tenore</ets>.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The higher of the two kinds of voices usually belonging to adult males; hence, the part in the harmony adapted to this voice; the second of the four parts in the scale of sounds, reckoning from the base, and originally the air, to which the other parts were Auxiliary.</def> <sd>(b)</sd> <def>A person who sings the tenor, or the instrument that play it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Old Tenor</b></col>, <col><b>New Tenor</b></col>, <col><b>Middle Tenor</b></col></mcol>, <cd>different descriptions of paper money, issued at different periods, by the American colonial governments in the last century.</cd></cs><br/
@@ -8958,7 +8959,7 @@ They kept the noiseless <qex>tenor</qex> of their away.</q> <rj><qau>Gray.</qau>
 <p><sn>3.</sn> <def>The degree of stretching to which a wire, cord, piece of timber, or the like, is strained by drawing it in the direction of its length; strain.</def>  <rj><au>Gwilt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Mech.)</fld> <def>The force by which a part is pulled when forming part of any system in equilibrium or in motion; <as>as, the <ex>tension</ex> of a srting supporting a weight equals that weight</as>.</def><br/
+<p><sn>4.</sn> <fld>(Mech.)</fld> <def>The force by which a part is pulled when forming part of any system in equilibrium or in motion; <as>as, the <ex>tension</ex> of a string supporting a weight equals that weight</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A device for checking the delivery of the thread in a sewing machine, so as to give the stitch the required degree of tightness.</def><br/
@@ -9262,7 +9263,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Te*nu"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>tenuitas</ets>, from <ets>tenuis</ets> thin: cf. F. <ets>t<eacute/nuit<eacute/</ets>. See <er>Tenuous</er>.]</ety> <sn>1.</sn> <def>The quality or state of being tenuous; thinness, applied to a broad substance; slenderness, applied to anything that is long; <as>as, the <ex>tenuity</ex> of a leaf; the <ex>tenuity</ex> of a hair.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Rarily; rareness; thinness, as of a fluid; <as>as, the <ex>tenuity</ex> of the air; the <ex>tenuity</ex> of the blood</as>.</def>  <rj><au>Bacon.</au></rj><br/
+<p><sn>2.</sn> <def>Rarely; rareness; thinness, as of a fluid; <as>as, the <ex>tenuity</ex> of the air; the <ex>tenuity</ex> of the blood</as>.</def>  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Poverty; indigence.</def> <mark>[Obs.]</mark>  <rj><au>Eikon Basilike.</au></rj><br/
@@ -9418,7 +9419,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teratoma</ent><br/
-<hw>Ter`a*to"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, monster + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor, sometimes found in newborn children, which is made up of a heterigenous mixture of tissues, as of bone, cartilage and muscle.</def><br/
+<hw>Ter`a*to"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, monster + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor, sometimes found in newborn children, which is made up of a heterogeneous mixture of tissues, as of bone, cartilage and muscle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terbic</ent><br/
@@ -9476,7 +9477,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebic</ent><br/
-<hw>Te*reb"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or obtained from, terbenthene (oil of turpentine); specifically, designating an acid, <chform>C7H10O4</chform>, obtained by the oxidation of terbenthene with nitric acid, as a white crystalline substance.</def><br/
+<hw>Te*reb"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or obtained from, terebenthene (oil of turpentine); specifically, designating an acid, <chform>C7H10O4</chform>, obtained by the oxidation of terebenthene with nitric acid, as a white crystalline substance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebilenic</ent><br/
@@ -9488,11 +9489,11 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebinthic</ent><br/
-<hw>Ter`e*bin"thic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Of or pertaining to turpentine; resembling turpentine; terbinthine; <as>as, <ex>terbinthic</ex> qualities</as>.</def><br/
+<hw>Ter`e*bin"thic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Of or pertaining to turpentine; resembling turpentine; terebenthene; <as>as, <ex>terbinthic</ex> qualities</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebinthinate</ent><br/
-<hw>Ter`e*bin"thi*nate</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Impregnating with the qualities of turpentine; terbinthine.</def><br/
+<hw>Ter`e*bin"thi*nate</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Impregnating with the qualities of turpentine; terebenthene.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebinthine</ent><br/
@@ -9519,7 +9520,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terebrating</ent><br/
-<hw>Ter"e*bra`ting</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>Boring; perforating; -- applied to molluskas which form holes in rocks, wood, etc.</def><br/
+<hw>Ter"e*bra`ting</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>Boring; perforating; -- applied to mollusks which form holes in rocks, wood, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>Boring; piercing; -- applied to certain kinds of pain, especially to those of locomotor ataxia.</def><br/
@@ -9732,7 +9733,7 @@ Therefore every tree is combustible, -<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termagant</ent><br/
-<hw>Ter"ma*gant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>Trivigant</ets>, <ets>Termagant</ets>, Termagant (in sense 1), OF. <ets>Tervagan</ets>; cf. It. <ets>Trivigante</ets>.]</ety> <sn>1.</sn> <def>An imaginary being supposed by the Christians to be a Moslem deity or false god.  He is represented in the ancient moralities, farces, and puppet shows as extremely vociferous and tumultous.</def> <mark>[Obs.]</mark> <au>Chaucer.</au> <ldquo/And oftentimes by <xex>Termagant</xex> and Mahound [Mahomet] swore.<rdquo/ <au>Spenser.</au><br/
+<hw>Ter"ma*gant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>Trivigant</ets>, <ets>Termagant</ets>, Termagant (in sense 1), OF. <ets>Tervagan</ets>; cf. It. <ets>Trivigante</ets>.]</ety> <sn>1.</sn> <def>An imaginary being supposed by the Christians to be a Moslem deity or false god.  He is represented in the ancient moralities, farces, and puppet shows as extremely vociferous and tumultuous.</def> <mark>[Obs.]</mark> <au>Chaucer.</au> <ldquo/And oftentimes by <xex>Termagant</xex> and Mahound [Mahomet] swore.<rdquo/ <au>Spenser.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The lesser part on Christ believed well,<br/
@@ -10141,7 +10142,7 @@ From center to circumference unveiled.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terras</ent><br/
-<hw>Ter"ras</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>See <er><?/rass</er>.</def><br/
+<hw>Ter"ras</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>See <er>Trass</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terreen</ent><br/
@@ -10736,7 +10737,7 @@ Comes out more bright, and brings forth all its weight.</q> <rj><qau>Addison.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testacean</ent><br/
-<hw>Tes*ta"cean</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Onr of the Testacea.</def><br/
+<hw>Tes*ta"cean</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Testacea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testaceography</ent><br/
@@ -10933,7 +10934,7 @@ And thus remember thee.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testify</ent><br/
-<hw>Tes"ti*fy</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To bear witness to; to support the truth of by testimony; to affirm or declare solemny.</def><br/
+<hw>Tes"ti*fy</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To bear witness to; to support the truth of by testimony; to affirm or declare solemnly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We speak that we do know, and <qex>testify</qex> that we have seen; and ye receive not our witness.</q> <rj><qau>John iii. 11.</qau></rj><br/
@@ -10950,7 +10951,7 @@ And thus remember thee.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 <hw>Tes`ti*mo"ni*al</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>testimoniale</ets>, LL. <ets>testimonialis</ets>, L. <ets>testimoniales</ets> (sc. <ets>litterae</ets>). See <er>Testimonial</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>A writing or certificate which bears testimony in favor of one's character, good conduct, ability, etc., or of the value of a thing.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Something, as money or plate, presented to a preson as a token of respect, or of obligation for services rendered.</def><br/
+<p><sn>2.</sn> <def>Something, as money or plate, presented to a person as a token of respect, or of obligation for services rendered.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Testimonial</ent><br/
@@ -10986,7 +10987,7 @@ Universal reproach.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Thou shalt put into the ark the <qex>testimony</qex> which I shall give thee.</q> <rj><qau>Ex. xxv. 16.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <def>Hence, the whole divine revelation; the sacre<?/ Scriptures.</def><br/
+<p><sn>6.</sn> <def>Hence, the whole divine revelation; the sacred Scriptures.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>testimony</qex> of the Lord is sure, making wise the simple.</q> <rj><qau>Ps. xix. 7.</qau></rj><br/
