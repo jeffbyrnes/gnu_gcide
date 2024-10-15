@@ -7693,7 +7693,7 @@ His voice, his figure, and his gesture knew.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>manila bay</ent><br/
-<hw>manila bay</hw> <pos>n.</pos> <def>The name of a naval battle in the Spanish-American War (1898), in which the American fleet under <person>Admiral Dewey</person> defeated the Spanish fleet off the shore of Manila in the Phillipines.</def><br/
+<hw>manila bay</hw> <pos>n.</pos> <def>The name of a naval battle in the Spanish-American War (1898), in which the American fleet under <person>Admiral Dewey</person> defeated the Spanish fleet off the shore of Manila in the Philippines.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>manila bean</ent><br/
@@ -8382,7 +8382,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manstealing</ent><br/
-<hw>Man"steal`ing</hw>, <pos>n.</pos> <def>The act or business of stealing or kidnaping human beings, especially with a view to e<?/slave them.</def><br/
+<hw>Man"steal`ing</hw>, <pos>n.</pos> <def>The act or business of stealing or kidnapping human beings, especially with a view to e<?/slave them.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mansuete</ent><br/
@@ -8470,7 +8470,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mantidae</ent><br/
-<hw>Mantidae</hw> <pos>prop. n.</pos> <def>The natural family conmprising the mantises.  Same as <fam>Manteidae</fam>.</def><br/
+<hw>Mantidae</hw> <pos>prop. n.</pos> <def>The natural family comprising the mantises.  Same as <fam>Manteidae</fam>.</def><br/
 <syn><b>Syn. --</b> family Mantidae, <fam>Manteidae</fam>, family Manteidae.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -8936,7 +8936,7 @@ And with vain, outward things be no more moved.</q> <rj><qau>Donne.</qau></rj><b
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Manx shearwater</ent><br/
-<hw>Manx shearwater</hw> <pos>prop. n.</pos> <fld>(Zool.)</fld>, <def>A small black-and-white oceanic bird (<spn>Puffinus puffinus</spn>, or <spn>Puffinus anglorum</spn>), common in the Eastern North Atlantic.  Called also <altname>Manx petrel</altname>, <altname>Manx puffin</altname>.  It is avariety of <er>shearwater</er>.  It was formerly abundant in the Isle of Man.</def><br/
+<hw>Manx shearwater</hw> <pos>prop. n.</pos> <fld>(Zool.)</fld>, <def>A small black-and-white oceanic bird (<spn>Puffinus puffinus</spn>, or <spn>Puffinus anglorum</spn>), common in the Eastern North Atlantic.  Called also <altname>Manx petrel</altname>, <altname>Manx puffin</altname>.  It is a variety of <er>shearwater</er>.  It was formerly abundant in the Isle of Man.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manx</ent><br/
@@ -9257,7 +9257,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marasmius</ent><br/
-<hw>Marasmius</hw> <pos>prop. n.</pos> <def>A genus of chiefly small white-spored mushrooms, including the <styp><spn>Marasmius oreades</spn></styp>, the mushroon that grow in a <er>fairy ring</er>.</def><br/
+<hw>Marasmius</hw> <pos>prop. n.</pos> <def>A genus of chiefly small white-spored mushrooms, including the <styp><spn>Marasmius oreades</spn></styp>, the mushroom that grow in a <er>fairy ring</er>.</def><br/
 <syn><b>Syn. --</b> genus <gen>Marasmius</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -9366,7 +9366,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>Varied with irregular markings, or witch a confused blending of irregular spots and streaks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>Having small flecks of fat interspered with the muscle; -- of cuts of meat, especially beef; <as>as, a well-<ex>marbled</ex> steak</as>.  Such marbling improves the flavor of beef for most people.</def><br/
+<p><sn>4.</sn> <def>Having small flecks of fat interspersed with the muscle; -- of cuts of meat, especially beef; <as>as, a well-<ex>marbled</ex> steak</as>.  Such marbling improves the flavor of beef for most people.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>marble cake</ent><br/
@@ -9567,7 +9567,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marchantiales</ent><br/
-<hw>Marchantiales</hw> <pos>prop. n.</pos> <def>An oder of liverworts with gametophyte differentiated internally.</def><br/
+<hw>Marchantiales</hw> <pos>prop. n.</pos> <def>An order of liverworts with gametophyte differentiated internally.</def><br/
 <syn><b>Syn. --</b> order <ord>Marchantiales</ord>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -9679,7 +9679,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marcosian</ent><br/
-<hw>Mar*co"sian</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Eccl. Hist.)</fld> <def>One of a Gnostic sect of the second century, so called from <xex>Marcus</xex>, an Egyptian, who was reputed to be a margician.</def><br/
+<hw>Mar*co"sian</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Eccl. Hist.)</fld> <def>One of a Gnostic sect of the second century, so called from <xex>Marcus</xex>, an Egyptian, who was reputed to be a magician.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mardi gras</ent><br/
@@ -9849,7 +9849,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 <p><sn>4.</sn> <def>Something allowed, or reserved, for that which can not be foreseen or known with certainty.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Brokerage)</fld> <def>Collateral security deposited with a broker to secure him from loss on contracts entered into by him on behalf of his principial, as in the speculative buying and selling of stocks, wheat, etc.  It is usually less than the full value of the security purchased, in which case it may be qualified by the portion of the full value required to be deposited; <as>as, to buy stocks on 50% <ex>margin</ex></as>.</def>  <rj><au>N. Biddle.</au></rj><br/
+<p><sn>5.</sn> <fld>(Brokerage)</fld> <def>Collateral security deposited with a broker to secure him from loss on contracts entered into by him on behalf of his principal, as in the speculative buying and selling of stocks, wheat, etc.  It is usually less than the full value of the security purchased, in which case it may be qualified by the portion of the full value required to be deposited; <as>as, to buy stocks on 50% <ex>margin</ex></as>.</def>  <rj><au>N. Biddle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Margin draft</b></col> <fld>(Masonry)</fld>, <cd>a smooth cut margin on the face of hammer-dressed ashlar, adjacent to the joints.</cd> -- <col><b>Margin of a course</b></col> <fld>(Arch.)</fld>, <cd>that part of a course, as of slates or shingles, which is not covered by the course immediately above it. See 2d <er>Gauge</er>.</cd></cs><br/
@@ -9881,7 +9881,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 
 <p><ent>marginal cost of production</ent><br/
 <ent>marginal cost</ent><br/
-<mhw><hw>marginal cost</hw>, <hw>marginal cost of production</hw></mhw> <pos>n.</pos> <fld>(Economics)</fld> <def>The increase in total cost of production as a result of producing one more unit of output; since certain ovrhead costs are fixed, the <ex>marginal cost</ex> is almost aways less than the total per-unit cost of production averaged over all units produced.</def><br/
+<mhw><hw>marginal cost</hw>, <hw>marginal cost of production</hw></mhw> <pos>n.</pos> <fld>(Economics)</fld> <def>The increase in total cost of production as a result of producing one more unit of output; since certain overhead costs are fixed, the <ex>marginal cost</ex> is almost always less than the total per-unit cost of production averaged over all units produced.</def><br/
 <syn><b>Syn. --</b> incremental cost, differential cost.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -10000,7 +10000,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marijuana</ent><br/
-<hw>marijuana</hw> <pos>n.</pos> <sn>1.</sn> <def>A strong-smelling Asian plant (<spn>Cannabis sativa</spn>), also called <altname>hemp</altname>, from which a number of euphorogenic and halucinogenic drugs are prepared.  The euphoric effect is predominently due to <prod>tetrahydrocannabinol</prod> (<prod>THC</prod>).</def> <altsp>[Also spelled <asp>marihuana</asp>.]</altsp><br/
+<hw>marijuana</hw> <pos>n.</pos> <sn>1.</sn> <def>A strong-smelling Asian plant (<spn>Cannabis sativa</spn>), also called <altname>hemp</altname>, from which a number of euphorogenic and hallucinogenic drugs are prepared.  The euphoric effect is predominantly due to <prod>tetrahydrocannabinol</prod> (<prod>THC</prod>).</def> <altsp>[Also spelled <asp>marihuana</asp>.]</altsp><br/
 <syn><b>Syn. --</b> cannabis, ganja, pot, grass, marihuana, <spn>Cannabis sativa</spn>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -10013,7 +10013,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marimba</ent><br/
-\'d8<hw>Ma*rim"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A musical istrument of percussion, consisting of bars yielding musical tones when struck.</def>  <rj><au>Knight.</au></rj><br/
+\'d8<hw>Ma*rim"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A musical instrument of percussion, consisting of bars yielding musical tones when struck.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marimonda</ent><br/
@@ -10021,7 +10021,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marinade</ent><br/
-<hw>Mar`i*nade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.: cf. It. <ets>marinato</ets> marinade, F. <ets>mariner</ets> to preserve food for use at sea. See <er>Marinate</er>.]</ety> <fld>(Cookery)</fld> <def>A brine or pickle containing wine or vinegar, with opil, herbs, and spices, for enriching the flavor of meat and fish, which are steeped in it prior to cooking.</def><br/
+<hw>Mar`i*nade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.: cf. It. <ets>marinato</ets> marinade, F. <ets>mariner</ets> to preserve food for use at sea. See <er>Marinate</er>.]</ety> <fld>(Cookery)</fld> <def>A brine or pickle containing wine or vinegar, with oil, herbs, and spices, for enriching the flavor of meat and fish, which are steeped in it prior to cooking.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marinara</ent><br/
@@ -10160,7 +10160,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marjoram</ent><br/
-<hw>Mar"jo*ram</hw> <pr>(m<aum/r"j<osl/*r<ait/m)</pr>, <pos>n.</pos> <ety>[OE. <ets>majoran</ets>, F. <ets>marjolaine</ets>, LL. <ets>marjoraca</ets>, fr. L. <ets>amaracus</ets>, <ets>amaracum</ets>, Gr. <grk>'ama`rakos</grk>, <grk>'ama`rakon</grk>.]</ety> <fld>(Bot.)</fld> <def>A genus of mintlike plants (<gen>Origanum</gen>) comprising about twenty-five species.  The sweet marjoram (<spn>Origanum Majorana</spn>) is pecularly aromatic and fragrant, and much used in cookery.  The wild marjoram of Europe and America is <spn>Origanum vulgare</spn>, far less fragrant than the other.</def><br/
+<hw>Mar"jo*ram</hw> <pr>(m<aum/r"j<osl/*r<ait/m)</pr>, <pos>n.</pos> <ety>[OE. <ets>majoran</ets>, F. <ets>marjolaine</ets>, LL. <ets>marjoraca</ets>, fr. L. <ets>amaracus</ets>, <ets>amaracum</ets>, Gr. <grk>'ama`rakos</grk>, <grk>'ama`rakon</grk>.]</ety> <fld>(Bot.)</fld> <def>A genus of mintlike plants (<gen>Origanum</gen>) comprising about twenty-five species.  The sweet marjoram (<spn>Origanum Majorana</spn>) is peculiarly aromatic and fragrant, and much used in cookery.  The wild marjoram of Europe and America is <spn>Origanum vulgare</spn>, far less fragrant than the other.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mark</ent><br/
@@ -10332,7 +10332,7 @@ If his chief good and <qex>market</qex> of his time<br/
 Be but to sleep and feed?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Eng. Law)</fld> <def>The privelege granted to a town of having a public market.</def><br/
+<p><sn>6.</sn> <fld>(Eng. Law)</fld> <def>The privilege granted to a town of having a public market.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <def>A specified group of potential buyers, or a region in which goods may be sold; a town, region, or country, where the demand exists; <as>as, the under-30 <ex>market</ex>; the New Jersey <ex>market</ex></as>.</def><br/
@@ -10349,7 +10349,7 @@ Be but to sleep and feed?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Market</ent><br/
-<hw>Mar"ket</hw>, <pos>v. t.</pos> <def>To expose for sale in a market; to traffic in; to sell in a market, and in an extended sense, to sell in any manner; <as>as, most of the farmes have <ex>marketed</ex> their crops</as>.</def><br/
+<hw>Mar"ket</hw>, <pos>v. t.</pos> <def>To expose for sale in a market; to traffic in; to sell in a market, and in an extended sense, to sell in any manner; <as>as, most of the farmers have <ex>marketed</ex> their crops</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Industrious merchants meet, and <qex>market</qex> there<br/
@@ -10357,7 +10357,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marketable</ent><br/
-<hw>Mar"ket*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Fit to be offered for sale in a market; such as may be justly and lawfully sold; <as>as, dacayed provisions are not <ex>marketable</ex></as>.</def><br/
+<hw>Mar"ket*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Fit to be offered for sale in a market; such as may be justly and lawfully sold; <as>as, decayed provisions are not <ex>marketable</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Current in market; <as>as, <ex>marketable</ex> value</as>.</def><br/
@@ -10425,11 +10425,11 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Markov chain</ent><br/
-<hw>Mark"ov chain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>A random process (<isa>Markov process</isa>) in which the probabilities of discrete states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached.  It differs from the more general Markov process in that the states of a <ex>Markov chain</ex> are discrete rather than continuous. Certain physical processes, such as diffusion of a molecule in a fluid, are modelled as a <ex>Markov chain</ex>.  See also <styp><er>random walk</er></styp>.</def> <altsp>[Also spelled <asp>Markoff chain</asp>.]</altsp><br/
+<hw>Mark"ov chain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>A random process (<isa>Markov process</isa>) in which the probabilities of discrete states in a series depend only on the properties of the immediately preceding state or the next preceding state, independent of the path by which the preceding state was reached.  It differs from the more general Markov process in that the states of a <ex>Markov chain</ex> are discrete rather than continuous. Certain physical processes, such as diffusion of a molecule in a fluid, are modelled as a <ex>Markov chain</ex>.  See also <styp><er>random walk</er></styp>.</def> <altsp>[Also spelled <asp>Markoff chain</asp>.]</altsp><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Markov process</ent><br/
-<hw>Mark"ov pro`cess</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>a random process in which the probabilities of states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached.  It is distinguished from a <contr>Markov chain</contr> in that the states of a <ex>Markov process</ex> may be continuous as well as discrete.</def> <altsp>[Also spelled <asp>Markoff process</asp>.]</altsp><br/
+<hw>Mark"ov pro`cess</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>a random process in which the probabilities of states in a series depend only on the properties of the immediately preceding state or the next preceding state, independent of the path by which the preceding state was reached.  It is distinguished from a <contr>Markov chain</contr> in that the states of a <ex>Markov process</ex> may be continuous as well as discrete.</def> <altsp>[Also spelled <asp>Markoff process</asp>.]</altsp><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Marksman</ent><br/
@@ -10459,7 +10459,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marl</ent><br/
-<hw>Marl</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[See <er>Marline</er>.]</ety> <fld>(Naut.)</fld> <def>To cover, as part of a rope, with marline, marking a pecular hitch at each turn to prevent unwinding.</def><br/
+<hw>Marl</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[See <er>Marline</er>.]</ety> <fld>(Naut.)</fld> <def>To cover, as part of a rope, with marline, marking a peculiar hitch at each turn to prevent unwinding.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Marling spike</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Marline</er>.</cd></cs><br/
@@ -10503,15 +10503,15 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marlitic</ent><br/
-<hw>Mar*lit"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Partaking of the qualites of marlite.</def><br/
+<hw>Mar*lit"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Partaking of the qualities of marlite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marlpit</ent><br/
-<hw>Marl"pit`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Apit where marl is dug.</def><br/
+<hw>Marl"pit`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A pit where marl is dug.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marlstone</ent><br/
-<hw>Marl"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Geol.)</fld> <def>A sandy calcareous straum, containing, or impregnated with, iron, and lying between the upper and lower Lias of England.</def><br/
+<hw>Marl"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Geol.)</fld> <def>A sandy calcareous stratum, containing, or impregnated with, iron, and lying between the upper and lower Lias of England.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marly</ent><br/
@@ -11817,7 +11817,7 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 <p><sn>1.</sn> <def>To assemble in masks; to take part in a masquerade.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To frolic or disport in disquise; to make a pretentious show of being what one is not.</def><br/
+<p><sn>2.</sn> <def>To frolic or disport in disguise; to make a pretentious show of being what one is not.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A freak took an ass in the head, and he goes into the woods, <qex>masquerading</qex> up and down in a lion's skin.</q> <rj><qau>L'Estrange.</qau></rj><br/
@@ -12039,7 +12039,7 @@ Of <qex>carnage</qex>, prey innumerable!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>mass spectrometer</ent><br/
-<hw>mass spectrometer</hw> <pos>n.</pos> <fld>(Physics, Chemistry)</fld> <def>An analytical instrument which determines the mass of molecules of a substance or fragments of its molecules.  It functions by injecting ionized moecules or molecular gragments into a vacuum chamber subjected to a strong magnetic field, in which charged particles move in a curved trajectory.</def> <note>The mass is determined by observing the path of the molecule after being charged and accelerated in a magnetic field.  The path of the ionic fragment depends on the charge, velocity, and mass.  Several techniques of charging and detection are employed.  The mass information is usually used to infer structure or chemical composition of the substance analyzed.  Variants of mass spectrometer called <stype>high-resolution mass spectrometer</stype> permit determination of the mass of a molecule or molecular fragment with sufficient precision to unambiguously determine the atomic composition.</note><br/
+<hw>mass spectrometer</hw> <pos>n.</pos> <fld>(Physics, Chemistry)</fld> <def>An analytical instrument which determines the mass of molecules of a substance or fragments of its molecules.  It functions by injecting ionized molecules or molecular fragments into a vacuum chamber subjected to a strong magnetic field, in which charged particles move in a curved trajectory.</def> <note>The mass is determined by observing the path of the molecule after being charged and accelerated in a magnetic field.  The path of the ionic fragment depends on the charge, velocity, and mass.  Several techniques of charging and detection are employed.  The mass information is usually used to infer structure or chemical composition of the substance analyzed.  Variants of mass spectrometer called <stype>high-resolution mass spectrometer</stype> permit determination of the mass of a molecule or molecular fragment with sufficient precision to unambiguously determine the atomic composition.</note><br/
 [<source>PJC</source>]</p>
 
 <p><ent>mass-spectrometric</ent><br/
@@ -12479,7 +12479,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 
 <p><ent>Mastodyny</ent><br/
 <ent>Mastodynia</ent><br/
-<mhw>\'d8<hw>Mas`to*dyn"i*a</hw> <pr>(?)</pr>, <hw>Mas*tod"y*ny</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL. <ets>mastodynia</ets>, fr. Gr. <grk>masto`s</grk> the breast + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain occuring in the mamma or female breast, -- a form of neuralgia.</def><br/
+<mhw>\'d8<hw>Mas`to*dyn"i*a</hw> <pr>(?)</pr>, <hw>Mas*tod"y*ny</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL. <ets>mastodynia</ets>, fr. Gr. <grk>masto`s</grk> the breast + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain occurring in the mamma or female breast, -- a form of neuralgia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastoid</ent><br/
@@ -12550,7 +12550,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>3.</sn> <def>Anything growing thickly, or closely interwoven, so as to resemble a mat in form or texture; <as>as, a <ex>mat</ex> of weeds; a <ex>mat</ex> of hair.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>An ornamental border made of paper, pasterboard, metal, etc., put under the glass which covers a framed picture; <as>as, the <ex>mat</ex> of a daguerreotype</as>.</def><br/
+<p><sn>4.</sn> <def>An ornamental border made of paper, pasteboard, metal, etc., put under the glass which covers a framed picture; <as>as, the <ex>mat</ex> of a daguerreotype</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Mat grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A low, tufted, European grass (<spn>Nardus stricta</spn>)</cd>. <sd>(b)</sd> <cd>Same as <er>Matweed</er>.</cd> -- <col><b>Mat rush</b></col> <fld>(Bot.)</fld>, <cd>a kind of rush (<spn>Scirpus lacustris</spn>) used in England for making mats.</cd></cs><br/
@@ -13045,7 +13045,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 <p><sn>3.</sn> <def>To cause to assume a character appropriate to material things; to occupy with material interests; <as>as, to <ex>materialize</ex> thought</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Spiritualism)</fld> <def>To make visable in, or as in, a material form; -- said of spirits.</def><br/
+<p><sn>4.</sn> <fld>(Spiritualism)</fld> <def>To make visible in, or as in, a material form; -- said of spirits.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A female spirit form temporarily <qex>materialized</qex>, and not distinguishable from a human being.</q> <rj><qau>Epes Sargent.</qau></rj><br/
@@ -13239,7 +13239,7 @@ To chirp their <qex>matins</qex>.</q> <rj><qau>Cleveland.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Matress</ent><br/
-<hw>Mat"ress</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Matress</er>.</def><br/
+<hw>Mat"ress</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Mattress</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>matriarch</ent><br/
@@ -13390,7 +13390,7 @@ Your <qex>matrons</qex>, and your maids.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Grave from her cradle, insomuch that she was a <qex>matron</qex> before she was a mother.</q> <rj><qau>Fuller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A housekeeper; esp., a woman who manages the domestic economy of a public instution; a head nurse in a hospital; <as>as, the <ex>matron</ex> of a school or hospital</as>.</def><br/
+<p><sn>2.</sn> <def>A housekeeper; esp., a woman who manages the domestic economy of a public institution; a head nurse in a hospital; <as>as, the <ex>matron</ex> of a school or hospital</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Jury of matrons</b></col> <fld>(Law)</fld>, <cd>a jury of experienced women called to determine the question of pregnancy when set up in bar of execution, and for other cognate purposes.</cd></cs><br/
@@ -14030,7 +14030,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maw</ent><br/
-<hw>Maw</hw>, <pos>n.</pos> <ety>[OE. <ets>mawe</ets>, AS. <ets>maga</ets> stomach; akin to D. <ets>maag</ets>, OHG. <ets>mago</ets>, G. <ets>magen</ets>, Icel. <ets>magi</ets>, Sw. <ets>mage</ets>, Dan. <ets>mave</ets>. <root/103.]</ety> <sn>1.</sn> <def>A stomach; the receptacle into which food is taken by swallowing; in birds, the craw; -- now used only of the lower animals, exept humorously or in contempt.</def>  <rj><au>Chaucer.</au></rj><br/
+<hw>Maw</hw>, <pos>n.</pos> <ety>[OE. <ets>mawe</ets>, AS. <ets>maga</ets> stomach; akin to D. <ets>maag</ets>, OHG. <ets>mago</ets>, G. <ets>magen</ets>, Icel. <ets>magi</ets>, Sw. <ets>mage</ets>, Dan. <ets>mave</ets>. <root/103.]</ety> <sn>1.</sn> <def>A stomach; the receptacle into which food is taken by swallowing; in birds, the craw; -- now used only of the lower animals, except humorously or in contempt.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Bellies and <qex>maws</qex> of living creatures.</q> <rj><qau>Bacon.</qau></rj><br/
@@ -14193,7 +14193,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>maximizing</ent><br/
-<hw>maximizing</hw> <pos>adj.</pos> <def>Making as great as possible; increasing tothe highest degree.</def><br/
+<hw>maximizing</hw> <pos>adj.</pos> <def>Making as great as possible; increasing to the highest degree.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Maximum</ent><br/
@@ -14211,7 +14211,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>maxwell</ent><br/
-<hw>maxwell</hw> <pos>n.</pos> <def>A cgs unit of magnetic flux, abbreviated <abbr>Mx</abbr>; it is equal to the magnetic flux passing through one sqaure centimeter which is normal to a magnetic field of one gauss.</def><br/
+<hw>maxwell</hw> <pos>n.</pos> <def>A CGS unit of magnetic flux, abbreviated <abbr>Mx</abbr>; it is equal to the magnetic flux passing through one square centimeter which is normal to a magnetic field of one gauss.</def><br/
 <syn><b>Syn. --</b> Mx.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
@@ -14285,7 +14285,7 @@ Some general maxims, or be right by chance.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maya</ent><br/
-\'d8<hw>Ma"ya</hw> <pr>(m<aum/"y<aum/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Hindu Philos.)</fld> <def>The name (in Vedantic philosphy) for the doctrine of the unreality of matter, called, in English, <altname>idealism</altname>; hence, nothingness; vanity; illusion.</def><br/
+\'d8<hw>Ma"ya</hw> <pr>(m<aum/"y<aum/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Hindu Philos.)</fld> <def>The name (in Vedantic philosophy) for the doctrine of the unreality of matter, called, in English, <altname>idealism</altname>; hence, nothingness; vanity; illusion.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Hindu Philos.)</fld> <def>the Hindu goddess personifying the power that creates phenomena.</def> <au>[RHUD]</au><br/
@@ -14502,7 +14502,7 @@ Some general maxims, or be right by chance.</q> <rj><qau>Pope.</qau></rj><br/
 Puzzled with <qex>mazes</qex>, and perplexed with error.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>A complex and confusing system or set of rules that causes bwilderment; <as>as, a <ex>maze</ex> of environemntal regulations</as>.</def><br/
+<p><sn>4.</sn> <def>A complex and confusing system or set of rules that causes bewilderment; <as>as, a <ex>maze</ex> of environmental regulations</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- Labyrinth; intricacy. See <er>Labyrinth</er>.</syn><br/
@@ -14585,7 +14585,7 @@ Puzzled with <qex>mazes</qex>, and perplexed with error.</q> <rj><qau>Addison.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Me</ent><br/
-<hw>Me</hw> <pr>(m<emac/)</pr>, <pos>pers. pron.</pos> <ety>[AS. <ets>m<emac/</ets>, dat. & acc., <ets>mec</ets>, acc. only ; akin to D. <ets>mij</ets>, G. <ets>mich</ets>, Icel. & Goth. <ets>mik</ets>, L. <ets>me</ets>, Gr. <grk>me`</grk>, <grk>'eme`</grk>, Skr. <ets>m<amac/</ets>, <ets>m<amac/m</ets>. <root/187.  Cf. 2d <er>Mine</er>.]</ety> <def>The person speaking, regarded as an object; myself; a pronoun of the first person used as the objective and dative case of the pronoum I; <as>as, he struck <ex>me</ex>; he gave <ex>me</ex> the money, or he gave the money to <ex>me</ex>; he got <ex>me</ex> a hat, or he got a hat for <ex>me</ex>.</as></def><br/
+<hw>Me</hw> <pr>(m<emac/)</pr>, <pos>pers. pron.</pos> <ety>[AS. <ets>m<emac/</ets>, dat. & acc., <ets>mec</ets>, acc. only ; akin to D. <ets>mij</ets>, G. <ets>mich</ets>, Icel. & Goth. <ets>mik</ets>, L. <ets>me</ets>, Gr. <grk>me`</grk>, <grk>'eme`</grk>, Skr. <ets>m<amac/</ets>, <ets>m<amac/m</ets>. <root/187.  Cf. 2d <er>Mine</er>.]</ety> <def>The person speaking, regarded as an object; myself; a pronoun of the first person used as the objective and dative case of the pronoun I; <as>as, he struck <ex>me</ex>; he gave <ex>me</ex> the money, or he gave the money to <ex>me</ex>; he got <ex>me</ex> a hat, or he got a hat for <ex>me</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In <xex>methinks</xex>, <xex>me</xex> is properly in the dative case, and the verb is impersonal, the construction being, <xex>it appears to me</xex>.  In early use <xex>me</xex> was often placed before forms of the verb <xex>to be</xex> with an adjective; as, <xex>me</xex> were lief.</note><br/
@@ -14666,7 +14666,7 @@ My weary, wandering steps he leads.</q> <rj><qau>Addison.</qau></rj><br/
 <mhw>{ <hw>Mea"ger</hw>, <hw>Mea"gre</hw>  }</mhw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OE. <ets>merge</ets>, F. <ets>maigre</ets>, L. <ets>macer</ets>; akin to D. & G. <ets>mager</ets>, Icel. <ets>magr</ets>, and prob. to Gr. <grk>makro`s</grk> long.  Cf. <er>Emaciate</er>, <er>Maigre</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>Destitue of, or having little, flesh; lean.</def><br/
+<p><sn>1.</sn> <def>Destitute of, or having little, flesh; lean.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Meager</qex> were his looks;<br/
@@ -14745,7 +14745,7 @@ Hath made his <qex>meal</qex> on thee?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Meal</hw>, <pos>n.</pos> <ety>[OE. <ets>mele</ets>, AS. <ets>melu</ets>, <ets>melo</ets>; akin to D. <ets>meel</ets>, G. <ets>mehl</ets>, OHG. <ets>melo</ets>, Icel. <ets>mj<oum/l</ets>, SW. <ets>mj<oum/l</ets>, Dan. <ets>meel</ets>, also to D. <ets>malen</ets> to grind, G. <ets>mahlen</ets>, OHG., OS., & Goth. <ets>malan</ets>, Icel. <ets>mala</ets>, W. <ets>malu</ets>, L. <ets>molere</ets>, Gr. <grk>my`lh</grk> mill, and E. <ets>mill</ets>. <root/108.  Cf. <er>Mill</er>, <er>Mold</er> soil, <er>Mole</er> an animal, <er>Immolate</er>, <er>Molar</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>Grain (esp. maize, rye, or oats) that is coarsely ground and unbolted; also, a kind of flour made from beans, pease, etc.; sometimes, any flour, esp. if coarse.</def><br/
+<p><sn>1.</sn> <def>Grain (esp. maize, rye, or oats) that is coarsely ground and unbolted; also, a kind of flour made from beans, peas, etc.; sometimes, any flour, esp. if coarse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any substance that is coarsely pulverized like meal, but not granulated.</def><br/
@@ -15002,7 +15002,7 @@ Through wood and dale the sacred river ran.</q> <rj><qau>Coleridge.</qau></rj><b
 <p><q>If there be any good <qex>meaning</qex> towards you.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>That which is signified, whether by act lanquage; signification; sense; import; <as>as, the <ex>meaning</ex> of a hint</as>.</def><br/
+<p><sn>2.</sn> <def>That which is signified, whether by act language; signification; sense; import; <as>as, the <ex>meaning</ex> of a hint</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Sense; power of thinking.</def> <mark>[R.]</mark><br/
@@ -15124,7 +15124,7 @@ On power you know I must obey ?</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>3.</sn> <def>A disease of trees.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <pluf>pl.</pluf> <fld>(Zool.)</fld> <def>The larvae of any tapeworm (<gen>Taenia</gen>) in the cysticerus stage, when contained in meat.  Called also <altname>bladder worms</altname>.</def><br/
+<p><sn>4.</sn> <pluf>pl.</pluf> <fld>(Zool.)</fld> <def>The larvae of any tapeworm (<gen>Taenia</gen>) in the cysticercus stage, when contained in meat.  Called also <altname>bladder worms</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>German measles</b></col> <cd>A mild contagious viral disease, which may cause birth defects if contracted by a pregnant woman during early pregnancy; also called <altname>rubella</altname>.</cd></cs><br/
@@ -15186,7 +15186,7 @@ On power you know I must obey ?</q> <rj><qau>Prior.</qau></rj><br/
 <p><q>It is like leaven which a woman took and hid in three <qex>measures</qex> of meal.</q> <rj><qau>Luke xiii. 21.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>Extent or degree not excessive or beyong bounds; moderation; due restraint; esp. in the phrases, <xex>in measure</xex>; <xex>with measure</xex>; <xex>without</xex> or <xex>beyond measure</xex>.</def><br/
+<p><sn>5.</sn> <def>Extent or degree not excessive or beyond bounds; moderation; due restraint; esp. in the phrases, <xex>in measure</xex>; <xex>with measure</xex>; <xex>without</xex> or <xex>beyond measure</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Hell hath enlarged herself, and opened her mouth without <qex>measure</qex>.</q> <rj><qau>Is. v. 14.</qau></rj><br/
@@ -15243,7 +15243,7 @@ Thy power! what thought can <qex>measure</qex> thee?</q> <rj><qau>Milton.</qau><
 <p><sn>2.</sn> <def>To serve as the measure of; <as>as, the thermometer <ex>measures</ex> changes of temperature</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To pass throught or over in journeying, as if laying off and determining the distance.</def><br/
+<p><sn>3.</sn> <def>To pass through or over in journeying, as if laying off and determining the distance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A true devoted pilgrim is not weary<br/
@@ -15302,7 +15302,7 @@ Down to a hidden sea.</q>  <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Measurer</ent><br/
-<hw>Meas"ur*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who measures; one whose occupation or duty is to measure commondities in market.</def><br/
+<hw>Meas"ur*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who measures; one whose occupation or duty is to measure commodities in market.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Measuring</ent><br/
@@ -15689,7 +15689,7 @@ Did never <qex>meddle</qex> with my thoughts.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Study to be quiet, and to <qex>meddle</qex> with your own business.</q> <rj><qau>Tyndale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To interest or engage one's self unnecessarily or impertinently, to interfere or busy one's self improperly with another's affairs; specifically, to handle or distrub another's property without permission; -- often followed by <ptcl>with</ptcl> or <ptcl>in</ptcl>.</def><br/
+<p><sn>3.</sn> <def>To interest or engage one's self unnecessarily or impertinently, to interfere or busy one's self improperly with another's affairs; specifically, to handle or disturb another's property without permission; -- often followed by <ptcl>with</ptcl> or <ptcl>in</ptcl>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Why shouldst thou <qex>meddle</qex> to thy hurt?</q> <rj><qau>2 Kings xiv. 10.</qau></rj><br/
@@ -15775,7 +15775,7 @@ Did never <qex>meddle</qex> with my thoughts.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medial</ent><br/
-<hw>Me"di*al</hw> <pr>(m<emac/"d<icr/*<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>medialis</ets>, fr. <ets>medius</ets> middle: cf. F. <ets>m<eacute/dial</ets>. See <er>Middle</er>.]</ety> <def>Of or pertaining to a mean or average; mean; <as>as, <ex>medial</ex> alligation</as>.</def><br/
+<hw>Me"di*al</hw> <pr>(m<emac/"d<icr/*<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>medialis</ets>, fr. <ets>medius</ets> middle: cf. F. <ets>m<eacute/dial</ets>. See <er>Middle</er>.]</ety> <def>Of or pertaining to a mean or average; mean; <as>as, <ex>medial</ex> allegation</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medial</ent><br/
@@ -16429,7 +16429,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meek</ent><br/
-<hw>Meek</hw> <pr>(m<emac/k)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Meeker</adjf> <pr>(m<emac/k"<etil/r)</pr>; <pos>superl.</pos> <adjf>Meekest</adjf>.]</amorph> <ety>[OE. <ets>mek</ets>, <ets>meoc</ets>; akin to Icel. <ets>mj<umac/kr</ets> mild, soft, Sw. <ets>mjuk</ets>, Dan. <ets>myg</ets>, D. <ets>muik</ets>, Goth. <ets>muka</ets>m<omac/dei gentleness.]</ety> <sn>1.</sn> <def>Mild of temper; not easily provoked or orritated; patient under injuries; not vain, or haughty, or resentful; forbearing; submissive.</def><br/
+<hw>Meek</hw> <pr>(m<emac/k)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Meeker</adjf> <pr>(m<emac/k"<etil/r)</pr>; <pos>superl.</pos> <adjf>Meekest</adjf>.]</amorph> <ety>[OE. <ets>mek</ets>, <ets>meoc</ets>; akin to Icel. <ets>mj<umac/kr</ets> mild, soft, Sw. <ets>mjuk</ets>, Dan. <ets>myg</ets>, D. <ets>muik</ets>, Goth. <ets>muka</ets>m<omac/dei gentleness.]</ety> <sn>1.</sn> <def>Mild of temper; not easily provoked or irritated; patient under injuries; not vain, or haughty, or resentful; forbearing; submissive.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Now the man Moses was very <qex>meek</qex>.</q> <rj><qau>Num. xii. 3.</qau></rj><br/
@@ -16477,7 +16477,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Meerschaum</ent><br/
-<hw>Meer"schaum</hw> <pr>(m<emac/r"sh<add/m; 277)</pr>, <pos>n.</pos> <ety>[G., lit., sea foam; <ets>meer</ets> sea + <ets>schaum</ets> foam; but it perh. is a corruption of the Tartaric name <ets>myrsen</ets>.  Cf. <er>Mere</er> a lake, and <er>Scum</er>.]</ety> <sn>1.</sn> <fld>(Min.)</fld> <def>A fine white claylike mineral, soft, and light enough when in dry masses to float in water.  It is a hydrous silicate of magnesia, and is obtained chiefly in Asia Minor.  It is manufacturd into tobacco pipes, cigar holders, etc. Also called <altname>sepiolite</altname>.</def><br/
+<hw>Meer"schaum</hw> <pr>(m<emac/r"sh<add/m; 277)</pr>, <pos>n.</pos> <ety>[G., lit., sea foam; <ets>meer</ets> sea + <ets>schaum</ets> foam; but it perh. is a corruption of the Tartaric name <ets>myrsen</ets>.  Cf. <er>Mere</er> a lake, and <er>Scum</er>.]</ety> <sn>1.</sn> <fld>(Min.)</fld> <def>A fine white claylike mineral, soft, and light enough when in dry masses to float in water.  It is a hydrous silicate of magnesia, and is obtained chiefly in Asia Minor.  It is manufactured into tobacco pipes, cigar holders, etc. Also called <altname>sepiolite</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A tobacco pipe made of this mineral; a <ecol><b>meerschaum pipe</b></ecol>.</def><br/
@@ -16503,7 +16503,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 Which <qex>meets</qex> contempt, or which compassion first.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>To come up to; to be even with; to equal; to match; to satisfy; to ansver; <as>as, to <ex>meet</ex> one's expectations; the supply <ex>meets</ex> the demand.</as></def><br/
+<p><sn>5.</sn> <def>To come up to; to be even with; to equal; to match; to satisfy; to answer; <as>as, to <ex>meet</ex> one's expectations; the supply <ex>meets</ex> the demand.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To meet half way</b></col>, <cd>literally, to go half the distance between in order to meet (one); hence, figuratively, to yield or concede half of the difference in order to effect a compromise or reconciliation with.</cd></cs><br/
@@ -16612,7 +16612,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 <p><ent>Megalo-</ent><br/
 <ent>Mega</ent><br/
 <ent>Meg-</ent><br/
-<mhw>{ <hw>Meg-</hw> <pr>(m<ecr/g-)</pr>, <hw>Meg"a</hw> <pr>(m<ecr/g"<adot/-)</pr>, <hw>Meg"a*lo-</hw> <pr>(m<ecr/g"<adot/*l<osl/-)</pr> }</mhw>. <ety>[Gr. <grk>me`gas</grk>, gen. <grk>mega`loy</grk>, great.]</ety> <def>Combining forms signifying: <sd>(a)</sd> <sig>Great</sig>, <sig>extended</sig>, <sig>powerful</sig>; <as>as, <ex>mega</ex>scope, <ex>mega</ex>cosm</as>.</def> <sd>(b)</sd> <fld>(Metric System, Elec., Mech., etc.)</fld> <def><sig>A million times</sig>, <sig>a million of</sig>; <as>as, <ex>mega</ex>byte, a million butes; <ex>mega</ex>watt, a million watts; <ex>mega</ex>meter, a million meters; <ex>mega</ex>farad, a million farads; <ex>meg</ex>ohm, a million ohms</as>.</def><br/
+<mhw>{ <hw>Meg-</hw> <pr>(m<ecr/g-)</pr>, <hw>Meg"a</hw> <pr>(m<ecr/g"<adot/-)</pr>, <hw>Meg"a*lo-</hw> <pr>(m<ecr/g"<adot/*l<osl/-)</pr> }</mhw>. <ety>[Gr. <grk>me`gas</grk>, gen. <grk>mega`loy</grk>, great.]</ety> <def>Combining forms signifying: <sd>(a)</sd> <sig>Great</sig>, <sig>extended</sig>, <sig>powerful</sig>; <as>as, <ex>mega</ex>scope, <ex>mega</ex>cosm</as>.</def> <sd>(b)</sd> <fld>(Metric System, Elec., Mech., etc.)</fld> <def><sig>A million times</sig>, <sig>a million of</sig>; <as>as, <ex>mega</ex>byte, a million bytes; <ex>mega</ex>watt, a million watts; <ex>mega</ex>meter, a million meters; <ex>mega</ex>farad, a million farads; <ex>meg</ex>ohm, a million ohms</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Megacephalous</ent><br/
@@ -16718,7 +16718,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Megalopolis</ent><br/
 <ent>Megapolis</ent><br/
-<mhw><hw>Meg`a*lop"o*lis</hw>, <hw>Meg`a"po*lis</hw></mhw> <pr>(m<ecr/g`<adot/*l<ocr/p"<osl/*l<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>megalo`polis</grk>; <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>po`lis</grk> city.]</ety> <sn>1.</sn> <def>A chief city; a very large cuity; a metropolis.</def><br/
+<mhw><hw>Meg`a*lop"o*lis</hw>, <hw>Meg`a"po*lis</hw></mhw> <pr>(m<ecr/g`<adot/*l<ocr/p"<osl/*l<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>megalo`polis</grk>; <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>po`lis</grk> city.]</ety> <sn>1.</sn> <def>A chief city; a very large city; a metropolis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A region in which the suburbs of several large cities merge to form one large predominantly urbanized area.</def><br/
@@ -16888,7 +16888,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meionite</ent><br/
-<hw>Mei"o*nite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mei`wn</grk> smaller. So called in a allusion to the low pyramids of the crystals.]</ety> <fld>(Min.)</fld> <def>A member of the scapolite group, occuring in glassy crystals on Monte Somma, near Naples.</def><br/
+<hw>Mei"o*nite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mei`wn</grk> smaller. So called in a allusion to the low pyramids of the crystals.]</ety> <fld>(Min.)</fld> <def>A member of the scapolite group, occurring in glassy crystals on Monte Somma, near Naples.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meiosis</ent><br/
@@ -17031,7 +17031,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>2.</sn> <def>Great and continued depression of spirits, amounting to mental unsoundness; melancholia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Pensive maditation; serious thoughtfulness.</def> <mark>[Obs.]</mark> <ldquo/Hail, divinest <xex>Melancholy</xex> !<rdquo/  <rj><au>Milton.</au></rj><br/
+<p><sn>3.</sn> <def>Pensive meditation; serious thoughtfulness.</def> <mark>[Obs.]</mark> <ldquo/Hail, divinest <xex>Melancholy</xex> !<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Ill nature.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -17044,7 +17044,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>2.</sn> <def>Producing great evil and grief; causing dejection; calamitous; afflictive; <as>as, a <ex>melancholy</ex> event</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Somewhat deranged in mind; having the jugment impaired.</def> <mark>[Obs.]</mark>  <rj><au>Bp. Reynolds.</au></rj><br/
+<p><sn>3.</sn> <def>Somewhat deranged in mind; having the judgement impaired.</def> <mark>[Obs.]</mark>  <rj><au>Bp. Reynolds.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Favorable to meditation; somber.</def><br/
@@ -17217,7 +17217,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 <hw>meld</hw>, <pos>n.</pos> <fld>(Card Playing)</fld> <sn>1.</sn> <def>Any combination or score which may be declared, or melded, in pinochle.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>2.</sn> <def>A form of <isa>rummy</isa> using two decks and four jokers; jokers and dueces are wild; the object is to meld groups of seven of the same rank.</def><br/
+<p><sn>2.</sn> <def>A form of <isa>rummy</isa> using two decks and four jokers; jokers and deuces are wild; the object is to meld groups of seven of the same rank.</def><br/
 <syn><b>Syn. --</b> canasta, basket rummy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -17646,7 +17646,7 @@ Heaven with all freaks of light.</q> <rj><qau>Percival.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>meloid</ent><br/
-<hw>meloid</hw> <pos>n.</pos> <fld>(Zool.)</fld> <def>A beetle belongoing to the family <fam>Meloidae</fam>.</def><br/
+<hw>meloid</hw> <pos>n.</pos> <fld>(Zool.)</fld> <def>A beetle belonging to the family <fam>Meloidae</fam>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Meloidae</ent><br/
@@ -18030,7 +18030,7 @@ Fix the smooth oar, and bid me live to fame.</q> <rj><qau>Pope.</qau></rj><br/
 <hw>Me*mo"ri*al Day</hw>. <sn>1.</sn> <def>A day, originally May 30, appointed for commemorating, by decorating their graves with flowers, by patriotic exercises, etc., the dead soldiers and sailors who served the Civil War (1861-65) in the United States; Also called <altname>Decoration Day</altname>. It is a legal holiday in most of the States. In the Southern States, the Confederate Memorial Day is: May 30 in Virginia; April 26 in Alabama, Florida, Georgia, and Mississippi; May 10 in North Carolina and South Carolina; the second Friday in May in Tennessee; June 3 in Louisiana.</def> <mark>[U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>2.</sn> <def>A day designated for commemoration of all of the war dead of the United States, clebrated on the last Monday in May in most states.  It supersedes the original <ex>Memorial Day</ex> celebrated May 30th.</def><br/
+<p><sn>2.</sn> <def>A day designated for commemoration of all of the war dead of the United States, celebrated on the last Monday in May in most states.  It supersedes the original <ex>Memorial Day</ex> celebrated May 30th.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>memorialise</ent><br/
@@ -18673,7 +18673,7 @@ This eye shoots forth!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>mentalistic</ent><br/
-<hw>men`tal*is"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertainig to mentalism.</def><br/
+<hw>men`tal*is"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to mentalism.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mentality</ent><br/
