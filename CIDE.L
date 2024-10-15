@@ -10157,7 +10157,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 <p><sn>2.</sn> <def>Lawfully begotten; born in wedlock.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Authorized; real; genuine; not false, counterfe`t, or spurious; <as>as,$<ex>legitimate</ex> poems of Chaucer; <ex>legitimate</ex> inscriptions.</as></def><br/
+<p><sn>3.</sn> <def>Authorized; real; genuine; not false, counterfeit, or spurious; <as>as,$<ex>legitimate</ex> poems of Chaucer; <ex>legitimate</ex> inscriptions.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Conforming to known principles, or accepted rules; <as>as, <ex>legitimate</ex> reasoning; a <ex>legitimate</ex> standard, or method; a <ex>legitimate</ex> combination of colors.</as></def><br/
@@ -10442,7 +10442,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lemna</ent><br/
-<hw>Lemna</hw> <pos>n.</pos> <def>A genus of minute acquatic herbs floating on or below the water surface of still water consisting of a leaflike frond or plant body and single root.</def><br/
+<hw>Lemna</hw> <pos>n.</pos> <def>A genus of minute aquatic herbs floating on or below the water surface of still water consisting of a leaflike frond or plant body and single root.</def><br/
 <syn><b>Syn. --</b> genus <gen>Lemna</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
