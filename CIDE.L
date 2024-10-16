@@ -7613,6 +7613,11 @@ or catch, as an offender.</def> <mark>[Obs.]</mark><br/
 I shall pay dear.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
+<p><ent>Lapse rate</ent><br/
+<hw>Lapse rate</hw>, <pos>n.</pos>
+<def>The rate of decrease of air temperature with height.</def><br/
+[<source>A. T. Young</source>]</p>
+
 <p><ent>Lapsed</ent><br/
 <hw>Lapsed</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having
 slipped downward, backward, or away; having lost position, privilege,
@@ -15917,7 +15922,7 @@ surgeon; a professor of the art of healing.</def> <altsp>[Written also
 
 <p><q><qex>Leech</qex>, heal thyself.</q> <rj><qau>Wyclif (Luke iv.
 23).</qau></rj></p>
- 
+
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of numerous genera and
 species of annulose worms, belonging to the order <ord>Hirudinea</ord>,
 or Bdelloidea, esp. those species <-- formerly! --> used in medicine, as
@@ -16622,8 +16627,8 @@ works. See <er>Legal</er>, 2 <sd>(a)</sd>.</def><br/
 <ets>l<eacute/galit<eacute/</ets>. Cf. <er>Loyalty</er>.]</ety>
 <sn>1.</sn> <def>The state or quality of being legal; conformity to
 law.</def><br/
-[<source>1913 Webster</source>]</p> 
- 
+[<source>1913 Webster</source>]</p>
+
 <p><sn>2.</sn> <fld>(Theol.)</fld> <def>A conformity to, and resting
 upon, the letter of the law.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -26914,7 +26919,7 @@ Kensington Garden.</q> <rj><qau>Walpole.</qau></rj><br/
 <p><ent>Likeable</ent><br/
 <hw>Like"a*ble</hw> <pr>(l<imac/k"<adot/*b'l)</pr>, <pos>a.</pos>
 <def>See <er>Likable.</er></def><br/
-[<source>1913 Webster</source>]</p> 
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Likehood</ent><br/
 <hw>Like"hood</hw> <pr>(l<imac/k"h<oocr/d)</pr>, <pos>n.</pos>
@@ -39910,10 +39915,10 @@ gentle gale of wind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Looming</ent><br/
-<hw>Loom"ing</hw>, <pos>n.</pos> <def>The indistinct and magnified
-appearance of objects seen in particular states of the atmosphere. See
-<er>Mirage</er>.</def><br/
-[<source>1913 Webster</source>]</p>
+<hw>Loom"ing</hw>, <pos>n.</pos> <def>The appearance above the horizon
+of a distant object that would normally be hidden below it, due to
+unusually large atmospheric refraction.  See <er>Mirage</er>.</def><br/
+[<source>A.T.Young</source>]</p>
 
 <p><ent>Loon</ent><br/
 <hw>Loon</hw> <pr>(l<oomac/n)</pr>, <pos>n.</pos> <ety>[Scot.

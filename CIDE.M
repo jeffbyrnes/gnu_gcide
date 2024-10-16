@@ -44644,17 +44644,22 @@ not by natural causes.</def><br/
 <hw>Mi`rage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr.
 <ets>mirer</ets> to look at carefully, to aim, <ets>se mirer</ets> to
 look at one's self in a glass, to reflect, to be reflected, LL.
-<ets>mirare</ets> to look at. See <er>Mirror</er>.]</ety> <def>An
-optical effect, sometimes seen on the ocean, but more frequently in
-deserts, due to total reflection of light at the surface common to two
-strata of air differently heated. The reflected image is seen, commonly
-in an inverted position, while the real object may or may not be in
-sight. When the surface is horizontal, and below the eye, the appearance
-is that of a sheet of water in which the object is seen reflected; when
-the reflecting surface is above the eye, the image is seen projected
-against the sky. The <stype>fata Morgana</stype> and
-<stype>looming</stype> are species of <ex>mirage</ex>.</def><br/
-[<source>1913 Webster</source>]</p>
+<ets>mirare</ets> to look at. See <er>Mirror</er>.]</ety> <def>
+An inverted image due to atmospheric refraction.  Multiple images,
+alternately erect and inverted, are produced by large changes in <er>lapse
+rate</er> with height.  Inferior mirages (below eye level) are seen over
+paving, water, sand, snow, sunlit walls, freezing lakes and rivers, and
+other smooth surfaces warmer than the adjacent air.  Objects appear as
+if reflected by a sheet of water, or may seem suspended in the air above
+a narrow strip of miraged sky; or the shadowed undersides of vehicles
+and leaves appear as dark patches that recede as an observer approaches
+them.  Superior mirages are due to thermal inversions above colder
+surfaces, and produce inverted images above the horizontal.
+The <stype>Fata Morgana</stype> is a superior mirage characterized by a
+striated zone of extreme vertical elongation, which may resemble
+columnar basalt.  Other types of mirage also occur; all are refraction
+phenomena with inverted images.</def><br/
+[<source>A. T. Young</source>]</p>
 
 <p><q>By the <qex>mirage</qex> uplifted the land floats vague in the
 ether,<br/
