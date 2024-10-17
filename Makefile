@@ -1,8 +1,8 @@
 PROJECT ::= gcide
 VERSION ::= $(shell head -n 1 INFO | sed -r -e 's/^.*, version[[:space:]]+//')
 
-DISTFILES ::= \
- $(wildcard CIDE.[A-Z])\
+CORPUS   ::= $(wildcard CIDE.[A-Z])
+AUXFILES ::= \
  COPYING\
  README\
  INFO\
@@ -15,17 +15,16 @@ DISTFILES ::= \
  authors.lst\
  titlepage.png
 
+DISTFILES ::= $(CORPUS) $(AUXFILES)
+
 DISTBASE ::= $(PROJECT)-$(VERSION)
 DIST_ARCHIVES ::= $(DISTBASE).tar.gz $(DISTBASE).tar.xz $(DISTBASE).zip
 
 all:	$(DIST_ARCHIVES)
 	@echo "Files ready for distribution:"
-	@ls -oh $(DIST_ARCHIVES) | cut -d ' ' -f 4,8 | sort -k 2 > list
+	@ls -oh $(DIST_ARCHIVES) | tr -s ' ' | cut -d ' ' -f 4,8 | sort -k 2 > list
 	@md5sum $(DIST_ARCHIVES) | sort -k 2 | join -j 2 list -
 	@rm -rf list $(DISTBASE)
-
-anclist:
-	@ls -o $(DISTFILES) | grep -v 'CIDE.[A-Z]'
 
 clean:
 	rm -f *~ 
@@ -48,6 +47,7 @@ $(DISTBASE).tar.xz: .$(DISTBASE).ts
 $(DISTBASE).zip: .$(DISTBASE).ts
 	zip -9 -q -r $(DISTBASE).zip $(DISTBASE)
 
+GNUPLOAD = gnupload
 UPLOAD_TO=ftp
 GNUPLOAD_OPT=\
  --to $(UPLOAD_TO).gnu.org:$(PROJECT)\
@@ -56,5 +56,10 @@ GNUPLOAD_OPT=\
 
 release: $(DIST_ARCHIVES)
 	@echo "Releasing $(DIST_ARCHIVES) to $(UPLOAD_TO)"
-	gnupload $(GNUPLOAD_OPT) $(DIST_ARCHIVES)
+	$(GNUPLOAD) $(GNUPLOAD_OPT) $(DIST_ARCHIVES)
 
+VRX ::= [[:digit:]]+(\.[[:digit:]]+)+
+
+version_update:
+	sed -i -r -e '1s/(, version[[:space:]]+)$(VRX)$$/\1$(VERSION)/' INFO
+	sed -i -r -e '1,/^\*/s/(Version[[:space:]]+)$(VRX)[[:space:]]\([^)]+\)/\1$(VERSION) ('$$(date +%Y-%m-%d)')/' README
