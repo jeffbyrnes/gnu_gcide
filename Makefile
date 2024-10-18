@@ -27,7 +27,7 @@ all:	$(DIST_ARCHIVES)
 	@rm -rf list $(DISTBASE)
 
 clean:
-	rm -f *~ 
+	rm -f *~ *.bak
 
 distclean: clean
 	rm -rf $(DIST_ARCHIVES) .$(DISTBASE).ts $(DISTBASE)
