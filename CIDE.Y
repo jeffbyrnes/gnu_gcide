@@ -397,7 +397,7 @@ noose in his hands.</def><br/
 civil or military court + <ets>men</ets> a gate.]</ety> <def>In China,
 the official headquarters or residence of a mandarin, including court
 rooms, offices, gardens, prisons, etc.; the place where the business of
-any public department is transcated.</def><br/
+any public department is transacted.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Yamma</ent><br/
@@ -2337,7 +2337,7 @@ dominion.</q> <rj><qau>Bancroft.</qau></rj><br/
 
 <p><sn>3.</sn> <def>A British volunteer cavalry force, growing out of a
 royal regiment of fox hunters raised by Yorkshire gentlemen in 1745 to
-fight the Pretender, Charles Edward; -- calle dalso <altname>yeomanry
+fight the Pretender, Charles Edward; -- called also <altname>yeomanry
 cavalry</altname>. The members furnish their own horses, have fourteen
 days' annual camp training, and receive pay and allowance when on duty.
 In 1901 the name was altered to <altname>imperial yeomanry</altname> in
@@ -3844,7 +3844,7 @@ throughout Europe and America formed an international body. The movement
 has successfully expanded not only among young men in general, but also
 specifically among railroad men, in the army and navy, with provision
 for Indians and negroes, and a full duplication of all the various lines
-of oepration in the boys' departments. It currently (1998) maintains
+of operation in the boys' departments. It currently (1998) maintains
 buildings which usually have both recreational facilities and
 dormitories for dwelling. It is usually called by its acronym
 <altname>YMCA</altname>. See also the similar organizations <er>Young
