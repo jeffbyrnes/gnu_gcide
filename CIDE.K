@@ -73,7 +73,7 @@ which deserts teh body at death.</def><br/
 building, in the court of the Great Mosque at Mecca, toward which all
 Muslims must pray. It contains a sacred black stone, believed by Muslims
 to be one of the precious stones of paradise, and to have been brought
-to Abraham when he was contructing the Kaaba, by the Angel Gabriel. The
+to Abraham when he was constructing the Kaaba, by the Angel Gabriel. The
 Kaaba itself predates Mohammed, having been a pantheon which contained
 Arab idols, which were destroyed by Mohammed.</def> <altsp>[Written also
 <asp>caaba</asp>, <asp>kaabeh</asp> and <asp>kaabah</asp>.]</altsp><br/
@@ -176,7 +176,7 @@ writer, b. 1883, d. 1924.</def><br/
 <p><ent>Kafkaesque</ent><br/
 <hw>Kafkaesque</hw> <pos>prop. a.</pos> <ety>[fr. <person>Franz
 <etsep>Kafka</etsep></person>, novelist; especially from his novels such
-as "The Trial".]</ety> <def>Frightening, threating, and bewildering in a
+as "The Trial".]</ety> <def>Frightening, threatening, and bewildering in a
 vague and unexplicable way; -- of situations or regulations. Often used
 to describe illogical bureaucratic entanglements with no reasonable
 solution.</def><br/
@@ -3090,7 +3090,7 @@ immense quantities, chiefly by the distillation and purification of
 petroleum. It consists chiefly of several hydrocarbons of the methane
 series, having from 10 to 16 carbon atoms in each molecule, and having a
 higher boiling point (175 - 325<deg/ C) than gasoline or the petroleum
-ethers, and a lower boling point than the oils.</def><br/
+ethers, and a lower boiling point than the oils.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Kerse</ent><br/
@@ -3293,7 +3293,7 @@ Dan. <ets>kjedel</ets>, Goth. <ets>katils</ets>; all perh. fr. L.
 <ets>catillus</ets>, dim. of <ets>catinus</ets> a deep vessel, bowl; but
 cf. also OHG. <ets>chezz<imac/</ets> kettle, Icel. <ets>kati</ets> small
 ship.]</ety> <def>A metallic vessel, with a wide mouth, often without a
-cover, used for heating and boiling water or other liguids.</def><br/
+cover, used for heating and boiling water or other liquids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Kettle pins</b></col>, <cd>ninepins; skittles.</cd>
@@ -3558,7 +3558,7 @@ game</as>.</cd></cs><br/
 <p><ent>key</ent><br/
 <hw>key</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Essential; most important;
 <as>as, the <ex>key</ex> fact in the inquiry; the president was the
-<ex>key</ex> player inthe negotiations</as>.</def><br/
+<ex>key</ex> player in the negotiations</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Keyage</ent><br/
@@ -3596,7 +3596,7 @@ bugle</er>.</cd></cs><br/
 
 <p><ent>Keyhole</ent><br/
 <hw>Key"hole`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A hole
-or apertupe in a door or lock, for receiving a key.</def><br/
+or aperture in a door or lock, for receiving a key.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <sd>(a)</sd> <fld>(Carp.)</fld> <def>A hole or excavation
@@ -3624,7 +3624,7 @@ pushbuttons</as>. Opposite of <ant>keyed</ant>.</def><br/
 
 <p><ent>Keynes</ent><br/
 <hw>Keynes</hw> <pos>prop. n.</pos> <def><person>John Maynard
-Keynes</person>, the british economist (1883-1946) whose book <ldquo/The
+Keynes</person>, the British economist (1883-1946) whose book <ldquo/The
 General Theory of Employment, Interest, and Money<rdquo/ (Macmillan,
 1936) had a strong influence on views of the government's role in the
 economy through the 1970's. See <er>Keynesian</er>.</def><br/
@@ -8111,7 +8111,7 @@ dresses.</def><br/
 <hw>Knick"er*bock`er</hw>, <mark>[capitalized]</mark> <pos>prop.
 n.</pos> <ety>[From Diedrich <etsep>KNickerbocker</etsep>, the fictional
 author of <it>The History of New York</it>, in fact written by
-<person>Washington Irving</person>.]</ety> <def>A descendent of the
+<person>Washington Irving</person>.]</ety> <def>A descendant of the
 early Dutch colonists of the New York City area; -- used mostly as a
 nickname for an inhabitant of New York state or especially New York
 City.</def><br/
@@ -8902,7 +8902,7 @@ knock of the auctioneer's hammer; to sell at an auction; <as>as, the
 vase was <ex>knocked down</ex> at two thousand dollars</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><sn>3.</sn> <def>To take apart; to dissassemble; <as>as, to <ex>knock
+<p><sn>3.</sn> <def>To take apart; to disassemble; <as>as, to <ex>knock
 down</ex> a rifle for cleaning</as>.</def><br/
 [<source>PJC</source>]</p>
 
@@ -9685,7 +9685,7 @@ task.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Knowing</ent><br/
-<hw>Know"ing</hw>, <pos>a.</pos> <sn>1.</sn> <def>Skilful; well
+<hw>Know"ing</hw>, <pos>a.</pos> <sn>1.</sn> <def>Skillful; well
 informed; intelligent; <as>as, a <ex>knowing</ex> man; a
 <ex>knowing</ex> dog.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -11020,7 +11020,7 @@ southern part of the United States by a secret political organization,
 active for several years after the close of the Civil War, and having
 for its aim the repression of the political power of the freed negroes;
 -- called also <altname>Kuklux Klan</altname> and <altname>the
-Klan</altname>. It exerienced a revival in the 1920's, in the north as
+Klan</altname>. It experienced a revival in the 1920's, in the north as
 well as the south, and persists as a weak organization into the 1990's.
 Its goals were primarily anti-negro and anti-Catholic, and its tactics
 included terrorist attacks on negroes for the purpose of intimidation
@@ -11095,9 +11095,9 @@ corakan, <spn>Eleusine coracana</spn>.</syn><br/
 atomic bomb.]</ety> <def>A transuranic element of atomic number 104,
 symbol <it>Ku</it>; also called <altname>rutherfordium</altname>, symbol
 <it>Rf</it>. It is produced in very small quantities by nuclear
-reactions. In November 1993 the nomenclature committe of the American
+reactions. In November 1993 the nomenclature committee of the American
 Chemical Society approved the name <altname>rutherfordium</altname> for
-element 104. Russsian investigators who claim to have first discovered
+element 104. Russian investigators who claim to have first discovered
 element 104, isotope 260 (half-life 0.3 seconds) in 1964 at Dubna
 proposed the name <ex>kurchatovium</ex>. However, investigators at
 Berkely in 1969 produced several isotopes of element 104 but were unable
@@ -11213,7 +11213,7 @@ airbase.</def><br/
 <ent>Kwan yin</ent><br/
 <mhw><hw>Kwan yin</hw>, <hw>Kwan-yin</hw></mhw> <pos>prop. n.</pos>
 <fld>(Buddhism)</fld> <def>A female Bodhisattva; often called Goddess of
-Mercy and considered an aspect of the Bodisattva Avalokitesvara;
+Mercy and considered an aspect of the Bodhisattva Avalokitesvara;
 identified with Japanese Kwannon.</def><br/
 <syn><b>Syn. --</b> Kuan Yin.</syn><br/
 [<source>WordNet 1.5</source>]</p>
