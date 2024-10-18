@@ -22,15 +22,15 @@
 
 <p><ent>N</ent><br/
 <hw>N</hw> <pr>(<ecr/n)</pr>, <def>the fourteenth letter of English
-alphabet, is a vocal consonent, and, in allusion to its mode of
+alphabet, is a vocal consonant, and, in allusion to its mode of
 formation, is called the <xex>dentinasal</xex> or <xex>linguanasal</xex>
-consonent. Its commoner sound is that heard in <xex>ran</xex>,
+consonant. Its commoner sound is that heard in <xex>ran</xex>,
 <xex>done</xex>; but when immediately followed in the same word by the
 sound of <xex>g</xex> hard or <xex>k</xex> (as in <xex>single</xex>,
 <xex>sink</xex>, <xex>conquer</xex>), it usually represents the same
 sound as the digraph <xex>ng</xex> in <xex>sing</xex>, <xex>bring</xex>,
 etc. This is a simple but related sound, and is called the
-<xex>gutturo-nasal</xex> consonent. See <er>Guide to Pronunciation</er>,
+<xex>gutturo-nasal</xex> consonant. See <er>Guide to Pronunciation</er>,
 <sect/<sect/ 243-246.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -75,7 +75,7 @@ unexpectedly.</def> <mark>[Colloq.]</mark>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To capture; to arrest; <as>as, the police nabbed the
-culprit wtrying to hide in the basement</as>.</def><br/
+culprit trying to hide in the basement</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Nabit</ent><br/
@@ -1063,7 +1063,7 @@ having been given a name; <as>as, a <ex>nameless</ex> star</as>.</def>
 pens.<rdquo/ <rj><au>Atterbury.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>Unnamable; indescribable; inexpressible.</def><br/
+<p><sn>4.</sn> <def>Unnameable; indescribable; inexpressible.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>But what it is, that is not yet known; what<br/
@@ -1345,7 +1345,7 @@ species, the glade mallow.</def><br/
 
 <p><ent>napalm</ent><br/
 <hw>napalm</hw> <pr>(n<amac/"p<aum/m)</pr>, <pos>n.</pos> <def>A highly
-incediary liquid consisting of gasoline jelled with aluminum soaps, used
+incendiary liquid consisting of gasoline jelled with aluminum soaps, used
 as a weapon of war in fire bombs and flame throwers.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -1494,7 +1494,7 @@ metallic luster; -- called also
 
 <p><ent>Naphthene</ent><br/
 <hw>Naph"thene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld>
-<def>A peculiar hydrocarbon fraction occuring as an ingredient of some
+<def>A peculiar hydrocarbon fraction occurring as an ingredient of some
 crude petroleums, mostly mixtures of derivatives of the five- and
 six-membered saturated cyclic alkanes, cyclopentane and cyclohexane,
 having the general formula C<sub>n</sub>H<sub>2n</sub>.</def><br/
@@ -2749,7 +2749,7 @@ manner.</def><br/
 
 <p><ent>Nastiness</ent><br/
 <hw>Nas"ti*ness</hw>, <pos>n.</pos> <def>The quality or state of being
-nasty; extreme filthness; dirtiness; also, indecency;
+nasty; extreme filthiness; dirtiness; also, indecency;
 obscenity.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -2857,7 +2857,7 @@ at.</def> <mark>[Obs.]</mark> <rj><au>haucer.</au></rj><br/
 <ets>natalis</ets>, fr. <ets>natus</ets>, p. p. of <ets>nasci</ets> to
 be born: cf. F. <ets>natal</ets>. See <er>Nation</er>, and cf.
 <er>Noel</er>.]</ety> <sn>1.</sn> <def>Of or pertaining to one's birth;
-accompying or dating from one's birth; native.</def><br/
+accompanying or dating from one's birth; native.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Princes' children took names from their <qex>natal</qex>
@@ -3469,7 +3469,7 @@ species of shrike.</def><br/
 <p><ent>Natrolite</ent><br/
 <hw>Na"tro*lite</hw> <pr>(?; 277)</pr>, <pos>n.</pos>
 <ety>[<ets>Natron</ets> + <ets>-lite</ets>: cf. F.
-<ets>natrolithe</ets>.]</ety> <fld>(Min.)</fld> <def>A zeolite occuring
+<ets>natrolithe</ets>.]</ety> <fld>(Min.)</fld> <def>A zeolite occurring
 in groups of glassy acicular crystals, and in masses which often have a
 radiated structure. It is a hydrous silicate of alumina and
 soda.</def><br/
@@ -3622,7 +3622,7 @@ sulfate</as>. Opposed to <ant>artificial</ant>, <ant>man-made</ant>,
 [<source>PJC</source>]</p>
 
 <p><sn>12.</sn> <specif>Hence:</specif> <def>Not processed or refined;
-in the same statre as that existing in nature; <as>as, <ex>natural</ex>
+in the same state as that existing in nature; <as>as, <ex>natural</ex>
 wood; <ex>natural</ex> foods</as>.</def><br/
 [<source>PJC</source>]</p>
 
@@ -3737,14 +3737,14 @@ soccer</as>.</def><br/
 <p><ent>natural family</ent><br/
 <hw>nat"u*ral fam"i*ly</hw>, <pos>n.</pos> <fld>(Biol.)</fld> <def>a
 group of living organisms classed as a <altname>family</altname> in a
-toxonomic classification.</def><br/
+taxonomic classification.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>natural gas</ent><br/
 <hw>natural gas</hw> <pos>n.</pos> <def>The combustible gas found
 associated with petroleum deposits, and also in other geological
 formations, comprised predominantly of methane plus variable other
-constitutents. It is an important source of energy, and is transported
+constituents. It is an important source of energy, and is transported
 long distances by pipelines, or in a liquefied state in tankers, for
 commercial distribution. Some natural gas deposits contain helium, and
 comprise the primary source of that rare element.</def><br/
@@ -4208,7 +4208,7 @@ as applied to children, or in sportive censure.</note><br/
 <ent>Nauheim treatment</ent><br/
 <hw>Nau"heim treat`ment</hw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>Orig.,
 a method of therapeutic treatment administered, esp. for chronic
-diseases of the curculatory system, at <city>Bad Nauheim</city>,
+diseases of the circulatory system, at <city>Bad Nauheim</city>,
 Germany, by <person>G. Schott</person>, consisting in baths in the
 natural mineral waters of that place, which are charged with carbonic
 acid, and the use of a graduated course of rest, physical exercises,
@@ -4859,7 +4859,7 @@ negative.</def><br/
 
 <p><ent>Nayaur</ent><br/
 \'d8<hw>Na*yaur"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld>
-<def>A specied of wild sheep (<spn>Ovis Hodgsonii</spn>), native of
+<def>A species of wild sheep (<spn>Ovis Hodgsonii</spn>), native of
 Nepal and Tibet. It has a dorsal mane and a white ruff beneath the
 neck.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -5153,7 +5153,7 @@ narrow{3}; <as>as, a <ex>near</ex> escape; a <ex>near</ex>
 miss</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <def>Next to the driver, when he is on foot; in the Unted
+<p><sn>6.</sn> <def>Next to the driver, when he is on foot; in the United
 States, on the left of an animal or a team; <as>as, the <ex>near</ex>
 ox; the <ex>near</ex> leg</as>. See <cref>Off side</cref>, under
 <er>Off</er>, <pos>a</pos>.</def><br/
@@ -5422,7 +5422,7 @@ significance.</def><br/
 
 <p><ent>Neb-neb</ent><br/
 <hw>Neb"-neb`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as
-<er>Bablh</er>.</def><br/
+<er>bablah</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nebo</ent><br/
@@ -7266,7 +7266,7 @@ carelessness.</def><br/
 under the circumstances, being convertible with the Roman
 <contr>culpa</contr>. A specialist is bound to higher skill and
 diligence in his specialty than one who is not a specialist, and
-liability for negligence varies acordingly.</def><br/
+liability for negligence varies accordingly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Contributory negligence</b></col>. <cd>See under
@@ -7703,7 +7703,7 @@ in my <ex>neighborhood</ex></as>.</def><br/
 
 <p><sn>3.</sn> <def>The inhabitants who live in the vicinity of each
 other; <as>as, the fire alarmed all the
-<ex>neiborhood</ex></as>.</def><br/
+<ex>neighborhood</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>The disposition becoming a neighbor; neighborly
@@ -8066,7 +8066,7 @@ are Anopla and Enopla.</note><br/
 <p><ent>nemertine</ent><br/
 <hw>nemertine</hw> <pos>n.</pos> <def>Any of an order
 (<ord>Nemertina</ord>) of soft unsegmented marine worms having an
-eversible threadlike proboscis and the ability to stretch and
+reversible threadlike proboscis and the ability to stretch and
 contract.</def><br/
 <syn><b>Syn. --</b> ribbon worm, nemertean, proboscis worm.</syn><br/
 [<source>WordNet 1.5</source>]</p>
@@ -8895,7 +8895,7 @@ or practices nephalism.</def><br/
 <hw>Neph"e*lite</hw> <pr>(n<ecr/f"<esl/*l<imac/t)</pr> }</mhw>,
 <pos>n.</pos> <ety>[Gr. <grk>nefe`lh</grk> cloud: cf. F.
 <ets>n<eacute/ph<eacute/line</ets>. Cf. <er>Nebula</er>.]</ety>
-<fld>(Min.)</fld> <def>A mineral occuring at Vesuvius, in glassy
+<fld>(Min.)</fld> <def>A mineral occurring at Vesuvius, in glassy
 hexagonal crystals; also elsewhere, in grayish or greenish masses having
 a greasy luster, as the variety elaeolite. It is a silicate of aluminia,
 soda, and potash.</def><br/
@@ -9286,7 +9286,7 @@ warm climates.</def><br/
 
 <p><ent>neritic</ent><br/
 <hw>neritic</hw> <pos>adj.</pos> <def>Relating to the belt or region of
-shallow water adjoining the seacost; <as>as, <ex>neritic</ex>
+shallow water adjoining the seacoast; <as>as, <ex>neritic</ex>
 fauna</as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -10116,7 +10116,7 @@ as <er>net</er> <pos>a.</pos>, 3. Contrasted to <ant>gross</ant>.</def>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>netted</ent><br/
-<hw>netted</hw> <pos>adj.</pos> <def>resembing a net or a web.</def><br/
+<hw>netted</hw> <pos>adj.</pos> <def>resembling a net or a web.</def><br/
 <syn><b>Syn. --</b> lacy, netlike, webbed, weblike.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -10339,7 +10339,7 @@ of soft sweet-milk cheese; -- so called from
 <p><ent>Neural</ent><br/
 <hw>Neu"ral</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr.
 <grk>ney^ron</grk> nerve.]</ety> <fld>(Anat. & Zool.)</fld>
-<def>relating to the nerves or nervous system; taining to, situated in
+<def>relating to the nerves or nervous system; pertaining to, situated in
 the region of, or on the side with, the neural, or cerebro-spinal, axis;
 -- opposed to <contr>hemal</contr>. As applied to vertebrates,
 <ex>neural</ex> is the same as <altname>dorsal</altname>; as applied to
@@ -10525,7 +10525,7 @@ epiblastic, layer of the blastoderm</as>.</def><br/
 supports the nervous matter and blood vessels of the brain and spinal
 cord; called also <altname>K<oum/lliker's reticulum</altname>. It is
 composed of cells which are not neurons. Once thought to serve merely a
-supporting funciton, they are now believed to have important metablolic
+supporting function, they are now believed to have important metabolic
 functions. Among them are the <parts>astrocytes</parts>,
 <parts>ependymal cells</parts>, <parts>oligodendroglia cells</parts>,
 and <parts>microglia cells</parts>.</def> <au>Stedman.</au><br/
@@ -10599,7 +10599,7 @@ electrical impulses to and from the brain, and also between other parts
 of the body, and composed of a main cell body, the <part>axon</part>,
 with a varying number of processes of varying length, the
 <parts>dendrites</parts>; a nerve cell. The movement and behavior of
-higher animals depends on the signals tranmsitted by such nerve
+higher animals depends on the signals transmitted by such nerve
 cells.</def><br/
 [<source>PJC</source>]</p>
 
@@ -11234,7 +11234,7 @@ Lith. <ets>naujas</ets>, Russ. <ets>novuii</ets>, Ir. <ets>nua</ets>,
 <er>Now</er>, and cf. <er>Announce</er>, <er>Innovate</er>,
 <er>Neophyte</er>, <er>Novel</er>.]</ety> <sn>1.</sn> <def>Having
 existed, or having been made, but a short time; having originated or
-occured lately; having recently come into existence, or into one's
+occurred lately; having recently come into existence, or into one's
 possession; not early or long in being; of late origin; recent; fresh;
 modern; -- opposed to <ant>old</ant>, <as>as, a <ex>new</ex> coat; a
 <ex>new</ex> house; a <ex>new</ex> book; a <ex>new</ex>
@@ -11664,7 +11664,7 @@ of the most abundant species.</def><br/
 <p><ent>New Thought</ent><br/
 <hw>New` Thought"</hw>. <def>Any form of belief in mental healing, other
 than (1) Christian Science and (2) hypnotism or psychotherapy. It was
-practised in the 19th century, and its central principle was affirmative
+practiced in the 19th century, and its central principle was affirmative
 thought, or suggestion, employed with the conviction that man produces
 changes in his health, his finances, and his life by the adoption of a
 favorable mental attitude. As a therapeutic doctrine it stands for
@@ -12060,7 +12060,7 @@ and mythological elements pointing to heathen times.</def><br/
 <sing><it>sing.</it> <singw>Nibelung</singw> <pr>(<?/)</pr> </sing>.
 <def>In German mythology, the children of the mist, a race of dwarfs or
 demonic beings, the original possessors of the famous hoard and ring won
-by Siegfrid; also, the Burgundian kings in the Nibelungenlied.</def><br/
+by Siegfried; also, the Burgundian kings in the Nibelungenlied.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Niblick</ent><br/
@@ -13360,7 +13360,7 @@ watches with evil designs. -- <col><b>Night witch</b></col>. <cd>Same as
 popular name for a poem by <person>Clement Clarke Moore</person> titled
 <altname>A Visit from St. Nicholas</altname>, a popular poem with the
 theme of <person>St. Nicholas</person> (Santa Claus) coming to bring
-gifts to children on Christmans eve.</def><br/
+gifts to children on Christmas eve.</def><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ The full text of the poem follows: T'was the night
@@ -13622,7 +13622,7 @@ incubus.]</ety> <sn>1.</sn> <def>A fiend or incubus formerly supposed to
 cause trouble in sleep.</def> <mark>[archaic]</mark> <br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A trerrifying or oppressive dream characterized by a
+<p><sn>2.</sn> <def>A terrifying or oppressive dream characterized by a
 sense of helplessness in the face of danger, extreme uneasiness or
 discomfort (as of weight on the chest or stomach, impossibility of
 motion or speech, etc.) or extreme anxiety, from which one wakes in a
@@ -14340,7 +14340,7 @@ medicine.</def><br/
 <hw>Ninib</hw> <pos>prop. n.</pos> <fld>(Sumerian and Babylonian
 mythology)</fld> <def>A solar deity, first-born of <persfn>Bel</persfn>
 and consort was <persfn>Gula</persfn>; god of war and the chase and
-agriculture; sometimes identifed with Biblical Nimrod.</def><br/
+agriculture; sometimes identified with Biblical Nimrod.</def><br/
 <syn><b>Syn. --</b> Ninurta.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -14675,7 +14675,7 @@ in a matrix of austenite.</def><br/
 \'d8<hw>Nir*va"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.
 <ets>nirv<amac/<nsdot/a</ets>.]</ety> <def>In the Buddhist system of
 religion, the final emancipation of the soul from transmigration, and
-consequently a beatific enfrachisement from the evils of worldly
+consequently a beatific enfranchisement from the evils of worldly
 existence, as by annihilation or absorption into the divine. See
 <er>Buddhism</er>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -15023,7 +15023,7 @@ nitrobacteria.</def><br/
 the action of nitric acid on benzene, and called from its odor
 <altname>imitation oil of bitter almonds</altname>, or <altname>essence
 of mirbane</altname>. It is used in perfumery, and is manufactured in
-large quantities in the preparation of aniline. Fornerly called also
+large quantities in the preparation of aniline. Formerly called also
 <altname>nitrobenzol</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -15038,7 +15038,7 @@ large quantities in the preparation of aniline. Fornerly called also
 <hw>Ni`tro*cal"cite</hw> <pr>(?)</pr>, <pos>n.</pos>
 <ety>[<ets>Nitro-</ets> + <ets>calcite</ets>.]</ety> <fld>(Min.)</fld>
 <def>Nitrate of calcium, a substance having a grayish white color,
-occuring in efflorescences on old walls, and in limestone caves,
+occurring in efflorescences on old walls, and in limestone caves,
 especially where there exists decaying animal matter.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -15614,7 +15614,7 @@ families.</def><br/
 <p><ent>Nobilify</ent><br/
 <hw>No*bil"i*fy</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L.
 <ets>nobilis</ets> noble + <ets>-fy</ets>.]</ety> <def>To make noble; to
-nobiliate.</def> <mark>[Obs.]</mark><br/
+nobilitate.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nobili's rings</ent><br/
@@ -16034,7 +16034,7 @@ service.</def> <rj><au>Hook.</au></rj><br/
 <ets>nocturnalis</ets>, <ets>nocturnus</ets>, fr. <ets>nox</ets>,
 <ets>noctis</ets>, night. See <er>Night</er>, and cf.
 <er>Nocturn</er>.]</ety> <sn>1.</sn> <def>Of, pertaining to, done or
-occuring in, the night; <as>as, <ex>nocturnal</ex> darkness, cries,
+occurring in, the night; <as>as, <ex>nocturnal</ex> darkness, cries,
 expedition, etc.</as>; -- opposed to <ant>diurnal</ant>.</def>
 <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -18153,17 +18153,17 @@ to(predicate)</stype>]<br/
 
 <p><sn>2.</sn> <specif>Specifically:</specif> <fld>(U. S. Labor
 Law)</fld> <def>Not exempt from the provisions of the fair labor
-practises act; -- a term applied mostly to persons who are hourly
+practices act; -- a term applied mostly to persons who are hourly
 employees, who are required by law to be treated in certain ways. Many
-salaried and management personnnel are not covered by the law and are
+salaried and management personnel are not covered by the law and are
 therefore <contr>exempt</contr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Nonexistence</ent><br/
 <hw>Non`ex*ist"ence</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn>
 <def>The state of not existing; absence of existence; the negation of
-being; -- usually used with reference to existince in the real world, or
-logical possiblity; <as>as, the <ex>nonexistence</ex> of vaporware does
+being; -- usually used with reference to existence in the real world, or
+logical possibility; <as>as, the <ex>nonexistence</ex> of vaporware does
 not go unnoticed long</as>.</def> <rj><au>A. Baxter.</au></rj><br/
 <syn><b>Syn. --</b> nonentity{1}.</syn><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
@@ -18412,7 +18412,7 @@ value.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>Not able to be substituted for each other; -- of
-objects, such as parts of machinery; <as>as, the ink cartidges on the
+objects, such as parts of machinery; <as>as, the ink cartridges on the
 new printer are <ex>noninterchangeable</ex> with those on the older
 model.</as></def><br/
 [<source>PJC</source>]</p>
@@ -18862,7 +18862,7 @@ similar bird of the same genus.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Cookery)</fld> <def>A small sphere, less than 1 mm
-diamter, of colored sugar, used to decorate confections; -- usually used
+diameter, of colored sugar, used to decorate confections; -- usually used
 in the plural as though the name of a substance; <as>as, sprinkled with
 <ex>nonpareils</ex></as>.</def><br/
 [<source>PJC</source>]</p>
@@ -20103,7 +20103,7 @@ granular crystalline rock consisting essentially of a triclinic feldspar
 <fld>(Chem.)</fld> <def>A supposed metal alleged to have been discovered
 in 1845 by the Swedish chemist <persfn>Swanberg</persfn> in zircon.
 After many unsuccessful attempts to verify this new element, the element
-named <er>Hafnium</er> (atomic number 72) was discoverd in 1923 by
+named <er>Hafnium</er> (atomic number 72) was discovered in 1923 by
 <person>D. Coster</person> and <person>G. von Hevesey</person> in the
 zirconium-containing mineral zircon. Hafnium, present at 1 to 5% in many
 zirconium-bearing minerals, but difficult to separate from zirconium, is
@@ -23736,7 +23736,7 @@ pyrimidine base; two types of nucleoside, <stype>ribonucleoside</stype>
 and <stype>deoxyribonucleoside</stype>, are present. The most common
 bases present in nucleosides are adenine, cytosine, uracil, guanine, and
 thymine, and to a lesser extent hypoxanthine and other bases are found.
-The most commmon ribonucleosides composed from these bases are called
+The most common ribonucleosides composed from these bases are called
 adenosine, cytidine, uridine, and guanosine. The forms esterified with
 orthophosphoric at the 5-position of the pentose are called
 <partof>nucleotides</partof>. The nucleotides form the monomer units
@@ -23833,7 +23833,7 @@ with the head bent forward; -- often with <xex>along</xex>.</def>
 <p><ent>Nude</ent><br/
 <hw>Nude</hw> <pr>(n<umac/d)</pr>, <pos>a.</pos> <ety>[L.
 <ets>nudus</ets>. See <er>Naked</er>.]</ety> <sn>1.</sn> <def>Bare;
-naked; unclothed; undraped; <as>as, a <ex>nude</ex>
+naked; unclothed; undrapped; <as>as, a <ex>nude</ex>
 statue</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -23909,7 +23909,7 @@ the back or sides. See <er>Ceratobranchia</er>.</def><br/
 of being nude; nakedness.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>That which is nude or naked; naked part; undraped or
+<p><sn>2.</sn> <def>That which is nude or naked; naked part; undrapped or
 unclothed portion;</def> <specif>esp.</specif> <fld>(Fine Arts)</fld>,
 <def>the human figure represented unclothed; any representation of
 nakedness; -- chiefly used in the plural and in a bad sense.</def><br/
@@ -25700,7 +25700,7 @@ coral, which has a mouth and digestive cavity.</cd></cs><br/
 
 <p><ent>nuts</ent><br/
 <hw>nuts</hw> <pr>(n<ucr/ts)</pr>, <pos>pred. a.</pos> <def>Crazy;
-loony; insane; batty; -- used in a predicate position, ususually in
+loony; insane; batty; -- used in a predicate position, usually in
 phrases such as <ex>to go nuts</ex>, <ex>went nuts</ex>, are you
 <ex>nuts</ex>?</def> <mark>[slang]</mark><br/
 [<source>PJC</source>]</p>
