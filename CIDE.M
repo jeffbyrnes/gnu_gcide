@@ -27,7 +27,8 @@ its formation, is called the <xex>labio-nasal</xex> consonant. See
 <xex>Guide to Pronunciation</xex>, <sect/<sect/ 178-180, 242.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note> The letter M came into English from the Greek, through the
+<note>
+<p>The letter M came into English from the Greek, through the
 Latin, the form of the Greek letter being further derived from the
 Ph<oe/nician, and ultimately, it is believed, from the Egyptian.
 Etymologically M is related to <xex>n</xex>, in li<xex>me</xex>,
@@ -39,8 +40,8 @@ li<xex>n</xex>den; <xex>emm</xex>et, a<it>n</it>t; also to
 of the lips in the formation of both letters being the same. The
 relation of <xex>b</xex> and <xex>m</xex> is the same as that of
 <xex>d</xex> and <xex>t</xex> to <xex>n</xex>. and that of <xex>g</xex>
-and <xex>k</xex> to <xex>ng</xex>.</note><br/
-[<source>1913 Webster</source>]</p>
+and <xex>k</xex> to <xex>ng</xex>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>As a numeral, M stands for one thousand, both in
 English and Latin.</def><br/
@@ -6108,7 +6109,7 @@ Believest so <qex>main</qex> to our success, I bring.</q>
 <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By main force</b></col>, <cd>by mere force or sheer
+<cs><p><col><b>By main force</b></col>, <cd>by mere force or sheer
 force; by violent effort; <as>as, to subdue insurrection <ex>by main
 force</ex></as>.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -6133,8 +6134,8 @@ lever swings.</cd> -- <col><b>Main chance</b></col>. <cd>See under
 <col><b>Main deck</b></col> <fld>(Naut.)</fld>, <cd>the deck next below
 the spar deck; the principal deck.</cd> -- <col><b>Main keel</b></col>
 <fld>(Naut.)</fld>, <cd>the principal or true keel of a vessel, as
-distinguished from the false keel.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+distinguished from the false keel.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Principal; chief; leading; cardinal;
 capital.</syn><br/
@@ -7014,7 +7015,7 @@ important league{2} in any sport (especially baseball); contrasted with
 <contr>minor league</contr>. Its teams are more competent, its members
 are paid more, and its games attract more interest and publicity, than
 those of a minor league.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p> 
+[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>major league</ent><br/
 <ent>major-league</ent><br/
@@ -7282,7 +7283,7 @@ of.</def> <ldquo/And <xex>make</xex> the Libyan shores.<rdquo/
 side.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To make a bed</b></col>, <cd>to prepare a bed for being
+<cs><p><col><b>To make a bed</b></col>, <cd>to prepare a bed for being
 slept on, or to put it in order.</cd> -- <col><b>To make a
 card</b></col> <fld>(Card Playing)</fld>, <cd>to take a trick with
 it.</cd> -- <col><b>To make account</b></col>. <cd>See under
@@ -7391,8 +7392,8 @@ determination; to resolve.</cd> -- <mcol><col><b>To make way</b></col>,
 <it>or</it> <col><b>To make one's way</b></col></mcol>. <sd>(a)</sd>
 <cd>To make progress; to advance.</cd> <sd>(b)</sd> <cd>To open a
 passage; to clear the way</cd>. -- <col><b>To make words</b></col>,
-<cd>to multiply words.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<cd>to multiply words.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Make</ent><br/
 <hw>Make</hw> <pr>(m<amac/k)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To
@@ -7442,7 +7443,7 @@ Tennyson.</au></rj><br/
 <rj><qau>P. Plowman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To make as if</b></col>, <it>or</it> <col><b>To
+<cs><p><mcol><col><b>To make as if</b></col>, <it>or</it> <col><b>To
 make as though</b></col></mcol>, <cd>to pretend that; to make show that;
 to make believe (see under <er>Make</er>, <pos>v. t.</pos>).</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -7475,8 +7476,8 @@ equivalent for.</cd> -- <col><b>To make up to</b></col>. <sd>(a)</sd>
 us</as>.</cd> <sd>(b)</sd> <cd>To pay addresses to; to make love
 to.</cd> -- <col><b>To make up with</b></col>, <cd>to become reconciled
 to.</cd> <mark>[Colloq.]</mark> -- <col><b>To make with</b></col>,
-<cd>to concur or agree with.</cd> <au>Hooker.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<cd>to concur or agree with.</cd> <au>Hooker.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Make</ent><br/
 <hw>Make</hw>, <pos>n.</pos> <def>Structure, texture, constitution of
@@ -9093,7 +9094,7 @@ malign.</syn><br/
 <def>Malicious and willful destructionof or injury to the property of
 others; -- it is an offense at common law.</def> <au>Wharton.</au><br/
 <syn><b>Syn. --</b> vandalism, hooliganism.</syn><br/
-[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p> 
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>malign</ent><br/
 <hw>ma*lign"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L.
@@ -9834,7 +9835,7 @@ artery.</cd></cs><br/
 capsule that contains a glomerulus at the expanded end of a nephron;
 also called <altname>malpighian corpuscle</altname> and
 <altname>Malpighian capsule</altname>.</def><br/
-[<source>WordNet 1.5</source>]</p> 
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>malpighian corpuscle</ent><br/
 <hw>malpighian corpuscle</hw> <pos>n.</pos> <fld>(Anatomy)</fld>,
@@ -10320,7 +10321,7 @@ by milk, or an analogous fluid, secreted by the mammary glands of the
 mother.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Mammalia are divided into three subclasses; --<br/
+<note><p><hand/ Mammalia are divided into three subclasses; --<br/
 [<source>1913 Webster</source>]</p>
 
 <p>I. <stype>Placentalia</stype>. This subclass embraces all the higher
@@ -10338,8 +10339,8 @@ pouch. The opossum, kangaroo, wombat, and koala are examples.<br/
 genera <gen>Echidna</gen> and <gen>Ornithorhynchus</gen>, the female
 lays large eggs resembling those of a bird or lizard, and the young,
 which are hatched like those of birds, are nourished by a watery
-secretion from the imperfectly developed mammae. </note><br/
-[<source>1913 Webster</source>]</p>
+secretion from the imperfectly developed mammae.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Mammalian</ent><br/
 <hw>Mam*ma"li*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining
@@ -25050,7 +25051,7 @@ intermediate between the soprano and base; a middle part.</def>
 <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By all means</b></col>, <cd>certainly; without fail;
+<cs><p><col><b>By all means</b></col>, <cd>certainly; without fail;
 <as>as, go, <ex>by all means</ex></as>.</cd> -- <col><b>By any
 means</b></col>, <cd>in any way; possibly; at all.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -25065,8 +25066,8 @@ any degree.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The wine on this side of the lake is <qex>by no means</qex> so
-good as that on the other.</q> <rj><qau>Addison.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+good as that on the other.</q> <rj><qau>Addison.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Meander</ent><br/
 <hw>Me*an"der</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.
@@ -27735,7 +27736,7 @@ Congress <ex>meets</ex> on the first Monday of December</as>.</def><br/
 agree; to harmonize; to unite.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To meet with</b></col>. <sd>(a)</sd> <cd>To light upon;
+<cs><p><col><b>To meet with</b></col>. <sd>(a)</sd> <cd>To light upon;
 to find; to come to; -- often with the sense of unexpectedness.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -27754,8 +27755,8 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(e)</sd> <cd>To obviate.</cd> <mark>[Obs.]</mark>
-<rj><au>Bacon.</au></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><au>Bacon.</au></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Meet</ent><br/
 <hw>Meet</hw>, <pos>n.</pos> <def>An assembling together; esp., the
@@ -30723,7 +30724,9 @@ inheritance of many characters in animals and plants, discovered by
 in breeding experiments with peas. He showed that the height, color, and
 other characters depend on the presence of determinating factors
 behaving as units. In any given germ cell each of these is either
-present or absent.</def> <note>The following example (using letters as
+present or absent.</def></p>
+
+<note><p>The following example (using letters as
 symbols of the determining factors and hence also of the individuals
 possessing them) shows the operation of the law: Tallness being due to a
 factor <xex>T</xex>, a tall plant, arising by the union in fertilization
@@ -30766,8 +30769,8 @@ analytical variation or recombination of the factors composing the
 parental types. Purity of type consequently acquires a specific meaning.
 An individual is pure in respect of a given character when it results
 from the union of two sexual cells both bearing that character, or both
-without it.</note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+without it.<br/
+[<source>Webster 1913 Suppl.</source>]</p></note>
 
 <p><ent>Mender</ent><br/
 <hw>Mend"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who mends or
@@ -31481,7 +31484,7 @@ keys, to select the desired option from those on the list. Depending on
 how the menu is displayed, it may be a <stype>pop-up menu</stype> or
 <stype>pull-down menu</stype>.</def><br/
 [<source>PJC</source>]</p>
-	
+
 <p><ent>Menurae</ent><br/
 <hw>Menurae</hw> <pos>prop. n.</pos> <def>A suborder of birds including
 lyrebirds and scrubbirds.</def><br/
@@ -33184,7 +33187,7 @@ xliii. 34.</qau></rj><br/
 and weather.<rdquo/ <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Merry dancers</b></col>. <cd>See under
+<cs><p><col><b>Merry dancers</b></col>. <cd>See under
 <er>Dancer</er>.</cd> -- <col><b>Merry men</b></col>, <cd>followers;
 retainers.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -33194,8 +33197,8 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <col><b>To make merry</b></col>, <cd>to be jovial; to indulge in
-hilarity; to feast with mirth.</cd> <au>Judg. ix. 27.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+hilarity; to feast with mirth.</cd> <au>Judg. ix. 27.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Cheerful; blithe; lively; sprightly; vivacious;
 gleeful; joyous; mirthful; jocund; sportive; hilarious.</syn><br/
@@ -37835,7 +37838,8 @@ in lanterns, the doors of stoves, etc., being popularly called
 <altname>cat-silver</altname>, and <altname>glimmer</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The important species of the <xex>mica group</xex> are:
+<note>
+<p><hand/ The important species of the <xex>mica group</xex> are:
 <stype>muscovite</stype>, common or potash mica, pale brown or green,
 often silvery, including <stype>damourite</stype> (also called
 <altname>hydromica</altname> and <altname>muscovy glass</altname>);
@@ -37848,8 +37852,9 @@ often silvery, including <stype>damourite</stype> (also called
 <p> <ex>Mica</ex> (usually muscovite, also biotite) is an essential
 constituent of granite, gneiss, and mica slate; <stype>biotite</stype>
 is common in many eruptive rocks; <stype>phlogopite</stype> in
-crystalline limestone and serpentine.</note><br/
+crystalline limestone and serpentine.<br/
 [<source>1913 Webster</source>]</p>
+</note>
 
 <p><cs><col><b>Mica diorite</b></col> <fld>(Min.)</fld>, <cd>an eruptive
 rock allied to diorite but containing mica (biotite) instead of
@@ -39192,7 +39197,7 @@ self-explaining compounds; as, <xex>middle</xex>-sized,
 <xex>middle</xex>-witted.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Middle Ages</b></col>, <cd>the period of time intervening
+<cs><p><col><b>Middle Ages</b></col>, <cd>the period of time intervening
 between the decline of the Roman Empire and the revival of letters.
 <persfn>Hallam</persfn> regards it as beginning with the sixth and
 ending with the fifteenth century.</cd> -- <col><b>Middle
@@ -39233,8 +39238,8 @@ that time.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Middle
 weight</b></col>, <cd>a pugilist, boxer, or wrestler classed as of
 medium weight, <it>i. e.</it>, over 140 and not over 160 lbs., in
 distinction from those classed as <contr>light weights</contr>,
-<contr>heavy weights</contr>, etc.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<contr>heavy weights</contr>, etc.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Middle</ent><br/
 <hw>Mid"dle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS.
@@ -43848,7 +43853,7 @@ body</as>.</def><br/
 difference of pitch; <as>as, a <ex>minor</ex> third</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Asia Minor</b></col> <fld>(Geog.)</fld>, <cd>the Lesser
+<cs><p><col><b>Asia Minor</b></col> <fld>(Geog.)</fld>, <cd>the Lesser
 Asia; that part of Asia which lies between the Euxine, or Black Sea, on
 the north, and the Mediterranean on the south.</cd> -- <col><b>Minor
 mode</b></col> <fld>(Mus.)</fld>, <cd>that mode, or scale, in which the
@@ -43862,17 +43867,13 @@ semitone between the seventh and eighth, which involves an augmented
 second interval, or three semitones, between the sixth and seventh, as,
 <supr>6/F</supr>, <supr>7/G<sharp/</supr>, <supr>8/A</supr>. But, for
 melodic purposes, both the sixth and the seventh are sometimes made
-major in the ascending, and minor in the descending, scale, thus: --<br/
+major in the ascending, and minor in the descending, scale.</cd><br/
 [<source>1913 Webster</source>]</p>
 
-<p><illust><-- Comm: an illustration of a bar with ascending and
-descending notes on a minor scale --></illust><br/
-[<source>1913 Webster</source>]</p>
-
-<p>See <er>Major</er>.</cd> -- <col><b>Minor term of a
+<p><cd>See <er>Major</er>.</cd> -- <col><b>Minor term of a
 syllogism</b></col> <fld>(Logic)</fld>, <cd>the subject of the
-conclusion.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+conclusion.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Minor</ent><br/
 <hw>Mi"nor</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A person of
@@ -59671,15 +59672,15 @@ durable; <ex>more</ex> active; <ex>more</ex> sweetly</as>.</def><br/
 <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Double comparatives were common among writers of the
+<note><p><hand/ Double comparatives were common among writers of the
 Elizabeth period, and for some time later; as, <xex>more</xex> brighter;
 <xex>more</xex> dearer.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The duke of Milan<br/
 And his <qex>more</qex> braver daughter.</q> <rj><qau>Shak.</qau></rj>
-</note><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>In addition; further; besides; again.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -59691,7 +59692,7 @@ I come to pluck your berries harsh and crude.</q>
 <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>More and more</b></col>, <cd>with continual
+<cs><p><col><b>More and more</b></col>, <cd>with continual
 increase.</cd> <ldquo/Amon trespassed <xex>more and more</xex>.<rdquo/
 <au>2 Chron. xxxiii. 23.</au> -- <col><b>The more</b></col>, <cd>to a
 greater degree; by an added quantity; for a reason already
@@ -59705,8 +59706,8 @@ more</ex>; Troy <ex>is no more</ex></as>.</cd><br/
 
 <p><q>Those oracles which set the world in flames,<br/
 Nor ceased to burn till kingdoms were <qex>no more</qex>.</q>
-<rj><qau>Byron.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Byron.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>More</ent><br/
 <hw>More</hw>, <pos>v. t.</pos> <def>To make more; to increase.</def>
@@ -60200,7 +60201,7 @@ As <qex>morning</qex> roses newly washed with dew.</q>
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Morning gown</b></col>, <cd>a gown worn in the morning
+<cs><p><col><b>Morning gown</b></col>, <cd>a gown worn in the morning
 before one is dressed for the day.</cd> -- <col><b>Morning
 gun</b></col>, <cd>a gun fired at the first stroke of reveille at
 military posts.</cd> -- <col><b>Morning sickness</b></col>
@@ -60219,8 +60220,8 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 <p><sd>(c)</sd> <cd>A weapon consisting of a heavy ball set with spikes,
 either attached to a staff or suspended from one by a chain.</cd> --
 <col><b>Morning watch</b></col> <fld>(Naut.)</fld>, <cd>the watch
-between four <sc>a. m.</sc> and eight <sc>a. m.</sc>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+between four <sc>a. m.</sc> and eight <sc>a. m.</sc>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Morning-glory</ent><br/
 <ent>Morning glory</ent><br/
@@ -60786,7 +60787,7 @@ used is the <stype>International Morse code</stype>, also referred to
 simply as the <ex>Morse code</ex>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note>The present International Morse Code is given in the table
+<note><p>The present International Morse Code is given in the table
 below. There are no spaces in the <stype>International Morse
 Code</stype>.<br/
 <br/
@@ -60805,7 +60806,7 @@ G --.         N -.         U ..-<br/
 1 .----       4 ....-          7 --...<br/
 2 ..---       5 .....          8 ---..<br/
 3 ...--       6 -....          9 ----.<br/
-0 -----      
+0 -----
 <br/
 <er>Punctuation</er><br/
 <br/
@@ -60843,8 +60844,9 @@ G --.         N -.         U ..-<br/
 </tt></pre></p>
 
 <p>The Morse code was used chiefly with the electric telegraph, but is
-also employed in signalling with flags, lights, etc.</note><br/
+also employed in signalling with flags, lights, etc.<br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+</note>
 
 <p><ent>Morsel</ent><br/
 <hw>Mor"sel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF.
@@ -71313,8 +71315,9 @@ which produces no loud notes, in distinction from the <contr>Trumpeter
 swan</contr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
+<usage>
 <p><syn><b>Syn.</b> -- Silent; dumb; speechless.</syn> --
-<usage><er>Mute</er>, <er>Silent</er>, <er>Dumb</er>. One is
+<er>Mute</er>, <er>Silent</er>, <er>Dumb</er>. One is
 <xex>silent</xex> who <xex>does</xex> not speak; one is <xex>dumb</xex>
 who <xex>can</xex> not, for want of the proper organs; <as>as, a
 <ex>dumb</ex> beast, etc.</as>; and hence, figuratively, we speak of a
@@ -71335,8 +71338,9 @@ Gazed each on other.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><q>All sat <qex>mute</qex>,<br/
 Pondering the danger with deep thoughts.</q> <rj><qau>Milton.</qau></rj>
-</usage><br/
+<br/
 [<source>1913 Webster</source>]</p>
+</usage>
 
 <p><ent>Mute</ent><br/
 <hw>Mute</hw>, <pos>n.</pos> <sn>1.</sn> <def>One who does not speak,
@@ -71663,7 +71667,7 @@ living quadrupeds.</q> <rj><qau>Hallam.</qau></rj><br/
 <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Mutton bird</b></col> <fld>(Zool.)</fld>, <cd>the
+<cs><p><col><b>Mutton bird</b></col> <fld>(Zool.)</fld>, <cd>the
 Australian short-tailed petrel (<spn>Nectris brevicaudus</spn>).</cd> --
 <col><b>Mutton chop</b></col>, <cd>a rib of mutton for broiling, with
 the end of the bone at the smaller part chopped off.</cd> --
@@ -71679,8 +71683,8 @@ discussion, etc.</cd> <mark>[Humorous]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I willingly <qex>return to my muttons</qex>.</q> <rj><qau>H. R.
-Haweis.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+Haweis.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>muttonfish</ent><br/
 <hw>muttonfish</hw> <pos>n.</pos> <def>A fish (<spn>Lutjanus
@@ -71738,7 +71742,7 @@ weeping, and wailing, and gnashing of teeth.</q>
 <rj><qau>Bentley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ This use of <xex>mutual</xex> as synonymous with
+<note><p><hand/ This use of <xex>mutual</xex> as synonymous with
 <xex>common</xex> is inconsistent with the idea of interchange, or
 reciprocal relation, which properly belongs to it; but the word has been
 so used by many writers of high authority. The present tendency is
@@ -71747,8 +71751,8 @@ toward a careful discrimination.<br/
 
 <p><q><qex>Mutual</qex>, as Johnson will tell us, means something
 reciprocal, a giving and taking. How could people have <qex>mutual</qex>
-ancestors?</q> <rj><qau>P. Harrison.</qau></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+ancestors?</q> <rj><qau>P. Harrison.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><col><b>Mutual insurance</b></col>, <cd>agreement among a number
 of persons to insure each other against loss, as by fire, death, or

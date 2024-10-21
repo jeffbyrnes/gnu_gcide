@@ -29,7 +29,7 @@ Pronunciation</xex>, <sect/<sect/ 178, 179, and 250-254.</def>
 <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note> In words derived from the Greek language the letter
+<note><p>In words derived from the Greek language the letter
 <xex>h</xex> is generally written after <xex>r</xex> to represent the
 aspirated sound of the Greek <grk>"r</grk>, but does not affect the
 pronunciation of the English word, as <xex>rhapsody</xex>,
@@ -44,8 +44,8 @@ bando<it>r</it>e, mando<it>l</it>e; purp<it>l</it>e, L.
 purpu<it>r</it>a; E. chapte<it>r</it>, F. chapit<it>r</it>e, L.
 capitu<it>l</it>um; E. wa<it>s</it>, we<it>r</it>e; ha<it>r</it>e, G.
 ha<it>s</it>e; E. orde<it>r</it>, F. ord<it>r</it>e, L. ordo,
-ordi<it>n</it>is; E. coffe<it>r</it>, coffi<it>n.</it> </note><br/
-[<source>1913 Webster</source>]</p>
+ordi<it>n</it>is; E. coffe<it>r</it>, coffi<it>n.</it><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><col><b>The three Rs</b></col>, <cd>a jocose expression for
 reading, (w)riting, and (a)rithmetic, -- the fundamentals of an
@@ -6483,7 +6483,7 @@ talking, often with accompanying rhythm instruments. It is considered by
 some as a type of music; see <er>rap music</er>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>To rap and ren</b></col>, <col><b>To rap and
+<cs><p><mcol><col><b>To rap and ren</b></col>, <col><b>To rap and
 rend</b></col></mcol>. <ety>[Perhaps fr. Icel. <ets>hrapa</ets> to hurry
 and <ets>r<ae/na</ets> plunder, fr. <ets>r<amac/n</ets> plunder, E.
 <ets>ran</ets>.]</ety> <cd>To seize and plunder; to snatch by
@@ -6500,8 +6500,8 @@ as an oath.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A judge who <qex>rapped out</qex> a great oath.</q>
-<rj><qau>Addison.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Addison.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Rap</ent><br/
 <hw>Rap</hw>, <pos>n.</pos> <ety>[Perhaps contr. fr.
@@ -8519,7 +8519,7 @@ The art itself is nature.</q> <rj><qau>Shak.</qau></rj><br/
 <ex>rather</ex> warm; the house is <ex>rather</ex> damp.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The rather</b></col>, <cd>the more so; especially; for
+<cs><p><col><b>The rather</b></col>, <cd>the more so; especially; for
 better reason; for particular cause.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -8533,8 +8533,8 @@ rather</b></col></mcol>, <cd>prefer to; prefers to; <as>as, he <ex>had
 rather</ex>, or <ex>would rather</ex> go than stay</as>.</cd> <ldquo/I
 <xex>had rather</xex> speak five words with my understanding than ten
 thousand words in an unknown tongue.<rdquo/ <au>1 Cor. xiv. 19.</au> See
-<cref>Had rather</cref>, under <er>Had</er>.</cs><br/
-[<source>1913 Webster</source>]</p>
+<cref>Had rather</cref>, under <er>Had</er>.<br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Rathripe</ent><br/
 <hw>Rath"ripe`</hw> <pr>(r<acr/th"r<imac/p`)</pr>, <pos>a.</pos>
@@ -8611,7 +8611,7 @@ expressed by <frac36/ or <frac12/; of <it>a</it> to <it>b</it> by
 dividend; as, <mathex>a:b = <fract>b/a</fract></mathex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Some writers consider <xex>ratio</xex> as the quotient
+<note><p><hand/ Some writers consider <xex>ratio</xex> as the quotient
 itself, making ratio equivalent to a number.<br/
 [<source>1913 Webster</source>]</p>
 
@@ -8620,8 +8620,8 @@ itself, making ratio equivalent to a number.<br/
 <xex>quotient</xex>, in which case the former is called
 <xex>arithmetical ratio</xex>, the latter, <xex>geometrical ratio</xex>.
 The name <xex>ratio</xex> is sometimes given to the <xex>rule of
-three</xex> in arithmetic. See under <er>Rule</er>.</note><br/
-[<source>1913 Webster</source>]</p>
+three</xex> in arithmetic. See under <er>Rule</er>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>Hence, fixed relation of number, quantity, or
 degree; rate; proportion; <as>as, the <ex>ratio</ex> of representation
@@ -10432,14 +10432,14 @@ something.</def><br/
 point of tacking to another, or with the wind nearly abeam.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To reach after</b></col> <it>or</it> <col><b>To
+<cs><p><mcol><col><b>To reach after</b></col> <it>or</it> <col><b>To
 reach for</b></col> <it>or</it> <col><b>To reach at</b></col></mcol>,
 <cd>to make efforts to attain to or obtain.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He would be in the posture of the mind <qex>reaching after</qex> a
 positive idea of infinity.</q> <rj><qau>Locke.</qau></rj><br/
-[<source>1913 Webster</source>]</cs></p>
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Reach</ent><br/
 <hw>Reach</hw>, <pos>n.</pos> <sn>1.</sn> <def>The act of stretching or
@@ -11317,7 +11317,8 @@ upon one estate in favor of another estate of another proprietor.</cd>
 <au>Erskine.</au> <au>Bouvier.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- Actual; true; genuine; authentic.</syn> <usage>
+<usage>
+<p><syn><b>Syn.</b> -- Actual; true; genuine; authentic.</syn>
 -- <er>Real</er>, <er>Actual</er>. <xex>Real</xex> represents a thing to
 be a substantive existence; <as>as, a <ex>real</ex>, not imaginary,
 occurrence</as>. <xex>Actual</xex> refers to it as acted or performed;
@@ -11338,8 +11339,9 @@ Contracts the danger of an <qex>actual</qex> fault.</q>
 [<source>1913 Webster</source>]</p>
 
 <p><q>Our simple ideas are all <qex>real</qex>; all agree to the
-<qex>reality</qex> of things.</q> <rj><qau>Locke.</qau></rj></usage><br/
+<qex>reality</qex> of things.</q> <rj><qau>Locke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
+</usage>
 
 <p><-- p. 1195 pr=vmg --></p>
 
@@ -12202,7 +12204,7 @@ would be by the making an attempt on the Spanish West Indies.</q>
 <mark>[Obs.]</mark> <rj><au>Barrow.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By reason of</b></col>, <cd>by means of; on account of;
+<cs><p><col><b>By reason of</b></col>, <cd>by means of; on account of;
 because of.</cd> <ldquo/Spain is thin sown of people, partly <xex>by
 reason of</xex> the sterility of the soil.<rdquo/ <au>Bacon.</au> --
 <col><b>In reason</b></col>, <col><b>In all reason</b></col>, <cd>in
@@ -12220,8 +12222,8 @@ right.</cd> <mark>[Obs.]</mark><br/
 
 <p><q>Yet <xex>it were</xex> great <qex>reason</qex>, that those that
 have children should have greatest care of future times.</q>
-<rj><qau>Bacon.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Bacon.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Motive; argument; ground; consideration;
 principle; sake; account; object; purpose; design. See <er>Motive</er>,
@@ -14992,7 +14994,7 @@ relations of desert or penalty.</def><br/
 <qex>reckon</qex> shall.<rdquo/</q> <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To reckon for</b></col>, <cd>to answer for; to pay the
+<cs><p><col><b>To reckon for</b></col>, <cd>to answer for; to pay the
 account for.</cd> <ldquo/If they fail in their bounden duty, they shall
 <xex>reckon for</xex> it one day.<rdquo/ <au>Bp. Sanderson.</au> --
 <mcol><col><b>To reckon on</b></col> <col><b>To reckon
@@ -15012,8 +15014,8 @@ children as well as doing my job</as>.</cd> <br/
 
 <p>-- <col><b>To reckon without one's host</b></col>, <cd>to ignore in a
 calculation or arrangement the person whose assent is essential; hence,
-to reckon erroneously.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+to reckon erroneously.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Reckoner</ent><br/
 <hw>Reck"on*er</hw> <pr>(r<ecr/k"'n*<etil/r)</pr>, <pos>n.</pos>
@@ -38581,7 +38583,7 @@ those processes bu which oxygen is introduced into the system, and
 carbon dioxide, or carbonic acid, removed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Respiration in the higher animals is divided into:
+<note><p><hand/ Respiration in the higher animals is divided into:
 (<stype>a</stype>) <xex>Internal respiration</xex>, or the interchange
 of oxygen and carbonic acid between the cells of the body and the
 bathing them, which in one sense is a process of nutrition.
@@ -38593,8 +38595,8 @@ This constitutes respiration proper. <rj><au>Gamgee.</au></rj><br/
 <p> In the respiration of plants oxygen is likewise absorbed and
 carbonic acid exhaled, but in the light this process is obscured by
 another process which goes on with more vigor, in which the plant
-inhales and absorbs carbonic acid and exhales free oxygen.</note><br/
-[<source>1913 Webster</source>]</p>
+inhales and absorbs carbonic acid and exhales free oxygen.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Respirational</ent><br/
 <hw>Res`pi*ra"tion*al</hw> <pr>(r?s`p?*r?"sh?n-<it>a</it>l)</pr>,
@@ -43467,7 +43469,7 @@ to priests or other ministers with the pronouns <xex>his</xex> or
 <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Save your reverence</b></col>, <col><b>Saving your
+<cs><p><mcol><col><b>Save your reverence</b></col>, <col><b>Saving your
 reverence</b></col></mcol>, <cd>an apologetical phrase for an unseemly
 expression made in the presence of a priest or clergyman.</cd> --
 <col><b>Sir reverence</b></col>, <cd>a contracted form of <altname>Save
@@ -43485,8 +43487,8 @@ to perform an act of reverence.</cd><br/
 
 <p><q>Now lies he there,<br/
 And none so poor <qex>to do</qex> him <qex>reverence</qex>.</q>
-<rj><qau>Shak.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Awe; honor; veneration; adoration; dread.</syn>
 <usage> -- <er>Awe</er>, <er>Reverence</er>, <er>Dread</er>,
@@ -49581,7 +49583,7 @@ those members collectively who are conservatives or monarchists. See
 of cloth, a carpet, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At all right</b></col>, <cd>at all points; in all
+<cs><p><col><b>At all right</b></col>, <cd>at all points; in all
 respects.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col><b>Bill of
 rights</b></col>, <cd>a list of rights; a paper containing a declaration
 of rights, or the declaration itself. See under <er>Bill</er>.</cd> --
@@ -49611,8 +49613,8 @@ rights</b></col></mcol>, <cd>to put in good order; to adjust; to
 regulate, as what is out of order.</cd> -- <col><b>Writ of
 right</b></col> <fld>(Law)</fld>, <cd>a writ which lay to recover lands
 in fee simple, unjustly withheld from the true owner.</cd>
-<au>Blackstone.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<au>Blackstone.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Right</ent><br/
 <hw>Right</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -52748,7 +52750,7 @@ For we be come unto a quiet <qex>rode</qex> [road].</q>
 <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>On the road</b></col>, <it>or</it> <col><b>Uponthe
+<cs><p><mcol><col><b>On the road</b></col>, <it>or</it> <col><b>Uponthe
 road</b></col></mcol>, <cd>traveling or passing over a road; coming or
 going; traveling; on the way.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -52779,8 +52781,8 @@ roads.</cd> -- <col><b>To go on the road</b></col>, <cd>to engage in the
 business of a commercial traveler.</cd> <mark>[Colloq.]</mark> --
 <col><b>To take the road</b></col>, <cd>to begin or engage in
 traveling.</cd> -- <col><b>To take to the road</b></col>, <cd>to engage
-in robbery upon the highways.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+in robbery upon the highways.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Way; highway; street; lane; pathway; route;
 passage; course. See <er>Way</er>.</syn><br/
@@ -56341,7 +56343,7 @@ hope</as>.</def><br/
 an alliance.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Room and space</b></col> <fld>(Shipbuilding)</fld>,
+<cs><p><col><b>Room and space</b></col> <fld>(Shipbuilding)</fld>,
 <cd>the distance from one side of a rib to the corresponding side of the
 next rib; <xex>space</xex> being the distance between two ribs, in the
 clear, and <xex>room</xex> the width of a rib.</cd> -- <col><b>To give
@@ -56352,8 +56354,8 @@ obstructions; to give room.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Make room</qex>, and let him stand before our face.</q>
-<rj><qau>Shak.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Space; compass; scope; latitude.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -58719,7 +58721,7 @@ incomplete; <as>as, a <ex>rough</ex> estimate; a <ex>rough</ex>
 draught</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rough diamond</b></col>, <cd>an uncut diamond; hence,
+<cs><p><col><b>Rough diamond</b></col>, <cd>an uncut diamond; hence,
 colloquially, a person of intrinsic worth under a rude exterior.</cd><--
 = diamond in the rough --> -- <col><b>Rough and ready</b></col>.
 <sd>(a)</sd> <cd>Acting with offhand promptness and efficiency</cd>.
@@ -58728,8 +58730,8 @@ colloquially, a person of intrinsic worth under a rude exterior.</cd><--
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <def>Produced offhand.</def> <ldquo/Some <xex>rough and
-ready</xex> theory.<rdquo/ <rj><au>Tylor.</au></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+ready</xex> theory.<rdquo/ <rj><au>Tylor.</au></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Rough</ent><br/
 <hw>Rough</hw>, <pos>n.</pos> <sn>1.</sn> <def>Boisterous weather.</def>
@@ -59390,7 +59392,7 @@ a <ex>round</ex> od ale together</as>.</def> <mark>[R.]</mark><br/
 below.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gentlemen of the round</b></col>. <sd>(a)</sd>
+<cs><p><col><b>Gentlemen of the round</b></col>. <sd>(a)</sd>
 <cd>Gentlemen soldiers of low rank who made the rounds. See 10
 <sd>(a)</sd>, above.</cd> <sd>(b)</sd> <cd>Disbanded soldiers who lived
 by begging.</cd> <mark>[Obs.]</mark><br/
@@ -59406,8 +59408,8 @@ the aitchbone, or between the rump and the leg.</cd> See
 <xex>Illust.</xex> of <er>beef</er>. -- <col><b>Round steak</b></col>,
 <cd>a beefsteak cut from the round.</cd> -- <col><b>Sculpture in the
 round</b></col>, <cd>sculpture giving the full form, as of man;
-statuary, distinguished from relief.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+statuary, distinguished from relief.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><-- p. 1255 --></p>
 
@@ -60408,15 +60410,15 @@ uncertain distances.</def> <rj><au>Encyc. Brit.</au></rj><br/
 <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At rovers</b></col>, <cd>at casual marks; hence, at
+<cs><p><col><b>At rovers</b></col>, <cd>at casual marks; hence, at
 random; <as>as, shooting <ex>at rovers</ex></as>. See def. 5
 <sd>(a)</sd> above.</cd> <au>Addison.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Bound down on every side with many bands because it shall not run
 <qex>at rovers</qex>.</q> <rj><qau>Robynson (More's Utopia).</qau></rj>
-</cs><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Roving</ent><br/
 <hw>Rov"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The operatin of forming
@@ -63891,7 +63893,7 @@ sirloin and the aitchbone piece. See <xex>Illust.</xex> of
 a remnant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Rump Parliament</b></col>, <it>or</it> <col><b>The
+<cs><p><mcol><col><b>Rump Parliament</b></col>, <it>or</it> <col><b>The
 Rump</b></col></mcol> <fld>(Eng. Hist.)</fld>, <cd>the remnant of the
 Long Parliament after the expulsion by <persfn>Cromwell</persfn> in 1648
 of those who opposed his purposes. It was dissolved by
@@ -63905,8 +63907,8 @@ army abolished the <qex>Rump</qex>, and by this army of saints
 [<source>1913 Webster</source>]</p>
 
 <p>-- <col><b>Rump steak</b></col>, <cd>a beefsteak from the rump.</cd>
-<au>Goldsmith.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<au>Goldsmith.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Rumper</ent><br/
 <hw>Rump"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A member or a
@@ -64203,7 +64205,7 @@ the ground; -- so distinguished from <xex>walking</xex> in athletic
 competition.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>As things run</b></col>, <cd>according to the usual
+<cs><p><col><b>As things run</b></col>, <cd>according to the usual
 order, conditions, quality, etc.; on the average; without selection or
 specification.</cd> -- <col><b>To let run</b></col> <fld>(Naut.)</fld>,
 <cd>to allow to pass or move freely; to slacken or loosen.</cd> --
@@ -64280,8 +64282,8 @@ Scott.</qau></rj><br/
 with, so that streams flow; <as>as, the streets <ex>ran with</ex>
 blood</as>.</cd> <sd>(b)</sd> <cd>To flow while charged with some
 foreign substance</cd>. <ldquo/Its rivers <xex>ran with</xex>
-gold.<rdquo/ <au>J. H. Newman.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+gold.<rdquo/ <au>J. H. Newman.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Run</ent><br/
 <hw>Run</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To cause
@@ -64568,7 +64570,7 @@ distance a ball travels after touching the ground from a
 stroke.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>At the long run</b></col>, <it>now, commonly</it>,
+<cs><p><mcol><col><b>At the long run</b></col>, <it>now, commonly</it>,
 <col><b>In the long run</b></col></mcol>, <cd>in or during the whole
 process or course of things taken together; in the final result; in the
 end; finally.</cd><br/
@@ -64605,8 +64607,8 @@ run</qex>.</q> <rj><qau>W. Irving.</qau></rj><br/
 
 <p>-- <col><b>To let go by the run</b></col> <fld>(Naut.)</fld>, <cd>to
 loosen and let run freely, as lines; to let fall without restraint, as a
-sail.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+sail.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Run</ent><br/
 <hw>Run</hw>, <pos>a.</pos> <sn>1.</sn> <def>Melted, or made from molten
@@ -65204,7 +65206,8 @@ He brings you figs.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Rural dean</b></col>. <fld>(Eccl.)</fld> <cd>See under <er>Dean</er>.</cd> -- <col><b>Rural deanery</b></col> <fld>(Eccl.)</fld>, <cd>the state, office, or residence, of a rural dean.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- Rustic.</syn> <usage> -- <er>Rural</er>, <er>Rustic</er>. <xex>Rural</xex> refers to the country itself; as, <xex>rural</xex> scenes, prospects, delights, etc. <xex>Rustic</xex> refers to the character, condition, taste, etc., of the original inhabitants of the country, who were generally uncultivated and rude; as, <xex>rustic</xex> manners; a <xex>rustic</xex> dress; a <xex>rustic</xex> bridge; rustic architecture, etc.<br/
+<usage>
+<p><syn><b>Syn.</b> -- Rustic.</syn>  -- <er>Rural</er>, <er>Rustic</er>. <xex>Rural</xex> refers to the country itself; as, <xex>rural</xex> scenes, prospects, delights, etc. <xex>Rustic</xex> refers to the character, condition, taste, etc., of the original inhabitants of the country, who were generally uncultivated and rude; as, <xex>rustic</xex> manners; a <xex>rustic</xex> dress; a <xex>rustic</xex> bridge; rustic architecture, etc.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We turn<br/
@@ -65212,8 +65215,8 @@ To where the silver Thames first <qex>rural</qex> grows.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><q>Lay bashfulness, that <qex>rustic</qex> virtue, by;<br/
-To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage><br/
-[<source>1913 Webster</source>]</p>
+To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj><br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><ent>Rurales</ent><br/
 \'d8<hw>Ru*ra"les</hw> <pr>(r<usdot/*r<amac/"l<emac/z)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>The gossamer-winged butterflies; a family of small butterflies, including the hairstreaks, violets, and theclas.</def><br/

@@ -7534,7 +7534,7 @@ various colors.</def> <sd>(b)</sd> <def>The sweetbrier (<spn>R.
 rubiginosa</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Milton, in the following lines, has applied the name to
+<note><p><hand/ Milton, in the following lines, has applied the name to
 some twining plant, perhaps the honeysuckle.<br/
 [<source>1913 Webster</source>]</p>
 
@@ -7544,8 +7544,8 @@ Or the twisted <qex>eglantine</qex>.</q> <rj><qau>L'Allegro,
 
 <p><ldquo/In our early writers and in Gerarde and the herbalists, it was
 a shrub with white flowers.<rdquo/ <rj><au>Dr.
-Prior.</au></rj></note><br/
-[<source>1913 Webster</source>]</p>
+Prior.</au></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Eglatere</ent><br/
 <hw>Eg"la*tere</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Eglantine.</def>
@@ -11454,7 +11454,7 @@ elements, see the element names in the vocabulary</note></p>
 <p><pre><table><ttitle>The Elements</ttitle><br/
 ------------------------------------------------------------<br/
 Name                   |Sym-|   Atomic  Weight           |<br/
-                       |bol |  O=16  |  H=1  | C=12.000<br/
+		       |bol |  O=16  |  H=1  | C=12.000<br/
 ------------------------------------------------------------<br/
 Aluminum               | Al |  27.1  |  26.9 |<br/
 Antimony (Stibium)     | Sb | 120    | 119.1 |<br/
@@ -20691,12 +20691,12 @@ for a certain end.</def><br/
 <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>Usually with an infinitive; as, to <xex>endeavor</xex> to
+<note><p>Usually with an infinitive; as, to <xex>endeavor</xex> to
 outstrip an antagonist.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He had . . . <qex>endeavored</qex> earnestly to do his duty.</q>
-<rj><qau>Prescott.</qau></rj></note></p>
+<rj><qau>Prescott.</qau></rj></p></note>
 
 <p><syn><b>Syn.</b> -- To attempt; try; strive; struggle; essay; aim;
 seek.</syn><br/
@@ -21955,7 +21955,7 @@ to a person; an <ex>enemy</ex> to truth, or to falsehood.</as></def><br/
 v. 44.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The enemy</b></col> <fld>(Mil.)</fld>, <cd>the hostile
+<cs><p><col><b>The enemy</b></col> <fld>(Mil.)</fld>, <cd>the hostile
 force. In this sense it is construed with the verb and pronoun either in
 the singular or the plural, but more commonly in the singular; <as>as,
 we have met <ex>the enemy</ex> and <xex>he is</xex> ours or <xex>they
@@ -21964,7 +21964,7 @@ are</xex> ours</as>.</cd><br/
 
 <p><q>It was difficult in such a country to track <qex>the enemy</qex>.
 It was impossible to drive him to bay.</q>
-<rj><qau>Macaulay.</qau></rj></cs></p>
+<rj><qau>Macaulay.</qau></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- Foe; antagonist; opponent. See
 <er>Adversary</er>.</syn><br/
@@ -32763,7 +32763,7 @@ is, one happening at or near the time of the equinox, in any part of the
 world</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Equinoctial colure</b></col> <fld>(Astron.)</fld>,
+<cs><p><col><b>Equinoctial colure</b></col> <fld>(Astron.)</fld>,
 <cd>the meridian passing through the <xex>equinoctial</xex> points.</cd>
 -- <col><b>Equinoctial line</b></col> <fld>(Astron.)</fld>, <cd>the
 celestial equator; -- so called because when the sun is on it, the
@@ -32779,8 +32779,8 @@ two points where the celestial and ecliptic intersect each other; the
 one being in the first point of Aries, the other in the first point of
 Libra.</cd> -- <col><b>Equinoctial time</b></col> <fld>(Astron.)</fld>
 <cd>reckoned in any year from the instant when the mean sun is at the
-mean vernal equinoctial point.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+mean vernal equinoctial point.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Equinoctial</ent><br/
 <hw>E`qui*noc"tial</hw>, <pos>n.</pos> <def>The equinoctial
@@ -38225,8 +38225,9 @@ building, or of the quantity of water in a pond</as>.</def><br/
 <qex>estimate</qex> is changed.</q> <rj><qau>J. C.
 Shairp.</qau></rj></p>
 
+<usage>
 <p><syn><b>Syn.</b> -- <er>Estimate</er>, <er>Estimation</er>,
-<er>Esteem</er>.</syn> <usage> The noun <xex>estimate</xex>, like its
+<er>Esteem</er>.</syn> The noun <xex>estimate</xex>, like its
 verb, supposes chiefly an exercise of judgment in determining the
 amount, importance, or magnitude of things, with their other exterior
 relations; <as>as, an <ex>estimate</ex> of expenses incurred; a true
@@ -38248,8 +38249,8 @@ affection.<rdquo/ <au>Gogan.</au><br/
 
 <p><q>No; dear as freedom is, and in my heart's<br/
 Just <qex>estimation</qex> prized above all price.</q>
-<rj><qau>Cowper.</qau></rj> </usage><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Cowper.</qau></rj><br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><ent>estimated</ent><br/
 <hw>estimated</hw> <pos>adj.</pos> <def>calculated approximately;
@@ -42648,7 +42649,7 @@ son?<rdquo/</note> <rj><au>Shak.</au></rj><br/
 Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ever and anon</b></col>, <cd>now and then; often. See
+<cs><p><col><b>Ever and anon</b></col>, <cd>now and then; often. See
 under <er>Anon</er>.</cd> -- <col><b>Ever is one</b></col>,
 <cd>continually; constantly.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au>
 -- <col><b>Ever so</b></col>, <cd>in whatever degree; to whatever
@@ -42681,8 +42682,8 @@ Wilson.</qau></rj></p>
 
 <p><q>Would I had met my dearest foe in heaven<br/
 <qex>Or ever</qex> I had seen that day, Horatio!</q>
-<rj><qau>Shak.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>Ever</xex> is sometimes joined to its adjective by
 a hyphen, but in most cases the hyphen is needless; as, <xex>ever
@@ -43253,7 +43254,7 @@ of Israel.</q> <rj><qau>Deut. xxii. 19.</qau></rj><br/
 <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Evil eye</b></col>, <cd>an eye which inflicts injury by
+<cs><p><col><b>Evil eye</b></col>, <cd>an eye which inflicts injury by
 some magical or fascinating influence. It is still believed by the
 ignorant and superstitious that some persons have the supernatural power
 of injuring by a look.</cd><br/
@@ -43264,8 +43265,8 @@ of injuring by a look.</cd><br/
 
 <p>-- <col><b>Evil speaking</b></col>, <cd>speaking ill of others;
 calumny; censoriousness.</cd> -- <col><b>The evil one</b></col>, <cd>the
-Devil; Satan.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+Devil; Satan.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>Evil</xex> is sometimes written as the first part
 of a compound (with or without a hyphen). In many cases the compounding
@@ -50095,7 +50096,7 @@ wide-extending; <as>as, the <ex>expansive</ex> force of heat; the
 <p><sn>2.</sn> <def>causing expansion; <as>as, the <ex>expansive</ex>
 force of heat</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
- 
+
 <p><sn>3.</sn> <def>of much expanse; wide-extending; <as>as, an
 <ex>expansive</ex> view of the mountains</as>.</def><br/
 [<source>PJC</source>]</p>

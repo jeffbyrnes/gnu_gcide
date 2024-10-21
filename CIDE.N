@@ -3626,7 +3626,7 @@ in the same state as that existing in nature; <as>as, <ex>natural</ex>
 wood; <ex>natural</ex> foods</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Natural day</b></col>, <cd>the space of twenty-four
+<cs><p><col><b>Natural day</b></col>, <cd>the space of twenty-four
 hours.</cd> <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -3702,8 +3702,8 @@ Being which are exhibited in nature; -- distinguished from
 the easiest open position of the mouth organs. See <cref>Neutral
 vowel</cref>, under <er>Neutral</er> and <xex>Guide to
 Pronunciation</xex>, <sect/ 17.</cd> <-- ##?? wrong examples!!?? an
-earlier def? cup, alone, --></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+earlier def? cup, alone, --><br/
+[<source>1913 Webster</source> <source>+PJC</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- See <er>Native</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -13266,7 +13266,7 @@ participles, in the formation of self-explaining compounds; as,
 <xex>night</xex>-warbling, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Night by night</b></col>, <col><b>Night after
+<cs><p><mcol><col><b>Night by night</b></col>, <col><b>Night after
 night</b></col></mcol>, <cd>nightly; many nights.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -13352,8 +13352,8 @@ as distinguished by the change of watch.</cd> <sd>(b)</sd> <cd>A watch,
 or guard, to aford protection in the night.</cd> -- <col><b>Night
 watcher</b></col>, one who watches in the night; especially, one who
 watches with evil designs. -- <col><b>Night witch</b></col>. <cd>Same as
-<er>Night hag</er>, above.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<er>Night hag</er>, above.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Night Before Christmas</ent><br/
 <hw>Night Before Christmas</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The
@@ -13363,7 +13363,7 @@ theme of <person>St. Nicholas</person> (Santa Claus) coming to bring
 gifts to children on Christmas eve.</def><br/
 [<source>PJC</source>]</p>
 
-<p><note><hand/ The full text of the poem follows: T'was the night
+<note><p><hand/ The full text of the poem follows: T'was the night
 before Christmas, when all through the house,<br/
 Not a creature was stirring, not even a mouse;<br/
 The stockings were hung by the chimney with care,<br/
@@ -13428,8 +13428,8 @@ And giving a nod, up the chimney he rose;</p>
 And away they all flew like the down of a thistle.<br/
 But I heard him exclaim as he drove out of sight,<br/
 <ldquo/Merry Christmas to all, and to all a good
-night!<rdquo/</note><br/
-[<source>PJC</source>]</p>
+night!<rdquo/<br/
+[<source>PJC</source>]</p></note>
 
 <p><ent>nightbird</ent><br/
 <hw>nightbird</hw> <pos>n.</pos> <def>A person who likes to be active

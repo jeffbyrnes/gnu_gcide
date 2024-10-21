@@ -1360,7 +1360,7 @@ mathemat<xex>ics</xex>, dynam<xex>ics</xex>, statist<xex>ics</xex>,
 polit<xex>ics</xex>, athlet<xex>ics</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The names sciences ending in <xex>ics</xex>, as
+<note><p><hand/ The names sciences ending in <xex>ics</xex>, as
 <xex>mathematics</xex>, <xex>mechanics</xex>, <xex>metaphysics</xex>,
 <xex>optics</xex>, etc., are, with respect to their form, nouns in the
 plural number. The plural form was probably introduced to mark the
@@ -1396,8 +1396,8 @@ moral agents.</q> <rj><qau>Sir W. Hamilton.</qau></rj><br/
 <p><q><qex>Mechanics</qex>, like pure <qex>mathematics</qex>, may be
 geometrical, or may be analytical; that is, <it>it</it> may treat space
 either by a direct consideration of its properties, or by a symbolical
-representation.</q> <rj><qau>Whewell.</qau></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+representation.</q> <rj><qau>Whewell.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><-- p. 725 --></p>
 
@@ -14837,14 +14837,14 @@ house)</as>.</def><br/
 <rj><qau>Lamb.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The sails of a vessel are said, in nautical language, to
+<note><p><hand/ The sails of a vessel are said, in nautical language, to
 be <xex>in</xex> when they are furled, or when stowed.</p>
 
 <p> In certain cases <xex>in</xex> has an adjectival sense; as, the
 <xex>in</xex> train (<it>i. e.</it>, the incoming train); compare
 <xex>up</xex> grade, <xex>down</xex> grade, <xex>under</xex>tow,
-<xex>after</xex>thought, etc.</note><br/
-[<source>1913 Webster</source>]</p>
+<xex>after</xex>thought, etc.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>With privilege or possession; --
 used to denote a holding, possession, or seizin; <as>as, <ex>in</ex> by
@@ -32755,7 +32755,7 @@ specifically to one of the classes of the phylum
 <phylum>Ciliophora</phylum>, of ciliated protozoans.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note><hand/ (From 1913 dictionary): They are found in all seas,
+<note><p><hand/ (From 1913 dictionary): They are found in all seas,
 lakes, ponds, and streams, as well as in infusions of organic matter
 exposed to the air. They are distinguished by having vibrating lashes or
 cilia, with which they obtain their food and swim about. They are
@@ -32768,8 +32768,8 @@ diatoms, as well as minute animals belonging to various classes, as the
 Rotifera, which are worms; and the Rhizopoda, which constitute a
 distinct class of Protozoa. Fossil Infusoria are mostly the siliceous
 shells of diatoms; sometimes they are siliceous skeletons of Radiolaria,
-or the calcareous shells of Foraminifera.</note><br/
-[<source>1913 Webster</source>]</p>
+or the calcareous shells of Foraminifera.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Infusorial</ent><br/
 <hw>In`fu*so"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld>
@@ -54522,7 +54522,7 @@ distinguishing feature is a capital with spiral volutes. See
 <xex>Illust.</xex> of <er>Capital</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ionic dialect</b></col> <fld>(Gr. Gram.)</fld>, <cd>a
+<cs><p><col><b>Ionic dialect</b></col> <fld>(Gr. Gram.)</fld>, <cd>a
 dialect of the Greek language, used in Ionia. The Homeric poems are
 written in what is designated <xex>old Ionic</xex>, as distinguished
 from <xex>new Ionic</xex>, or <xex>Attic</xex>, the dialect of all
@@ -54539,7 +54539,7 @@ kind of heavy-faced type (as that of the following line).</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/<nonpareiltype>This is Nonpareil
-Ionic.</nonpareiltype></note></cs></p>
+Ionic.</nonpareiltype></note></p></cs>
 
 <p><ent>Ionic</ent><br/
 <hw>I*on"ic</hw>, <pos>n.</pos> <sn>1.</sn> <fld>(Pros.)</fld>
@@ -59228,7 +59228,7 @@ issue</cref>, under <er>Feigned</er>.</def> <rj><au>Blount.
 Cowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At issue</b></col>, <cd>in controversy; disputed;
+<cs><p><col><b>At issue</b></col>, <cd>in controversy; disputed;
 opposing or contesting; hence, at variance; disagreeing;
 inconsistent.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -59244,8 +59244,8 @@ pea, or a similar round body, used to maintain irritation in a wound,
 and promote the secretion and discharge of pus.</cd> -- <mcol><col><b>To
 join issue</b></col>, <it>or</it> <col><b>To take
 issue</b></col></mcol>, <cd>to take opposing sides in a matter in
-controversy.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+controversy.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Issue</ent><br/
 <hw>Is"sue</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -59445,7 +59445,7 @@ Saxon <xex>his</xex>.</note> <rj><au>Latham.</au></rj><br/
 <p><q>The fruit tree yielding fruit after <qex>his</qex> (its) kind.</q>
 <rj><qau>Gen. i. 11.</qau></rj></p>
 
-<p><usage><xex>It</xex> is used,<br/
+<usage><p><xex>It</xex> is used,<br/
 <br/
 <sn>1.</sn> <def>As a substance for any noun of the neuter gender;
 <as>as, here is the book, take <ex>it</ex> home</as>.</def><br/
@@ -59495,8 +59495,8 @@ arms failed them, fought <qex>it</qex> out with nails and teeth.</q>
 <p><q>Whether the charmer sinner <qex>it</qex>, or saint
 <qex>it</qex>,<br/
 If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
-</usage><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><cs><col><b>Its self</b></col>. <cd>See
 <er>Itself</er>.</cd></cs><br/

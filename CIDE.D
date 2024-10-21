@@ -527,7 +527,7 @@ otherwise specially decorated.</def></p>
 <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[L. <ets>daedalus</ets>
 cunningly wrought, fr. Gr. <ets><grk>daida`llw</grk></ets>; cf.
 <ets><?/</ets> to work cunningly. The word also alludes to the mythical
-D<ae/dalus (Gr. <ets><<grk>Dai`dalos</grk></ets>, lit., the cunning
+D<ae/dalus (Gr. <ets><grk>Dai`dalos</grk></ets>, lit., the cunning
 worker).]</ety> <sn>1.</sn> <def>Cunningly or ingeniously formed or
 working; skillful; artistic; ingenious.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3021,7 +3021,7 @@ peril; risk; insecurity.</def><br/
 <mark>[Obs.]</mark> <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In one's danger</b></col>, <cd>in one's power; liable to
+<cs><p><col><b>In one's danger</b></col>, <cd>in one's power; liable to
 a penalty to be inflicted by him. <mark>[Obs.]</mark> This sense is
 retained in the proverb, <ldquo/Out of debt out of
 <xex>danger</xex>.<rdquo/</cd><br/
@@ -3031,7 +3031,7 @@ retained in the proverb, <ldquo/Out of debt out of
 not.</q> <rj><qau>Robynson (More's Utopia).</qau></rj></p>
 
 <p>-- <col><b>To do danger</b></col>, <cd>to cause danger.</cd>
-<mark>[Obs.]</mark> <rj><au>Shak.</au></rj></cs></p>
+<mark>[Obs.]</mark> <rj><au>Shak.</au></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- Peril; hazard; risk; jeopardy.</syn> <usage> --
 <er>Danger</er>, <er>Peril</er>, <er>Hazard</er>, <er>Risk</er>,
@@ -6388,7 +6388,7 @@ near the hole that the player is certain to hole it in the next
 stroke.</q> <rj><qau>Encyc. of Sport.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Dead ahead</b></col> <fld>(Naut.)</fld>, <cd>directly
+<cs><p><col><b>Dead ahead</b></col> <fld>(Naut.)</fld>, <cd>directly
 ahead; -- said of a ship or any object, esp. of the wind when blowing
 from that point toward which a vessel would go.</cd> -- <col><b>Dead
 angle</b></col> <fld>(Mil.)</fld>, <cd>an angle or space which can not
@@ -6486,7 +6486,7 @@ dead</b></col>, <cd>to die.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I deme thee, thou must algate be <qex>dead</qex>.</q>
-<rj><qau>Chaucer.</qau></rj></cs></p>
+<rj><qau>Chaucer.</qau></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- Inanimate; deceased; extinct. See
 <er>Lifeless</er>.</syn><br/
@@ -7627,7 +7627,7 @@ death</xex>; as, <xex>death</xex>bed or <xex>death</xex> bed;
 <xex>death</xex>blow or <xex>death</xex> blow, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Black death</b></col>. <cd>See <er>Black death</er>, in
+<cs><p><col><b>Black death</b></col>. <cd>See <er>Black death</er>, in
 the Vocabulary.</cd> -- <col><b>Civil death</b></col>, <cd>the
 separation of a man from civil society, or the debarring him from the
 enjoyment of civil rights, as by banishment, attainder, abjuration of
@@ -7690,7 +7690,7 @@ death</b></col>, <cd>the grave.</cd><br/
 separation from God.</cd> <au>Rev. ii. 11.</au> -- <col><b>To be the
 death of</b></col>, <cd>to be the cause of death to; to make die.</cd>
 <ldquo/It was one who should <xex>be the death of</xex> both his
-parents.<rdquo/ <au>Milton.</au></cs></p>
+parents.<rdquo/ <au>Milton.</au></p></cs>
 
 <p><syn><b>Syn.</b> -- <er>Death</er>, <er>Decease</er>,
 <er>Demise</er>, <er>Departure</er>, <er>Release</er>.</syn> <usage>
@@ -14381,7 +14381,7 @@ in court at a day assigned, especially of the defendant in a suit when
 called to make answer; also of jurors, witnesses, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In default of</b></col>, <cd>in case of failure or lack
+<cs><p><col><b>In default of</b></col>, <cd>in case of failure or lack
 of.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -14389,8 +14389,8 @@ of.</cd><br/
 of</qex> the real ones.</q> <rj><qau>Arbuthnot.</qau></rj></p>
 
 <p>-- <col><b>To suffer a default</b></col> <fld>(Law)</fld>, <cd>to
-permit an action to be called without appearing to answer.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+permit an action to be called without appearing to answer.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Default</ent><br/
 <hw>De*fault"</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -20185,8 +20185,9 @@ propagated; false belief; error in belief.</def><br/
 <p><q>And fondly mourned the dear <qex>delusion</qex> gone.</q>
 <rj><qau>Prior.</qau></rj></p>
 
+<usage>
 <p><syn><b>Syn.</b> -- <er>Delusion</er>, <er>Illusion</er>.</syn>
-<usage> These words both imply some deception practiced upon the mind.
+These words both imply some deception practiced upon the mind.
 <xex>Delusion</xex> is deception from want of knowledge;
 <xex>illusion</xex> is deception from morbid imagination. An
 <xex>illusion</xex> is a false show, a mere cheat on the fancy or
@@ -20208,8 +20209,9 @@ applied solely to the visions of an uncontrolled imagination, the
 chimerical ideas of one blinded by hope, passion, or credulity, or
 lastly, to spectral and other ocular deceptions, to which the word
 <xex>delusion</xex> is never applied.<rdquo/
-<rj><au>Whately.</au></rj></usage><br/
+<rj><au>Whately.</au></rj><br/
 [<source>1913 Webster</source>]</p>
+</usage>
 
 <p><ent>Delusional</ent><br/
 <hw>De*lu"sion*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining
@@ -38458,7 +38460,7 @@ face.</def><br/
 liquor.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To die in the last ditch</b></col>, <cd>to fight till
+<cs><p><col><b>To die in the last ditch</b></col>, <cd>to fight till
 death; to die rather than surrender.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -38468,7 +38470,7 @@ country's ruin, -- I <qex>will die in the last ditch</qex>.<rdquo/</q>
 <rj><qau>Hume (Hist. of Eng. ).</qau></rj></p>
 
 <p>-- <col><b>To die out</b></col>, <cd>to cease gradually; as, the
-prejudice has <xex>died out</xex>.</cd></cs></p>
+prejudice has <xex>died out</xex>.</cd></p></cs>
 
 <p><syn><b>Syn.</b> -- To expire; decease; perish; depart;
 vanish.</syn><br/
@@ -38633,84 +38635,84 @@ Judgment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><pre><tt>  The text of the Dies Irae follows:<br/
-                    DIES IRAE
+		    DIES IRAE
     attributed to Tomaso de Celano
-========================================================= 
+=========================================================
     Latin                          English
-========================================================= 
+=========================================================
 Dies irae, dies illa          The day of wrath, that day
 solvet saeclum in favilla:    which will reduce the world to ashes,
 teste David cum Sibylla.      as foretold by David and the Sybil.
-                              
+
 Quantus tremor est futurus,   What terror there will be,
 quando judex est venturus,    when the Lord will come
 cuncta stricte discussurus!   to rigorously judge all!
-                              
+
 Tuba mirum spargens sonum     The trumpet, scattering a wondrous sound
 per sepulcra regionum,        among the graves of all the lands,
 coget omnes ante thronum.     will assemble all before the Throne.
-                              
+
 Mors stupebit et natura,      Death and Nature will be astounded
 cum resurget creatura,        when they see a creature rise again
 judicanti responsura.         to answer to the Judge.
-                              
+
 Liber scriptus proferetur,    The book will be brought forth
 in quo totum continetur,      in which all deeds are noted,
 unde mundus judicetur.        for which humanity will answer.
-                              
+
 Judex ergo cum sedebit,       When the judge will be seated,
 quidquid latet apparebit,     all that is hidden will appear,
 nil inultum remanebit.        and nothing will go unpunished.
-                              
+
 Quid sum miser tunc dicturus? Alas, what will I then say?
 Quem patronum rogaturus,      To what advocate shall I appeal,
 cum vix justus sit securus?   when even the just tremble?
-                              
+
 Rex tremendae majestatis,     O king of redoutable majesty,
 qui salvandos salvas gratis,  who freely saves the elect,
 salva me fons pietatis.       save me, o fount of piety!
-                              
+
 Recordare Jesu pie,           Remember, good Jesus,
 quod sum causa tuae viae,     that I am the cause of your journey,
 ne me perdas illa die.        do not lose me on that day.
-                              
+
 Quaerens me sedisti lassus,   You wearied yourself in finding me.
 redemisti crucem passus,      You have redeemed me through the cross.
 tantus labor non sit cassus.  Let not such great efforts be in vain.
-                              
+
 Juste judex ultionis,         O judge of vengeance, justly
 donum fac remissionis         make a gift of your forgiveness
 ante diem rationis.           before the day of reckoning.
-                              
+
 Ingemisco tanquam reus,       I lament like a guilty one.
 culpa rubet vultus meus,      My faults cause me to blush,
 supplicanti parce, Deus.      I beg you, spare me.
-                              
+
 Qui Mariam absolvisti,        You who have absolved Mary
 et latronem exaudisti,        and have heard the thief's prayer,
 mihi quoque spem dedisti.     have also given me hope.
-                              
+
 Preces meae non sunt dignae:  My prayers are not worthy,
 sed tu bonus fac benigne,     but you, o Good One, please grant freely
 ne perenni cremer igne.       that I do not burn in the eternal fire.
- 
+
 Inter oves locum praesta,     Give me a place among the sheep,
 et ab haedis me sequestra,    separate me from the goats
 statuens in parte dextra.     by placing me at your right.
-                              
+
 Confutatis maledictis,        Having destroyed the accursed,
 flammis acribus addictis:     condemned them to the fierce flames,
 voca me cum benedictis.       Count me among the blessed.
-                              
+
 Oro Supplex Et Acclinis,      I prostrate myself, supplicating,
 Cor Contritum Quasi Cinis,    my heart in ashes, repentant;
 Gere Curam Mei Finis.         take good care of my last moment!
-                              
+
 Lacrimosa dies illa,          That tearful day,
 qua resurget ex favilla       when shall rise again from the ashes
 judicandus homo reus.         sinful man to be judged.
 Huic ergo parce, Deus:        Therefore pardon him, o God.
-                             
+
 pie Jesu Domine,              Holy Lord Jesus,
 dona eis requiem.             give them rest.
 
@@ -55894,7 +55896,7 @@ jealousy, and wise men to irresolution and melancholy.</q>
 <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To dispose of</b></col>. <sd>(a)</sd> <cd>To determine
+<cs><p><col><b>To dispose of</b></col>. <sd>(a)</sd> <cd>To determine
 the fate of; to exercise the power of control over; to fix the
 condition, application, employment, etc. of; to direct or assign for a
 use.</cd><br/
@@ -55918,7 +55920,7 @@ a house; to <xex>dispose of</xex> one's time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A rural judge <qex>disposed of</qex> beauty's prize.</q>
-<rj><qau>Waller.</qau></rj></cs></p>
+<rj><qau>Waller.</qau></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- To set; arrange; order; distribute; adjust;
 regulate; adapt; fit; incline; bestow; give.</syn><br/
@@ -63878,7 +63880,7 @@ they call <qex>doing</qex> him.</q> <rj><qau>Charles
 Reade.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><note><hand/ <sd>(a)</sd> <xex>Do</xex> and <xex>did</xex> are much
+<note><p><hand/ <sd>(a)</sd> <xex>Do</xex> and <xex>did</xex> are much
 employed as auxiliaries, the verb to which they are joined being an
 infinitive. As an auxiliary the verb <xex>do</xex> has no participle.
 <ldquo/I <xex>do</xex> set my bow in the cloud.<rdquo/ <au>Gen. ix.
@@ -63918,8 +63920,8 @@ Longfellow.</qau></rj></p>
 
 <p>In unemphatic affirmative sentences <xex>do</xex> is, for the most
 part, archaic or poetical; as, <ldquo/This just reproach their virtue
-<xex>does</xex> excite.<rdquo/ <rj><au>Dryden.</au></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+<xex>does</xex> excite.<rdquo/ <rj><au>Dryden.</au></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><mcol><col><b>To do one's best</b></col>, <col><b>To do one's
 diligence</b></col></mcol> (and the like), <cd>to exert one's self; to
@@ -63980,7 +63982,7 @@ parliaments since the Conquest; and if that won't <qex>do</qex>;
 challenge the crown.</q> <rj><qau> Collier.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To do by</b></col>. <cd>See under <er>By</er>.</cd> --
+<cs><p><col><b>To do by</b></col>. <cd>See under <er>By</er>.</cd> --
 <col><b>To do for</b></col>. <sd>(a)</sd> <cd>To answer for; to serve
 as; to suit.</cd> <sd>(b)</sd> <cd>To put an end to; to ruin; to baffle
 completely; as, a goblet is <xex>done for</xex> when it is broken.</cd>
@@ -63997,8 +63999,8 @@ without; to dispense with.</cd> -- <col><b>To have done</b></col>,
 <cd>to have made an end or conclusion; to have finished; to be quit; to
 desist.</cd> -- <col><b>To have done with</b></col>, <cd>to have
 completed; to be through with; to have no further concern with.</cd> --
-<col><b>Well to do</b></col>, <cd>in easy circumstances.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<col><b>Well to do</b></col>, <cd>in easy circumstances.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Do</ent><br/
 <hw>Do</hw>, <pos>n.</pos> <sn>1.</sn> <def>Deed; act; fear.</def>
@@ -68152,7 +68154,7 @@ saved.</q> <rj><qau>John x. 9.</qau></rj><br/
 street.</q> <rj><qau>Arbuthnot.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Blank door</b></col>, <col><b>Blind
+<cs><p><mcol><col><b>Blank door</b></col>, <col><b>Blind
 door</b></col></mcol>, <cd>etc. <fld>(Arch.)</fld> See under
 <er>Blank</er>, <er>Blind</er>, etc.</cd> -- <mcol><col><b>In
 doors</b></col>, <it>or</it> <col><b>Within doors</b></col></mcol>,
@@ -68179,8 +68181,8 @@ chargeable to.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>If I have failed, the fault <qex>lies</qex> wholly <qex>at my
-door</qex>.</q> <rj><qau>Dryden.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+door</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>Door</xex> is used in an adjectival construction or
 as the first part of a compound (with or without the hyphen), as,
@@ -70369,7 +70371,7 @@ it</as>.</def><br/
 So much of what is graceful.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To doubt not but</b></col>. <q>I do <qex>not doubt
+<cs><p><col><b>To doubt not but</b></col>. <q>I do <qex>not doubt
 but</qex> I have been to blame.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -70382,8 +70384,8 @@ but</qex> I have been to blame.</q> <rj><qau>Dryden.</qau></rj><br/
 believing, etc. (or notwithstanding all that may be said to the
 contrary) -- <xex>but</xex> having a preventive sense, after verbs of
 <ldquo/doubting<rdquo/ and <ldquo/denying<rdquo/ that convey a notion of
-hindrance. <au>E. A. Abbott.</au></note> </cs><br/
-[<source>1913 Webster</source>]</p>
+hindrance. <au>E. A. Abbott.</au></note><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><sn>2.</sn> <def>To suspect; to fear; to be apprehensive of.</def>
 <mark>[Obs.]</mark><br/
@@ -71469,7 +71471,7 @@ the provinces, <qex>up</qex> to London.</q>
 <rj><qau>Stormonth.</qau></rj> </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Down helm</b></col> <fld>(Naut.)</fld>, <cd>an order to
+<cs><p><col><b>Down helm</b></col> <fld>(Naut.)</fld>, <cd>an order to
 the helmsman to put the helm to leeward.</cd> -- <mcol><col><b>Down
 on</b></col> <it>or</it> <col><b>Down upon</b></col> (joined with a verb
 indicating motion, as <xex>go</xex>, <xex>come</xex>,
@@ -71491,8 +71493,8 @@ cry down</b></col>. <cd>See under <er>Cry</er>, <pos>v. t.</pos></cd> --
 t.</pos></cd> -- <col><b>Up and down</b></col>, <cd>with rising and
 falling motion; to and fro; hither and thither; everywhere.</cd>
 <ldquo/Let them wander <xex>up and down</xex>.<rdquo/ <au>Ps. lix.
-15.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+15.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Down</ent><br/
 <hw>Down</hw>, <pos>prep.</pos> <ety>[From <er>Down</er>,
@@ -79358,7 +79360,7 @@ preciseness of execution, or the want of a delicate contour in form, and
 of easy transition in coloring.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Dry area</b></col> <fld>(Arch.)</fld>, <cd>a small open
+<cs><p><col><b>Dry area</b></col> <fld>(Arch.)</fld>, <cd>a small open
 space reserved outside the foundation of a building to guard it from
 damp.</cd> -- <col><b>Dry blow</b></col>. <sd>(a)</sd> <fld>(Med.)</fld>
 <cd>A blow which inflicts no wound, and causes no effusion of
@@ -79414,8 +79416,8 @@ vat, basket, or other receptacle for dry articles.</cd> -- <col><b>Dry
 wine</b></col>, <cd>that in which the saccharine matter and fermentation
 were so exactly balanced, that they have wholly neutralized each other,
 and no sweetness is perceptible; -- opposed to <contr>sweet
-wine</contr>, in which the saccharine matter is in excess.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+wine</contr>, in which the saccharine matter is in excess.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Dry</ent><br/
 <hw>Dry</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -79428,7 +79430,7 @@ by any means; to exsiccate; <as>as, to <ex>dry</ex> the eyes; to
 <ex>dry</ex> a wet cloth; to <ex>dry</ex> hay.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To dry up</b></col>. <sd>(a)</sd> <cd>To scorch or parch
+<cs><p><col><b>To dry up</b></col>. <sd>(a)</sd> <cd>To scorch or parch
 with thirst; to deprive utterly of water; to consume.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -79448,8 +79450,8 @@ Jowett (Thucyd. )</qau></rj></p>
 
 <p>-- <mcol><col><b>To dry a cow</b></col>, <it>or</it> <col><b>To dry
 up a cow</b></col></mcol>, <cd>to cause a cow to cease secreting
-milk.</cd> <rj><au>Tylor.</au></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+milk.</cd> <rj><au>Tylor.</au></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Dry</ent><br/
 <hw>Dry</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To grow dry; to become
@@ -83656,7 +83658,7 @@ where the lord of the domain resides.</q> <rj><qau>C. J.
 Smith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To dwell in</b></col>, <cd>to abide in (a place); hence,
+<cs><p><col><b>To dwell in</b></col>, <cd>to abide in (a place); hence,
 to depend on.</cd> <ldquo/My hopes <xex>in</xex> heaven to
 <xex>dwell</xex>.<rdquo/ <au>Shak.</au> -- <mcol><col><b>To dwell
 on</b></col> <it>or</it> <col><b>To dwell upon</b></col></mcol>, <cd>to
@@ -83667,7 +83669,7 @@ on</ex> a note</as>.</cd><br/
 
 <p><q>They stand at a distance, <qex>dwelling on</qex> his looks and
 language, fixed in amazement.</q> <rj><qau>Buckminster.</qau></rj>
-</cs></p>
+</p></cs>
 
 <p><syn><b>Syn.</b> -- To inhabit; live; abide; sojourn; reside;
 continue; stay; rest.</syn><br/

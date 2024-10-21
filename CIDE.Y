@@ -100,7 +100,7 @@ shows this use.</def><br/
 <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Some examples of Chaucer's use of this prefix are;
+<note><p><hand/ Some examples of Chaucer's use of this prefix are;
 <xex>i</xex>be, <xex>i</xex>been, <xex>i</xex>caught, <xex>y</xex>come,
 <xex>y</xex>do, <xex>i</xex>doon, <xex>y</xex>go, <xex>i</xex>proved,
 <xex>y</xex>wrought. It <xex>i</xex>nough, <xex>e</xex>nough, it is
@@ -109,8 +109,8 @@ combined with an adjective. Other examples are in the Vocabulary.<br/
 
 <p> Spenser and later writers frequently employed this prefix when
 affecting an archaic style, and sometimes used it
-incorrectly.</note><br/
-[<source>1913 Webster</source>]</p>
+incorrectly.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Ya</ent><br/
 <hw>Ya</hw> <pr>(y<aum/)</pr>, <pos>adv.</pos> <def>Yea.</def>
@@ -2919,7 +2919,7 @@ And the gods <qex>yield</qex> you for 't.</q>
 Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To yield the breath</b></col>, <col><b>To yield the
+<cs><p><mcol><col><b>To yield the breath</b></col>, <col><b>To yield the
 breath up</b></col>, <col><b>To yield the ghost</b></col>, <col><b>To
 yield the ghost up</b></col>, <col><b>To yield up the ghost</b></col>,
 <it>or</it> <col><b>To yield the life</b></col></mcol>, <cd>to die; to
@@ -2927,8 +2927,8 @@ expire; -- similar to <cref>To give up the ghost</cref>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>One calmly <qex>yields</qex> his willing <qex>breath</qex>.</q>
-<rj><qau>Keble.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Keble.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Yield</ent><br/
 <hw>Yield</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To give up the

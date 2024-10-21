@@ -1040,7 +1040,7 @@ interest, health, or happiness; to make progress; <as>as, the sick man
 extortion.</q> <rj><qau>Ezek. xxii. 12.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gaining twist</b></col>, <cd>in rifled firearms, a twist
+<cs><p><col><b>Gaining twist</b></col>, <cd>in rifled firearms, a twist
 of the grooves, which increases regularly from the breech to the
 muzzle.</cd> <mcol><col><b>To gain on</b></col> <it>or</it> <col><b>To
 gain upon</b></col></mcol>. <sd>(a)</sd> <cd>To encroach on; <as>as, the
@@ -1052,8 +1052,8 @@ of; to have the advantage of.</cd><br/
 
 <p><q>The English have not only <qex>gained upon</qex> the Venetians in
 the Levant, but have their cloth in Venice itself.</q>
-<rj><qau>Addison.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Addison.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><q>My good behavior had so far <qex>gained on</qex> the emperor, that
 I began to conceive hopes of liberty.</q> <rj><qau>Swift.</qau></rj><br/
@@ -3867,13 +3867,14 @@ suspicion.</q> <rj><qau>Chaucer.</qau></rj><br/
 e.</it>, hied).</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>Later writers use <xex>gan</xex> both for singular and
+<note><p>Later writers use <xex>gan</xex> both for singular and
 plural.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Yet at her speech their rages <qex>gan</qex> relent.</q>
-<rj><qau>Spenser.</qau></rj></note><br/
+<rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
+			      </note>
 
 <p><ent>Ganancial</ent><br/
 <hw>Ga*nan"cial</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Sp., pertaining
@@ -8878,7 +8879,7 @@ viii. 38).</qau></rj><br/
 <hw>gelechiid</hw> <pos>n.</pos> <def>a small slender-winged moth whose
 larvae are agricultural pests.</def><br/
 <syn><b>Syn. --</b> gelechiid moth.</syn><br/
-[<source>WordNet 1.5</source>]</p>	
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gelechiidae</ent><br/
 <hw>Gelechiidae</hw> <pos>n.</pos> <def>A family of moths which include
@@ -12639,7 +12640,7 @@ spoken in many dialects.</cd></cs><br/
 Germany.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>German Baptists</b></col>. <cd>See <er>Dunker</er>.</cd>
+<cs><p><col><b>German Baptists</b></col>. <cd>See <er>Dunker</er>.</cd>
 -- <col><b>German bit</b></col>, <cd>a wood-boring tool, having a long
 elliptical pod and a scew point.</cd> -- <col><b>German carp</b></col>
 <fld>(Zool.)</fld>, <cd>the crucian carp.</cd> -- <col><b>German
@@ -12664,15 +12665,9 @@ but is now largely superseded by other white alloys.</cd> --
 from bog iron ore in a forge, with charcoal for fuel.</cd> --
 <col><b>German text</b></col> <fld>(Typog.)</fld>, <cd>a character
 resembling modern German type, used in English printing for ornamental
-headings, etc., as in the words,<br/
-[<source>1913 Webster</source>]</p>
-
-<p><note><hand/ <germantype><point10>This line is German
-Text.</point10></germantype></note> </cd></p>
-
-<p>-- <col><b>German tinder</b></col>. <cd>See
-<er>Amadou</er>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+headings, etc.</cd> -- <col><b>German tinder</b></col>. <cd>See
+<er>Amadou</er>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Germander</ent><br/
 <hw>Ger*man"der</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE.
@@ -16167,7 +16162,7 @@ xvi. 10.</qau></rj><br/
 xviii. 39.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To gird on</b></col>, <cd>to put on; to fasten around or
+<cs><p><col><b>To gird on</b></col>, <cd>to put on; to fasten around or
 to one securely, like a girdle; as, <xex>to gird on</xex> armor or a
 sword.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -16191,8 +16186,8 @@ or for work, in allusion to the ancient custom of gathering the long
 flowing garments into the girdle and tightening it before any exertion;
 hence, adjectively, eagerly or constantly active; strenuous; striving.
 <ldquo/A severer, more <xex>girt-up</xex> way of living.<rdquo/ <au>J.
-C. Shairp.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+C. Shairp.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Girder</ent><br/
 <hw>Gird"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Gird</er> to
@@ -16742,7 +16737,7 @@ Lorenzo and his amorous Jessica.</q> <rj><qau>Shak.</qau></rj><br/
 <ex>gave</ex> the park</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To give away</b></col>, <cd>to make over to another; to
+<cs><p><col><b>To give away</b></col>, <cd>to make over to another; to
 transfer.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -16839,7 +16834,7 @@ way</xex>.</cd> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>To begin to row; or
 to row with increased energy.</cd> <sd>(d)</sd> <fld>(Stock
 Exchange)</fld>. <cd>To depreciate or decline in value; as, railroad
 securities <xex>gave way</xex> two per cent.</cd> -- <col><b>To give way
-together</b></col>, <cd>to row in time; to keep stroke.</cd></cs></p>
+together</b></col>, <cd>to row in time; to keep stroke.</cd></p></cs>
 
 <p><syn><b>Syn.</b> -- To <er>Give</er>, <er>Confer</er>,
 <er>Grant</er>.</syn> <usage> To <xex>give</xex> is the generic word,
@@ -16896,7 +16891,7 @@ Gallicism]</mark><br/
 <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To give back</b></col>, <cd>to recede; to retire; to
+<cs><p><col><b>To give back</b></col>, <cd>to recede; to retire; to
 retreat.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -16942,8 +16937,8 @@ over</qex>, and to desist from any further pursuits after fame.</q>
 <rj><qau>Addison.</qau></rj></p>
 
 <p>-- <col><b>To give up</b></col>, <cd>to cease from effort; to yield;
-to despair; as, he would never <xex>give up</xex>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+to despair; as, he would never <xex>give up</xex>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>give-and-go</ent><br/
 <hw>give-and-go</hw> <pos>n.</pos> <fld>(basketball)</fld> <def>A
@@ -18134,7 +18129,7 @@ combination; as, <xex>glass</xex> maker, or <xex>glass</xex>maker;
 blower or <xex>glass</xex>blower, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bohemian glass</b></col>, <col><b>Cut
+<cs><p><mcol><col><b>Bohemian glass</b></col>, <col><b>Cut
 glass</b></col></mcol>, <cd>etc. See under <er>Bohemian</er>,
 <er>Cut</er>, etc.</cd> -- <col><b>Crown glass</b></col>, <cd>a variety
 of glass, used for making the finest plate or window glass, and
@@ -18214,8 +18209,8 @@ wax, or paraffine, etc.; -- called also, from the name of the inventor
 of the process, <altname>Bastie glass</altname>.</cd> -- <col><b>Water
 glass</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Soluble glass</cref>,
 above.</cd> -- <col><b>Window glass</b></col>, <cd>glass in panes
-suitable for windows.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+suitable for windows.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Glass</ent><br/
 <hw>Glass</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -22895,7 +22890,7 @@ movements of the mind; also figuratively applied.</def><br/
 also, to walk step by step, or leisurely.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In old writers <xex>go</xex> is much used as opposed to
+<note><p><hand/ In old writers <xex>go</xex> is much used as opposed to
 <xex>run</xex>, or <xex>ride</xex>. <ldquo/Whereso I <xex>go</xex> or
 <xex>ride</xex>.<rdquo/ <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -22912,8 +22907,8 @@ Will creep in service where it can not <qex>go</qex>.</q>
 
 <p><q>He fell from running to <qex>going</qex>, and from
 <qex>going</qex> to clambering upon his hands and his knees.</q>
-<rj><qau>Bunyan.</qau></rj></note><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Bunyan.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><note><hand/ In Chaucer <xex>go</xex> is used frequently with the
 pronoun in the objective used reflexively; as, he <xex>goeth</xex> him
@@ -23041,7 +23036,7 @@ into</xex>, to <xex>go out</xex>, to <xex>go aside</xex>, to <xex>go
 astray</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Go to</b></col>, <cd>come; move; go away; -- a phrase of
+<cs><p><col><b>Go to</b></col>, <cd>come; move; go away; -- a phrase of
 exclamation, serious or ironical.</cd> -- <col><b>To go
 a-begging</b></col>, <cd>not to be in demand; to be undesired.</cd> --
 <col><b>To go about</b></col>. <sd>(a)</sd> <cd>To set about; to enter
@@ -23239,8 +23234,8 @@ wrong road or direction; to wander or stray.</cd> <sd>(b)</sd> <cd>To
 depart from virtue.</cd> <sd>(c)</sd> <cd>To happen unfortunately; to
 unexpectedly cause a mishap or failure.</cd> <sd>(d)</sd> <cd>To miss
 success; to fail.</cd> -- <col><b>To let go</b></col>, <cd>to allow to
-depart; to quit one's hold; to release.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+depart; to quit one's hold; to release.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Go</ent><br/
 <hw>Go</hw> <pr>(?)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To take, as
@@ -24684,7 +24679,7 @@ from <ets>gold</ets>. See <er>Gold</er>, and cf.
 auspicious; <as>as, <ex>golden</ex> opinions</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Golden age</b></col>. <sd>(a)</sd> <cd>The fabulous age
+<cs><p><col><b>Golden age</b></col>. <sd>(a)</sd> <cd>The fabulous age
 of primeval simplicity and purity of manners in rural employments,
 followed by the <contr>silver age</contr>, <contr>bronze age</contr>,
 and <contr>iron age</contr>.</cd> <au>Dryden.</au> <sd>(b)</sd>
@@ -24781,8 +24776,8 @@ yellow warbler</altname>, <altname>garden warbler</altname>, and
 wasp</b></col> <fld>(Zool.)</fld>, <cd>a bright-colored hymenopterous
 insect, of the family <fam>Chrysidid<ae/</fam>. The colors are golden,
 blue, and green.</cd> -- <col><b>Golden wedding</b></col>. <cd>See under
-<er>Wedding</er>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<er>Wedding</er>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>goldenbush</ent><br/
 <hw>gold"en*bush`</hw> <pos>n.</pos> <def>A plant of the genus
@@ -25689,7 +25684,7 @@ report</xex>, <xex>good repute</xex>, etc.</def><br/
 <rj><qau>Eccl. vii. 1.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>As good as</b></col>. <cd>See under <er>As</er>.</cd> --
+<cs><p><col><b>As good as</b></col>. <cd>See under <er>As</er>.</cd> --
 <mcol><col><b>For good</b></col>, <it>or</it> <col><b>For good and
 all</b></col></mcol>, <cd>completely and finally; fully; truly.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -25794,8 +25789,8 @@ satisfied with; to consider expedient or proper.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>If ye <qex>think good</qex>, give me my price; and if not,
-forbear.</q> <rj><qau>Zech. xi. 12.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+forbear.</q> <rj><qau>Zech. xi. 12.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>Good</xex>, in the sense of <xex>wishing
 well</xex>, is much used in greeting and leave-taking; as,
@@ -28571,7 +28566,7 @@ also <altname>grace hoop</altname> or
 <altname>hoops</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Act of grace</b></col>. <cd>See under <er>Act</er>.</cd>
+<cs><p><col><b>Act of grace</b></col>. <cd>See under <er>Act</er>.</cd>
 -- <col><b>Day of grace</b></col> <fld>(Theol.)</fld>, <cd>the time of
 probation, when the offer of divine forgiveness is made and may be
 accepted.</cd><br/
@@ -28625,7 +28620,7 @@ ungraciously.</cd><br/
 
 <p><q>What might have been done with a good <qex>grace</qex> would at
 least<br/
-be done with a bad grace.</q> <rj><qau>Macaulay.</qau></rj> </cs></p>
+be done with a bad grace.</q> <rj><qau>Macaulay.</qau></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- Elegance; comeliness; charm; favor; kindness;
 mercy.</syn> -- <usage><er>Grace</er>, <er>Mercy</er>. These words,
@@ -29633,7 +29628,7 @@ of a sepal, as in the common dock. See <er>Grained</er>, <pos>a.</pos>,
 To smellen sweet.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Against the grain</b></col>, <cd>against or across the
+<cs><p><col><b>Against the grain</b></col>, <cd>against or across the
 direction of the fibers; hence, against one's wishes or tastes;
 unwillingly; unpleasantly; reluctantly; with difficulty.</cd>
 <au>Swift.</au> <au>Saintsbury.</au>-- <col><b>A grain of
@@ -29670,8 +29665,8 @@ Likce crimson dyed in <qex>grain.</qex></q>
 <rj><qau>Spenser.</qau></rj></p>
 
 <p>-- <col><b>To go against the grain of</b></col> (a person), <cd>to be
-repugnant to; to vex, irritate, mortify, or trouble.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+repugnant to; to vex, irritate, mortify, or trouble.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Grain</ent><br/
 <hw>Grain</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -31715,7 +31710,8 @@ Appendix.</note></p>
 <p><-- the mark <stypec> . . . </stypec> indicates collocation font, but
 functionally subtypes --></p>
 
-<p><subtypes><stypec>Barnyard grass</stypec>, <cd>for hay. South.
+<subtypes>
+<p><stypec>Barnyard grass</stypec>, <cd>for hay. South.
 <spn>Panicum Grus-galli</spn>.</cd></p>
 
 <p><stypec>Bent</stypec>, <cd>pasture and hay. <gen>Agrostis</gen>,
@@ -31889,8 +31885,8 @@ compressa</spn>.</cd></p>
 
 <p><mstypec><stypec>Wood grass</stypec>, <stypec>Indian
 grass</stypec></mstypec>, <cd>hay. <spn>Chrysopogon nutans</spn>.</cd>
-</subtypes><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></subtypes>
 
 <p><note><hand/ Many plants are popularly called grasses which are not
 true grasses botanically considered, such as black <ex>grass</ex>, goose
@@ -34080,7 +34076,9 @@ Rev.</qau></rj><br/
 
 <p><ent>Greek calendar</ent><br/
 <hw>Greek calendar</hw>. <sn>1.</sn> <def>Any of various calendars used
-by the ancient Greek states.</def> <note>The <stype>Attic
+by the ancient Greek states.</def></p>
+
+<note><p>The <stype>Attic
 calendar</stype> divided the year into twelve months of 29 and 30 days,
 as follows:</p>
 
@@ -34100,8 +34098,8 @@ as follows:</p>
 <p>A fixed relation to the seasons was maintained by introducing an
 intercalary month, <ldquo/the second Poseideon,<rdquo/ at first in an
 inexact way, afterward in years 3, 5, 8, 11, 13, 16, 19 of the Metonic
-cycle. Dates were reckoned in Olympiads.</note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+cycle. Dates were reckoned in Olympiads.<br/
+[<source>Webster 1913 Suppl.</source>]</p></note>
 
 <p><sn>2.</sn> <def>The Julian calendar, used in the Greek
 Church.</def><br/
@@ -37580,7 +37578,7 @@ or liquids; dregs; lees; feces; <as>as, coffee grounds</as>.</def><br/
 <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ground angling</b></col>, <cd>angling with a weighted
+<cs><p><col><b>Ground angling</b></col>, <cd>angling with a weighted
 line without a float.</cd> -- <col><b>Ground annual</b></col>
 <fld>(Scots Law)</fld>, <cd>an estate created in land by a vassal who
 instead of selling his land outright reserves an annual ground rent,
@@ -37777,8 +37775,8 @@ credit or reputation; to decline.</cd> -- <col><b>To stand one's
 ground</b></col>, <cd>to stand firm; to resist attack or
 encroachment.</cd> <au>Atterbury.</au> -- <col><b>To take the
 ground</b></col> <cd>to touch bottom or become stranded; -- said of a
-ship.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+ship.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>ground</ent><br/
 <hw>ground</hw> <pr>(ground)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. &
@@ -38323,7 +38321,7 @@ Had <qex>grown</qex> Suspicion's sanctuary.</q>
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Growing cell</b></col>, or <col><b>Growing
+<cs><p><mcol><col><b>Growing cell</b></col>, or <col><b>Growing
 slide</b></col></mcol>, <cd>a device for preserving alive a minute
 object in water continually renewed, in a manner to permit its growth to
 be watched under the microscope.</cd> -- <col><b>Grown over</b></col>,
@@ -38339,7 +38337,7 @@ considerations.</q> <rj><qau>A. Hamilton. </qau></rj></p>
 maturity; as, <ex>grown up</ex> children.</cd> -- <col><b>To grow
 together</b></col>, <cd>to close and adhere; to become united by growth,
 as flesh or the bark of a tree severed.</cd>
-<rj><au>Howells.</au></rj></cs></p>
+<rj><au>Howells.</au></rj></p></cs>
 
 <p><syn><b>Syn.</b> -- To become; increase; enlarge; augment; improve;
 expand; extend.</syn><br/
@@ -38550,7 +38548,7 @@ beetle</cref>, under <er>Goldsmith</er>.</def><br/
 <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Grub ax</b></col> <it>or</it> <col><b>Grub
+<cs><p><mcol><col><b>Grub ax</b></col> <it>or</it> <col><b>Grub
 axe</b></col></mcol>, <cd>a kind of mattock used in grubbing up roots,
 etc.</cd> -- <col><b>Grub breaker</b></col>. <cd>Same as <er>Grub
 hook</er> (<xex>below</xex>).</cd> -- <col><b>Grub hoe</b></col>, <cd>a
@@ -38566,8 +38564,8 @@ resembling the production of, Grub Street.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I 'd sooner ballads write, and <qex>grubstreet</qex> lays.</q>
-<rj><qau>Gap.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Gap.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Grubber</ent><br/
 <hw>Grub"ber</hw>, <pos>n.</pos> <def>One who, or that which, grubs;

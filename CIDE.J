@@ -30,7 +30,7 @@ time, been classed together, and they have been used
 interchangeably.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>In medical prescriptions <xex>j</xex> is still used in place of
+<note><p>In medical prescriptions <xex>j</xex> is still used in place of
 <xex>i</xex> at the end of a number, as a Roman numeral; as,
 v<xex>j</xex>, xi<xex>j</xex>.</p>
 
@@ -42,8 +42,8 @@ v<xex>j</xex>, xi<xex>j</xex>.</p>
 <p>J is a compound vocal consonant, nearly equivalent in sound to
 <xex>dzh</xex>. It is exactly the same as <xex>g</xex> in
 <xex>gem</xex>. See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 179,
-211, 239.</note><br/
-[<source>1913 Webster</source>]</p>
+211, 239.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Jaal goat</ent><br/
 <hw>Jaal" goat`</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>A species of
@@ -4467,7 +4467,7 @@ laughingstock.</def><br/
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In jest</b></col>, <cd>for mere sport or diversion; not
+<cs><p><col><b>In jest</b></col>, <cd>for mere sport or diversion; not
 in truth and reality; not in earnest.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -4475,8 +4475,8 @@ in truth and reality; not in earnest.</cd><br/
 <rj><qau>Shak.</qau></rj></p>
 
 <p>-- <col><b>Jest book</b></col>, <cd>a book containing a collection of
-jests, jokes, and amusing anecdotes; a Joe Miller.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+jests, jokes, and amusing anecdotes; a Joe Miller.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Jest</ent><br/
 <hw>Jest</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -5142,7 +5142,8 @@ Judaism.</def><br/
 <p><ent>Jewish calendar</ent><br/
 <hw>Jew"ish cal"en*dar</hw>. <def>A lunisolar calendar in use among
 Hebraic peoples, reckoning from the year 3761 <sc>b. c.</sc>, the date
-traditionally given for the Creation.</def> <note>It received its
+traditionally given for the Creation.</def></p>
+<note><p>It received its
 present fixed form from Hillel II. about 360 <sc>a. d.</sc> The present
 names of the months, which are Babylonian-Assyrian in origin, replaced
 older ones, <xex>Abib</xex>, <xex>Bul</xex>, etc., at the time of the
@@ -5170,13 +5171,13 @@ for the years 1900-1935 <sc>a. d.</sc></p>
 <pre>
  1 <colf>Tishri</colf> . . . . . . 30
  2 <colf>Heshvan</colf> . . . . .  29 (<it>r. & d</it>.)
-                                or 30 (<it>p</it>.)
+				or 30 (<it>p</it>.)
  3 <colf>Kislev</colf> . . . . . . 29 (<it>d</it>.) or
-                                   30 (<it>r. & p</it>.)
+				   30 (<it>r. & p</it>.)
  4 <colf>Tebet</colf> . . . . . .  29
  5 <colf>Shebat</colf> . . . . . . 30
  6 <colf>Adar</colf> . . . . . . . 29 or
-                                   30 (<it>l</it>.)
+				   30 (<it>l</it>.)
  -- <colf>Veadar</colf> . . . . .  29
     (<it>occuring only in leap years</it>)
  7 <colf>Nisan</colf> . . . . . . .30
@@ -5233,8 +5234,8 @@ throw off automatic quote matching!! --></p>
 <p><it>d</it>. = defective year; <it>d.l</it>. = defective leap year;
 <it>p.</it> = perfect year; <it>p.l.</it> = perfect leap year;
 <it>r.</it> = regular year; <it>r.l.</it> = regular leap
-year.</note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+year.<br/
+[<source>Webster 1913 Suppl.</source>]</p></note>
 
 <p><ent>Jewry</ent><br/
 <hw>Jew"ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE.
@@ -5855,15 +5856,16 @@ domineering policy in foreign affairs; a bellicose superpatriot or
 chauvinist.</def> <mark>[Cant, Eng.]</mark><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note><hand/ This sense arose from a doggerel song which was popular
+<note>
+<p><hand/ This sense arose from a doggerel song which was popular
 during the Turco-Russian war of 1877 and 1878. The first two lines were
 as follows: --<br/
-[<source>1913 Webster</source>]</p>
 
-<p><q>We don't want to fight, but by <qex>Jingo</qex> if we do,<br/
-We 've got the ships, we 've got the men, we 've got the money too.</q>
-</note><br/
+<q>We don't want to fight, but by <qex>Jingo</qex> if we do,<br/
+We've got the ships, we've got the men, we've got the money too.</q>
+<br/
 [<source>1913 Webster</source>]</p>
+</note>
 
 <p><ent>jingoism</ent><br/
 <hw>jin"go*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The
@@ -11659,8 +11661,9 @@ States a justice of the peace has jurisdiction to adjudicate certain
 minor cases, commit offenders, officiate at marriages, etc.; abbreviated
 <abbr>JP</abbr>.</cd></cs></p>
 
+<usage>
 <p><syn><b>Syn.</b> -- Equity; law; right; rectitude; honesty;
-integrity; uprightness; fairness; impartiality.</syn> <usage> --
+integrity; uprightness; fairness; impartiality.</syn>  --
 <er>Justice</er>, <er>Equity</er>, <er>Law</er>. <xex>Justice</xex> and
 <xex>equity</xex> are the same; but human laws, though designed to
 secure justice, are of necessity imperfect, and hence what is strictly
@@ -11687,8 +11690,9 @@ justice, which gives every man his exact deserts. (3) <xex>General</xex>
 justice, which carries out all the <xex>ends</xex> of law, though not in
 every case through the precise channels of commutative or distributive
 justice; as we see often done by a parent or a ruler in his dealings
-with those who are subject to his control.</usage><br/
+with those who are subject to his control.<br/
 [<source>1913 Webster</source>]</p>
+</usage>
 
 <p><ent>Justice</ent><br/
 <hw>Jus"tice</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To administer

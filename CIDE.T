@@ -3142,7 +3142,7 @@ Not <qex>take</qex> the mold.</q> <rj><qau>Dryden.</qau></rj><br/
 the head.</as></def> <mark>[Obs. exc. Slang or Dial.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>To be taken aback</b></col>, <col><b>To take
+<cs><p><mcol><col><b>To be taken aback</b></col>, <col><b>To take
 advantage of</b></col>, <col><b>To take air</b></col>, etc.</mcol>
 <cd>See under <er>Aback</er>, <er>Advantage</er>, etc.</cd> --
 <col><b>To take aim</b></col>, <cd>to direct the eye or weapon; to
@@ -3317,8 +3317,8 @@ self</b></col>. <sd>(a)</sd> <cd>To assume; to undertake; <as>as, he
 proof</as>.</cd> <sd>(b)</sd> <cd>To appropriate to one's self; to allow
 to be imputed to, or inflicted upon, one's self; <as>as, <ex>to take
 upon one's self</ex> a punishment</as>.</cd> -- <col><b>To take up the
-gauntlet</b></col>. <cd>See under <er>Gauntlet</er>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+gauntlet</b></col>. <cd>See under <er>Gauntlet</er>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Take</ent><br/
 <hw>Take</hw> <pr>(?)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To take
@@ -16814,7 +16814,7 @@ together called its <qex>terms</qex> or extremes.</q> <rj><qau>Sir W.
 Hamilton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The predicate of the conclusion is called the
+<note><p><hand/ The predicate of the conclusion is called the
 <xex>major</xex> term, because it is the most general, and the subject
 of the conclusion is called the <xex>minor</xex> term, because it is
 less general. These are called the <xex>extermes</xex>; and the third
@@ -16829,8 +16829,8 @@ every tree is combustible, -<br/
 
 <p><xex>combustible</xex>, the predicate of the conclusion, is the major
 term; <xex>tree</xex> is the minor term; <xex>vegetable</xex> is the
-middle term.</note><br/
-[<source>1913 Webster</source>]</p>
+middle term.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>7.</sn> <def>A word or expression; specifically, one that has a
 precisely limited meaning in certain relations and uses, or is peculiar
@@ -16883,7 +16883,7 @@ Lammas day, Aug. 1. <au>Mozley & W.</au></note><br/
 under each end of the taffrail.</def> <rj><au>J. Knowels.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In term</b></col>, <cd>in set terms; in formal
+<cs><p><col><b>In term</b></col>, <cd>in set terms; in formal
 phrase.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -16898,8 +16898,8 @@ the costs of a cause for each or any term it is in court.</cd> --
 members of which it is composed.</cd> -- <col><b>To bring to
 terms</b></col>, <cd>to compel (one) to agree, assent, or submit; to
 force (one) to come to terms.</cd> -- <col><b>To make terms</b></col>,
-<cd>to come to terms; to make an agreement: to agree.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<cd>to come to terms; to make an agreement: to agree.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Limit; bound; boundary; condition; stipulation;
 word; expression.</syn> <usage> -- <er>Term</er>, <er>Word</er>. These
@@ -18265,7 +18265,7 @@ Was tender, musical, and <qex>terse</qex>.</q>
 <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- Neat; concise; compact.</syn> <usage>
+<usage><p><syn><b>Syn.</b> -- Neat; concise; compact.</syn> 
 <er>Terse</er>, <er>Concise</er>. <xex>Terse</xex> was defined by
 Johnson <ldquo/cleanly written<rdquo/, <it>i. e.</it>, free from
 blemishes, neat or smooth. Its present sense is <ldquo/free from
@@ -18281,8 +18281,8 @@ Plan, moral, all, in that short space.<rdquo/</q><br/
 
 <p> It differs from <xex>concise</xex> in not implying, perhaps, quite
 as much condensation, but chiefly in the additional idea of <ldquo/grace
-or elegance.<rdquo/</usage><br/
-[<source>1913 Webster</source>]</p>
+or elegance.<rdquo/<br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p>-- <wordforms><wf>Terse"ly</wf>, <pos>adv.</pos> --
 <wf>Terse"ness</wf>, <pos>n.</pos></wordforms><br/
@@ -21139,7 +21139,7 @@ Browning.</qau></rj><br/
 
 <p><ent>Thana</ent><br/
 \'d8<hw>Tha"na</hw> <pr>(t<aum/"n<aum/)</pr>, <pos>n.</pos>
-<altname>[Written also <asp>tana</asp>, <asp>tanna</asp>.]</altname>
+<altsp>[Written also <asp>tana</asp>, <asp>tanna</asp>.]</altsp>
 <ety>[Hind. <ets>th<amac/n<amac/</ets>.]</ety> <def>A police
 station.</def> <mark>[India]</mark> <rj><au>Kipling.</au></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -21338,7 +21338,7 @@ friend,<br/
 For the lesson thou hast taught.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>His thanks</b></col>, <col><b>Her thanks</b></col>,
+<cs><p><mcol><col><b>His thanks</b></col>, <col><b>Her thanks</b></col>,
 etc.</mcol>, <cd>of his or her own accord; with his or her good will;
 voluntary.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -21350,8 +21350,8 @@ Will not, <qex>his thanks</qex>, have no fellowship.</q>
 
 <p>-- <col><b>In thank</b></col>, <cd>with thanks or thankfulness.</cd>
 <mark>[Obs.]</mark> -- <col><b>Thank offering</b></col>, <cd>an offering
-made as an expression of thanks.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+made as an expression of thanks.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Thank</ent><br/
 <hw>Thank</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p.
@@ -21631,7 +21631,7 @@ the greater probabilities.</q> <rj><qau>Bp. Wilkins.</qau></rj><br/
 <p><-- p. 1494 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ If the relative clause simply conveys an additional
+<note><p><hand/ If the relative clause simply conveys an additional
 idea, and is not properly explanatory or restrictive, <xex>who</xex> or
 <xex>which</xex> (rarely <xex>that</xex>) is employed; as, the king
 <xex>that</xex> (or <xex>who</xex>) rules well is generally popular;
@@ -21682,8 +21682,8 @@ whom.<br/
 
 <p><q>That <qex>that</qex> dieth, let it die; and that <qex>that</qex>
 is to cut off, let it be cut off.</q> <rj><qau>Zech. xi. 9.</qau></rj>
-</note><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>4.</sn> <def>As a conjunction, <xex>that</xex> retains much of
 its force as a demonstrative pronoun.</def> It is used, specifically:
@@ -21771,7 +21771,7 @@ knight and I have seen!</q> <rj><qau>Shak.</qau></rj> <-- = if only . .
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>That</xex> was formerly added to other conjunctions
+<note><p><hand/ <xex>That</xex> was formerly added to other conjunctions
 or to adverbs to make them emphatic.<br/
 [<source>1913 Webster</source>]</p>
 
@@ -21784,15 +21784,15 @@ preceding conjunction on which it depends.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>When he had carried Rome and <qex>that</qex> we looked<br/
-For no less spoil than glory.</q> <rj><qau>Shak.</qau></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+For no less spoil than glory.</q> <rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>5.</sn> <def>As adverb: To such a degree; so; <as>as, he was
 <ex>that</ex> frightened he could say nothing</as>.</def> <mark>[Archaic
 or in illiteral use.]</mark><-- = so --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>All that</b></col>, <cd>everything of that kind; all that
+<cs><p><col><b>All that</b></col>, <cd>everything of that kind; all that
 sort.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -21807,8 +21807,8 @@ The man's the gowd [gold] for <qex>a'that</qex>.</q>
 
 <p>-- <col><b>For that</b></col>. <cd>See under <er>For</er>,
 <pos>prep.</pos></cd> -- <col><b>In that</b></col>. <cd>See under
-<er>In</er>, <pos>prep.</pos></cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<er>In</er>, <pos>prep.</pos></cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Thatch</ent><br/
 <hw>Thatch</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>thak</ets>,
@@ -24320,7 +24320,7 @@ that changes of temperature in bodies are accompanied by proportional
 changes in their volumes or dimensions.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The <xex>thermometer</xex> usually consists of a glass
+<note><p><hand/ The <xex>thermometer</xex> usually consists of a glass
 tube of capillary bore, terminating in a bulb, and containing mercury or
 alcohol, which expanding or contracting according to the temperature to
 which it is exposed, indicates the degree of heat or cold by the amount
@@ -24331,8 +24331,8 @@ column on a graduated scale. See <er>Centigrade</er>,
 
 <p> To reduce degrees Fahrenheit to degrees Centigrade, subtract 32<deg/
 and multiply by <frac59/; to reduce degrees Centigrade to degrees
-Fahrenheit, multiply by <frac95/ and add 32<deg/.</note><br/
-[<source>1913 Webster</source>]</p>
+Fahrenheit, multiply by <frac95/ and add 32<deg/.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><mcol><col><b>Air thermometer</b></col>, <col><b>Balance
 thermometer</b></col></mcol>, <cd>etc. See under <er>Air</er>,
@@ -37223,7 +37223,7 @@ a king here <xex>to</xex> my flatterer.<rdquo/
 little wonder.</q> <rj><qau>Walton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>To</xex> in <xex>to-day</xex>, <xex>to-night</xex>,
+<note><p><hand/ <xex>To</xex> in <xex>to-day</xex>, <xex>to-night</xex>,
 and <xex>to-morrow</xex> has the sense or force of <xex>for</xex> or
 <xex>on</xex>; <xex>for</xex>, or <xex>on</xex>, (this) day,
 <xex>for</xex>, or <xex>on</xex>, (this) night, <xex>for</xex>, or
@@ -37236,10 +37236,10 @@ ours.<br/
 <p><q><qex>To-morrow</qex>, and <qex>to-morrow</qex>, and
 <qex>to-morrow</qex>;<br/
 Creeps in this petty pace from day to day.</q> <rj><qau>Shak.</qau></rj>
-</note><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></note>
 
-<p><cs><col><b>To and again</b></col>, <cd>to and fro.</cd>
+<cs><p><col><b>To and again</b></col>, <cd>to and fro.</cd>
 <mark>[R.]</mark> -- <col><b>To and fro</b></col>, <cd>forward and back.
 In this phrase, <xex>to</xex> is adverbial.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -37252,8 +37252,8 @@ In this phrase, <xex>to</xex> is adverbial.</cd><br/
 as, to commence a <xex>to-and-fro</xex>.</cd> <au>Tennyson.</au> --
 <col><b>To the face</b></col>, <cd>in front of; in behind; hence, in the
 presence of.</cd> -- <col><b>To wit</b></col>, <cd>to know; namely. See
-<er>Wit</er>, <pos>v. i.</pos></cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<er>Wit</er>, <pos>v. i.</pos></cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>To</xex>, without an object expressed, is used
 adverbially; as, put <xex>to</xex> the door, <it>i. e.</it>, put the
@@ -39582,7 +39582,7 @@ affected tone.</def><br/
 certain required shade of color, as by chemical treatment.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To tone down</b></col>. <sd>(a)</sd> <cd>To cause to give
+<cs><p><col><b>To tone down</b></col>. <sd>(a)</sd> <cd>To cause to give
 lower tone or sound; to give a lower tone to.</cd> <sd>(b)</sd>
 <fld>(Paint.)</fld> <cd>To modify, as color, by making it less brilliant
 or less crude; to modify, as a composition of color, by making it more
@@ -39605,8 +39605,8 @@ and then use it <qex>to tone down</qex> their religious strictures.</q>
 
 <p> -- <col><b>To tone up</b></col>, <cd>to cause to give a higher tone
 or sound; to give a higher tone to; to make more intense; to heighten;
-to strengthen.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+to strengthen.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Toned</ent><br/
 <hw>Toned</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having (such) a tone; --
@@ -44305,7 +44305,7 @@ than the total possible on seven bells, that is, less than
 <mark>[Eng.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>In touch</b></col> <sd>(a)</sd> <fld>(Football)</fld>,
+<cs><p><col><b>In touch</b></col> <sd>(a)</sd> <fld>(Football)</fld>,
 <cd>outside of bounds.</cd> <au>T. Hughes.</au> <sd>(b)</sd> <cd>in
 communication; communicating, once or repeatedly.</cd> -- <col><b>To be
 in touch</b></col>, <sd>(a)</sd> <cd>to be in contact, communication, or
@@ -44324,8 +44324,8 @@ sympathy; -- with <xex>with</xex> or <xex>of</xex>. Also <col>to keep in
 touch</col>.</cd> -- <col><b>Touch and go</b></col>, <cd>a phrase
 descriptive of a narrow escape.</cd> -- <col><b>True as touch</b></col>
 (<it>i. e.</it>, <xex>touchstone</xex>), <cd>quite true.</cd>
-<mark>[Obs.]</mark></cs><br/
-[<source>1913 Webster</source>]</p>
+<mark>[Obs.]</mark><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Touchable</ent><br/
 <hw>Touch"a*ble</hw> <pr>(t<ucr/ch"<adot/*b'l)</pr>, <pos>a.</pos>
@@ -61544,15 +61544,15 @@ vexation; that which afflicts.</def><br/
 stratum.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To get into trouble</b></col>, <cd>to get into difficulty
+<cs><p><col><b>To get into trouble</b></col>, <cd>to get into difficulty
 or danger.</cd> <mark>[Colloq.]</mark> -- <col><b>To take the
 trouble</b></col>, <cd>to be at the pains; to exert one's self; to give
 one's self inconvenience.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>She never <qex>took the trouble</qex> to close them.</q>
-<rj><qau>Bryant.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Bryant.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Affliction; disturbance; perplexity; annoyance;
 molestation; vexation; inconvenience; calamity; misfortune; adversity;
@@ -63594,7 +63594,7 @@ promise of payment; to give credit.</def><br/
 <qex>trust</qex>.</q> <rj><qau>Johnson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To trust in</b></col>, <col><b>To trust
+<cs><p><mcol><col><b>To trust in</b></col>, <col><b>To trust
 on</b></col></mcol>, <cd>to place confidence in,; to rely on; to
 depend.</cd> <ldquo/<xex>Trust in</xex> the Lord, and do good.<rdquo/
 <au>Ps. xxxvii. 3.</au> <ldquo/A priest . . . <xex>on</xex> whom we
@@ -63611,8 +63611,8 @@ on; <as>as, to <ex>trust to</ex> luck</as>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They <qex>trusted unto</qex> the liers in wait.</q>
-<rj><qau>Judges xx. 36.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Judges xx. 36.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Trust company</ent><br/
 <hw>Trust company</hw>. <def>Any corporation formed for the purpose of
@@ -64190,7 +64190,7 @@ appointment, or tryst; one who meets with another.</def><br/
 tryst.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Trysting day</b></col>, <cd>an arranged day of meeting or
+<cs><p><col><b>Trysting day</b></col>, <cd>an arranged day of meeting or
 assembling, as of soldiers, friends, and the like.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -64202,8 +64202,8 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 
 <p>-- <col><b>Trysting place</b></col>, <cd>a place designated for the
 assembling of soldiers, the meeting of parties for an interview, or the
-like; a rendezvous.</cd> <au>Byron.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+like; a rendezvous.</cd> <au>Byron.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Tsar</ent><br/
 <hw>Tsar</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The title of the emperor
@@ -67894,7 +67894,7 @@ corner</as>.</def></p>
 kopje instead of cutting or tunneling through it.</q> <rj><qau>James
 Bryce.</qau></rj></p>
 
-<p><cs><col><b>To be turned of</b></col>, <cd>to be advanced beyond;
+<cs><p><col><b>To be turned of</b></col>, <cd>to be advanced beyond;
 <as>as, <ex>to be turned of</ex> sixty-six</as>.</cd> -- <col><b>To turn
 a cold shoulder to</b></col>, <cd>to treat with neglect or
 indifference.</cd> -- <col><b>To turn a corner</b></col>, <sd>(a)</sd>
@@ -68030,8 +68030,8 @@ things awry; to throw into disorder.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This house is <qex>turned upside down</qex> since Robin Ostler
-died.</q> <rj><qau>Shak.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+died.</q> <rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Turn</ent><br/
 <hw>Turn</hw> <pr>(t<ucir/rn)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To
@@ -69733,7 +69733,7 @@ burlesque.</def> <ldquo/Children <xex>twain</xex>.<rdquo/
 <qex>twain</qex>.</q> <rj><qau>Matt. v. 41.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In twain</b></col>, <cd>in halves; into two parts;
+<cs><p><col><b>In twain</b></col>, <cd>in halves; into two parts;
 asunder.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -69742,8 +69742,8 @@ asunder.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <col><b>Twain cloud</b></col>. <fld>(Meteor.)</fld> <cd>Same as
-<er>Cumulo-stratus</er>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<er>Cumulo-stratus</er>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Twaite</ent><br/
 <hw>Twaite</hw> <pr>(tw<amac/t)</pr>, <pos>n.</pos> <ety>[Prov.
@@ -71960,7 +71960,7 @@ collectively; any number or mass of such letters or characters, however
 disposed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Type are mostly made by casting type metal in a mold,
+<note><p><hand/ Type are mostly made by casting type metal in a mold,
 though some of the larger sizes are made from maple, mahogany, or
 boxwood. In the cut, <it>a</it> is the <part>body</part>; <it>b</it>,
 the <part>face</part>, or part from which the impression is taken;
@@ -72046,8 +72046,8 @@ different sizes up to great primer.<br/
 by American type founders, but is substantially correct for England.
 <xex>Agate</xex>, however, is called <xex>ruby</xex>, in England, where,
 also, a size intermediate between nonpareil and minion is employed,
-called <xex>emerald</xex>.</note><br/
-[<source>1913 Webster</source>]</p>
+called <xex>emerald</xex>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><col><b>Point system of type bodies</b></col> <fld>(Type
 Founding)</fld>, <cd>a system adopted by the type founders of the United

@@ -12311,7 +12311,7 @@ My thoughts presage!</q> <rj><qau>Dryden.</qau></rj><br/
 <rj><au>Wyclif.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Stress of weather</b></col>, <cd>violent winds; force of
+<cs><p><col><b>Stress of weather</b></col>, <cd>violent winds; force of
 tempests.</cd> -- <col><b>To make fair weather</b></col>, <cd>to
 flatter; to give flattering representations.</cd> <mark>[R.]</mark> --
 <mcol><col><b>To make good weather</b></col>, <it>or</it> <col><b>To
@@ -12353,8 +12353,8 @@ who foretells the weather.</cd> <mark>[R.]</mark> <au>Donne.</au> --
 <col><b>Weather strip</b></col> <fld>(Arch.)</fld>, <cd>a strip of wood,
 rubber, or other material, applied to an outer door or window so as to
 cover the joint made by it with the sill, casings, or threshold, in
-order to exclude rain, snow, cold air, etc.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+order to exclude rain, snow, cold air, etc.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Weather</ent><br/
 <hw>Weath"er</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p.
@@ -12425,7 +12425,7 @@ the wind, or windward -- opposed to <xex>lee</xex>; <as>as,
 shrouds, etc</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Weather gauge</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld>
+<cs><p><col><b>Weather gauge</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld>
 <cd>The position of a ship to the windward of another.</cd> <sd>(b)</sd>
 <cd>Fig.: A position of advantage or superiority; advantage in
 position.</cd><br/
@@ -12443,8 +12443,8 @@ necessary to put the helm up, that is, toward the weather side.</cd> --
 windward of a ship.</cd> <au>Totten.</au> -- <col><b>Weather
 tide</b></col> <fld>(Naut.)</fld>, <cd>the tide which sets against the
 lee side of a ship, impelling her to the windward.</cd> <au>Mar.
-Dict.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+Dict.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Weather-beaten</ent><br/
 <hw>Weath"er-beat`en</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Beaten or
@@ -17172,7 +17172,7 @@ this? <ex>what</ex> did you say? <ex>what</ex> poem is this?
 sea obey him!</q> <rj><qau>Matt. viii. 27.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Originally, <xex>what</xex>, <xex>when</xex>,
+<note><p><hand/ Originally, <xex>what</xex>, <xex>when</xex>,
 <xex>where</xex>, <xex>which</xex>, <xex>who</xex>, <xex>why</xex>,
 etc., were interrogatives only, and it is often difficult to determine
 whether they are used as interrogatives or relatives.<br/
@@ -17181,8 +17181,8 @@ whether they are used as interrogatives or relatives.<br/
 <p> <xex>What</xex> in this sense, when it refers to things, may be used
 either substantively or adjectively; when it refers to persons, it is
 used only adjectively with a noun expressed, <xex>who</xex> being the
-pronoun used substantively.</note><br/
-[<source>1913 Webster</source>]</p>
+pronoun used substantively.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>As an exclamatory word: -- <sd>(a)</sd> Used
 absolutely or independently; -- often with a question following.</def>
@@ -17301,7 +17301,7 @@ force, <qex>what</qex> by policy, he had taken from the Christians above
 thirty small castles.</q> <rj><qau>Knolles.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In such phrases as <xex>I tell you what</xex>,
+<note><p><hand/ In such phrases as <xex>I tell you what</xex>,
 <xex>what</xex> anticipates the following statement, being elliptical
 for <xex>what I think</xex>, <xex>what it is</xex>, <xex>how it
 is</xex>, etc. <ldquo/I tell thee <xex>what</xex>, corporal Bardolph, I
@@ -17332,10 +17332,10 @@ following sentence. <ldquo/Her needle is not so absolutely perfect in
 tent and cross stitch <xex>but what</xex> my superintendence is
 advisable.<rdquo/ <au>Sir W. Scott.</au> <ldquo/Never fear <xex>but
 what</xex> our kite shall fly as high.<rdquo/ <au>Ld.
-Lytton.</au></note><br/
-[<source>1913 Webster</source>]</p>
+Lytton.</au><br/
+[<source>1913 Webster</source>]</p></note>
 
-<p><cs><col><b>What ho!</b></col> <cd>an exclamation of calling.</cd> --
+<cs><p><col><b>What ho!</b></col> <cd>an exclamation of calling.</cd> --
 <col><b>What if</b></col>, <cd>what will it matter if; what will happen
 or be the result if.</cd> <ldquo/<xex>What if</xex> it be a
 poison?<rdquo/ <au>Shak.</au> -- <mcol><col><b>What of this?</b></col>
@@ -17354,8 +17354,8 @@ thee.<rdquo/ <au>Ps. lvi. 3.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>What time</qex> the morn mysterious visions brings.</q>
-<rj><qau>Pope.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Pope.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>What</ent><br/
 <hw>What</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Something; thing;
@@ -18355,16 +18355,16 @@ etc.; the place, source, etc., from which; -- used relatively.</def><br/
 Descends.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ All the words of this class, <xex>whence</xex>,
+<note><p><hand/ All the words of this class, <xex>whence</xex>,
 <xex>where</xex>, <xex>whither</xex>, <xex>whereabouts</xex>, etc., are
 occasionally used as pronouns by a harsh construction.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O, how unlike the place from <qex>whence</qex> they fell?</q>
-<rj><qau>Milton.</qau></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Milton.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
-<p><note><hand/ <xex>From whence</xex>, though a pleonasm, is fully
+<note><p><hand/ <xex>From whence</xex>, though a pleonasm, is fully
 authorized by the use of good writers.<br/
 [<source>1913 Webster</source>]</p>
 
@@ -18373,8 +18373,8 @@ authorized by the use of good writers.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><xex>Of whence</xex>, also a pleonasm, has become
-obsolete.</note><br/
-[<source>1913 Webster</source>]</p>
+obsolete.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Whenceever</ent><br/
 <hw>Whence*ev"er</hw> <pr>(?)</pr>, <pos>adv. & conj.</pos>
@@ -19564,7 +19564,7 @@ And tells the jest without the smile.</q>
 <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At whiles</b></col>, <cd>at times; at intervals.</cd><br/
+<cs><p><col><b>At whiles</b></col>, <cd>at times; at intervals.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And so on us <qex>at whiles</qex> it falls, to claim<br/
@@ -19577,8 +19577,8 @@ while.</cd> <au>Tennyson.</au> -- <col><b>Within a while</b></col>,
 <cd>in a short time; soon.</cd> -- <col><b>Worth while</b></col>,
 <cd>worth the time which it requires; worth the time and pains; hence,
 worth the expense; as, it is not always <xex>worth while</xex> for a man
-to prosecute for small debts.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+to prosecute for small debts.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>While</ent><br/
 <hw>While</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -21569,7 +21569,7 @@ compounds, as <xex>white</xex>-backed, <xex>white</xex>-bearded,
 <xex>white</xex>-footed.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>White alder</b></col>. <fld>(Bot.)</fld> <cd>See
+<cs><p><col><b>White alder</b></col>. <fld>(Bot.)</fld> <cd>See
 <cref>Sweet pepper bush</cref>, under <er>Pepper</er>.</cd> --
 <col><b>White ant</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous
 species of social pseudoneuropterous insects of the genus
@@ -21838,8 +21838,8 @@ called also <altname>chanco</altname>, <altname>golden wolf</altname>,
 and <altname>Thibetan wolf</altname>.</cd> <sd>(b)</sd> <cd>The albino
 variety of the gray wolf.</cd> -- <col><b>White wren</b></col>
 <fld>(Zool.)</fld>, <cd>the willow warbler; -- so called from the color
-of the under parts.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+of the under parts.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><-- p. 1649 --><br/
 [<source>1913 Webster</source>]</p>
@@ -23595,7 +23595,7 @@ which; on what account; <as>as, I know not <ex>why</ex> he left town so
 suddenly</as>; -- used as a compound relative.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>Why</xex> is sometimes used as an interjection or
+<note><p><hand/ <xex>Why</xex> is sometimes used as an interjection or
 an expletive in expression of surprise or content at a turn of affairs;
 used also in calling. <ldquo/<xex>Why</xex>, Jessica!<rdquo/
 <rj><au>Shak.</au></rj><br/
@@ -23610,8 +23610,8 @@ used also in calling. <ldquo/<xex>Why</xex>, Jessica!<rdquo/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The how and the <qex>why</qex> and the where.</q>
-<rj><qau>Goldsmith.</qau></rj></note><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Goldsmith.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><col><b>For why</b></col>, <cd>because; why. See
 <er>Forwhy</er>.</cd> <mark>[Obs. or Colloq.]</mark></cs><br/
@@ -25456,7 +25456,7 @@ authority; a decree; a command; discretionary pleasure.</def><br/
 purpose.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <ldquo/<xex>Inclination</xex> is another word with which
+<note><p><hand/ <ldquo/<xex>Inclination</xex> is another word with which
 <xex>will</xex> is frequently confounded. Thus, when the apothecary
 says, in Romeo and Juliet, --<br/
 [<source>1913 Webster</source>]</p>
@@ -25472,8 +25472,8 @@ immediate antecedent of action. It is with the same latitude that the
 word is used in common conversation, when we speak of doing a thing
 which duty prescribes, against one's own <xex>will</xex>; or when we
 speak of doing a thing <xex>willingly</xex> or
-<xex>unwillingly</xex>.<rdquo/ <rj><au>Stewart.</au></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+<xex>unwillingly</xex>.<rdquo/ <rj><au>Stewart.</au></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>5.</sn> <def>That which is strongly wished or desired.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -25602,7 +25602,7 @@ also <xex>will not</xex>, signifies refusal. <ldquo/He was angry, and
 <xex>Would</xex> is never a past participle.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In Ireland, Scotland, and the United States, especially
+<note><p><hand/ In Ireland, Scotland, and the United States, especially
 in the southern and western portions of the United States,
 <xex>shall</xex> and <xex>will</xex>, <xex>should</xex> and
 <xex>would</xex>, are often misused, as in the following examples:
@@ -25622,8 +25622,8 @@ rebuild.</q> <rj><qau>H. Miller.</qau></rj><br/
 
 <p><q>I feel assured that I <qex>will</qex> [shall] not have the
 misfortune to find conflicting views held by one so enlightened as your
-excellency.</q> <rj><qau>J. Y. Mason.</qau></rj> </note><br/
-[<source>1913 Webster</source>]</p>
+excellency.</q> <rj><qau>J. Y. Mason.</qau></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><-- p. 1654 --><br/
 [<source>1913 Webster</source>]</p>
@@ -30731,15 +30731,15 @@ testimony; one who witnesses a will, a deed, a marriage, or the
 like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Privileged witnesses</b></col>. <fld>(Law)</fld> <cd>See
+<cs><p><col><b>Privileged witnesses</b></col>. <fld>(Law)</fld> <cd>See
 under <er>Privileged</er>.</cd> -- <col><b>With a witness</b></col>,
 <cd>effectually; to a great degree; with great force, so as to leave
 some mark as a testimony.</cd> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This, I confess, is haste <qex>with a witness</qex>.</q>
-<rj><qau>South.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>South.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Witness</ent><br/
 <hw>Wit"ness</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -32322,7 +32322,7 @@ lignin, which are isomeric with starch.</note><br/
 uses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Wood acid</b></col>, <col><b>Wood
+<cs><p><mcol><col><b>Wood acid</b></col>, <col><b>Wood
 vinegar</b></col></mcol> <fld>(Chem.)</fld>, <cd>a complex acid liquid
 obtained in the dry distillation of wood, and containing large
 quantities of acetic acid; hence, specifically, acetic acid. Formerly
@@ -32558,8 +32558,8 @@ wren</altname>, <altname>wood wren</altname>, and <altname>yellow
 wren</altname>.</cd> -- <col><b>Wood worm</b></col> <fld>(Zool.)</fld>,
 <cd>a larva that bores in wood; a wood borer.</cd> -- <col><b>Wood
 wren</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The wood
-warbler.</cd> <sd>(b)</sd> <cd>The willow warbler.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+warbler.</cd> <sd>(b)</sd> <cd>The willow warbler.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Wood</ent><br/
 <hw>Wood</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p.
@@ -32954,7 +32954,7 @@ grouse.</def> <mark>[Local, U. S.]</mark><br/
 <fam>Picidae</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ These birds have the tail feathers pointed and rigid at
+<note><p><hand/ These birds have the tail feathers pointed and rigid at
 the tip to aid in climbing, and a strong chisellike bill with which they
 are able to drill holes in the bark and wood of trees in search of
 insect larvae upon which most of the species feed. A few species feed
@@ -32979,8 +32979,8 @@ Carolinus</spn>) (see <er>Chab</er>), the superciliary woodpecker
 (<spn>Dryobates villosus</spn>), the downy woodpecker (<spn>Dryobates
 pubescens</spn>), the three-toed, woodpecker (<spn>Picoides
 Americanus</spn>), the golden-winged woodpecker (see <er>Flicker</er>),
-and the sap suckers. See also <er>Carpintero</er>.</note><br/
-[<source>1913 Webster</source>]</p>
+and the sap suckers. See also <er>Carpintero</er>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><col><b>Woodpecker hornbill</b></col> <fld>(Zool.)</fld>, <cd>a
 black and white Asiatic hornbill (<spn>Buceros pica</spn>) which
@@ -34124,7 +34124,7 @@ Where they were wont to do.</q> <rj><qau>Coleridge.</qau></rj><br/
 <p><sn>7.</sn> <def>To cause to ferment, as liquor.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To work a passage</b></col> <fld>(Naut.)</fld>, <cd>to
+<cs><p><col><b>To work a passage</b></col> <fld>(Naut.)</fld>, <cd>to
 pay for a passage by doing work.</cd> -- <col><b>To work double
 tides</b></col> <fld>(Naut.)</fld>, <cd>to perform the labor of three
 days in two; -- a phrase which alludes to a practice of working by the
@@ -34162,8 +34162,8 @@ up</xex> the passions to rage.</cd><br/
 <cd>To make over or into something else, as yarns drawn from old
 rigging, made into spun yarn, foxes, sennit, and the like; also, to keep
 constantly at work upon needless matters, as a crew in order to punish
-them.</cd> <au>R. H. Dana, Jr.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+them.</cd> <au>R. H. Dana, Jr.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Workable</ent><br/
 <hw>Work"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being
@@ -34562,7 +34562,7 @@ bee.<rdquo/ <rj><au>Bryant.</au></rj><br/
 <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>All . . . in the world</b></col>, <cd>all that exists;
+<cs><p><col><b>All . . . in the world</b></col>, <cd>all that exists;
 all that is possible; <as>as, <ex>all</ex> the precaution <ex>in the
 world</ex> would not save him</as>.</cd> -- <col><b>A world to
 see</b></col>, <cd>a wonder to see; something admirable or surprising to
@@ -34589,8 +34589,8 @@ having no end.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Throughout all ages, <qex>world without end</qex>.</q>
-<rj><qau>Eph. iii. 21.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Eph. iii. 21.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Worldliness</ent><br/
 <hw>World"li*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of

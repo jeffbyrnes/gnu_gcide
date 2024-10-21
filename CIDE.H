@@ -3955,7 +3955,7 @@ whitish color.</def><br/
 the Hallstatt civilization.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>-- <cs><mcol><col><b>Hallstatt civilization</b></col> <it>or</it>
+<cs><p>-- <mcol><col><b>Hallstatt civilization</b></col> <it>or</it>
 <col><b>Hallstattian civilization</b></col></mcol>, <cd>a prehistoric
 civilization of central Europe, variously dated at from 1000 to 1500
 <sc>b. c.</sc> and usually associated with the Celtic or Alpine race. It
@@ -3971,8 +3971,8 @@ Deniker.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p>-- <col><b>Hallstattian epoch</b></col>, <cd>the first iron age,
-represented by the <cref>Hallstatt civilization</cref>.</cd></cs><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+represented by the <cref>Hallstatt civilization</cref>.</cd><br/
+[<source>Webster 1913 Suppl.</source>]</p></cs>
 
 <p><ent>Hallucal</ent><br/
 <hw>Hal"lu*cal</hw> <pr>(h<acr/l"l<usl/*k<ait/l)</pr>, <pos>a.</pos>
@@ -8887,7 +8887,7 @@ hearken.</def> <mark>[Now rare, except in the imperative form used as an
 interjection, Hark! listen.]</mark> <rj><au>Hudibras.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hark away!</b></col> <col><b>Hark back!</b></col>
+<cs><p><mcol><col><b>Hark away!</b></col> <col><b>Hark back!</b></col>
 <col><b>Hark forward!</b></col></mcol> <fld>(Sporting)</fld>, <cd>cries
 used to incite and guide hounds in hunting.</cd> -- <col><b>To hark
 back</b></col>, <cd>to go back for a fresh start, as when one has
@@ -8899,8 +8899,8 @@ wandered from his direct course, or made a digression.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He <qex>harked back</qex> to the subject.</q> <rj><qau>W. E.
-Norris.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+Norris.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Harken</ent><br/
 <hw>Hark"en</hw> <pr>(h<aum/rk"'n)</pr>, <pos>v. t. & i.</pos> <def>To
@@ -11645,17 +11645,17 @@ tipplers; a den is the <ex>haunt</ex> of wild beasts.</as></def><br/
 dwelling or in his business was called a <xex>haunt</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>Often used figuratively.<br/
-[<source>1913 Webster</source>]</p>
+<note>
+<p>Often used figuratively.</p>
 
 <p><q>The household nook,<br/
 The <qex>haunt</qex> of all affections pure.</q>
-<rj><qau>Keble.</qau></rj><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Keble.</qau></rj></p>
 
 <p><q>The feeble soul, a <qex>haunt</qex> of fears.</q>
-<rj><qau>Tennyson.</qau></rj></note><br/
+<rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
+</note>
 
 <p><sn>2.</sn> <def>The habit of resorting to a place.</def>
 <mark>[Obs.]</mark><br/
@@ -17903,13 +17903,13 @@ madness, of folly; the <ex>height</ex> of a tempest.</as></def><br/
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>On height</b></col>, <cd>aloud.</cd>
+<cs><p><col><b>On height</b></col>, <cd>aloud.</cd>
 <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>[He] spake these same words, all <qex>on hight</qex>.</q>
-<rj><qau>Chaucer.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Chaucer.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Heighten</ent><br/
 <hw>Height"en</hw> <pr>(h<imac/t"'n)</pr>, <pos>v. t.</pos>
@@ -19354,7 +19354,7 @@ and our author.</q> <rj><qau>Pope.</qau></rj></p>
 passing food.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To help forward</b></col>, <cd>to assist in
+<cs><p><col><b>To help forward</b></col>, <cd>to assist in
 advancing.</cd> -- <col><b>To help off</b></col>, <cd>to help to go or
 pass away, as time; to assist in removing.</cd> <au>Locke.</au> --
 <col><b>To help on</b></col>, <cd>to forward; to promote by aid.</cd> --
@@ -19372,7 +19372,7 @@ help to</b></col>, <cd>to supply with; to furnish with; as, <xex>to
 help</xex> one <xex>to</xex> soup.</cd> -- <col><b>To help up</b></col>,
 <cd>to help (one) to get up; to assist in rising, as after a fall, and
 the like.</cd> <ldquo/A man is well <xex>holp up</xex> that trusts to
-you.<rdquo/ <au>Shak.</au></cs></p>
+you.<rdquo/ <au>Shak.</au></p></cs>
 
 <p><syn><b>Syn.</b> -- To aid; assist; succor; relieve; serve; support;
 sustain; befriend.</syn> <usage> -- To <er>Help</er>, <er>Aid</er>,
@@ -26441,7 +26441,7 @@ part of the tongue in relation to the palate, as <emac/ (<emac/ve),
 10, 11.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>High admiral</b></col>, <cd>the chief admiral.</cd> --
+<cs><p><col><b>High admiral</b></col>, <cd>the chief admiral.</cd> --
 <col><b>High altar</b></col>, <cd>the principal altar in a church.</cd>
 -- <col><b>High and dry</b></col>, <cd>out of water; out of reach of the
 current or tide; -- said of a vessel, aground or beached.</cd> --
@@ -26524,7 +26524,7 @@ hand</b></col>. <sd>(a)</sd> <cd>With power; in force;
 triumphantly.</cd> <ldquo/The children of Israel went out <xex>with a
 high hand</xex>.<rdquo/ <au>Ex. xiv. 8.</au> <sd>(b)</sd> <cd>In an
 overbearing manner, arbitrarily.</cd> <ldquo/They governed the city
-<xex>with a high hand</xex>.<rdquo/ <au>Jowett (Thucyd. ).</au></cs></p>
+<xex>with a high hand</xex>.<rdquo/ <au>Jowett (Thucyd. ).</au></p></cs>
 
 <p><syn><b>Syn.</b> -- Tall; lofty; elevated; noble; exalted;
 supercilious; proud; violent; full; dear. See <er>Tall</er>.</syn><br/
@@ -26572,7 +26572,7 @@ superior region; a height; the sky; heaven.</def><br/
 drawn.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>High, low, jack, and the game</b></col>, <cd>a game at
+<cs><p><col><b>High, low, jack, and the game</b></col>, <cd>a game at
 cards; -- also called <altname>all fours</altname>, <altname>old
 sledge</altname>, and <altname>seven up</altname>.</cd> -- <col><b>In
 high and low</b></col>, <cd>utterly; completely; in every respect.</cd>
@@ -26584,8 +26584,8 @@ high and low</b></col>, <cd>utterly; completely; in every respect.</cd>
 <rj><qau>Luke i. 78.</qau></rj></p>
 
 <p>-- <col><b>The Most High</b></col>, <cd>the Supreme Being;
-God.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+God.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>High</ent><br/
 <hw>High</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To rise; <as>as, the
@@ -28073,7 +28073,8 @@ religious name it is restricted to followers of the Veda.</def></p>
 }</mhw>. <def>A lunisolar calendar of India, according to which the year
 is divided into twelve months, with an extra month inserted after every
 month in which two new moons occur (once in three years).</def>
-<note>The intercalary month has the name of the one which precedes it.
+</p>
+<note><p>The intercalary month has the name of the one which precedes it.
 The year usually commences about April 11. The months are follows:</p>
 
 <p><table><pre>
@@ -28089,8 +28090,8 @@ Pus . . . . . . . . . . . . .  Dec.-Jan.
 Magh . . . . . . . . . . . . . Jan.-Feb.
 Phagun (Phalgun) . . . . . . . Feb.-March
 Chait . . . . . . . . . . . .  March-April
-</pre></table></note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+</pre></table><br/
+[<source>Webster 1913 Suppl.</source>]</p></note>
 
 <p><ent>Hinduism</ent><br/
 <ent>Hindooism</ent><br/
@@ -31863,7 +31864,7 @@ himself erect; he <ex>holds</ex> his head high.</as></def><br/
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hold a wager</b></col>, <cd>to lay or hazard a
+<cs><p><col><b>To hold a wager</b></col>, <cd>to lay or hazard a
 wager.</cd> <au>Swift.</au> -- <col><b>To hold forth</b></col>,
 <sd>(a)</sd> <pos>v. t.</pos><cd>to offer; to exhibit; to propose; to
 put forward.</cd> <ldquo/The propositions which books <xex>hold
@@ -31908,8 +31909,8 @@ delay.</cd> -- <col><b>To hold water</b></col>. <sd>(a)</sd>
 holes; -- commonly used in a negative sense; as, his statements will not
 <xex>hold water</xex>.</cd> <mark>[Colloq.]</mark> <sd>(b)</sd>
 <fld>(Naut.)</fld> <cd>To hold the oars steady in the water, thus
-checking the headway of a boat.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+checking the headway of a boat.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Hold</ent><br/
 <hw>Hold</hw>, <pos>v. i.</pos> <def>In general, to keep one's self in a
@@ -38964,13 +38965,13 @@ back of a horse.</def><br/
 a half-stratified condition.</def> <rj><au>Agassiz.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>On horseback</b></col>, <cd>on the back of a horse;
+<cs><p><col><b>On horseback</b></col>, <cd>on the back of a horse;
 mounted or riding on a horse or horses; in the saddle.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The long journey was to be performed <qex>on horseback</qex>.</q>
-<rj><qau>Prescott.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Prescott.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>horsebean</ent><br/
 <hw>horsebean</hw> <pos>n.</pos> <sn>1.</sn> <def>The seed of the

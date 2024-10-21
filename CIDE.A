@@ -2853,7 +2853,7 @@ condition; to continue; to remain.</def><br/
 Cor. vii. 20.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>Followed by <it>by</it>: <col><b>To abide by</b></col>.
+<cs><p>Followed by <it>by</it>: <col><b>To abide by</b></col>.
 <sd>(a)</sd> <cd>To stand to; to adhere; to maintain.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -2862,8 +2862,8 @@ he said at first.</q> <rj><qau>Fielding.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <cd>To acquiesce; to conform to; <as>as, <ex>to abide
-by</ex> a decision or an award</as>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+by</ex> a decision or an award</as>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Abide</ent><br/
 <hw>A*bide"</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To wait for; to be
@@ -3037,7 +3037,7 @@ endowments.</usage><br/
 <p><ent>Abyme</ent><br/
 <ent>Abime</ent><br/
 <mhw><hw>A*bime"</hw> or <hw>A*byme"</hw></mhw> <pr>(#)</pr>,
-<pos>n.</pos> <ety>[F. <ets>ab<icirme</ets>. See <er>Abysm</er>.]</ety>
+<pos>n.</pos> <ety>[F. <ets>ab<icir/me</ets>. See <er>Abysm</er>.]</ety>
 <def>A abyss.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -4590,7 +4590,7 @@ court <ex>above</ex></as>.</def><br/
 present</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><xex>Above</xex> is often used elliptically as an adjective by
+<note><p><xex>Above</xex> is often used elliptically as an adjective by
 omitting the word <xex>mentioned</xex>, <xex>quoted</xex>, or the like;
 as, the <xex>above</xex> observations, the <xex>above</xex> reference,
 the <xex>above</xex> articles. -- <xex>Above</xex> is also used
@@ -4602,8 +4602,8 @@ substantively. <ldquo/The waters that come down from
 <xex>before</xex>, <xex>previously</xex>; as, <xex>above</xex>-cited,
 <xex>above</xex>-described, <xex>above</xex>-mentioned,
 <xex>above</xex>-named, <xex>above</xex>said, <xex>above</xex>specified,
-<xex>above</xex>-written, <xex>above</xex>-given.</note><br/
-[<source>1913 Webster</source>]</p>
+<xex>above</xex>-written, <xex>above</xex>-given.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Aboveboard</ent><br/
 <hw>A*bove"board`</hw> <pr>(<?/)</pr>, <pos>adv.</pos> <def>Above the
@@ -9420,7 +9420,7 @@ in the general idea of carrying out to some end proposed. To
 generally implies perseverance and skill; as, to <xex>accomplish</xex> a
 plan proposed by one's self, an object, a design, an undertaking.
 <ldquo/Thou shalt <xex>accomplish</xex> my desire.<rdquo/ <rj><au>1
-Kings v. 9.</au></rj><br/
+Kings v. 9.</au></rj></usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He . . . expressed his desire to see a union
@@ -9428,25 +9428,25 @@ Kings v. 9.</au></rj><br/
 <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>To <xex>effect</xex> (to work out) is much like
+<p><usage>To <xex>effect</xex> (to work out) is much like
 <xex>accomplish</xex>. It usually implies some degree of difficulty
 contended with; as, he <xex>effected</xex> or <xex>accomplished</xex>
 what he intended, his purpose, but little. <ldquo/What he decreed, he
-<xex>effected</xex>.<rdquo/ <rj><au>Milton.</au></rj><br/
+<xex>effected</xex>.<rdquo/ <rj><au>Milton.</au></rj></usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To work in close design by fraud or guile<br/
 What force <qex>effected</qex> not.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>To <xex>execute</xex> (to follow out to the end, to carry out, or
+<p><usage>To <xex>execute</xex> (to follow out to the end, to carry out, or
 into effect) implies a set mode of operation; as, to <xex>execute</xex>
 the laws or the orders of another; to <xex>execute</xex> a work, a
 purpose, design, plan, project. To <xex>perform</xex> is much like to
 <xex>do</xex>, though less generally applied. It conveys a notion of
 protracted and methodical effort; as, to <xex>perform</xex> a mission, a
 part, a task, a work. <ldquo/Thou canst best <xex>perform</xex> that
-office.<rdquo/ <rj><au>Milton.</au></rj><br/
+office.<rdquo/ <rj><au>Milton.</au></rj></usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The Saints, like stars, around his seat<br/
@@ -9454,7 +9454,7 @@ office.<rdquo/ <rj><au>Milton.</au></rj><br/
 <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>To <xex>achieve</xex> (to come to the end or arrive at one's purpose)
+<p><usage>To <xex>achieve</xex> (to come to the end or arrive at one's purpose)
 usually implies some enterprise or undertaking of importance,
 difficulty, and excellence.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -9901,7 +9901,7 @@ judgment.</def> <ldquo/To stand high in your <xex>account</xex>.<rdquo/
 to <xex>account</xex>.<rdquo/ <au>Shak.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Account current</b></col>, <cd>a running or continued
+<cs><p><col><b>Account current</b></col>, <cd>a running or continued
 account between two or more parties, or a statement of the particulars
 of such an account.</cd> -- <col><b>In account with</b></col>, <cd>in a
 relation requiring an account to be kept.</cd> -- <col><b>On account
@@ -9925,8 +9925,8 @@ consideration; to notice.</cd> <ldquo/<xex>Of</xex> their doings, God
 <col><b>A writ of account</b></col> <fld>(Law)</fld>, <cd>a writ which
 the plaintiff brings demanding that the defendant shall render his just
 account, or show good cause to the contrary; -- called also an
-<altname>action of account</altname>.</cd> <au>Cowell.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<altname>action of account</altname>.</cd> <au>Cowell.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Narrative; narration; relation; recital;
 description; explanation; rehearsal.</syn> -- <usage><er>Account</er>,
@@ -13742,7 +13742,7 @@ pungency joined with heat.</def> <mark>[Obs.]</mark><br/
 <p><ent>Acrity</ent><br/
 <hw>Ac"ri*ty</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L.
 <ets>acritas</ets>, fr. <ets>acer</ets> sharp: cf. F.
-<ets><acircret<eacute/</ets>.]</ety> <def>Sharpness; keenness.</def>
+<ets><acir/cret<eacute/</ets>.]</ety> <def>Sharpness; keenness.</def>
 <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -14804,11 +14804,11 @@ many cases <xex>action</xex> and <xex>act</xex> are synonymous; but some
 distinction is observable. <xex>Action</xex> involves the mode or
 process of acting, and is usually viewed as occupying some time in
 doing. <xex>Act</xex> has more reference to the effect, or the operation
-as complete.</p>
+as complete.</usage></p>
 
 <p><q>To poke the fire is an <qex>act</qex>, to reconcile friends who
 have quarreled is a praiseworthy <qex>action</qex>.</q> <rj><qau>C. J.
-Smith.</qau></rj> </usage><br/
+Smith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Actionable</ent><br/
@@ -17678,13 +17678,13 @@ angle</b></col></mcol>. <fld>(Geom.)</fld> <cd>See
 <er>Adjacent</er>, <er>Adjoining</er>, <er>Contiguous</er>. Things are
 <xex>adjacent</xex> when they lie close each other, not necessary in
 actual contact; <as>as, <ex>adjacent</ex> fields, <ex>adjacent</ex>
-villages, etc.</as> </p>
+villages, etc.</as></usage></p>
 
 <p><q>I find that all Europe with her <qex>adjacent</qex> isles is
 peopled with Christians.</q> <rj><qau>Howell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>Things are <xex>adjoining</xex> when they meet at some line or point
+<p><usage>Things are <xex>adjoining</xex> when they meet at some line or point
 of junction; as, <xex>adjoining</xex> farms, an <xex>adjoining</xex>
 highway. What is spoken of as <xex>contiguous</xex> should touch with
 some extent of one side or the whole of it; as, a row of
@@ -20324,15 +20324,15 @@ husband.</def><br/
 
 <p><-- p. 25 --></p>
 
-<p><note><hand/ It is adultery on the part of the married wrongdoer.</p>
+<note><p><hand/ It is adultery on the part of the married wrongdoer.</p>
 
 <p>The word has also been used to characterize the act of an unmarried
 participator, the other being married. In the United States the
 definition varies with the local statutes. Unlawful intercourse between
 two married persons is sometimes called <stype>double adultery</stype>;
 between a married and an unmarried person, <stype>single
-adultery</stype>.</note><br/
-[<source>1913 Webster</source>]</p>
+adultery</stype>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>Adulteration; corruption.</def> <mark>[Obs.]</mark>
 <rj><au>B. Jonson.</au></rj><br/
@@ -24888,13 +24888,13 @@ is a personal attack either by words or actions, designed to humiliate
 or degrade. An <xex>outrage</xex> is an act of extreme and violent
 insult or abuse. An <xex>affront</xex> piques and mortifies; an
 <xex>insult</xex> irritates and provokes; an <xex>outrage</xex> wounds
-and injures.</p>
+and injures.</usage></p>
 
 <p><q>Captious persons construe every innocent freedom into an
 <qex>affront</qex>. When people are in a state of animosity, they seek
 opportunities of offering each other <qex>insults</qex>. Intoxication or
 violent passion impels men to the commission of <qex>outrages</qex>.</q>
-<rj><qau>Crabb.</qau></rj></usage><br/
+<rj><qau>Crabb.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Affronte</ent><br/
@@ -26310,7 +26310,7 @@ Rhea or Cybele.</def><br/
 
 <p><ent>Age</ent><br/
 <hw>Age</hw> <pr>(<amac/j)</pr>, <pos>n.</pos> <ety>[OF.
-<ets>aage</ets>, <ets>eage</ets>, F. <ets><acirge</ets>, fr. L.
+<ets>aage</ets>, <ets>eage</ets>, F. <ets><acir/ge</ets>, fr. L.
 <ets>aetas</ets> through a supposed LL. <ets>aetaticum</ets>. L.
 <ets>aetas</ets> is contracted fr. <ets>aevitas</ets>, fr.
 <ets>aevum</ets> lifetime, age; akin to E. <ets>aye</ets> ever. Cf.
@@ -27507,7 +27507,7 @@ elderly people.</def> <altsp>[Also spelled
 <hw>A*gist"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <ety>[OF.
 <ets>agister</ets>; <ets><agrave/</ets> (L. <ets>ad</ets>) +
 <ets>gister</ets> to assign a lodging, fr. <ets>giste</ets> lodging,
-abode, F. <ets>g<icirte</ets>, LL. <ets>gistum</ets>, <ets>gista</ets>,
+abode, F. <ets>g<icir/te</ets>, LL. <ets>gistum</ets>, <ets>gista</ets>,
 fr. L. <ets>jacitum</ets>, p. p. of <ets>jac<emac/re</ets> to lie: cf.
 LL. <ets>agistare</ets>, <ets>adgistare</ets>. See <er>Gist</er>.]</ety>
 <fld>(Law)</fld> <def>To take to graze or pasture, at a certain sum; --
@@ -30612,7 +30612,7 @@ Alabama.</def><br/
 <ets>alabaster</ets>, Gr. <grk>'ala`bastros</grk>, said to be derived
 fr. <ets>Alabastron</ets>, the name of a town in Egypt, near which it
 was common: cf. OF. <ets>alabastre</ets>, F.
-<ets>alb<acirtre</ets>.]</ety> <sn>1.</sn> <fld>(Min.)</fld>
+<ets>alb<acir/tre</ets>.]</ety> <sn>1.</sn> <fld>(Min.)</fld>
 <sd>(a)</sd> <def>A compact variety or sulphate of lime, or gypsum, of
 fine texture, and usually white and translucent, but sometimes yellow,
 red, or gray. It is carved into vases, mantel ornaments, etc.</def>
@@ -34351,7 +34351,7 @@ our <ex>all</ex> is at stake</as>.</def><br/
 <xex>all</xex> of a thing, <xex>all</xex> of us.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>After all</b></col>, <cd>after considering everything to
+<cs><p><col><b>After all</b></col>, <cd>after considering everything to
 the contrary; nevertheless.</cd> -- <col><b>All in all</b></col>, <cd>a
 phrase which signifies <xex>all</xex> things to a person, or everything
 desired; (also <xex>adverbially</xex>) wholly; altogether.</cd><br/
@@ -34381,8 +34381,8 @@ circumstances</xex>; <as>as, he has no ambition <ex>at all</ex>; has he
 any property <ex>at all</ex>?</as></cd> <ldquo/Nothing <xex>at
 all</xex>.<rdquo/ <au>Shak.</au> <ldquo/If thy father <xex>at all</xex>
 miss me.<rdquo/ <au>1 Sam. xx. 6</au>. -- <col><b>Over all</b></col>,
-<cd>everywhere.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<cd>everywhere.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>All</xex> is much used in composition to enlarge
 the meaning, or add force to a word. In some instances, it is completely
@@ -40050,7 +40050,7 @@ fish or different?</note><br/
 <p><ent>Ambergris</ent><br/
 <hw>Am"ber*gris</hw> <pr>(<acr/m"b<etil/r*gr<emac/s)</pr>, <pos>n.</pos>
 <ety>[F. <ets>ambre gris</ets>, i. e., gray amber; F. <ets>gris</ets>
-gray, which is of German origin: cf. OS. <ets>gr<icirs</ets>, G.
+gray, which is of German origin: cf. OS. <ets>gr<icir/s</ets>, G.
 <ets>greis</ets>, gray-haired. See <er>Amber</er>.]</ety> <def>A
 substance of the consistence of wax, found floating in the Indian Ocean
 and other parts of the tropics, and also as a morbid secretion in the
@@ -40615,7 +40615,7 @@ of the <fam>Compositae</fam> including the ragweeds.</def><br/
 
 <p><ent>Ambrosial</ent><br/
 <hw>Am*bro"sial</hw> <pr>(<acr/m*br<omac/"zh<ait/l <i>or</i>
-<acr/m*br<omac/"zh>icr/*<ait/l)</pr>, <pos>a.</pos> <ety>[L.
+<acr/m*br<omac/"zh<icr/*<ait/l)</pr>, <pos>a.</pos> <ety>[L.
 <ets>ambrosius</ets>, Gr. <grk>'ambro`sios</grk>.]</ety> <sn>1.</sn>
 <def>Consisting of, or partaking of the nature of, ambrosia; delighting
 the taste or smell; delicious.</def> <ldquo/<xex>Ambrosial</xex>
@@ -41942,7 +41942,7 @@ throng.<rdquo/ <ldquo/<xex>Amidst</xex> thick clouds.<rdquo/
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- <er>Amidst</er>, <er>Among</er>.</syn> <usage>
+<usage><p><syn><b>Syn.</b> -- <er>Amidst</er>, <er>Among</er>.</syn> 
 These words differ to some extent from each other, as will be seen from
 their etymology. <xex>Amidst</xex> denotes in the <xex>midst</xex> or
 middle of, and hence surrounded by; as, this work was written
@@ -41973,8 +41973,8 @@ poet adds, --</p>
 <p>we have rather the idea of the angels as a collective body.</p>
 
 <p><q>Those squalid cabins and uncleared woods <qex>amidst</qex> which
-he was born.</q> <rj><qau>Macaulay.</qau></rj> </usage><br/
-[<source>1913 Webster</source>]</p>
+he was born.</q> <rj><qau>Macaulay.</qau></rj> <br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><ent>Amigo</ent><br/
 \'d8<hw>A*mi"go</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl.
@@ -43638,7 +43638,7 @@ the cestraciont sharks; -- said of a skull.</def><br/
 <mhw>{ <hw>Am`phi*the"a*ter</hw>, <hw>Am`phi*the"a*tre</hw>, }</mhw>
 <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>amphitheatrum</ets>, fr. Gr.
 <?/; <grk>'amfi`</grk> + <?/ theater: cf. F.
-<ets>amphith<eacute/<acirtre</ets>. See <er>Theater</er>.]</ety>
+<ets>amphith<eacute/<acir/tre</ets>. See <er>Theater</er>.]</ety>
 <sn>1.</sn> <def>An oval or circular building with rising tiers of seats
 about an open space called the arena.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -43655,7 +43655,7 @@ theater.</def><br/
 <p><ent>Amphitheatral</ent><br/
 <hw>Am`phi*the"a*tral</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L.
 <ets>amphitheatralis</ets>: cf. F.
-<ets>amphith<eacute/<acirtral</ets>.]</ety> <def>Amphitheatrical;
+<ets>amphith<eacute/<acir/tral</ets>.]</ety> <def>Amphitheatrical;
 resembling an amphitheater.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -47534,7 +47534,7 @@ with a word, a clause with a clause, or a sentence with a
 sentence.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>(a) It is sometimes used emphatically; as, <ldquo/there are
+<note><p>(a) It is sometimes used emphatically; as, <ldquo/there are
 women <xex>and</xex> women,<rdquo/ that is, two very different sorts of
 women.</p>
 
@@ -47543,8 +47543,8 @@ the other, are connected by <xex>and</xex>; as, <ldquo/the
 <xex>tediousness and</xex> process of my travel,<rdquo/ that is, the
 tedious process, etc.; <ldquo/thy fair <xex>and outward</xex>
 character,<rdquo/ that is, thy outwardly fair character,
-<rj><au>Schmidt's Shak. Lex.</au></rj></note><br/
-[<source>1913 Webster</source>]</p>
+<rj><au>Schmidt's Shak. Lex.</au></rj><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>In order to; -- used instead of the infinitival
 <xex>to</xex>, especially after <xex>try</xex>, <xex>come</xex>,
@@ -49495,7 +49495,7 @@ Bantu tribes resident in <country>Angola</country>.</def><br/
 
 <p><ent>Angor</ent><br/
 \'d8<hw>An"gor</hw> <pr>(<acr/<nsm/"g<ocr/r)</pr>, <pos>n.</pos>
-<ety>[L. See <er>Anger</er>.]</ety> ><sn>1.</sn> <fld>(Med.)</fld>
+<ety>[L. See <er>Anger</er>.]</ety><sn>1.</sn> <fld>(Med.)</fld>
 <def>Extreme anxiety.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source> + <source>AS</source>]</p>
 
@@ -50248,8 +50248,9 @@ under <er>Spirit</er>.</cd> -- <col><b>Animal kingdom</b></col>, <cd>the
 whole class of beings endowed with animal life. It embraces several
 subkingdoms, and under these there are Classes, Orders, Families,
 Genera, Species, and sometimes intermediate groupings, all in regular
-subordination, but variously arranged by different writers.</cd></cs>
-<note>The following are the grand divisions, or subkingdoms, and the
+subordination, but variously arranged by different writers.</cd></cs></p>
+
+<note><p>The following are the grand divisions, or subkingdoms, and the
 principal classes under them, generally recognized at the present time:
 --</p>
 
@@ -50309,8 +50310,8 @@ phyla!<br/
 <phylum><er>Protozoa</er></phylum>, including <spn>Infusoria</spn> and
 <spn>Rhizopoda</spn>.</p>
 
-<p>For definitions, see these names in the Vocabulary.</note><br/
-[<source>1913 Webster</source>]</p>
+<p>For definitions, see these names in the Vocabulary.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Animalculine</ent><br/
 <ent>Animalcular</ent><br/
@@ -55486,11 +55487,14 @@ direction, as the surface of a saddle.</def><br/
 <hw>An`ti*cli"max</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Rhet.)</fld>
 <def>A sentence in which the ideas fall, or become less important and
 striking, at the close; -- the opposite of <xex>climax</xex>. It
-produces a ridiculous effect.</def> <note>Example:</p>
+produces a ridiculous effect.</def></p>
+
+<note><p>Example:</p>
 
 <p><q>Next comes Dalhousie, the great god of war,<br/
-Lieutenant-colonel to the Earl of Mar.</q> </note><br/
+Lieutenant-colonel to the Earl of Mar.</q><br/
 [<source>1913 Webster</source>]</p>
+</note>
 
 <p><ent>Anticlinal</ent><br/
 <hw>An`ti*cli"nal</hw> <pr>(<acr/n`t<icr/*kl<imac/"n<ait/l)</pr>,
@@ -60495,8 +60499,8 @@ Indians.</note> <rj><au>Am. Cyc.</au></rj><br/
 p. p.</pos> <conjf>Appalled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb.
 n.</pos> <conjf>Appalling</conjf>.]</vmorph> <ety>[OF.
 <ets>appalir</ets> to grow pale, make pale; <ets>a</ets> (L.
-<ets>ad</ets>) + <ets>p<acirlir</ets> to grow pale, to make pale,
-<ets>p<acirle</ets> pale. See Pale, <pos>a.</pos>, and cf.
+<ets>ad</ets>) + <ets>p<acir/lir</ets> to grow pale, to make pale,
+<ets>p<acir/le</ets> pale. See Pale, <pos>a.</pos>, and cf.
 <er>Pall</er>.]</ety> <sn>1.</sn> <def>To make pale; to blanch.</def>
 <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -64912,14 +64916,14 @@ Testament, to denote the valley of the Jordan and Dead Sea. Ar.
 Syria, Northern Africa, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Street Arab</b></col>, <cd>a homeless vagabond in the
+<cs><p><col><b>Street Arab</b></col>, <cd>a homeless vagabond in the
 streets of a city, particularly and outcast boy or girl.</cd>
 <au>Tylor.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The ragged outcasts and <qex>street Arabs</qex> who are shivering
-in damp doorways.</q> <rj><qau>Lond. Sat. Rev.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+in damp doorways.</q> <rj><qau>Lond. Sat. Rev.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Araba</ent><br/
 \'d8<hw>A*ra"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also
@@ -73903,14 +73907,14 @@ consequence, after the correlatives <xex>so</xex> and
 never find thee.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>So as</b></col>, <cd>so that.</cd>
+<cs><p><col><b>So as</b></col>, <cd>so that.</cd>
 <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The relations are <qex>so</qex> uncertain <qex>as</qex> they
 require a great deal of examination.</q> <rj><qau>Bacon.</qau></rj>
-</cs><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><sn>7.</sn> <def>As if; as though.</def> <mark>[Obs. or
 Poetic]</mark><br/
@@ -75934,7 +75938,7 @@ not different syllabification in HW and PR. sic. --><br/
 
 <p><ent>Asper</ent><br/
 <hw>As"per</hw> <pr>(<acr/s"p<etil/r)</pr>, <pos>a.</pos> <ety>[OE.
-<ets>aspre</ets>, OF. <ets>aspre</ets>, F. <ets><acirpre</ets>, fr. L.
+<ets>aspre</ets>, OF. <ets>aspre</ets>, F. <ets><acir/pre</ets>, fr. L.
 <ets>asper</ets> rough.]</ety> <def>Rough; rugged; harsh; bitter; stern;
 fierce.</def> <mark>[Archaic]</mark> <ldquo/An <xex>asper</xex>
 sound.<rdquo/ <rj><au>Bacon.</au></rj><br/
@@ -80331,7 +80335,7 @@ the stars.</def> <rj><au>Morley.</au></rj><br/
 <p><ent>Astrolatry</ent><br/
 <hw>As*trol"a*try</hw> <pr>(<?/)</pr>, <pos>n.</pos>
 <ety>[<ets>Astro-</ets> + Gr. <?/ service, worship: cf. F.
-<ets>astrol<acirtrie</ets>.]</ety> <def>The worship of the
+<ets>astrol<acir/trie</ets>.]</ety> <def>The worship of the
 stars.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -81231,7 +81235,7 @@ monkey</er>, and <er>Coaita</er>.</def><br/
 <ent>Atelets sauce</ent><br/
 <mhw>{ <hw>A`te*lets" sauce</hw> <pr>(?)</pr> <it>or</it> \'d8<hw>Sauce`
 aux ha`te*lets"</hw> <pr>(?)</pr> }</mhw>. <ety>[F.
-<ets>h<acirtelet</ets> skewer.]</ety> <def>A sauce (such as egg and
+<ets>h<acir/telet</ets> skewer.]</ety> <def>A sauce (such as egg and
 bread crumbs) used for covering bits of meat, small birds, or fish,
 strung on skewers for frying.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -84544,12 +84548,12 @@ their cohesion or combination, and conversely resisting
 separation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>Attraction</xex> is exerted at both
+<note><p><hand/ <xex>Attraction</xex> is exerted at both
 <xex>sensible</xex> and <xex>insensible</xex> distances, and is
 variously denominated according to its qualities or phenomena. Under
 attraction at <xex>sensible</xex> distances, there are, --</p>
 
-<p><subtypes>(1.) <col><b>Attraction of gravitation</b></col>, which
+<subtypes><p>(1.) <col><b>Attraction of gravitation</b></col>, which
 acts at all distances throughout the universe, with a force proportional
 directly to the product of the masses of the bodies and inversely to the
 square of their distances apart.</p>
@@ -84583,8 +84587,8 @@ of cohesive attraction.</p>
 <p>(4.) <col><b>Chemical attraction</b></col>, or
 <col><b>affinity</b></col>, that peculiar force which causes elementary
 atoms, or groups of atoms, to unite to form
-molecules.</subtypes></note><br/
-[<source>1913 Webster</source>]</p>
+molecules.<br/
+[<source>1913 Webster</source>]</p></subtypes></note>
 
 <p><sn>2.</sn> <def>The act or property of attracting; the effect of the
 power or operation of attraction.</def> <rj><au>Newton.</au></rj><br/
@@ -87498,13 +87502,13 @@ to warrant; <as>as, to <ex>authorize</ex> a report</as>.</def><br/
 <rj><au>Locke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To authorize one's self</b></col>, <cd>to rely for
+<cs><p><col><b>To authorize one's self</b></col>, <cd>to rely for
 authority.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Authorizing himself</qex>, for the most part, upon other
-histories.</q> <rj><qau>Sir P. Sidney.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+histories.</q> <rj><qau>Sir P. Sidney.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Authorized</ent><br/
 <hw>Au"thor*ized</hw> <pr>(<?/)</pr>, <pos>a.</pos> <sn>1.</sn>
@@ -89198,7 +89202,7 @@ heaving.<rdquo/ <rj><au>Totten.</au></rj><br/
 
 <p><ent>Avatar</ent><br/
 <hw>Av`a*tar"</hw> <pr>(<acr/v`<adot/*t<add/r")</pr>, <pos>n.</pos>
-<ety>[Skr. <ets>avat<acirra</ets> descent; <ets>ava</ets> from + root
+<ety>[Skr. <ets>avat<acir/ra</ets> descent; <ets>ava</ets> from + root
 <ets>t<rsdot/</ets> to cross, pass over.]</ety> <sn>1.</sn> <fld>(Hindu
 Myth.)</fld> <def>The descent of a deity to earth, and his incarnation
 as a man or an animal; -- chiefly associated with the incarnations of

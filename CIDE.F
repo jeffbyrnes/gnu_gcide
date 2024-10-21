@@ -3750,7 +3750,7 @@ unguarded expression <ex>fell</ex> from his lips; not a murmur
 <ex>fell</ex> from him.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To fall abroad of</b></col> <fld>(Naut.)</fld>, <cd>to
+<cs><p><col><b>To fall abroad of</b></col> <fld>(Naut.)</fld>, <cd>to
 strike against; -- applied to one vessel coming into collision with
 another.</cd> -- <col><b>To fall among</b></col>, <cd>to come among
 accidentally or unexpectedly.</cd> -- <col><b>To fall astern</b></col>
@@ -3873,8 +3873,8 @@ different class or order.</as></cd> -- <col><b>To fall upon</b></col>.
 <sd>(a)</sd> <cd>To attack.</cd> [See <cref>To fall on</cref>.]
 <sd>(b)</sd> <cd>To attempt; to have recourse to.</cd> <ldquo/I do not
 intend <xex>to fall upon</xex> nice disquisitions.<rdquo/
-<au>Holder.</au> <sd>(c)</sd> <cd>To rush against.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<au>Holder.</au> <sd>(c)</sd> <cd>To rush against.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><note><hand/ <xex>Fall</xex> primarily denotes descending motion,
 either in a perpendicular or inclined direction, and, in most of its
@@ -7337,13 +7337,13 @@ without looking <ex>farther</ex></as>.</def><br/
 event</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>No farther</b></col>, <cd>(used elliptically for) go no
+<cs><p><col><b>No farther</b></col>, <cd>(used elliptically for) go no
 farther; say no more, etc.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It will be dangerous to go on. <qex>No farther</qex> !</q>
-<rj><qau>Shak.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Farther</ent><br/
 <hw>Far"ther</hw>, <pos>v. t.</pos> <def>To help onward.
@@ -11768,7 +11768,7 @@ belonging to the owner, and transmissible to his heirs, absolutely and
 simply, without condition attached to the tenure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Fee estate</b></col> <fld>(Eng. Law)</fld>, <cd>land or
+<cs><p><col><b>Fee estate</b></col> <fld>(Eng. Law)</fld>, <cd>land or
 tenements held in fee in consideration or some acknowledgment or service
 rendered to the lord.</cd> -- <col><b>Fee farm</b></col>
 <fld>(Law)</fld>, <cd>land held of another in fee, in consideration of
@@ -11788,8 +11788,8 @@ quarter.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p>-- <col><b>Fee tail</b></col> <fld>(Law)</fld>, <cd>an estate of
 inheritance, limited and restrained to some particular heirs.</cd>
-<au>Burill.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<au>Burill.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Fee</ent><br/
 <hw>Fee</hw> <pr>(f<emac/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. &
@@ -12256,14 +12256,14 @@ adjective describing the kind of sensation.</def><br/
 <qex>feels</qex> smooth.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To feel after</b></col>, <cd>to search for; to seek to
+<cs><p><col><b>To feel after</b></col>, <cd>to search for; to seek to
 find; to seek as a person groping in the dark.</cd> <ldquo/If haply they
 might <xex>feel after</xex> him, and find him.<rdquo/ <rj><au>Acts xvii.
 27.</au></rj></p>
 
 <p> -- <col><b>To feel of</b></col>, <cd>to examine by
-touching.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+touching.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Feel</ent><br/
 <hw>Feel</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Feeling;
@@ -13141,13 +13141,13 @@ loss among partners; -- called also partnership, company, and
 distributive proportion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Good fellowship</b></col>, <cd>companionableness; the
+<cs><p><col><b>Good fellowship</b></col>, <cd>companionableness; the
 spirit and disposition befitting comrades.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>There's neither honesty, manhood, nor good <qex>fellowship</qex>
-in thee.</q> <rj><qau>Shak.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+in thee.</q> <rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><-- p. 551 --></p>
 
@@ -13465,7 +13465,7 @@ pistillate; or, in cryptogamous plants, capable of receiving
 fertilization.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col>Female rhymes</col> <fld>(Pros.)</fld>, <cd>double rhymes,
+<cs><p><col>Female rhymes</col> <fld>(Pros.)</fld>, <cd>double rhymes,
 or rhymes (called in French <xex>feminine</xex> rhymes because they end
 in <xex>e</xex> weak, or <xex>feminine</xex>) in which two syllables, an
 accented and an unaccented one, correspond at the end of each
@@ -13487,7 +13487,7 @@ countries; lady fern.</cd><br/
 
 <p><note><hand/ The names <xex>male fern</xex> and <xex>female
 fern</xex> were anciently given to two common ferns; but it is now
-understood that neither has any sexual character.</note></cs></p>
+understood that neither has any sexual character.</note></p></cs>
 
 <p><syn><b>Syn.</b> -- <er>Female</er>, <er>Feminine</er>.</syn>
 <usage>We apply <xex>female</xex> to the sex or individual, as opposed
@@ -14553,7 +14553,7 @@ intellect or the feelings.</def><br/
 <rj><qau>C. Kingsley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Acetous fermentation</b></col> <it>or</it>
+<cs><p><mcol><col><b>Acetous fermentation</b></col> <it>or</it>
 <col><b>Acetic fermentation</b></col></mcol>, <cd>a form of oxidation in
 which alcohol is converted into vinegar or acetic acid by the agency of
 a specific fungus (<spn>Mycoderma aceti</spn>) or series of enzymes. The
@@ -14625,8 +14625,8 @@ acid which is formed is very prone to undergo butyric fermentation after
 the manner indicated in the following equation: <chreact>2C3H6O3 (lactic
 acid) --> C4H8O2 (butyric acid) + 2CO2 (carbonic acid) + 2H2 (hydrogen
 gas).</chreact></note> -- <col><b>Putrefactive fermentation</b></col>.
-<cd>See <er>Putrefaction</er>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<cd>See <er>Putrefaction</er>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Fermentation tank</ent><br/
 <hw>Fer`men*ta"tion tank</hw>. <def>a tank in which fermentations are
@@ -16725,12 +16725,12 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <xex>Few</xex> is often used partitively; as, <xex>few</xex> of them.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>A few</b></col>, <cd>a small number.</cd> -- <col><b>In few</b></col>, <cd>in a few words; briefly.</cd>  <rj><au>Shak.</au></rj></p>
+<cs><p><col><b>A few</b></col>, <cd>a small number.</cd> -- <col><b>In few</b></col>, <cd>in a few words; briefly.</cd>  <rj><au>Shak.</au></rj></p>
 
 <p>-- <col><b>No few</b></col>, <cd>not few; more than a few; many.</cd>  <rj><au>Cowper.</au></rj></p>
 
-<p>-- <col><b>The few</b></col>, <cd>the minority; -- opposed to <xex>the many</xex> or <xex>the majority</xex>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+<p>-- <col><b>The few</b></col>, <cd>the minority; -- opposed to <xex>the many</xex> or <xex>the majority</xex>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Fewel</ent><br/
 <hw>Fe"wel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Fuel</er>.]</ety> <def>Fuel.</def> <mark>[Obs.]</mark>  <rj><au>Hooker.</au></rj><br/
@@ -18815,7 +18815,7 @@ voices in the harmony; <as>as, <ex>figurate</ex> counterpoint or
 descant</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Figurate counterpoint</b></col> <it>or</it>
+<cs><p><mcol><col><b>Figurate counterpoint</b></col> <it>or</it>
 <col><b>Figurate descant</b></col></mcol> <fld>(Mus.)</fld>, <cd>that
 which is not simple, or in which the parts do not move together tone for
 tone, but in which freer movement of one or more parts mingles passing
@@ -18834,16 +18834,17 @@ series being such that points representing them are capable of
 symmetrical arrangement in different geometrical figures, as triangles,
 squares, pentagons, etc.</cd> <note>In the following example, the two
 lower lines are composed of <xex>figurate numbers</xex>, those in the
-second line being <xex>triangular</xex>, and represented thus: --</p>
+second line being <xex>triangular</xex>, and represented thus: --</note></p>
 
+<p>
 <pre><tt>
-                        .              1, 2,  3,  4, etc.
-              .        . .             1, 3,  6, 10, etc.
+			.              1, 2,  3,  4, etc.
+	      .        . .             1, 3,  6, 10, etc.
       .      . .     . . . .   etc.    1, 4, 10, 20, etc
  .   . .   . . . .  . . . . .
 </tt></pre><br/
-</note></cs><br/
-[<source>1913 Webster</source>]</p>
+<br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Figurated</ent><br/
 <hw>Fig"ur*a`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a
@@ -19013,7 +19014,7 @@ strain or passage; a musical phrase or motive; a florid
 embellishment.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Figures are often written upon the staff in music to
+<note><p><hand/ Figures are often written upon the staff in music to
 denote the kind of measure. They are usually in the form of a fraction,
 the upper figure showing how many notes of the kind indicated by the
 lower are contained in one measure or bar. Thus, <musfig>2/4</musfig>
@@ -19027,8 +19028,8 @@ notation. The following numbers are contained in a single line of large
 <p><musfig>2/2</musfig><musfig>2/4</musfig><musfig>2/8</musfig>
 <musfig>4/2</musfig><musfig>2/4</musfig><musfig>4/8</musfig>
 <musfig>3/2</musfig><musfig>3/4</musfig><musfig>3/8</musfig>
-<musfig>6/4</musfig><musfig>6/4</musfig><musfig>6/8</musfig> </note><br/
-[<source>1913 Webster</source>]</p>
+<musfig>6/4</musfig><musfig>6/4</musfig><musfig>6/8</musfig><br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><cs><mcol><col><b>Academy figure</b></col>, <col><b>Canceled
 figures</b></col>, <col><b>Lay figure</b></col>, etc.</mcol> <cd>See
@@ -21291,14 +21292,14 @@ side.</def><br/
 (in any one of various senses); <as>as, the ale will <ex>fine</ex>; the
 weather <ex>fined</ex></as>.</def></p>
 
-<p><cs><mcol><col><b>To fine</b></col> <col><b>away, down,
+<cs><p><mcol><col><b>To fine</b></col> <col><b>away, down,
 off</b></col></mcol>, <cd>gradually to become fine; to diminish; to
 dwindle.</cd></p>
 
 <p><q>I watched her [the ship] . . . gradually <qex>fining</qex> down in
 the westward until I lost of her hull.</q> <rj><qau>W. C.
 Russel.</qau></rj><br/
-[<source>Webster 1913 Suppl.</source>]</cs></p>
+[<source>Webster 1913 Suppl.</source>]</p></cs>
 
 <p><ent>fineable</ent><br/
 <hw>fineable</hw> <pos>adj.</pos> <def>liable to a fine.</def><br/
@@ -23112,7 +23113,7 @@ highest; <as>as, Demosthenes was the <ex>first</ex> orator of
 Greece</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At first blush</b></col>. <cd>See under
+<cs><p><col><b>At first blush</b></col>. <cd>See under
 <er>Blush</er>.</cd> -- <col><b>At first hand</b></col>, <cd>from the
 first or original source; without the intervention of any
 agent.</cd><br/
@@ -23152,7 +23153,7 @@ company; the orderly sergeant.</cd> <au>Farrow.</au> -- <col><b>First
 watch</b></col> <fld>(Naut.)</fld>, <cd>the watch from eight to twelve
 at midnight; also, the men on duty during that time.</cd> --
 <col><b>First water</b></col>, <cd>the highest quality or purest luster;
--- said of gems, especially of diamond and pearls.</cd></cs></p>
+-- said of gems, especially of diamond and pearls.</cd></p></cs>
 
 <p><syn><b>Syn.</b> -- Primary; primordial; primitive; primeval;
 pristine; highest; chief; principal; foremost.</syn><br/
@@ -26891,7 +26892,7 @@ archaic.</def><br/
 of certain fruits.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Flat arch</b></col>. <fld>(Arch.)</fld> <cd>See under
+<cs><p><col><b>Flat arch</b></col>. <fld>(Arch.)</fld> <cd>See under
 <er>Arch</er>, <pos>n.</pos>, 2. (<it>b</it>).</cd> -- <col><b>Flat
 cap</b></col>, <cd>cap paper, not folded. See under <er>Paper</er>.</cd>
 -- <col><b>Flat chasing</b></col>, <cd>in fine art metal working, a mode
@@ -26923,8 +26924,8 @@ speech <ex>fell flat</ex></as>.</cd><br/
 
 <p><q>Of all who fell by saber or by shot,<br/
 Not one <qex>fell</qex> half so <qex>flat</qex> as Walter Scott.</q>
-<rj><qau>Lord Erskine.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Lord Erskine.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Flat</ent><br/
 <hw>Flat</hw> <pr>(?)</pr>, <pos>adv.</pos> <sn>1.</sn> <def>In a flat
@@ -29654,7 +29655,7 @@ party in litigation</as>.</def><br/
 
 <p><-- p. 571 --></p>
 
-<p><cs><col><b>To fling about</b></col>, <cd>to throw on all sides; to
+<cs><p><col><b>To fling about</b></col>, <cd>to throw on all sides; to
 scatter.</cd> -- <col><b>To fling away</b></col>, <cd>to reject; to
 discard.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -29683,8 +29684,8 @@ door.</cd> -- <col><b>To fling out</b></col>, <cd>to utter; to speak in
 an abrupt or harsh manner; as, <xex>to fling out</xex> hard words
 against another.</cd> -- <col><b>To fling up</b></col>, <cd>to
 relinquish; to abandon; as, <xex>to fling up</xex> a
-design.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+design.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Fling</ent><br/
 <hw>Fling</hw> <pr>(?)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To throw;
@@ -38456,7 +38457,7 @@ fear of which, anything is done.</def> <mark>[Obs.]</mark><br/
 <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>For</b></col>, <it>or</it> <col><b>As
+<cs><p><mcol><col><b>For</b></col>, <it>or</it> <col><b>As
 for</b></col></mcol>, <cd>so far as concerns; as regards; with reference
 to; -- used parenthetically or independently. See under
 <er>As</er>.</cd><br/
@@ -38500,8 +38501,8 @@ desire or prayer.</cd> <ldquo/<xex>O for</xex> a muse of fire.<rdquo/
 <col><b>If it were not for</b></col></mcol>, <cd>leaving out of account;
 but for the presence or action of.</cd> <ldquo/Moral consideration can
 no way move the sensible appetite, <xex>were it not for</xex> the
-will.<rdquo/ <au>Sir M. Hale.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+will.<rdquo/ <au>Sir M. Hale.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>For</ent><br/
 <hw>For</hw> <pr>(?)</pr>, <pos>conj.</pos> <sn>1.</sn> <def>Because; by
@@ -39682,7 +39683,7 @@ the <qex>fore</qex> purpose of the state.</q>
 composition.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Fore bay</b></col>, <cd>a reservoir or canal between a
+<cs><p><col><b>Fore bay</b></col>, <cd>a reservoir or canal between a
 mill race and a water wheel; the discharging end of a pond or mill
 race.</cd> -- <col><b>Fore body</b></col> <fld>(Shipbuilding)</fld>,
 <cd>the part of a ship forward of the largest cross-section,
@@ -39743,8 +39744,8 @@ wind</b></col>, <cd>a favorable wind.</cd> <mark>[Obs.]</mark><br/
 <rj><qau>Sandys.</qau></rj></p>
 
 <p> -- <col><b>Fore world</b></col>, <cd>the antediluvian world.</cd>
-<mark>[R.]</mark> <au>Southey.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<mark>[R.]</mark> <au>Southey.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Fore</ent><br/
 <hw>Fore</hw>, <pos>n.</pos> <def>The front; hence, that which is in
@@ -49846,7 +49847,7 @@ That almost <qex>freezes</qex> up the heat of life.</q>
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>-- <cs><col><b>To freeze out</b></col>, <cd>to drive out or exclude
+<cs><p>-- <col><b>To freeze out</b></col>, <cd>to drive out or exclude
 by cold or by cold treatment; to force to withdraw; <as>as, to be
 <ex>frozen out</ex> of one's room in winter; to <ex>freeze out</ex> a
 competitor</as>.</cd> <mark>[Colloq.]</mark></p>
@@ -49857,8 +49858,8 @@ T. Hadley.</qau></rj></p>
 
 <p><q>It is sometimes a long time before a player who is <qex>frozen
 out</qex> can get into a game again.</q> <rj><qau>R. F.
-Foster.</qau></rj></cs><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+Foster.</qau></rj><br/
+[<source>Webster 1913 Suppl.</source>]</p></cs>
 
 <p><ent>Freeze</ent><br/
 <hw>Freeze</hw>, <pos>n.</pos> <def>The act of congealing, or the state
@@ -53409,7 +53410,7 @@ character.</def> <mark>[R.]</mark><br/
 <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Black frost</b></col>, <cd>cold so intense as to freeze
+<cs><p><col><b>Black frost</b></col>, <cd>cold so intense as to freeze
 vegetation and cause it to turn black, without the formation of
 hoarfrost.</cd> -- <col><b>Frost bearer</b></col> <fld>(Physics)</fld>,
 <cd>a philosophical instrument illustrating the freezing of water in a
@@ -53431,8 +53432,8 @@ obscurity: it is the <qex>frost</qex> smoke of arctic winters.</q>
 <p>-- <col><b>Frost valve</b></col>, <cd>a valve to drain the portion of
 a pipe, hydrant, pump, etc., where water would be liable to freeze.</cd>
 -- <col><b>Jack Frost</b></col>, <cd>a popular personification of
-frost.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+frost.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Frost</ent><br/
 <hw>Frost</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p.
@@ -55780,7 +55781,7 @@ completely; exactly; entirely.</def><br/
 <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Full is placed before adjectives and adverbs to heighten
+<note><p><hand/ Full is placed before adjectives and adverbs to heighten
 or strengthen their signification. <ldquo/Full sad.<rdquo/
 <au>Milton.</au> <ldquo/Master of a <xex>full</xex> poor cell.<rdquo/
 <au>Shak.</au> <ldquo/<xex>Full</xex> many a gem of purest ray
@@ -55790,8 +55791,8 @@ serene.<rdquo/ <au>T. Gray.</au></p>
 extent or degree; as, <xex>full</xex>-bloomed, <xex>full</xex>-blown,
 <xex>full</xex>-crammed <xex>full</xex>-grown, <xex>full</xex>-laden,
 <xex>full</xex>-stuffed, etc. Such compounds, for the most part, are
-self-defining.</note><br/
-[<source>1913 Webster</source>]</p>
+self-defining.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>Full</ent><br/
 <hw>Full</hw>, <pos>v. i.</pos> <def>To become full or wholly

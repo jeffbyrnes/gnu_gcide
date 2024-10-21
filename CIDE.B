@@ -24793,7 +24793,7 @@ United States the seeds are used in candy.</def> <altsp>[Also spelled
 
 <p><ent>Bennet</ent><br/
 <hw>Ben"net</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F.
-<ets>beno<icirte</ets>, fr. L. <ets>benedicta</ets>, fem. of
+<ets>beno<icir/te</ets>, fr. L. <ets>benedicta</ets>, fem. of
 <ets>benedictus</ets>, p. p., blessed. See <er>Benedict</er>,
 <pos>a.</pos>]</ety> <fld>(Bot.)</fld> <def>The common yellow-flowered
 avens of Europe (<spn>Geum urbanum</spn>); herb bennet. The name is
@@ -26530,7 +26530,8 @@ wits or senses.</cd></cs><br/
 24.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- <er>Beside</er>, <er>Besides</er>.</syn> <usage>
+<usage>
+<p><syn><b>Syn.</b> -- <er>Beside</er>, <er>Besides</er>.</syn>
 These words, whether used as prepositions or adverbs, have been
 considered strictly synonymous, from an early period of our literature,
 and have been freely interchanged by our best writers. There is,
@@ -26576,8 +26577,8 @@ May unfold me to him; there stand I in much peril.</q>
 
 <p><q>That man that does not know those things which are of necessity
 for him to know is but an ignorant man, whatever he may know
-<qex>besides</qex>.</q> <rj><qau>Tillotson.</qau></rj> </usage><br/
-[<source>1913 Webster</source>]</p>
+<qex>besides</qex>.</q> <rj><qau>Tillotson.</qau></rj><br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><note>See <er>Moreover</er>.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -28104,7 +28105,7 @@ confidence in princes.</q> <rj><qau>Ps. cxviii. 9.</qau></rj><br/
 subject</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>All the better</b></col>. <cd>See under <er>All</er>,
+<cs><p><col><b>All the better</b></col>. <cd>See under <er>All</er>,
 <pos>adv.</pos></cd> -- <col><b>Better half</b></col>, <cd>an expression
 used to designate one's wife.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -28127,8 +28128,8 @@ used.</note><br/
 
 <p><q>By all that's holy, he <qex>had better</qex> starve<br/
 Than but once think this place becomes thee not.</q>
-<rj><qau>Shak.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Better</ent><br/
 <hw>Bet"ter</hw>, <pos>n.</pos> <sn>1.</sn> <def>Advantage, superiority,
@@ -28442,7 +28443,8 @@ understanding that the matter is not to be communicated to
 others.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- <er>Between</er>, <er>Among</er>.</syn> <usage>
+<usage>
+<p><syn><b>Syn.</b> -- <er>Between</er>, <er>Among</er>.</syn>
 <xex>Between</xex> etymologically indicates only two; as, a quarrel
 <xex>between</xex> two men or two nations; to be <xex>between</xex> two
 fires, etc. It is however extended to more than two in expressing a
@@ -28455,8 +28457,8 @@ find any place for entrance.</q> <rj><qau>Johnson.</qau></rj><br/
 
 <p> <xex>Among</xex> implies a mass or collection of things or persons,
 and always supposes more than two; as, the prize money was equally
-divided <xex>among</xex> the ship's crew. </usage><br/
-[<source>1913 Webster</source>]</p>
+divided <xex>among</xex> the ship's crew.<br/
+[<source>1913 Webster</source>]</p></usage>
 
 <p><ent>Between</ent><br/
 <hw>Be*tween"</hw>, <pos>n.</pos> <def>Intermediate time or space;
@@ -34208,7 +34210,7 @@ males have brilliant colors, elegant plumes, and often remarkable tail
 feathers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The <stype>Great emerald</stype> (<spn>Paradisea
+<note><p><hand/ The <stype>Great emerald</stype> (<spn>Paradisea
 apoda</spn>) and the <stype>Lesser emerald</stype> (<spn>Paradisea
 minor</spn>) furnish many of the plumes used as ornaments by ladies; the
 <stype>Red bird of paradise</stype> is <spn>Paradisea rubra</spn>
@@ -34221,8 +34223,8 @@ sexsetacea</spn>; the <stype>King bird of paradise</stype> is
 related group (<fam>Epimachin<ae/</fam>) from the same region. The
 <stype>Twelve-wired bird of paradise</stype> (<spn>Seleucides
 alba</spn>) is one of these. See <er>Paradise bird</er>, and Note under
-<er>Apod</er>.</note><br/
-[<source>1913 Webster</source>]</p>
+<er>Apod</er>.<br/
+[<source>1913 Webster</source>]</p></note>
 
 <p><ent>bird-on-the-wing</ent><br/
 <hw>bird-on-the-wing</hw> <pos>n.</pos> <def>a common trailing perennial
@@ -37103,7 +37105,7 @@ Depression of the 1930s. From an all-time high of 381 in early September
 1929, the Dow Jones Industrial Average drifted down to a level of 326 on
 October 22, then, in a series of traumatic selling waves, to 230 in the
 course of the following six trading days.<br/
-The stock market’s drop was far from over; it continued its sickening
+The stock market's drop was far from over; it continued its sickening
 slide for nearly three more years, reaching an ultimate low of 41 in
 July 1932. But it was that last week of October 1929 that burned itself
 into the American consciousness. After a decade of unprecedented boom
@@ -38007,7 +38009,7 @@ breath.</def><br/
 
 <p><ent>Blamable</ent><br/
 <hw>Blam"a*ble</hw> <pr>(bl<amac/m"<adot/*b'l)</pr>, <pos>a.</pos>
-<ety>[Cf. F. <ets>bl<acirmable</ets>.]</ety> <def>Deserving of censure;
+<ety>[Cf. F. <ets>bl<acir/mable</ets>.]</ety> <def>Deserving of censure;
 faulty; culpable; reprehensible; censurable; blameworthy.</def> --
 <wordforms><wf>Blam"a*ble*ness</wf>, <pos>n.</pos> --
 <wf>Blam"a*bly</wf> <pr>(<?/)</pr>, <pos>adv.</pos></wordforms><br/
@@ -38017,7 +38019,7 @@ faulty; culpable; reprehensible; censurable; blameworthy.</def> --
 <hw>Blame</hw> <pr>(bl<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.
 & p. p.</pos> <conjf>Blamed</conjf> <pr>(bl<amac/md)</pr>; <pos>p. pr. &
 vb. n.</pos> <conjf>Blaming</conjf>.]</vmorph> <ety>[OE.
-<ets>blamen</ets>, F. <ets>bl<acirmer</ets>, OF. <ets>blasmer</ets>, fr.
+<ets>blamen</ets>, F. <ets>bl<acir/mer</ets>, OF. <ets>blasmer</ets>, fr.
 L. <ets>blasphemare</ets> to blaspheme, LL. also to blame, fr. Gr.
 <grk>blasfhmei^n</grk> to speak ill, to slander, to blaspheme, fr.
 <grk>bla`sfhmos</grk> evil speaking, perh, for <grk>blapsi`fhmos</grk>;
@@ -38053,7 +38055,7 @@ accident.</cd></cs><br/
 
 <p><ent>Blame</ent><br/
 <hw>Blame</hw>, <pos>n.</pos> <ety>[OE. <ets>blame</ets>, fr. F.
-<ets>bl<acirme</ets>, OF. <ets>blasme</ets>, fr. <ets>bl<acirmer</ets>,
+<ets>bl<acir/me</ets>, OF. <ets>blasme</ets>, fr. <ets>bl<acir/mer</ets>,
 OF. <ets>blasmer</ets>, to blame. See <er>Blame</er>,
 <pos>v.</pos>]</ety> <sn>1.</sn> <def>An expression of disapprobation
 fir something deemed to be wrong; imputation of fault;
@@ -38924,7 +38926,7 @@ meso<ex>blast</ex>, etc.</as></def><br/
 <hw>Blast</hw> <pr>(bl<adot/st)</pr>, <pos>n.</pos> <ety>[AS.
 <ets>bl<aemac/st</ets> a puff of wind, a blowing; akin to Icel.
 <ets>bl<amac/str</ets>, OHG. <ets>bl<amac/st</ets>, and fr. a verb akin
-to Icel. <ets>bl<amac/sa</ets> to blow, OHG. <ets>bl<acirsan</ets>,
+to Icel. <ets>bl<amac/sa</ets> to blow, OHG. <ets>bl<acir/san</ets>,
 Goth. <ets>bl<emac/san</ets> (in comp.); all prob. from the same root as
 E. <ets>blow</ets>. See <er>Blow</er> to eject air.]</ety> <sn>1.</sn>
 <def>A violent gust of wind.</def><br/
@@ -40577,7 +40579,7 @@ and <xex>bless</xex> all the field.<rdquo/</note>
 
 <p><-- p. 155 --></p>
 
-<p><cs><mcol><col><b>Bless me!</b></col> <col><b>Bless
+<cs><p><mcol><col><b>Bless me!</b></col> <col><b>Bless
 us!</b></col></mcol> <cd>an exclamation of surprise.</cd>
 <au>Milton.</au> -- <col><b>To bless from</b></col>, <cd>to secure,
 defend, or preserve from.</cd> <ldquo/<xex>Bless</xex> me
@@ -40591,8 +40593,8 @@ defend, or preserve from.</cd> <ldquo/<xex>Bless</xex> me
 <p>-- <mcol><col><b>To bless with</b></col>, <col><b>To be blessed
 with</b></col></mcol>, <cd>to favor or endow with; to be favored or
 endowed with; <as>as, God <ex>blesses</ex> us <ex>with</ex> health; we
-are <ex>blessed with</ex> happiness</as>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+are <ex>blessed with</ex> happiness</as>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Blessed</ent><br/
 <hw>Bless"ed</hw> <pr>(bl<ecr/s"<ecr/d)</pr>, <pos>a.</pos> <sn>1.</sn>
@@ -43557,7 +43559,7 @@ town</as>.</def> <mark>[slang]</mark> <br/
 inheritance gambling</as>.</def> <mark>[colloq.]</mark> <br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To blow great guns</b></col>, <cd>to blow furiously and
+<cs><p><col><b>To blow great guns</b></col>, <cd>to blow furiously and
 with roaring blasts; -- said of the wind at sea or along the coast.</cd>
 -- <col><b>To blow off</b></col>, <cd>to empty (a boiler) of water
 through the blow-off pipe, while under steam pressure; also, to eject
@@ -43594,8 +43596,8 @@ schoolboys.</q> <rj><qau>C. Lamb.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A lady's maid whose character had been <qex>blown upon</qex>.</q>
-<rj><qau>Macaulay.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Macaulay.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Blow</ent><br/
 <hw>Blow</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A blowing,
@@ -46865,7 +46867,7 @@ propelling apparatus, fuel tanks, etc. Also called
 <er>fuselage</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>After body</b></col> <fld>(Naut.)</fld>, <cd>the part of
+<cs><p><col><b>After body</b></col> <fld>(Naut.)</fld>, <cd>the part of
 a ship abaft the dead flat.</cd> -- <col><b>Body cavity</b></col>
 <fld>(Anat.)</fld>, <cd>the space between the walls of the body and the
 inclosed viscera; the c<ae/lum; -- in mammals, divided by the diaphragm
@@ -46910,8 +46912,8 @@ Venus coper.</q> <rj><qau>Chaucer.</qau></rj><br/
 without right or authority a dead body from a grave, vault, etc.; a
 resurrectionist.</cd> -- <col><b>Body snatching</b></col>
 <fld>(Law)</fld>, <cd>the unauthorized removal of a dead body from the
-grave; usually for the purpose of dissection.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+grave; usually for the purpose of dissection.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Body</ent><br/
 <hw>Bod"y</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p.
@@ -46920,13 +46922,13 @@ p.</pos> <conjf>Bodied</conjf> (<?/); <pos>p. pr. & vb. n.</pos>
 body; to produce in definite shape; to embody.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To body forth</b></col>, <cd>to give from or shape to
+<cs><p><col><b>To body forth</b></col>, <cd>to give from or shape to
 mentally.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Imagination <qex>bodies</qex> forth<br/
-The forms of things unknown.</q> <rj><qau>Shak.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+The forms of things unknown.</q> <rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>bodybuilder</ent><br/
 <hw>bodybuilder</hw> <pos>n.</pos> <def>someone who does special
@@ -47646,7 +47648,7 @@ pressed.</def><br/
 
 <p><ent>Boist</ent><br/
 <hw>Boist</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF.
-<ets>boiste</ets>, F. <ets>bo<icirte</ets>, from the same root as E.
+<ets>boiste</ets>, F. <ets>bo<icir/te</ets>, from the same root as E.
 <ets>box</ets>.]</ety> <def>A box.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -49809,7 +49811,7 @@ played by striking with the hands.</def><br/
 
 <p><ent>Bongrace</ent><br/
 <hw>Bon"grace`</hw> <pr>(b<ocr/n"gr<amac/s`)</pr>, <pos>n.</pos>
-<ety>[F. <ets>bon</ets> good + <ets>gr<acirce</ets> grace, charm.]</ety>
+<ety>[F. <ets>bon</ets> good + <ets>gr<acir/ce</ets> grace, charm.]</ety>
 <def>A projecting bonnet or shade to protect the complexion; also, a
 wide-brimmed hat.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -50356,7 +50358,7 @@ bugaboo; bugbear.</syn><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>boogie</ent><br/
-<hw>boogie</hw>> <pr>(b<oocr/"g<emac/)</pr>, <pos>n.</pos> <sn>1.</sn>
+<hw>boogie</hw> <pr>(b<oocr/"g<emac/)</pr>, <pos>n.</pos> <sn>1.</sn>
 <fld>(Music)</fld> <def>An instrumental version of the blues (especially
 for piano).</def><br/
 <syn><b>Syn. --</b> boogie-woogie.</syn><br/
@@ -53949,7 +53951,7 @@ permits carrying a large amount of merchandise.</cd></cs><br/
 <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>At bottom</b></col>, <col><b>At the
+<cs><p><mcol><col><b>At bottom</b></col>, <col><b>At the
 bottom</b></col></mcol>, <cd>at the foundation or basis; in
 reality.</cd> <ldquo/He was <xex>at the bottom</xex> a good man.<rdquo/
 <au>J. F. Cooper.</au> -- <col><b>To be at the bottom of</b></col>,
@@ -53964,8 +53966,8 @@ Newman.</au><br/
 
 <p> -- <col><b>To go to the bottom</b></col>, <cd>to sink; esp. to be
 wrecked.</cd> -- <col><b>To touch bottom</b></col>, <cd>to reach the
-lowest point; to find something on which to rest.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+lowest point; to find something on which to rest.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Bottom</ent><br/
 <hw>Bot"tom</hw>, <pos>a.</pos> <def>Of or pertaining to the bottom;
@@ -59050,7 +59052,7 @@ sugar.</cd></cs><br/
 <hw>Bran"gle</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Prov. E.
 <ets>brangled</ets> confused, entangled, Scot. <ets>brangle</ets> to
 shake, menace; probably a variant of <ets>wrangle</ets>, confused with
-<ets>brawl</ets>. <root/95.> ]</ety> <def>A wrangle; a squabble; a noisy
+<ets>brawl</ets>. <root/95. ]</ety> <def>A wrangle; a squabble; a noisy
 contest or dispute.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -60852,7 +60854,7 @@ abruptly; to come or go away against resistance.</cd></cs><br/
 <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To break down</b></col>. <sd>(a)</sd> <cd>To come down by
+<cs><p><col><b>To break down</b></col>. <sd>(a)</sd> <cd>To come down by
 breaking; <as>as, the coach <ex>broke down</ex></as>.</cd> <sd>(b)</sd>
 <cd>To fail in any undertaking; to halt before successful completion;
 <as>as, the negotiations <ex>broke down</ex> due to irreconcilable
@@ -60918,8 +60920,8 @@ marry Clive, she should have <xex>broken with</xex> him
 altogether.<rdquo/ <au>Thackeray.</au> <sd>(b)</sd> <cd>To come to an
 explanation; to enter into conference; to speak.</cd>
 <mark>[Obs.]</mark> <ldquo/I will <xex>break with</xex> her and
-<xex>with</xex> her father.<rdquo/ <au>Shak.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<xex>with</xex> her father.<rdquo/ <au>Shak.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><-- p. 178 --></p>
 
@@ -70170,7 +70172,7 @@ century <sc>b. c.</sc>, and adopted as a religion by the greater part of
 the inhabitants of Central and Eastern Asia and the Indian Islands.
 Buddha's teaching is believed to have been atheistic; yet it was
 characterized by elevated humanity and morality. It presents release
-from existence (a beatific enfranchisement, <xex>Nirv<acirna</xex>) as
+from existence (a beatific enfranchisement, <xex>Nirv<acir/na</xex>) as
 the greatest good. Buddhists believe in transmigration of souls through
 all phases and forms of life. Their number was estimated in 1881 at
 470,000,000.</def><br/
@@ -70565,9 +70567,7 @@ American fish.</def><br/
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any of several large fresh-water
 fishes of the family <fam>Catostomid<ae/</fam> (also called
-<membof>suckers</membof> see <a
-href="https://web.archive.org/web/20030224205241/http://www.state.ia.us:80/dnr/organiza/fwb/fish/iafish/sucker/suckerf.htm">Sucker
-family</a>), of the Mississippi valley. The red-mouthed or brown
+<membof>suckers</membof> see <a href="https://web.archive.org/web/20030224205241/http://www.state.ia.us:80/dnr/organiza/fwb/fish/iafish/sucker/suckerf.htm">Sucker family</a>), of the Mississippi valley. The red-mouthed or brown
 (<spn>Ictiobus bubalus</spn>), the <stype>big-mouthed
 buffalofish</stype> (<spn>Ictiobus cyrinellus</spn>, formerly called
 <spn>Bubalichthys urus</spn>), the <stype>black buffalofish</stype>
@@ -76935,14 +76935,14 @@ when he looketh not for him.</q> <rj><qau>Luke xii. 45,
 46.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>But if</b></col>, <cd>unless.</cd> <mark>[Obs.]</mark>
+<cs><p><col><b>But if</b></col>, <cd>unless.</cd> <mark>[Obs.]</mark>
 <au>Chaucer.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>But this I read, that <qex>but if</qex> remedy<br/
 Thou her afford, full shortly I her dead shall see.</q>
-<rj><qau>Spenser.</qau></rj></cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Spenser.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- <er>But</er>, <er>However</er>,
 <er>Still</er>.</syn> <usage> These conjunctions mark

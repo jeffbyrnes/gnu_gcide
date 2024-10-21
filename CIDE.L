@@ -3917,7 +3917,7 @@ Stock Exchange, one who ignorantly speculates and is
 victimized.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Lamb of God</b></col>, <col><b>The
+<cs><p><mcol><col><b>Lamb of God</b></col>, <col><b>The
 Lamb</b></col></mcol> <fld>(Script.)</fld>, <cd>the Jesus Christ, in
 allusion to the paschal lamb.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -3938,8 +3938,8 @@ grooves.</cd> <au>Knight.</au> -- <col><b>Lamb's wool</b></col>.
 <sd>(a)</sd> <cd>The wool of a lamb.</cd> <sd>(b)</sd> <cd>Ale mixed
 with the pulp of roasted apples; -- probably from the resemblance of the
 pulp of roasted apples to lamb's wool.</cd> <mark>[Obs.]</mark>
-<au>Goldsmith.</au></cs><br/
-[<source>1913 Webster</source>]</p>
+<au>Goldsmith.</au><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Lamb</ent><br/
 <hw>Lamb</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p.
@@ -10751,7 +10751,7 @@ crowned.</q> <rj><qau>Dryden.</qau></rj><br/
 <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To laugh at</b></col>, <cd>to make an object of laughter
+<cs><p><col><b>To laugh at</b></col>, <cd>to make an object of laughter
 or ridicule; to make fun of; to deride.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -10768,8 +10768,8 @@ influence; to laugh aloud.</cd> -- <mcol><col><b>To laugh out of the
 other corner of the mouth</b></col> <it>or</it> <col><b>To laugh out of
 the other side of the mouth</b></col></mcol>, <cd>to weep or cry; to
 feel regret, vexation, or disappointment after hilarity or
-exaltation.</cd> <mark>[Slang]</mark></cs><br/
-[<source>1913 Webster</source>]</p>
+exaltation.</cd> <mark>[Slang]</mark><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Laugh</ent><br/
 <hw>Laugh</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To affect or influence
@@ -11921,7 +11921,7 @@ litigation; <as>as, to go <ex>law</ex></as>.</def><br/
 <er>Wager</er>.</see><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Avogadro's law</b></col> <fld>(Chem.)</fld>, <cd>a
+<cs><p><col><b>Avogadro's law</b></col> <fld>(Chem.)</fld>, <cd>a
 fundamental conception, according to which, under similar conditions of
 temperature and pressure, all gases and vapors contain in the same
 volume the same number of ultimate molecules; -- so named after
@@ -11929,7 +11929,7 @@ volume the same number of ultimate molecules; -- so named after
 <altname>Amp<egrave/re's law</altname>.</cd> -- <col><b>Bode's
 law</b></col> <fld>(Astron.)</fld>, <cd>an approximative empirical
 expression of the distances of the planets from the sun, as follows: --
-</p>
+</cd></p>
 
 <p><table><pre>
 <row>Mer. Ven. Earth. Mars.  Aste.  Jup.  Sat.  Uran.   Nep.</row>
@@ -11940,7 +11940,7 @@ expression of the distances of the planets from the sun, as follows: --
 <row> 5.9  7.3  10    15.2   27.4   52    95.4   192   300</row>
 </pre></table></p>
 
-<p>where each distance (line third) is the sum of 4 and a multiple of 3
+<p><cd>where each distance (line third) is the sum of 4 and a multiple of 3
 by the series 0, 1, 2, 4, 8, etc., the true distances being given in the
 lower line.</cd> -- <col><b>Boyle's law</b></col> <fld>(Physics)</fld>,
 <cd>an expression of the fact, that when an elastic fluid is subjected
@@ -12062,7 +12062,7 @@ sue or prosecute some one.</cd> -- <mcol><col><b>To take the law
 of</b></col>, <it>or</it> <col><b>To have the law of</b></col></mcol>,
 <cd>to bring the law to bear upon; <as>as, <ex>to take the law of</ex>
 one's neighbor</as>.</cd> <au>Addison.</au> -- <col><b>Wager of
-law</b></col>. <cd>See under <er>Wager</er>.</cd></cs></p>
+law</b></col>. <cd>See under <er>Wager</er>.</cd></p></cs>
 
 <p><syn><b>Syn.</b> -- Justice; equity.</syn> <usage> -- <er>Law</er>,
 <er>Statute</er>, <er>Common law</er>, <er>Regulation</er>,
@@ -12660,7 +12660,7 @@ arrange (pages) for a form upon the imposing stone.</def> <sd>(b)</sd>
 <def>To place (new type) properly in the cases.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To lay asleep</b></col>, <cd>to put sleep; to make
+<cs><p><col><b>To lay asleep</b></col>, <cd>to put sleep; to make
 unobservant or careless.</cd> <au>Bacon.</au> -- <col><b>To lay
 bare</b></col>, <cd>to make bare; to strip.</cd><br/
 [<source>1913 Webster</source>]</p>
@@ -12738,8 +12738,8 @@ before.</cd> <au>Hos. xi. 4.</au> -- <col><b>To lay up</b></col>.
 retire from active service, as a ship.</cd> -- <col><b>To lay wait
 for</b></col>, <cd>to lie in ambush for.</cd> -- <col><b>To lay
 waste</b></col>, <cd>to destroy; to make desolate; <as>as, <ex>to lay
-waste</ex> the land</as>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+waste</ex> the land</as>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- See <er>Put</er>, <pos>v. t.</pos>, and the Note
 under 4th <er>Lie</er>.</syn><br/
@@ -17205,7 +17205,7 @@ two houses after he has refused his sanction and assigned his
 objections.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>The legislatures of some of the more important states having
+<note><p>The legislatures of some of the more important states having
 constitutional government are as follows, the general name (or a
 translation of it) of the legislative body collectively being given
 under the heading <xex>legislature</xex>, <xex>or parliament</xex>:</p>
@@ -17257,8 +17257,8 @@ necessary to a decision.</p>
 
 <p><sect/ While theoretically general, the suffrage is so classified as
 often practically to disfranchise those who are not property holders.
-</note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
+<br/
+[<source>Webster 1913 Suppl.</source>]</p></note>
 
 <p><ent>Legist</ent><br/
 <hw>Le"gist</hw> <pr>(l<emac/"j<icr/st)</pr>, <pos>n.</pos> <ety>[F.
@@ -20260,7 +20260,7 @@ Telegraph Company <altname>day lettergrams</altname>, <it>or</it>
 <altname>night lettergrams</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>Dead letter</b></col>, <col><b>Drop
+<cs><p><mcol><col><b>Dead letter</b></col>, <col><b>Drop
 letter</b></col></mcol>, <cd>etc. See under <er>Dead</er>,
 <er>Drop</er>, etc.</cd> -- <col><b>Letter book</b></col>, <cd>a book in
 which copies of letters are kept.</cd> -- <col><b>Letter box</b></col>,
@@ -20313,8 +20313,8 @@ executor after probate of a will, authorizing him to act as
 executor.</cd> -- <col><b>Letter writer</b></col>. <sd>(a)</sd> <cd>One
 who writes letters.</cd> <sd>(b)</sd> <cd>A machine for copying
 letters.</cd> <sd>(c)</sd> <cd>A book giving directions and forms for
-the writing of letters.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+the writing of letters.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Letter</ent><br/
 <hw>Let"ter</hw> <pr>(l<ecr/t"t<etil/r)</pr>, <pos>v. t.</pos>
@@ -24017,7 +24017,7 @@ remember, in all such cases, that <xex>laid</xex> is the preterit of
 <xex>lay</xex>, and not of <xex>lie</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To lie along the shore</b></col> <fld>(Naut.)</fld>,
+<cs><p><col><b>To lie along the shore</b></col> <fld>(Naut.)</fld>,
 <cd>to coast, keeping land in sight.</cd> -- <col><b>To lie at the door
 of</b></col>, <cd>to be imputable to; as, the sin, blame, etc.,
 <xex>lies at your door</xex>.</cd> -- <col><b>To lie at the
@@ -24063,8 +24063,8 @@ subject to; to suffer; to be oppressed by.</cd> -- <col><b>To lie
 with</b></col>. <sd>(a)</sd> <cd>To lodge or sleep with.</cd>
 <sd>(b)</sd> <cd>To have sexual intercourse with.</cd> <sd>(c)</sd>
 <cd>To belong to; <as>as, it <ex>lies with</ex> you to make
-amends</as>.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+amends</as>.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><-- p. 850 pr=VMG --></p>
 
@@ -25398,7 +25398,7 @@ which resembles physical light in any respect, as illuminating,
 benefiting, enlightening, or enlivening mankind.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Ancient lights</b></col> <fld>(Law)</fld>,
+<cs><p><mcol><col><b>Ancient lights</b></col> <fld>(Law)</fld>,
 <col><b>Calcium light</b></col>, <col><b>Flash light</b></col>,
 etc.</mcol> <cd>See under <er>Ancient</er>, <er>Calcium</er>, etc.</cd>
 -- <col><b>Light ball</b></col> <fld>(Mil.)</fld>, <cd>a ball of
@@ -25431,8 +25431,8 @@ understand (sometimes used ironically, said of a person who professes to
 change his opinion after he has been convinced that it will be in his
 own interest if the facts are different from his initial beliefs) --> --
 <col><b>To stand in one's own light</b></col>, <cd>to take a position
-which is injurious to one's own interest.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+which is injurious to one's own interest.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Light</ent><br/
 <hw>Light</hw> <pr>(l<imac/t)</pr>, <pos>a.</pos> <ety>[AS.
@@ -27944,14 +27944,14 @@ in Ireland, the refrain of which contains the place name
 sometimes risq<eacute/ poem of five anapestic lines, of which lines 1,
 2, and 5 are of three feet, and rhyme, and lines 3 and 4 are of two
 feet, and rhyme.</def> <note>It often begins with "There once was a . .
-." or "There was a . . ."; as --</p>
+." or "There was a . . ."; as --</note></p>
 
 <p><q>There was a young lady, Amanda,<br/
 Whose <it>Ballades Lyriques</it> were quite <it>fin de</it><br/
 <it>Si<egrave/cle</it>, I deem<br/
 But her <it>Journal Intime</it><br/
 Was what sent her papa to Uganda.</q><br/
-</note><br/
+<br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Limestone</ent><br/
@@ -39582,7 +39582,7 @@ anticipate.</def><br/
 <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To look about</b></col>, <cd>to look on all sides, or in
+<cs><p><col><b>To look about</b></col>, <cd>to look on all sides, or in
 different directions.</cd> -- <col><b>To look about one</b></col>,
 <cd>to be on the watch; to be vigilant; to be circumspect or
 guarded.</cd> -- <col><b>To look after</b></col>. <sd>(a)</sd> <cd>To
@@ -39660,8 +39660,8 @@ receiving something; to expect to receive from; as, the creditor may
 me, and be ye saved.<rdquo/ <au>Is. xlv. 22.</au> -- <col><b>To look
 up</b></col>, <cd>to search for or find out by looking; as, <xex>to look
 up</xex> the items of an account.</cd> -- <col><b>To look up
-to</b></col>, <cd>to respect; to regard with deference.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+to</b></col>, <cd>to respect; to regard with deference.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Look</ent><br/
 <hw>Look</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To look at; to turn the
@@ -42515,7 +42515,7 @@ compounds, in most of which the meaning is very obvious; as,
 etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>A labor of love</b></col>, <cd>a labor undertaken on
+<cs><p><col><b>A labor of love</b></col>, <cd>a labor undertaken on
 account of regard for some person, or through pleasure in the work
 itself, without expectation of reward.</cd> -- <col><b>Free
 love</b></col>, <cd>the doctrine or practice of consorting with one of
@@ -42586,8 +42586,8 @@ affection for; to woo.</cd> <ldquo/If you will marry, <xex>make</xex>
 your <xex>loves to</xex> me.<rdquo/ <au>Shak.</au> -- <col><b>To play
 for love</b></col>, <cd>to play a game, as at cards, without
 stakes.</cd> <ldquo/A game at piquet <xex>for love</xex>.<rdquo/
-<au>Lamb.</au></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+<au>Lamb.</au><br/
+[<source>1913 Webster</source> <source>+PJC</source>]</p></cs>
 
 <p><syn><b>Syn.</b> -- Affection; friendship; kindness; tenderness;
 fondness; delight.</syn><br/
@@ -45531,7 +45531,7 @@ Plowman.</au> <ldquo/ This <xex>lump</xex> of clay.<rdquo/
 breech end of a gun barrel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In the lump</b></col>, <col><b>In a lump</b></col>,
+<cs><p><col><b>In the lump</b></col>, <col><b>In a lump</b></col>,
 <cd>the whole together; in gross.</cd><br/
 [<source>1913 Webster</source>]</p>
 
@@ -45546,8 +45546,8 @@ damages</as>.</cd> <sd>(b)</sd> <cd>a single sum paid once in
 satisfaction of a claim, as contrasted with the alternate choice of
 several payments over a period of time; -- sometimes allowed, e.g., as
 an alternative to periodical pension payments for a
-lifetime.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
+lifetime.</cd><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Lump</ent><br/
 <hw>Lump</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos>
@@ -46383,7 +46383,7 @@ adversary has been left in the <xex>lurch</xex>.</def><br/
 <rj><qau>Walpole.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To leave one in the lurch</b></col>. <sd>(a)</sd> <cd>In
+<cs><p><col><b>To leave one in the lurch</b></col>. <sd>(a)</sd> <cd>In
 the game of cribbage, to leave one's adversary so far behind that the
 game is won before he has scored thirty-one.</cd> <sd>(b)</sd> <cd>To
 leave one behind; hence, to abandon, or fail to stand by, a person in a
@@ -46392,8 +46392,8 @@ difficulty.</cd> <au>Denham.</au><br/
 
 <p><q>But though thou'rt of a different church,<br/
 I will not <qex>leave thee in the lurch</qex>.</q>
-<rj><qau>Hudibras.</qau></rj> </cs><br/
-[<source>1913 Webster</source>]</p>
+<rj><qau>Hudibras.</qau></rj><br/
+[<source>1913 Webster</source>]</p></cs>
 
 <p><ent>Lurch</ent><br/
 <hw>Lurch</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To leave in the lurch;
@@ -46772,13 +46772,12 @@ p.</pos> <conjf>Lusted</conjf>; <pos>p. pr. & vb. n.</pos>
 <rj><au>Latimer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In earlier usage <xex>lust</xex> was impersonal.<br/
-[<source>1913 Webster</source>]</p>
+<note>
+<p><hand/ In earlier usage <xex>lust</xex> was impersonal.</p>
 
 <p><q>In the water vessel he it cast<br/
 When that him <qex>luste</qex>.</q> <rj><qau>Chaucer.</qau></rj>
-</note><br/
-[<source>1913 Webster</source>]</p>
+[<source>1913 Webster</source>]</p></note>
 
 <p><sn>2.</sn> <def>To have an eager, passionate, and especially an
 inordinate or sinful desire, as for the gratification of the sexual
