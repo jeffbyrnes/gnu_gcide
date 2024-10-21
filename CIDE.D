@@ -38007,7 +38007,8 @@ poems</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>His <qex>diction</qex> blazes up into a sudden explosion of
-prophetic grandeur.</q> <rj><qau>De Quincey.</qau></rj></p>
+prophetic grandeur.</q> <rj><qau>De Quincey.</qau></rj><br/
+[<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- <er>Diction</er>, <er>Style</er>,
 <er>Phraseology</er>.</syn> <usage><xex>Style</xex> relates both to
