@@ -63,16 +63,3 @@ VRX ::= [[:digit:]]+(\.[[:digit:]]+)+
 version_update:
 	sed -i -r -e '1s/(, version[[:space:]]+)$(VRX)$$/\1$(VERSION)/' INFO
 	sed -i -r -e '1,/^\*/s/(Version[[:space:]]+)$(VRX)[[:space:]]\([^)]+\)/\1$(VERSION) ('$$(date +%Y-%m-%d)')/' README
-
-CIDE.%: FORCE
-	~/src/dico/modules/gcide/tests/degcide $@ 2>&1 >/dev/null | \
-            ~/src/dico/modules/gcide/tests/gcideloc >&2;
-FORCE:
-
-checkwf:
-	-for file in $(CORPUS); \
-	do \
-           ~/src/dico/modules/gcide/tests/degcide $$file 2>&1 >/dev/null | \
-            ~/src/dico/modules/gcide/tests/gcideloc >&2; \
-	done
-
